@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.tnum.zero" format="2">
+  <advance width="480"/>
+  <outline>
+    <contour>
+      <point x="25" y="120" type="line"/>
+      <point x="145" y="0" type="line"/>
+      <point x="335" y="0" type="line"/>
+      <point x="455" y="120" type="line"/>
+      <point x="455" y="580" type="line"/>
+      <point x="335" y="700" type="line"/>
+      <point x="145" y="700" type="line"/>
+      <point x="25" y="580" type="line"/>
+    </contour>
+    <contour>
+      <point x="205" y="510" type="line"/>
+      <point x="275" y="510" type="line"/>
+      <point x="275" y="190" type="line"/>
+      <point x="205" y="190" type="line"/>
+    </contour>
+    <contour>
+      <point x="120" y="200" type="line"/>
+      <point x="155" y="170" type="line"/>
+      <point x="360" y="500" type="line"/>
+      <point x="325" y="530" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="partialdiff" format="2">
+  <advance width="360"/>
+  <unicode hex="2202"/>
+  <outline>
+    <contour>
+      <point x="240" y="0" type="line"/>
+      <point x="320" y="80" type="line"/>
+      <point x="320" y="620" type="line"/>
+      <point x="240" y="700" type="line"/>
+      <point x="60" y="700" type="line"/>
+      <point x="60" y="620" type="line"/>
+      <point x="230" y="620" type="line"/>
+      <point x="230" y="460" type="line"/>
+      <point x="110" y="460" type="line"/>
+      <point x="40" y="390" type="line"/>
+      <point x="40" y="80" type="line"/>
+      <point x="120" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="230" y="80" type="line"/>
+      <point x="130" y="80" type="line"/>
+      <point x="130" y="380" type="line"/>
+      <point x="230" y="380" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>nine</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>nine</string>
+  </dict>
+  </lib>
+</glyph>

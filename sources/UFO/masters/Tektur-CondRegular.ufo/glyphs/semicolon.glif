@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon" format="2">
+  <advance width="150"/>
+  <unicode hex="003B"/>
+  <outline>
+    <component base="comma"/>
+    <component base="period" yOffset="360"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>period</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>period</string>
+  </dict>
+  </lib>
+</glyph>

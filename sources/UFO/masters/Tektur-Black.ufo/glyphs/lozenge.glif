@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lozenge" format="2">
+  <advance width="640"/>
+  <unicode hex="25CA"/>
+  <outline>
+    <contour>
+      <point x="309" y="40" type="line"/>
+      <point x="218" y="320" type="line"/>
+      <point x="305" y="600" type="line"/>
+      <point x="331" y="600" type="line"/>
+      <point x="422" y="320" type="line"/>
+      <point x="335" y="40" type="line"/>
+    </contour>
+    <contour>
+      <point x="199" y="-140" type="line"/>
+      <point x="441" y="-140" type="line"/>
+      <point x="635" y="320" type="line"/>
+      <point x="441" y="780" type="line"/>
+      <point x="199" y="780" type="line"/>
+      <point x="5" y="320" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  </dict>
+  </lib>
+</glyph>

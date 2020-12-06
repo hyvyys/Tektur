@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iogonek.dotless" format="2">
+  <advance width="280"/>
+  <anchor x="140" y="0" name="bottom"/>
+  <anchor x="140" y="560" name="top"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="uni0328" xOffset="140"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessi+uni0328</string>
+  </dict>
+  </lib>
+</glyph>

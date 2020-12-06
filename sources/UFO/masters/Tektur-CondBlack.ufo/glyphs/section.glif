@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="section" format="2">
+  <advance width="570"/>
+  <unicode hex="00A7"/>
+  <outline>
+    <contour>
+      <point x="55" y="-100" type="line"/>
+      <point x="403" y="-100" type="line"/>
+      <point x="530" y="27" type="line"/>
+      <point x="530" y="380" type="line"/>
+      <point x="440" y="470" type="line"/>
+      <point x="250" y="470" type="line"/>
+      <point x="250" y="540" type="line"/>
+      <point x="510" y="540" type="line"/>
+      <point x="510" y="700" type="line"/>
+      <point x="170" y="700" type="line"/>
+      <point x="40" y="570" type="line"/>
+      <point x="40" y="220" type="line"/>
+      <point x="130" y="130" type="line"/>
+      <point x="320" y="130" type="line"/>
+      <point x="320" y="60" type="line"/>
+      <point x="55" y="60" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="250" type="line"/>
+      <point x="250" y="350" type="line"/>
+      <point x="320" y="350" type="line"/>
+      <point x="320" y="250" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  </dict>
+  </lib>
+</glyph>

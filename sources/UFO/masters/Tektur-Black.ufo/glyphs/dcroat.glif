@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcroat" format="2">
+  <advance width="620"/>
+  <unicode hex="0111"/>
+  <anchor x="360" y="0" name="bottom"/>
+  <anchor x="360" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="580" y="700" type="line"/>
+      <point x="360" y="700" type="line"/>
+      <point x="360" y="510" type="line"/>
+      <point x="180" y="510" type="line"/>
+      <point x="30" y="360" type="line"/>
+      <point x="30" y="150" type="line"/>
+      <point x="180" y="0" type="line"/>
+      <point x="580" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="180" type="line"/>
+      <point x="250" y="330" type="line"/>
+      <point x="360" y="330" type="line"/>
+      <point x="360" y="180" type="line"/>
+    </contour>
+    <contour>
+      <point x="175" y="564" type="line"/>
+      <point x="615" y="564" type="line"/>
+      <point x="615" y="640" type="line"/>
+      <point x="175" y="640" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="A" format="2">
+  <advance width="650"/>
+  <unicode hex="0041"/>
+  <anchor x="325" y="0" name="bottom"/>
+  <anchor x="585" y="0" name="ogonek"/>
+  <anchor x="325" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="20" y="0" type="line"/>
+      <point x="112" y="0" type="line"/>
+      <point x="158" y="180" type="line"/>
+      <point x="492" y="180" type="line"/>
+      <point x="538" y="0" type="line"/>
+      <point x="630" y="0" type="line"/>
+      <point x="448" y="700" type="line"/>
+      <point x="202" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="178" y="258" type="line"/>
+      <point x="271" y="622" type="line"/>
+      <point x="379" y="622" type="line"/>
+      <point x="472" y="258" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>V</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  </dict>
+  </lib>
+</glyph>

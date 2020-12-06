@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name=".notdef" format="2">
+  <advance width="580"/>
+  <outline>
+    <contour>
+      <point x="30" y="0" type="line"/>
+      <point x="550" y="0" type="line"/>
+      <point x="550" y="700" type="line"/>
+      <point x="30" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="290" y="413" type="line"/>
+      <point x="145" y="620" type="line"/>
+      <point x="435" y="620" type="line"/>
+    </contour>
+    <contour>
+      <point x="120" y="170" type="line"/>
+      <point x="120" y="531" type="line"/>
+      <point x="246" y="350" type="line"/>
+    </contour>
+    <contour>
+      <point x="460" y="170" type="line"/>
+      <point x="334" y="350" type="line"/>
+      <point x="460" y="531" type="line"/>
+    </contour>
+    <contour>
+      <point x="145" y="80" type="line"/>
+      <point x="290" y="288" type="line"/>
+      <point x="435" y="80" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  </dict>
+  </lib>
+</glyph>

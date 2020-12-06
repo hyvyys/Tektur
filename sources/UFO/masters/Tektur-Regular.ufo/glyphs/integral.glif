@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="integral" format="2">
+  <advance width="380"/>
+  <unicode hex="222B"/>
+  <outline>
+    <contour>
+      <point x="0" y="-140" type="line"/>
+      <point x="210" y="-140" type="line"/>
+      <point x="300" y="-50" type="line"/>
+      <point x="150" y="620" type="line"/>
+      <point x="360" y="620" type="line"/>
+      <point x="360" y="700" type="line"/>
+      <point x="150" y="700" type="line"/>
+      <point x="60" y="610" type="line"/>
+      <point x="210" y="-60" type="line"/>
+      <point x="0" y="-60" type="line"/>
+    </contour>
+  </outline>
+</glyph>

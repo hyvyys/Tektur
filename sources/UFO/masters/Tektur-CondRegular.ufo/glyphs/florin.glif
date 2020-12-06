@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="florin" format="2">
+  <advance width="240"/>
+  <unicode hex="0192"/>
+  <outline>
+    <contour>
+      <point x="-30" y="-140" type="line"/>
+      <point x="40" y="-140" type="line"/>
+      <point x="130" y="-50" type="line"/>
+      <point x="130" y="310" type="line"/>
+      <point x="220" y="310" type="line"/>
+      <point x="220" y="390" type="line"/>
+      <point x="130" y="390" type="line"/>
+      <point x="130" y="620" type="line"/>
+      <point x="220" y="620" type="line"/>
+      <point x="220" y="700" type="line"/>
+      <point x="130" y="700" type="line"/>
+      <point x="40" y="610" type="line"/>
+      <point x="40" y="-60" type="line"/>
+      <point x="-30" y="-60" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>f</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>f</string>
+  </dict>
+  </lib>
+</glyph>

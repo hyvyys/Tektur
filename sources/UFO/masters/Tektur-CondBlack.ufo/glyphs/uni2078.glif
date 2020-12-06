@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2078" format="2">
+  <advance width="448"/>
+  <unicode hex="2078"/>
+  <outline>
+    <contour>
+      <point x="198" y="543" type="line"/>
+      <point x="198" y="600" type="line"/>
+      <point x="250" y="600" type="line"/>
+      <point x="250" y="543" type="line"/>
+    </contour>
+    <contour>
+      <point x="185" y="400" type="line"/>
+      <point x="185" y="463" type="line"/>
+      <point x="263" y="463" type="line"/>
+      <point x="263" y="400" type="line"/>
+    </contour>
+    <contour>
+      <point x="96" y="300" type="line"/>
+      <point x="352" y="300" type="line"/>
+      <point x="428" y="376" type="line"/>
+      <point x="428" y="463" type="line"/>
+      <point x="369" y="509" type="line"/>
+      <point x="414" y="545" type="line"/>
+      <point x="414" y="624" type="line"/>
+      <point x="338" y="700" type="line"/>
+      <point x="110" y="700" type="line"/>
+      <point x="34" y="624" type="line"/>
+      <point x="34" y="545" type="line"/>
+      <point x="79" y="509" type="line"/>
+      <point x="20" y="463" type="line"/>
+      <point x="20" y="376" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dollar" format="2">
+  <advance width="660"/>
+  <unicode hex="0024"/>
+  <outline>
+    <contour>
+      <point x="65" y="50" type="line"/>
+      <point x="275" y="50" type="line"/>
+      <point x="275" y="-60" type="line"/>
+      <point x="365" y="-60" type="line"/>
+      <point x="365" y="50" type="line"/>
+      <point x="513" y="50" type="line"/>
+      <point x="600" y="137" type="line"/>
+      <point x="600" y="395" type="line"/>
+      <point x="150" y="395" type="line"/>
+      <point x="150" y="570" type="line"/>
+      <point x="580" y="570" type="line"/>
+      <point x="580" y="650" type="line"/>
+      <point x="395" y="650" type="line"/>
+      <point x="395" y="760" type="line"/>
+      <point x="305" y="760" type="line"/>
+      <point x="305" y="650" type="line"/>
+      <point x="150" y="650" type="line"/>
+      <point x="60" y="560" type="line"/>
+      <point x="60" y="315" type="line"/>
+      <point x="510" y="315" type="line"/>
+      <point x="510" y="130" type="line"/>
+      <point x="65" y="130" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>S</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>S</string>
+  </dict>
+  </lib>
+</glyph>

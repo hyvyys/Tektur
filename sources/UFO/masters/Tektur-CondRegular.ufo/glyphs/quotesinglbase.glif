@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotesinglbase" format="2">
+  <advance width="150"/>
+  <unicode hex="201A"/>
+  <outline>
+    <component base="comma"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>comma</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Thorn" format="2">
+  <advance width="640"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="60" y="0" type="line"/>
+      <point x="150" y="0" type="line"/>
+      <point x="150" y="90" type="line"/>
+      <point x="520" y="90" type="line"/>
+      <point x="600" y="170" type="line"/>
+      <point x="600" y="540" type="line"/>
+      <point x="520" y="620" type="line"/>
+      <point x="150" y="620" type="line"/>
+      <point x="150" y="700" type="line"/>
+      <point x="60" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="150" y="170" type="line"/>
+      <point x="150" y="540" type="line"/>
+      <point x="510" y="540" type="line"/>
+      <point x="510" y="170" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>P</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>P</string>
+  </dict>
+  </lib>
+</glyph>

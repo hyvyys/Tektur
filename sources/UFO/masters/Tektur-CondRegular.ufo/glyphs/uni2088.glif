@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2088" format="2">
+  <advance width="306"/>
+  <unicode hex="2088"/>
+  <outline>
+    <component base="uni2078" yOffset="-400"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>=uni2078@,-100</string>
+  </dict>
+  </lib>
+</glyph>

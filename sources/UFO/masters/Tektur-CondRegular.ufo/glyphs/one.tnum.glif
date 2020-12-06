@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.tnum" format="2">
+  <advance width="480"/>
+  <outline>
+    <contour>
+      <point x="25" y="-4" type="line"/>
+      <point x="245" y="4" type="line"/>
+      <point x="455" y="-4" type="line"/>
+      <point x="455" y="76" type="line"/>
+      <point x="300" y="81" type="line"/>
+      <point x="300" y="700" type="line"/>
+      <point x="75" y="660" type="line"/>
+      <point x="75" y="585" type="line"/>
+      <point x="210" y="594" type="line"/>
+      <point x="210" y="81" type="line"/>
+      <point x="25" y="76" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>I</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>zero.tnum</string>
+  </dict>
+  </lib>
+</glyph>

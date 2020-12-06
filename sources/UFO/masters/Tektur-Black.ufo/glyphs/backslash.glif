@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="backslash" format="2">
+  <advance width="440"/>
+  <unicode hex="005C"/>
+  <outline>
+    <component base="slash" xScale="-1" xOffset="440"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>=slash@~,</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotright" format="2">
+  <advance width="690"/>
+  <unicode hex="00BB"/>
+  <outline>
+    <component base="guillemotleft" xScale="-1" yScale="-1" xOffset="690" yOffset="560"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>|guillemotleft</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|guillemotleft</string>
+  </dict>
+  </lib>
+</glyph>

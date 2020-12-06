@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="product" format="2">
+  <advance width="620"/>
+  <unicode hex="220F"/>
+  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="310" y="560" name="top"/>
+  <outline>
+    <contour>
+      <point x="60" y="0" type="line"/>
+      <point x="150" y="0" type="line"/>
+      <point x="150" y="620" type="line"/>
+      <point x="470" y="620" type="line"/>
+      <point x="470" y="0" type="line"/>
+      <point x="560" y="0" type="line"/>
+      <point x="560" y="700" type="line"/>
+      <point x="60" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  <key>com.fontlab.recipe</key>
+  <string>n</string>
+  </dict>
+  </lib>
+</glyph>

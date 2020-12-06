@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Euro" format="2">
+  <advance width="650"/>
+  <unicode hex="20AC"/>
+  <outline>
+    <contour>
+      <point x="110" y="80" type="line"/>
+      <point x="190" y="0" type="line"/>
+      <point x="620" y="0" type="line"/>
+      <point x="620" y="80" type="line"/>
+      <point x="200" y="80" type="line"/>
+      <point x="200" y="235" type="line"/>
+      <point x="450" y="235" type="line"/>
+      <point x="480" y="315" type="line"/>
+      <point x="200" y="315" type="line"/>
+      <point x="200" y="395" type="line"/>
+      <point x="510" y="395" type="line"/>
+      <point x="540" y="475" type="line"/>
+      <point x="200" y="475" type="line"/>
+      <point x="200" y="620" type="line"/>
+      <point x="610" y="620" type="line"/>
+      <point x="610" y="700" type="line"/>
+      <point x="190" y="700" type="line"/>
+      <point x="110" y="620" type="line"/>
+      <point x="110" y="475" type="line"/>
+      <point x="20" y="475" type="line"/>
+      <point x="20" y="395" type="line"/>
+      <point x="110" y="395" type="line"/>
+      <point x="110" y="315" type="line"/>
+      <point x="20" y="315" type="line"/>
+      <point x="20" y="235" type="line"/>
+      <point x="110" y="235" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>C</string>
+  </dict>
+  </lib>
+</glyph>

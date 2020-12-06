@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onesuperior" format="2">
+  <advance width="320"/>
+  <unicode hex="00B9"/>
+  <outline>
+    <contour>
+      <point x="43" y="298" type="line"/>
+      <point x="174" y="302" type="line"/>
+      <point x="305" y="298" type="line"/>
+      <point x="305" y="392" type="line"/>
+      <point x="265" y="395" type="line"/>
+      <point x="265" y="700" type="line"/>
+      <point x="43" y="677" type="line"/>
+      <point x="43" y="577" type="line"/>
+      <point x="85" y="582" type="line"/>
+      <point x="85" y="395" type="line"/>
+      <point x="43" y="392" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>I</string>
+  </dict>
+  </lib>
+</glyph>

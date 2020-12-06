@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threequarters" format="2">
+  <advance width="1170"/>
+  <unicode hex="00BE"/>
+  <outline>
+    <component base="threesuperior"/>
+    <component base="fraction" xOffset="460"/>
+    <component base="uni2074" xOffset="700" yOffset="-300"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>=threesuperior &amp; fraction &amp; uni2074@,-0</string>
+  </dict>
+  </lib>
+</glyph>

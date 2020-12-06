@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="p" format="2">
+  <advance width="560"/>
+  <unicode hex="0070"/>
+  <anchor x="250" y="-140" name="bottom"/>
+  <anchor x="270" y="560" name="top"/>
+  <outline>
+    <component base="b" yScale="-1" yOffset="560"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>b</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>b</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="daggerdbl" format="2">
+  <advance width="620"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="60" y="405" type="line"/>
+      <point x="265" y="405" type="line"/>
+      <point x="265" y="155" type="line"/>
+      <point x="60" y="155" type="line"/>
+      <point x="60" y="65" type="line"/>
+      <point x="265" y="65" type="line"/>
+      <point x="265" y="-140" type="line"/>
+      <point x="355" y="-140" type="line"/>
+      <point x="355" y="65" type="line"/>
+      <point x="560" y="65" type="line"/>
+      <point x="560" y="155" type="line"/>
+      <point x="355" y="155" type="line"/>
+      <point x="355" y="405" type="line"/>
+      <point x="560" y="405" type="line"/>
+      <point x="560" y="495" type="line"/>
+      <point x="355" y="495" type="line"/>
+      <point x="355" y="700" type="line"/>
+      <point x="265" y="700" type="line"/>
+      <point x="265" y="495" type="line"/>
+      <point x="60" y="495" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>t</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  </dict>
+  </lib>
+</glyph>

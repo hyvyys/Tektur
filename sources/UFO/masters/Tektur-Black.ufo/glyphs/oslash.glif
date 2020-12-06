@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslash" format="2">
+  <advance width="630"/>
+  <unicode hex="00F8"/>
+  <anchor x="315" y="0" name="bottom"/>
+  <anchor x="315" y="560" name="top"/>
+  <outline>
+    <component base="o" xOffset="20"/>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="115" y="0" type="line"/>
+      <point x="590" y="560" type="line"/>
+      <point x="515" y="560" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  </dict>
+  </lib>
+</glyph>

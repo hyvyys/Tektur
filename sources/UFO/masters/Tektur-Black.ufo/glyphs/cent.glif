@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cent" format="2">
+  <advance width="520"/>
+  <unicode hex="00A2"/>
+  <outline>
+    <contour>
+      <point x="30" y="200" type="line"/>
+      <point x="160" y="70" type="line"/>
+      <point x="220" y="70" type="line"/>
+      <point x="220" y="-40" type="line"/>
+      <point x="390" y="-40" type="line"/>
+      <point x="390" y="70" type="line"/>
+      <point x="500" y="70" type="line"/>
+      <point x="500" y="270" type="line"/>
+      <point x="250" y="270" type="line"/>
+      <point x="250" y="430" type="line"/>
+      <point x="500" y="430" type="line"/>
+      <point x="500" y="630" type="line"/>
+      <point x="390" y="630" type="line"/>
+      <point x="390" y="740" type="line"/>
+      <point x="220" y="740" type="line"/>
+      <point x="220" y="630" type="line"/>
+      <point x="160" y="630" type="line"/>
+      <point x="30" y="500" type="line"/>
+    </contour>
+  </outline>
+</glyph>

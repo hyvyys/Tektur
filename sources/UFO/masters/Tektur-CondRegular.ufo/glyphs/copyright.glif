@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="copyright" format="2">
+  <advance width="600"/>
+  <unicode hex="00A9"/>
+  <outline>
+    <contour>
+      <point x="190" y="140" type="line"/>
+      <point x="280" y="50" type="line"/>
+      <point x="410" y="50" type="line"/>
+      <point x="410" y="130" type="line"/>
+      <point x="280" y="130" type="line"/>
+      <point x="280" y="510" type="line"/>
+      <point x="410" y="510" type="line"/>
+      <point x="410" y="590" type="line"/>
+      <point x="280" y="590" type="line"/>
+      <point x="190" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="50" y="-20" type="line"/>
+      <point x="130" y="-100" type="line"/>
+      <point x="470" y="-100" type="line"/>
+      <point x="550" y="-20" type="line"/>
+      <point x="550" y="660" type="line"/>
+      <point x="470" y="740" type="line"/>
+      <point x="130" y="740" type="line"/>
+      <point x="50" y="660" type="line"/>
+    </contour>
+    <contour>
+      <point x="140" y="660" type="line"/>
+      <point x="460" y="660" type="line"/>
+      <point x="460" y="-20" type="line"/>
+      <point x="140" y="-20" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  </dict>
+  </lib>
+</glyph>

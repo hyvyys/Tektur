@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2077" format="2">
+  <advance width="300"/>
+  <unicode hex="2077"/>
+  <outline>
+    <contour>
+      <point x="59" y="300" type="line"/>
+      <point x="149" y="300" type="line"/>
+      <point x="269" y="537" type="line"/>
+      <point x="269" y="700" type="line"/>
+      <point x="31" y="700" type="line"/>
+      <point x="31" y="530" type="line"/>
+      <point x="109" y="530" type="line"/>
+      <point x="109" y="630" type="line"/>
+      <point x="189" y="630" type="line"/>
+      <point x="189" y="548" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  </dict>
+  </lib>
+</glyph>

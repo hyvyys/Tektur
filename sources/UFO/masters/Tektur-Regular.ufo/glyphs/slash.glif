@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slash" format="2">
+  <advance width="440"/>
+  <unicode hex="002F"/>
+  <outline>
+    <contour>
+      <point x="10" y="0" type="line"/>
+      <point x="103" y="0" type="line"/>
+      <point x="430" y="700" type="line"/>
+      <point x="337" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="six.tnum" format="2">
+  <advance width="650"/>
+  <outline>
+    <contour>
+      <point x="125" y="0" type="line"/>
+      <point x="495" y="0" type="line"/>
+      <point x="575" y="80" type="line"/>
+      <point x="575" y="370" type="line"/>
+      <point x="505" y="440" type="line"/>
+      <point x="135" y="440" type="line"/>
+      <point x="135" y="620" type="line"/>
+      <point x="535" y="620" type="line"/>
+      <point x="535" y="700" type="line"/>
+      <point x="125" y="700" type="line"/>
+      <point x="45" y="620" type="line"/>
+      <point x="45" y="80" type="line"/>
+    </contour>
+    <contour>
+      <point x="135" y="80" type="line"/>
+      <point x="135" y="360" type="line"/>
+      <point x="485" y="360" type="line"/>
+      <point x="485" y="80" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>zero.tnum</string>
+  </dict>
+  </lib>
+</glyph>

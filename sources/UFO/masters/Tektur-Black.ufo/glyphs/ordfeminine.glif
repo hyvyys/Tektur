@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordfeminine" format="2">
+  <advance width="510"/>
+  <unicode hex="00AA"/>
+  <outline>
+    <contour>
+      <point x="30" y="350" type="line"/>
+      <point x="130" y="250" type="line"/>
+      <point x="470" y="250" type="line"/>
+      <point x="470" y="600" type="line"/>
+      <point x="370" y="700" type="line"/>
+      <point x="50" y="700" type="line"/>
+      <point x="50" y="560" type="line"/>
+      <point x="280" y="560" type="line"/>
+      <point x="280" y="520" type="line"/>
+      <point x="30" y="510" type="line"/>
+    </contour>
+    <contour>
+      <point x="220" y="430" type="line"/>
+      <point x="280" y="450" type="line"/>
+      <point x="280" y="380" type="line"/>
+      <point x="220" y="380" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>a</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>a</string>
+  </dict>
+  </lib>
+</glyph>

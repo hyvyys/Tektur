@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="perthousand" format="2">
+  <advance width="700"/>
+  <unicode hex="2030"/>
+  <outline>
+    <contour>
+      <point x="30" y="0" type="line"/>
+      <point x="129" y="0" type="line"/>
+      <point x="570" y="700" type="line"/>
+      <point x="471" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="380" y="0" type="line"/>
+      <point x="470" y="0" type="line"/>
+      <point x="470" y="120" type="line"/>
+      <point x="380" y="120" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="580" type="line"/>
+      <point x="130" y="580" type="line"/>
+      <point x="130" y="700" type="line"/>
+      <point x="40" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="580" y="0" type="line"/>
+      <point x="670" y="0" type="line"/>
+      <point x="670" y="120" type="line"/>
+      <point x="580" y="120" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>percent</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>percent</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Germandbls" format="2">
+  <advance width="360"/>
+  <unicode hex="1E9E"/>
+  <outline>
+    <contour>
+      <point x="305" y="700" type="line"/>
+      <point x="120" y="700" type="line"/>
+      <point x="40" y="620" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="130" y="620" type="line"/>
+      <point x="215" y="620" type="line"/>
+      <point x="215" y="415" type="line"/>
+      <point x="180" y="415" type="line"/>
+      <point x="180" y="335" type="line"/>
+      <point x="240" y="335" type="line"/>
+      <point x="240" y="80" type="line"/>
+      <point x="190" y="80" type="line"/>
+      <point x="190" y="0" type="line"/>
+      <point x="250" y="0" type="line"/>
+      <point x="330" y="80" type="line"/>
+      <point x="330" y="326" type="line"/>
+      <point x="253" y="386" type="line"/>
+      <point x="305" y="439" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>B</string>
+  </dict>
+  </lib>
+</glyph>

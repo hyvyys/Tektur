@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcaron" format="2">
+  <advance width="401"/>
+  <unicode hex="010F"/>
+  <anchor x="105" y="0" name="bottom"/>
+  <anchor x="105" y="700" name="top"/>
+  <outline>
+    <component base="d"/>
+    <component base="uni0315" xOffset="345"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>uni0315</string>
+  <key>com.fontlab.recipe</key>
+  <string>d_uni0315</string>
+  </dict>
+  </lib>
+</glyph>

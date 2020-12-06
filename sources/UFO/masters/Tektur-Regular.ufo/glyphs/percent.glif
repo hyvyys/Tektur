@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="percent" format="2">
+  <advance width="600"/>
+  <unicode hex="0025"/>
+  <outline>
+    <contour>
+      <point x="30" y="0" type="line"/>
+      <point x="129" y="0" type="line"/>
+      <point x="570" y="700" type="line"/>
+      <point x="471" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="470" y="0" type="line"/>
+      <point x="560" y="0" type="line"/>
+      <point x="560" y="120" type="line"/>
+      <point x="470" y="120" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="580" type="line"/>
+      <point x="130" y="580" type="line"/>
+      <point x="130" y="700" type="line"/>
+      <point x="40" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  </dict>
+  </lib>
+</glyph>

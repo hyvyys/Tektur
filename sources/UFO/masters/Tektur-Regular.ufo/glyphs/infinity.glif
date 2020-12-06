@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="infinity" format="2">
+  <advance width="840"/>
+  <unicode hex="221E"/>
+  <outline>
+    <contour>
+      <point x="356" y="190" type="line"/>
+      <point x="356" y="510" type="line"/>
+      <point x="145" y="510" type="line"/>
+      <point x="145" y="190" type="line"/>
+    </contour>
+    <contour>
+      <point x="695" y="170" type="line"/>
+      <point x="695" y="530" type="line"/>
+      <point x="444" y="530" type="line"/>
+      <point x="444" y="170" type="line"/>
+    </contour>
+    <contour>
+      <point x="785" y="170" type="line"/>
+      <point x="705" y="90" type="line"/>
+      <point x="469" y="90" type="line"/>
+      <point x="399" y="160" type="line"/>
+      <point x="349" y="110" type="line"/>
+      <point x="135" y="110" type="line"/>
+      <point x="55" y="190" type="line"/>
+      <point x="55" y="510" type="line"/>
+      <point x="135" y="590" type="line"/>
+      <point x="349" y="590" type="line"/>
+      <point x="399" y="540" type="line"/>
+      <point x="469" y="610" type="line"/>
+      <point x="705" y="610" type="line"/>
+      <point x="785" y="530" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>o</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>o</string>
+  </dict>
+  </lib>
+</glyph>

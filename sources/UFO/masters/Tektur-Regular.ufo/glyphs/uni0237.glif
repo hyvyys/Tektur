@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0237" format="2">
+  <advance width="210"/>
+  <unicode hex="0237"/>
+  <anchor x="105" y="560" name="top"/>
+  <outline>
+    <contour>
+      <point x="60" y="-160" type="line"/>
+      <point x="150" y="-160" type="line"/>
+      <point x="150" y="560" type="line"/>
+      <point x="60" y="560" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>dotlessi</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>dotlessi</string>
+  </dict>
+  </lib>
+</glyph>

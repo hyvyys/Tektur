@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hbar" format="2">
+  <advance width="650"/>
+  <unicode hex="0126"/>
+  <anchor x="325" y="0" name="bottom"/>
+  <anchor x="325" y="700" name="top"/>
+  <outline>
+    <component base="H"/>
+    <contour>
+      <point x="5" y="514" type="line"/>
+      <point x="645" y="514" type="line"/>
+      <point x="645" y="590" type="line"/>
+      <point x="5" y="590" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>H+uni0304</string>
+  </dict>
+  </lib>
+</glyph>

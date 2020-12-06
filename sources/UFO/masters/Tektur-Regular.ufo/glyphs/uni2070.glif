@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2070" format="2">
+  <advance width="500"/>
+  <unicode hex="2070"/>
+  <anchor x="250" y="0" name="bottom"/>
+  <anchor x="250" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="50" y="380" type="line"/>
+      <point x="130" y="300" type="line"/>
+      <point x="370" y="300" type="line"/>
+      <point x="450" y="380" type="line"/>
+      <point x="450" y="620" type="line"/>
+      <point x="370" y="700" type="line"/>
+      <point x="130" y="700" type="line"/>
+      <point x="50" y="620" type="line"/>
+    </contour>
+    <contour>
+      <point x="136" y="630" type="line"/>
+      <point x="364" y="630" type="line"/>
+      <point x="364" y="370" type="line"/>
+      <point x="136" y="370" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  </dict>
+  </lib>
+</glyph>

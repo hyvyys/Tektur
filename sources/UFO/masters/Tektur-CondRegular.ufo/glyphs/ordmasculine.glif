@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordmasculine" format="2">
+  <advance width="340"/>
+  <unicode hex="00BA"/>
+  <outline>
+    <contour>
+      <point x="35" y="330" type="line"/>
+      <point x="115" y="250" type="line"/>
+      <point x="225" y="250" type="line"/>
+      <point x="305" y="330" type="line"/>
+      <point x="305" y="620" type="line"/>
+      <point x="225" y="700" type="line"/>
+      <point x="115" y="700" type="line"/>
+      <point x="35" y="620" type="line"/>
+    </contour>
+    <contour>
+      <point x="121" y="326" type="line"/>
+      <point x="121" y="624" type="line"/>
+      <point x="219" y="624" type="line"/>
+      <point x="219" y="326" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>o</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>o</string>
+  </dict>
+  </lib>
+</glyph>

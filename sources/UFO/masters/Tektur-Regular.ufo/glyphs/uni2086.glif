@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2086" format="2">
+  <advance width="500"/>
+  <unicode hex="2086"/>
+  <outline>
+    <component base="uni2076" yOffset="-400"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>=uni2076@,-100</string>
+  </dict>
+  </lib>
+</glyph>

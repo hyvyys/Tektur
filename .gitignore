@@ -1,0 +1,7 @@
+env/
+/sources/FontLab/masters/
+/sources/FontLab/*.designspace
+/sources/FontLab/*.otf
+/sources/FontLab/*.ttf
+/sources/UFO/instances/
+*.backup/

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="j" format="2">
+  <advance width="210"/>
+  <unicode hex="006A"/>
+  <anchor x="105" y="710" name="top"/>
+  <outline>
+    <contour>
+      <point x="60" y="-160" type="line"/>
+      <point x="150" y="-160" type="line"/>
+      <point x="150" y="560" type="line"/>
+      <point x="60" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="630" type="line"/>
+      <point x="150" y="630" type="line"/>
+      <point x="150" y="710" type="line"/>
+      <point x="60" y="710" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessj+uni0307</string>
+  </dict>
+  </lib>
+</glyph>

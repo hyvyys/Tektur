@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="OE" format="2">
+  <advance width="920"/>
+  <unicode hex="0152"/>
+  <anchor x="460" y="0" name="bottom"/>
+  <anchor x="460" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="60" y="80" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="890" y="0" type="line"/>
+      <point x="890" y="80" type="line"/>
+      <point x="540" y="80" type="line"/>
+      <point x="540" y="320" type="line"/>
+      <point x="830" y="320" type="line"/>
+      <point x="830" y="400" type="line"/>
+      <point x="540" y="400" type="line"/>
+      <point x="540" y="620" type="line"/>
+      <point x="880" y="620" type="line"/>
+      <point x="880" y="700" type="line"/>
+      <point x="140" y="700" type="line"/>
+      <point x="60" y="620" type="line"/>
+    </contour>
+    <contour>
+      <point x="150" y="620" type="line"/>
+      <point x="450" y="620" type="line"/>
+      <point x="450" y="80" type="line"/>
+      <point x="150" y="80" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>E</string>
+  <key>com.fontlab.recipe</key>
+  <string>OE</string>
+  </dict>
+  </lib>
+</glyph>

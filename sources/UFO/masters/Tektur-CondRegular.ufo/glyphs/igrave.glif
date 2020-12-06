@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="igrave" format="2">
+  <advance width="170"/>
+  <unicode hex="00EC"/>
+  <anchor x="85" y="0" name="bottom"/>
+  <anchor x="85" y="560" name="top"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="gravecomb.i" xOffset="85"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>dotlessi+gravecomb.i</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oe" format="2">
+  <advance width="910"/>
+  <unicode hex="0153"/>
+  <anchor x="455" y="0" name="bottom"/>
+  <anchor x="455" y="560" name="top"/>
+  <outline>
+    <contour>
+      <point x="30" y="140" type="line"/>
+      <point x="170" y="0" type="line"/>
+      <point x="400" y="0" type="line"/>
+      <point x="460" y="60" type="line"/>
+      <point x="520" y="0" type="line"/>
+      <point x="860" y="0" type="line"/>
+      <point x="860" y="180" type="line"/>
+      <point x="570" y="180" type="line"/>
+      <point x="570" y="240" type="line"/>
+      <point x="880" y="240" type="line"/>
+      <point x="880" y="560" type="line"/>
+      <point x="520" y="560" type="line"/>
+      <point x="460" y="500" type="line"/>
+      <point x="400" y="560" type="line"/>
+      <point x="170" y="560" type="line"/>
+      <point x="30" y="420" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="170" type="line"/>
+      <point x="250" y="390" type="line"/>
+      <point x="350" y="390" type="line"/>
+      <point x="350" y="170" type="line"/>
+    </contour>
+    <contour>
+      <point x="570" y="330" type="line"/>
+      <point x="570" y="400" type="line"/>
+      <point x="700" y="400" type="line"/>
+      <point x="700" y="340" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>o</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>e</string>
+  </dict>
+  </lib>
+</glyph>

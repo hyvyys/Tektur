@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eight.tnum" format="2">
+  <advance width="650"/>
+  <outline>
+    <contour>
+      <point x="150" y="405" type="line"/>
+      <point x="150" y="620" type="line"/>
+      <point x="500" y="620" type="line"/>
+      <point x="500" y="405" type="line"/>
+    </contour>
+    <contour>
+      <point x="130" y="80" type="line"/>
+      <point x="130" y="325" type="line"/>
+      <point x="520" y="325" type="line"/>
+      <point x="520" y="80" type="line"/>
+    </contour>
+    <contour>
+      <point x="120" y="0" type="line"/>
+      <point x="530" y="0" type="line"/>
+      <point x="610" y="80" type="line"/>
+      <point x="610" y="306" type="line"/>
+      <point x="533" y="366" type="line"/>
+      <point x="590" y="409" type="line"/>
+      <point x="590" y="620" type="line"/>
+      <point x="510" y="700" type="line"/>
+      <point x="140" y="700" type="line"/>
+      <point x="60" y="620" type="line"/>
+      <point x="60" y="409" type="line"/>
+      <point x="117" y="366" type="line"/>
+      <point x="40" y="306" type="line"/>
+      <point x="40" y="80" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsWidth</key>
+  <string>zero.tnum</string>
+  </dict>
+  </lib>
+</glyph>

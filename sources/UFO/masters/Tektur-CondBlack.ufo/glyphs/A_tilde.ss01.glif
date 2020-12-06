@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Atilde.ss01" format="2">
+  <advance width="560"/>
+  <anchor x="280" y="0" name="bottom"/>
+  <anchor x="420" y="0" name="ogonek"/>
+  <anchor x="280" y="700" name="top"/>
+  <outline>
+    <component base="A.ss01"/>
+    <component base="tildecomb" xOffset="280" yOffset="140"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>A.ss01+tildecomb</string>
+  </dict>
+  </lib>
+</glyph>

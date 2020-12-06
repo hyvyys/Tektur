@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="currency" format="2">
+  <advance width="350"/>
+  <unicode hex="00A4"/>
+  <outline>
+    <contour>
+      <point x="20" y="240" type="line"/>
+      <point x="88" y="172" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="121" y="0" type="line"/>
+      <point x="165" y="160" type="line"/>
+      <point x="185" y="160" type="line"/>
+      <point x="229" y="0" type="line"/>
+      <point x="320" y="0" type="line"/>
+      <point x="262" y="172" type="line"/>
+      <point x="330" y="240" type="line"/>
+      <point x="330" y="460" type="line"/>
+      <point x="262" y="528" type="line"/>
+      <point x="320" y="700" type="line"/>
+      <point x="229" y="700" type="line"/>
+      <point x="185" y="540" type="line"/>
+      <point x="165" y="540" type="line"/>
+      <point x="121" y="700" type="line"/>
+      <point x="30" y="700" type="line"/>
+      <point x="88" y="528" type="line"/>
+      <point x="20" y="460" type="line"/>
+    </contour>
+    <contour>
+      <point x="110" y="230" type="line"/>
+      <point x="110" y="470" type="line"/>
+      <point x="240" y="470" type="line"/>
+      <point x="240" y="230" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  </dict>
+  </lib>
+</glyph>

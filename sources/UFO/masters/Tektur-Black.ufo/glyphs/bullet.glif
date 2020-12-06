@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bullet" format="2">
+  <advance width="500"/>
+  <unicode hex="2022"/>
+  <outline>
+    <contour>
+      <point x="30" y="200" type="line"/>
+      <point x="140" y="90" type="line"/>
+      <point x="360" y="90" type="line"/>
+      <point x="470" y="200" type="line"/>
+      <point x="470" y="400" type="line"/>
+      <point x="360" y="510" type="line"/>
+      <point x="140" y="510" type="line"/>
+      <point x="30" y="400" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="300"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  </dict>
+  </lib>
+</glyph>

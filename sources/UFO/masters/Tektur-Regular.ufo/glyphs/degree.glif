@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="degree" format="2">
+  <advance width="320"/>
+  <unicode hex="00B0"/>
+  <outline>
+    <contour>
+      <point x="20" y="490" type="line"/>
+      <point x="90" y="420" type="line"/>
+      <point x="230" y="420" type="line"/>
+      <point x="300" y="490" type="line"/>
+      <point x="300" y="630" type="line"/>
+      <point x="230" y="700" type="line"/>
+      <point x="90" y="700" type="line"/>
+      <point x="20" y="630" type="line"/>
+    </contour>
+    <contour>
+      <point x="98" y="490" type="line"/>
+      <point x="98" y="630" type="line"/>
+      <point x="223" y="630" type="line"/>
+      <point x="223" y="490" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  </dict>
+  </lib>
+</glyph>
