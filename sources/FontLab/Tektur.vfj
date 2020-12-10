@@ -261,7 +261,7 @@
       {
         "name":"CR",
         "unicode":"000d",
-        "lastModified":"2020-12-10 20:36:12",
+        "lastModified":"2020-12-10 21:47:37",
         "layers":[
           {
             "name":"Black",
@@ -297,7 +297,7 @@
       {
         "name":"space",
         "unicode":"0020",
-        "lastModified":"2020-12-10 21:13:50",
+        "lastModified":"2020-12-10 21:48:16",
         "layers":[
           {
             "name":"Black",
@@ -429,8 +429,7 @@
                 },
                 "transform":{
                   "xOffset":-40
-                },
-                "active":true
+                }
               }
             ],
             "anchors":[
@@ -5978,7 +5977,7 @@
       {
         "name":"a",
         "unicode":"0061",
-        "lastModified":"2020-12-10 21:05:25",
+        "lastModified":"2020-12-10 21:48:16",
         "layers":[
           {
             "name":"Black",
@@ -6219,7 +6218,7 @@
       {
         "name":"b",
         "unicode":"0062",
-        "lastModified":"2020-12-10 20:38:46",
+        "lastModified":"2020-12-10 21:47:37",
         "layers":[
           {
             "name":"Black",
@@ -6445,7 +6444,7 @@
       {
         "name":"c",
         "unicode":"0063",
-        "lastModified":"2020-12-10 20:31:10",
+        "lastModified":"2020-12-10 21:48:16",
         "layers":[
           {
             "name":"Black",
@@ -6473,8 +6472,7 @@
                       ]
                     }
                   ]
-                },
-                "active":true
+                }
               }
             ],
             "anchors":[
@@ -6636,7 +6634,7 @@
       {
         "name":"d",
         "unicode":"0064",
-        "lastModified":"2020-12-10 21:05:25",
+        "lastModified":"2020-12-10 21:48:16",
         "layers":[
           {
             "name":"Black",
@@ -6845,7 +6843,7 @@
       {
         "name":"e",
         "unicode":"0065",
-        "lastModified":"2020-12-10 21:05:25",
+        "lastModified":"2020-12-10 21:48:16",
         "layers":[
           {
             "name":"Black",
@@ -6933,8 +6931,8 @@
                       "nodes":[
                         "120 320",
                         "120 480",
-                        "420 480",
-                        "420 330"
+                        "424 480",
+                        "424 330"
                       ]
                     }
                   ]
@@ -7049,8 +7047,8 @@
                       "nodes":[
                         "140 280",
                         "140 480",
-                        "223 480",
-                        "223 286"
+                        "224 480",
+                        "224 286"
                       ]
                     }
                   ]
@@ -7086,7 +7084,7 @@
       {
         "name":"f",
         "unicode":"0066",
-        "lastModified":"2020-12-10 20:31:10",
+        "lastModified":"2020-12-10 21:48:16",
         "layers":[
           {
             "name":"Black",
@@ -7270,7 +7268,7 @@
       {
         "name":"g",
         "unicode":"0067",
-        "lastModified":"2020-12-10 20:31:10",
+        "lastModified":"2020-12-10 21:47:37",
         "layers":[
           {
             "name":"Black",
@@ -7498,7 +7496,7 @@
       {
         "name":"h",
         "unicode":"0068",
-        "lastModified":"2020-12-10 20:31:10",
+        "lastModified":"2020-12-10 21:47:48",
         "layers":[
           {
             "name":"Black",
@@ -7694,7 +7692,7 @@
       {
         "name":"i",
         "unicode":"0069",
-        "lastModified":"2020-12-10 21:08:58",
+        "lastModified":"2020-12-10 21:48:16",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -7879,7 +7877,7 @@
       {
         "name":"j",
         "unicode":"006a",
-        "lastModified":"2020-12-10 20:38:46",
+        "lastModified":"2020-12-10 21:47:59",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -8064,7 +8062,7 @@
       {
         "name":"k",
         "unicode":"006b",
-        "lastModified":"2020-12-10 21:08:58",
+        "lastModified":"2020-12-10 21:47:59",
         "layers":[
           {
             "name":"Black",
@@ -8085,9 +8083,9 @@
                         "382 0",
                         "630 0",
                         "490 301",
-                        "624 560",
-                        "379 560",
-                        "309 381",
+                        "620 560",
+                        "374 560",
+                        "311 381",
                         "270 381",
                         "270 700",
                         "50 700"
@@ -8108,7 +8106,7 @@
               },
               {
                 "name":"bottom",
-                "point":"310 0",
+                "point":"305 0",
                 "appearance":6
               }
             ],
@@ -8117,7 +8115,7 @@
           {
             "name":"Regular",
             "flags":0,
-            "advanceWidth":620,
+            "advanceWidth":600,
             "advanceHeight":700,
             "metricsLeft":"l",
             "elements":[
@@ -8129,13 +8127,13 @@
                         "50 0",
                         "140 0",
                         "140 251",
-                        "347 251",
-                        "498 0",
-                        "600 0",
-                        "415 302",
-                        "592 560",
-                        "488 560",
-                        "334 331",
+                        "327 251",
+                        "478 0",
+                        "580 0",
+                        "395 302",
+                        "571 560",
+                        "468 560",
+                        "318 331",
                         "140 331",
                         "140 700",
                         "50 700"
@@ -8156,7 +8154,7 @@
               },
               {
                 "name":"bottom",
-                "point":"330 0",
+                "point":"300 0",
                 "appearance":6
               }
             ],
@@ -8181,9 +8179,9 @@
                         "349 0",
                         "580 0",
                         "483 301",
-                        "572 560",
-                        "343 560",
-                        "299 381",
+                        "570 560",
+                        "342 560",
+                        "301 381",
                         "270 381",
                         "270 700",
                         "50 700"
@@ -8204,7 +8202,7 @@
               },
               {
                 "name":"bottom",
-                "point":"300 0",
+                "point":"285 0",
                 "appearance":6
               }
             ],
@@ -8252,7 +8250,7 @@
               },
               {
                 "name":"bottom",
-                "point":"180 0",
+                "point":"175 0",
                 "appearance":6
               }
             ],
@@ -8264,7 +8262,7 @@
       {
         "name":"l",
         "unicode":"006c",
-        "lastModified":"2020-12-10 20:31:10",
+        "lastModified":"2020-12-10 21:48:16",
         "layers":[
           {
             "name":"Black",
@@ -8434,7 +8432,7 @@
       {
         "name":"m",
         "unicode":"006d",
-        "lastModified":"2020-12-10 20:31:10",
+        "lastModified":"2020-12-10 21:48:16",
         "layers":[
           {
             "name":"Black",
@@ -8634,7 +8632,7 @@
       {
         "name":"n",
         "unicode":"006e",
-        "lastModified":"2020-12-10 20:31:10",
+        "lastModified":"2020-12-10 21:48:16",
         "layers":[
           {
             "name":"Black",
@@ -8814,7 +8812,7 @@
       {
         "name":"o",
         "unicode":"006f",
-        "lastModified":"2020-12-10 20:31:10",
+        "lastModified":"2020-12-10 21:48:16",
         "layers":[
           {
             "name":"Black",
@@ -9034,7 +9032,7 @@
       {
         "name":"p",
         "unicode":"0070",
-        "lastModified":"2020-12-10 21:08:58",
+        "lastModified":"2020-12-10 21:47:37",
         "layers":[
           {
             "name":"Black",
@@ -9165,7 +9163,7 @@
       {
         "name":"q",
         "unicode":"0071",
-        "lastModified":"2020-12-10 20:31:10",
+        "lastModified":"2020-12-10 21:47:37",
         "layers":[
           {
             "name":"Black",
@@ -9301,7 +9299,7 @@
       {
         "name":"r",
         "unicode":"0072",
-        "lastModified":"2020-12-10 20:31:10",
+        "lastModified":"2020-12-10 21:48:16",
         "layers":[
           {
             "name":"Black",
@@ -9474,7 +9472,7 @@
       {
         "name":"s",
         "unicode":"0073",
-        "lastModified":"2020-12-10 20:31:10",
+        "lastModified":"2020-12-10 21:48:16",
         "layers":[
           {
             "name":"Black",
@@ -9676,7 +9674,7 @@
       {
         "name":"t",
         "unicode":"0074",
-        "lastModified":"2020-12-10 20:31:10",
+        "lastModified":"2020-12-10 21:48:16",
         "layers":[
           {
             "name":"Black",
@@ -9872,7 +9870,7 @@
       {
         "name":"u",
         "unicode":"0075",
-        "lastModified":"2020-12-10 20:43:39",
+        "lastModified":"2020-12-10 21:48:16",
         "layers":[
           {
             "name":"Black",
@@ -10082,7 +10080,7 @@
       {
         "name":"v",
         "unicode":"0076",
-        "lastModified":"2020-12-10 20:33:28",
+        "lastModified":"2020-12-10 21:30:45",
         "layers":[
           {
             "name":"Black",
@@ -10258,7 +10256,7 @@
       {
         "name":"w",
         "unicode":"0077",
-        "lastModified":"2020-12-10 21:08:58",
+        "lastModified":"2020-12-10 21:47:59",
         "layers":[
           {
             "name":"Black",
@@ -10475,7 +10473,7 @@
       {
         "name":"x",
         "unicode":"0078",
-        "lastModified":"2020-12-10 20:31:10",
+        "lastModified":"2020-12-10 21:30:45",
         "layers":[
           {
             "name":"Black",
@@ -10676,7 +10674,7 @@
       {
         "name":"y",
         "unicode":"0079",
-        "lastModified":"2020-12-10 17:56:28",
+        "lastModified":"2020-12-10 21:47:59",
         "layers":[
           {
             "name":"Black",
@@ -10877,7 +10875,7 @@
       {
         "name":"z",
         "unicode":"007a",
-        "lastModified":"2020-12-10 17:56:28",
+        "lastModified":"2020-12-10 21:47:48",
         "layers":[
           {
             "name":"Black",
@@ -12847,7 +12845,7 @@
       {
         "name":"uni030F",
         "unicode":"030f",
-        "lastModified":"2020-12-10 21:13:27",
+        "lastModified":"2020-12-10 21:47:59",
         "layers":[
           {
             "name":"Black",
@@ -12858,8 +12856,10 @@
             "metricsRight":"|uni030B",
             "elements":[
               {
-                "component":{
-                  "glyphName":"uni030B"
+                "elementData":{
+                  "component":{
+                    "glyphName":"uni030B"
+                  }
                 },
                 "transform":{
                   "xScale":-1
@@ -12912,8 +12912,10 @@
             "metricsRight":"|uni030B",
             "elements":[
               {
-                "component":{
-                  "glyphName":"uni030B"
+                "elementData":{
+                  "component":{
+                    "glyphName":"uni030B"
+                  }
                 },
                 "transform":{
                   "xScale":-1
@@ -15038,7 +15040,7 @@
       {
         "name":"Agrave",
         "unicode":"00c0",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -15202,7 +15204,7 @@
       },
       {
         "name":"Agrave.ss01",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -15366,7 +15368,7 @@
       {
         "name":"agrave",
         "unicode":"00e0",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -15523,7 +15525,7 @@
       {
         "name":"Aacute",
         "unicode":"00c1",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -15687,7 +15689,7 @@
       },
       {
         "name":"Aacute.ss01",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -15851,7 +15853,7 @@
       {
         "name":"aacute",
         "unicode":"00e1",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -16012,7 +16014,7 @@
       {
         "name":"Acircumflex",
         "unicode":"00c2",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -16176,7 +16178,7 @@
       },
       {
         "name":"Acircumflex.ss01",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -16340,7 +16342,7 @@
       {
         "name":"acircumflex",
         "unicode":"00e2",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -16497,7 +16499,7 @@
       {
         "name":"Abreve",
         "unicode":"0102",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -16661,7 +16663,7 @@
       },
       {
         "name":"Abreve.ss01",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -16825,7 +16827,7 @@
       {
         "name":"abreve",
         "unicode":"0103",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -16982,7 +16984,7 @@
       {
         "name":"Atilde",
         "unicode":"00c3",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -17146,7 +17148,7 @@
       },
       {
         "name":"Atilde.ss01",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -17310,7 +17312,7 @@
       {
         "name":"atilde",
         "unicode":"00e3",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -17467,7 +17469,7 @@
       {
         "name":"Adieresis",
         "unicode":"00c4",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -17631,7 +17633,7 @@
       },
       {
         "name":"Adieresis.ss01",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -17795,7 +17797,7 @@
       {
         "name":"adieresis",
         "unicode":"00e4",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -17952,7 +17954,7 @@
       {
         "name":"Aring",
         "unicode":"00c5",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -18116,7 +18118,7 @@
       },
       {
         "name":"Aring.ss01",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -18280,7 +18282,7 @@
       {
         "name":"aring",
         "unicode":"00e5",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -18437,7 +18439,7 @@
       {
         "name":"Amacron",
         "unicode":"0100",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -18601,7 +18603,7 @@
       },
       {
         "name":"Amacron.ss01",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -18765,7 +18767,7 @@
       {
         "name":"amacron",
         "unicode":"0101",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -18922,7 +18924,7 @@
       {
         "name":"Aogonek",
         "unicode":"0104",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -19082,7 +19084,7 @@
       },
       {
         "name":"Aogonek.ss01",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -19242,7 +19244,7 @@
       {
         "name":"aogonek",
         "unicode":"0105",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:48:16",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -20147,7 +20149,7 @@
       {
         "name":"Cacute",
         "unicode":"0106",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -20292,7 +20294,7 @@
       {
         "name":"cacute",
         "unicode":"0107",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -20437,7 +20439,7 @@
       {
         "name":"Ccircumflex",
         "unicode":"0108",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -20582,7 +20584,7 @@
       {
         "name":"ccircumflex",
         "unicode":"0109",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -20723,7 +20725,7 @@
       {
         "name":"Ccaron",
         "unicode":"010c",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -20868,7 +20870,7 @@
       {
         "name":"ccaron",
         "unicode":"010d",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -21009,7 +21011,7 @@
       {
         "name":"Cdotaccent",
         "unicode":"010a",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -21154,7 +21156,7 @@
       {
         "name":"cdotaccent",
         "unicode":"010b",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -21295,7 +21297,7 @@
       {
         "name":"Ccedilla",
         "unicode":"00c7",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -21436,7 +21438,7 @@
       {
         "name":"ccedilla",
         "unicode":"00e7",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -21577,7 +21579,7 @@
       {
         "name":"Dcaron",
         "unicode":"010e",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -22180,7 +22182,7 @@
       {
         "name":"Dcroat",
         "unicode":"0110",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -22470,7 +22472,7 @@
       {
         "name":"uni0189",
         "unicode":"0189",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -22698,7 +22700,7 @@
       {
         "name":"uni1E0C",
         "unicode":"1e0c",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -22834,7 +22836,7 @@
       {
         "name":"uni1E0D",
         "unicode":"1e0d",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -22970,7 +22972,7 @@
       {
         "name":"Egrave",
         "unicode":"00c8",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -23131,7 +23133,7 @@
       {
         "name":"egrave",
         "unicode":"00e8",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -23288,7 +23290,7 @@
       {
         "name":"Eacute",
         "unicode":"00c9",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -23449,7 +23451,7 @@
       {
         "name":"eacute",
         "unicode":"00e9",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -23610,7 +23612,7 @@
       {
         "name":"Ecircumflex",
         "unicode":"00ca",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -23771,7 +23773,7 @@
       {
         "name":"ecircumflex",
         "unicode":"00ea",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -23928,7 +23930,7 @@
       {
         "name":"Ecaron",
         "unicode":"011a",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -24089,7 +24091,7 @@
       {
         "name":"ecaron",
         "unicode":"011b",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -24246,7 +24248,7 @@
       {
         "name":"Edieresis",
         "unicode":"00cb",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -24407,7 +24409,7 @@
       {
         "name":"edieresis",
         "unicode":"00eb",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -24564,7 +24566,7 @@
       {
         "name":"Edotaccent",
         "unicode":"0116",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -24725,7 +24727,7 @@
       {
         "name":"edotaccent",
         "unicode":"0117",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -24882,7 +24884,7 @@
       {
         "name":"Emacron",
         "unicode":"0112",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -25043,7 +25045,7 @@
       {
         "name":"emacron",
         "unicode":"0113",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -25200,7 +25202,7 @@
       {
         "name":"Eogonek",
         "unicode":"0118",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -25361,7 +25363,7 @@
       {
         "name":"eogonek",
         "unicode":"0119",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -25522,7 +25524,7 @@
       {
         "name":"Ebreve",
         "unicode":"0114",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -25683,7 +25685,7 @@
       {
         "name":"ebreve",
         "unicode":"0115",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -26262,7 +26264,7 @@
       {
         "name":"uni01F4",
         "unicode":"01f4",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -26402,7 +26404,7 @@
       {
         "name":"uni01F5",
         "unicode":"01f5",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -26534,7 +26536,7 @@
       {
         "name":"Gcircumflex",
         "unicode":"011c",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -26679,7 +26681,7 @@
       {
         "name":"gcircumflex",
         "unicode":"011d",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -26816,7 +26818,7 @@
       {
         "name":"Gbreve",
         "unicode":"011e",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -26961,7 +26963,7 @@
       {
         "name":"gbreve",
         "unicode":"011f",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -27098,7 +27100,7 @@
       {
         "name":"Gdotaccent",
         "unicode":"0120",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -27243,7 +27245,7 @@
       {
         "name":"gdotaccent",
         "unicode":"0121",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -27380,7 +27382,7 @@
       {
         "name":"uni0122",
         "unicode":"0122",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -27521,7 +27523,7 @@
       {
         "name":"uni0123",
         "unicode":"0123",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:48:16",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -27662,7 +27664,7 @@
       {
         "name":"Gcaron",
         "unicode":"01e6",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -27802,7 +27804,7 @@
       {
         "name":"gcaron",
         "unicode":"01e7",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -27934,7 +27936,7 @@
       {
         "name":"Hcircumflex",
         "unicode":"0124",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -28083,7 +28085,7 @@
       {
         "name":"hcircumflex",
         "unicode":"0125",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -28607,7 +28609,7 @@
       {
         "name":"uni1E24",
         "unicode":"1e24",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -28747,7 +28749,7 @@
       {
         "name":"uni1E25",
         "unicode":"1e25",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -28879,7 +28881,7 @@
       {
         "name":"Igrave",
         "unicode":"00cc",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -29028,7 +29030,7 @@
       {
         "name":"igrave",
         "unicode":"00ec",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -29177,7 +29179,7 @@
       {
         "name":"Iacute",
         "unicode":"00cd",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -29326,7 +29328,7 @@
       {
         "name":"iacute",
         "unicode":"00ed",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -29475,7 +29477,7 @@
       {
         "name":"Icircumflex",
         "unicode":"00ce",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -29624,7 +29626,7 @@
       {
         "name":"icircumflex",
         "unicode":"00ee",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -29769,7 +29771,7 @@
       {
         "name":"Itilde",
         "unicode":"0128",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -30117,7 +30119,7 @@
       {
         "name":"Idieresis",
         "unicode":"00cf",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -30266,7 +30268,7 @@
       {
         "name":"idieresis",
         "unicode":"00ef",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -30415,7 +30417,7 @@
       {
         "name":"Idotaccent",
         "unicode":"0130",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -30564,7 +30566,7 @@
       {
         "name":"dotlessi",
         "unicode":"0131",
-        "lastModified":"2020-12-10 20:31:10",
+        "lastModified":"2020-12-10 21:47:37",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -30739,7 +30741,7 @@
       {
         "name":"Imacron",
         "unicode":"012a",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -30892,14 +30894,15 @@
       {
         "name":"imacron",
         "unicode":"012b",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:48:16",
         "openTypeGlyphClass":1,
         "layers":[
           {
             "name":"Black",
-            "flags":16,
+            "flags":0,
             "advanceWidth":300,
             "advanceHeight":700,
+            "metricsRight":"|",
             "elements":[
               {
                 "component":{
@@ -30931,9 +30934,10 @@
           },
           {
             "name":"Regular",
-            "flags":16,
+            "flags":0,
             "advanceWidth":210,
             "advanceHeight":700,
+            "metricsRight":"|",
             "elements":[
               {
                 "component":{
@@ -30941,8 +30945,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"uni0304"
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "-110 654",
+                        "110 654",
+                        "110 730",
+                        "-110 730"
+                      ]
+                    }
+                  ]
                 },
                 "transform":{
                   "xOffset":105
@@ -30965,9 +30978,10 @@
           },
           {
             "name":"CondBlack",
-            "flags":16,
+            "flags":0,
             "advanceWidth":280,
             "advanceHeight":700,
+            "metricsRight":"|",
             "elements":[
               {
                 "component":{
@@ -30999,9 +31013,10 @@
           },
           {
             "name":"CondRegular",
-            "flags":16,
+            "flags":0,
             "advanceWidth":170,
             "advanceHeight":700,
+            "metricsRight":"|",
             "elements":[
               {
                 "component":{
@@ -31501,7 +31516,7 @@
       {
         "name":"IJ",
         "unicode":"0132",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -31532,7 +31547,7 @@
               },
               {
                 "name":"bottom",
-                "point":"750 0",
+                "point":"740 0",
                 "exprX":"top"
               }
             ],
@@ -31600,7 +31615,7 @@
               },
               {
                 "name":"bottom",
-                "point":"650 0",
+                "point":"620 0",
                 "exprX":"top"
               }
             ],
@@ -31646,7 +31661,7 @@
       {
         "name":"ij",
         "unicode":"0133",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -31964,7 +31979,7 @@
       },
       {
         "name":"Jacute",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -32112,7 +32127,7 @@
       },
       {
         "name":"jacute",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -32261,7 +32276,7 @@
       {
         "name":"Jcircumflex",
         "unicode":"0134",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -32406,7 +32421,7 @@
       {
         "name":"jcircumflex",
         "unicode":"0135",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -32555,7 +32570,7 @@
       {
         "name":"uni0136",
         "unicode":"0136",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -32696,7 +32711,7 @@
       {
         "name":"uni0137",
         "unicode":"0137",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -32715,7 +32730,7 @@
                   "glyphName":"uni0326"
                 },
                 "transform":{
-                  "xOffset":310
+                  "xOffset":305
                 }
               }
             ],
@@ -32726,7 +32741,7 @@
               },
               {
                 "name":"bottom",
-                "point":"310 0"
+                "point":"305 0"
               }
             ],
             "color":"#fe4a46"
@@ -32734,7 +32749,7 @@
           {
             "name":"Regular",
             "flags":16,
-            "advanceWidth":620,
+            "advanceWidth":600,
             "advanceHeight":700,
             "elements":[
               {
@@ -32747,7 +32762,7 @@
                   "glyphName":"uni0326"
                 },
                 "transform":{
-                  "xOffset":330
+                  "xOffset":300
                 }
               }
             ],
@@ -32758,7 +32773,7 @@
               },
               {
                 "name":"bottom",
-                "point":"330 0"
+                "point":"300 0"
               }
             ],
             "color":"#ff34ff"
@@ -32779,7 +32794,7 @@
                   "glyphName":"uni0326"
                 },
                 "transform":{
-                  "xOffset":300
+                  "xOffset":285
                 }
               }
             ],
@@ -32790,7 +32805,7 @@
               },
               {
                 "name":"bottom",
-                "point":"300 0"
+                "point":"285 0"
               }
             ],
             "color":"#00cce5"
@@ -32811,7 +32826,7 @@
                   "glyphName":"uni0326"
                 },
                 "transform":{
-                  "xOffset":180
+                  "xOffset":175
                 }
               }
             ],
@@ -32822,7 +32837,7 @@
               },
               {
                 "name":"bottom",
-                "point":"180 0"
+                "point":"175 0"
               }
             ],
             "color":"#bac000",
@@ -32833,7 +32848,7 @@
       {
         "name":"kgreenlandic",
         "unicode":"0138",
-        "lastModified":"2020-12-03 17:55:45",
+        "lastModified":"2020-12-10 21:39:08",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -33023,7 +33038,7 @@
       {
         "name":"Lacute",
         "unicode":"0139",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -33168,7 +33183,7 @@
       {
         "name":"lacute",
         "unicode":"013a",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -33321,7 +33336,7 @@
       {
         "name":"Lcaron",
         "unicode":"013d",
-        "lastModified":"2020-12-10 21:06:13",
+        "lastModified":"2020-12-10 21:46:00",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -33463,7 +33478,7 @@
       {
         "name":"lcaron",
         "unicode":"013e",
-        "lastModified":"2020-12-10 21:06:13",
+        "lastModified":"2020-12-10 21:46:00",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -33612,7 +33627,7 @@
       {
         "name":"uni013B",
         "unicode":"013b",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -33749,7 +33764,7 @@
       {
         "name":"uni013C",
         "unicode":"013c",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:48:16",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -33894,7 +33909,7 @@
       {
         "name":"Ldot",
         "unicode":"013f",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -34035,7 +34050,7 @@
       {
         "name":"ldot",
         "unicode":"0140",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -34097,12 +34112,12 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"105 700",
+                "point":"165 700",
                 "exprX":"width/2"
               },
               {
                 "name":"bottom",
-                "point":"105 0",
+                "point":"165 0",
                 "exprX":"top"
               }
             ],
@@ -34167,12 +34182,12 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"135 700",
+                "point":"85 700",
                 "exprX":"width/2"
               },
               {
                 "name":"bottom",
-                "point":"135 0",
+                "point":"85 0",
                 "exprX":"top"
               }
             ],
@@ -34184,7 +34199,7 @@
       {
         "name":"Lslash",
         "unicode":"0141",
-        "lastModified":"2020-12-10 21:06:13",
+        "lastModified":"2020-12-10 21:46:00",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -34368,7 +34383,7 @@
       {
         "name":"lslash",
         "unicode":"0142",
-        "lastModified":"2020-12-10 21:06:13",
+        "lastModified":"2020-12-10 21:46:00",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -34569,7 +34584,7 @@
       {
         "name":"Nacute",
         "unicode":"0143",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -34718,7 +34733,7 @@
       {
         "name":"nacute",
         "unicode":"0144",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -34863,7 +34878,7 @@
       {
         "name":"Ncaron",
         "unicode":"0147",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -35012,7 +35027,7 @@
       {
         "name":"ncaron",
         "unicode":"0148",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -35157,7 +35172,7 @@
       {
         "name":"Ntilde",
         "unicode":"00d1",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -35306,7 +35321,7 @@
       {
         "name":"ntilde",
         "unicode":"00f1",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -35451,7 +35466,7 @@
       {
         "name":"uni1E44",
         "unicode":"1e44",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -35595,7 +35610,7 @@
       {
         "name":"uni1E45",
         "unicode":"1e45",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -35735,7 +35750,7 @@
       {
         "name":"uni0145",
         "unicode":"0145",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -35880,7 +35895,7 @@
       {
         "name":"uni0146",
         "unicode":"0146",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -36403,7 +36418,7 @@
       {
         "name":"Ograve",
         "unicode":"00d2",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -36552,7 +36567,7 @@
       {
         "name":"ograve",
         "unicode":"00f2",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -36697,7 +36712,7 @@
       {
         "name":"Oacute",
         "unicode":"00d3",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -36846,7 +36861,7 @@
       {
         "name":"oacute",
         "unicode":"00f3",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -36995,7 +37010,7 @@
       {
         "name":"Ocircumflex",
         "unicode":"00d4",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -37144,7 +37159,7 @@
       {
         "name":"ocircumflex",
         "unicode":"00f4",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -37289,7 +37304,7 @@
       {
         "name":"Obreve",
         "unicode":"014e",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -37438,7 +37453,7 @@
       {
         "name":"obreve",
         "unicode":"014f",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -37583,7 +37598,7 @@
       {
         "name":"Otilde",
         "unicode":"00d5",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -37732,7 +37747,7 @@
       {
         "name":"otilde",
         "unicode":"00f5",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -37877,7 +37892,7 @@
       {
         "name":"Odieresis",
         "unicode":"00d6",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -38026,7 +38041,7 @@
       {
         "name":"odieresis",
         "unicode":"00f6",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -38187,7 +38202,7 @@
       {
         "name":"Ohungarumlaut",
         "unicode":"0150",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -38336,7 +38351,7 @@
       {
         "name":"ohungarumlaut",
         "unicode":"0151",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -38481,7 +38496,7 @@
       {
         "name":"Omacron",
         "unicode":"014c",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -38630,7 +38645,7 @@
       {
         "name":"omacron",
         "unicode":"014d",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -38775,7 +38790,7 @@
       {
         "name":"uni01EA",
         "unicode":"01ea",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -38915,7 +38930,7 @@
       {
         "name":"uni01EB",
         "unicode":"01eb",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -39055,7 +39070,7 @@
       {
         "name":"Oslash",
         "unicode":"00d8",
-        "lastModified":"2020-12-10 21:06:13",
+        "lastModified":"2020-12-10 21:46:00",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -39257,7 +39272,7 @@
       {
         "name":"oslash",
         "unicode":"00f8",
-        "lastModified":"2020-12-10 21:06:13",
+        "lastModified":"2020-12-10 21:46:00",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -39958,7 +39973,7 @@
       {
         "name":"Racute",
         "unicode":"0154",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -40099,7 +40114,7 @@
       {
         "name":"racute",
         "unicode":"0155",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -40236,7 +40251,7 @@
       {
         "name":"Rcaron",
         "unicode":"0158",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -40377,7 +40392,7 @@
       {
         "name":"rcaron",
         "unicode":"0159",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -40514,7 +40529,7 @@
       {
         "name":"uni0156",
         "unicode":"0156",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -40651,7 +40666,7 @@
       {
         "name":"uni0157",
         "unicode":"0157",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -40788,7 +40803,7 @@
       {
         "name":"uni1E5A",
         "unicode":"1e5a",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -40920,7 +40935,7 @@
       {
         "name":"uni1E5B",
         "unicode":"1e5b",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -41052,7 +41067,7 @@
       {
         "name":"Sacute",
         "unicode":"015a",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -41193,7 +41208,7 @@
       {
         "name":"sacute",
         "unicode":"015b",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -41334,7 +41349,7 @@
       {
         "name":"Scircumflex",
         "unicode":"015c",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -41475,7 +41490,7 @@
       {
         "name":"scircumflex",
         "unicode":"015d",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -41612,7 +41627,7 @@
       {
         "name":"Scaron",
         "unicode":"0160",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -41753,7 +41768,7 @@
       {
         "name":"scaron",
         "unicode":"0161",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -41890,7 +41905,7 @@
       {
         "name":"uni0218",
         "unicode":"0218",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -42027,7 +42042,7 @@
       {
         "name":"uni0219",
         "unicode":"0219",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -42164,7 +42179,7 @@
       {
         "name":"Scedilla",
         "unicode":"015e",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -42301,7 +42316,7 @@
       {
         "name":"scedilla",
         "unicode":"015f",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -42438,7 +42453,7 @@
       {
         "name":"uni1E62",
         "unicode":"1e62",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -42570,7 +42585,7 @@
       {
         "name":"uni1E63",
         "unicode":"1e63",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -43215,7 +43230,7 @@
       {
         "name":"Tcaron",
         "unicode":"0164",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -43364,7 +43379,7 @@
       {
         "name":"tcaron",
         "unicode":"0165",
-        "lastModified":"2020-12-10 21:06:13",
+        "lastModified":"2020-12-10 21:46:00",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -43549,7 +43564,7 @@
       {
         "name":"uni021A",
         "unicode":"021a",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -43694,7 +43709,7 @@
       {
         "name":"uni021B",
         "unicode":"021b",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -43831,7 +43846,7 @@
       {
         "name":"uni0162",
         "unicode":"0162",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -43976,7 +43991,7 @@
       {
         "name":"uni0163",
         "unicode":"0163",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -44113,7 +44128,7 @@
       {
         "name":"uni1E6C",
         "unicode":"1e6c",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -44253,7 +44268,7 @@
       {
         "name":"uni1E6D",
         "unicode":"1e6d",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -44385,7 +44400,7 @@
       {
         "name":"Tbar",
         "unicode":"0166",
-        "lastModified":"2020-12-10 21:06:13",
+        "lastModified":"2020-12-10 21:46:00",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -44755,7 +44770,7 @@
       {
         "name":"Ugrave",
         "unicode":"00d9",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -44904,7 +44919,7 @@
       {
         "name":"ugrave",
         "unicode":"00f9",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -45065,7 +45080,7 @@
       {
         "name":"Uacute",
         "unicode":"00da",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -45214,7 +45229,7 @@
       {
         "name":"uacute",
         "unicode":"00fa",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -45375,7 +45390,7 @@
       {
         "name":"Ucircumflex",
         "unicode":"00db",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -45524,7 +45539,7 @@
       {
         "name":"ucircumflex",
         "unicode":"00fb",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -45685,7 +45700,7 @@
       {
         "name":"Ubreve",
         "unicode":"016c",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -45834,7 +45849,7 @@
       {
         "name":"ubreve",
         "unicode":"016d",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -45995,7 +46010,7 @@
       {
         "name":"Utilde",
         "unicode":"0168",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -46144,7 +46159,7 @@
       {
         "name":"utilde",
         "unicode":"0169",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -46305,7 +46320,7 @@
       {
         "name":"Udieresis",
         "unicode":"00dc",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -46454,7 +46469,7 @@
       {
         "name":"udieresis",
         "unicode":"00fc",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -46615,7 +46630,7 @@
       {
         "name":"Uring",
         "unicode":"016e",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -46764,7 +46779,7 @@
       {
         "name":"uring",
         "unicode":"016f",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -46925,7 +46940,7 @@
       {
         "name":"Uhungarumlaut",
         "unicode":"0170",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -47074,7 +47089,7 @@
       {
         "name":"uhungarumlaut",
         "unicode":"0171",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -47235,7 +47250,7 @@
       {
         "name":"Umacron",
         "unicode":"016a",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -47384,7 +47399,7 @@
       {
         "name":"umacron",
         "unicode":"016b",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -47545,7 +47560,7 @@
       {
         "name":"Uogonek",
         "unicode":"0172",
-        "lastModified":"2020-12-10 21:06:13",
+        "lastModified":"2020-12-10 21:46:00",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -47698,7 +47713,7 @@
       {
         "name":"uogonek",
         "unicode":"0173",
-        "lastModified":"2020-12-10 21:06:13",
+        "lastModified":"2020-12-10 21:46:00",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -47867,7 +47882,7 @@
       {
         "name":"Wgrave",
         "unicode":"1e80",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -48016,7 +48031,7 @@
       {
         "name":"wgrave",
         "unicode":"1e81",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -48161,7 +48176,7 @@
       {
         "name":"Wacute",
         "unicode":"1e82",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -48310,7 +48325,7 @@
       {
         "name":"wacute",
         "unicode":"1e83",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -48455,7 +48470,7 @@
       {
         "name":"Wcircumflex",
         "unicode":"0174",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -48604,7 +48619,7 @@
       {
         "name":"wcircumflex",
         "unicode":"0175",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -48749,7 +48764,7 @@
       {
         "name":"Wdieresis",
         "unicode":"1e84",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -48898,7 +48913,7 @@
       {
         "name":"wdieresis",
         "unicode":"1e85",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -49043,7 +49058,7 @@
       {
         "name":"Ygrave",
         "unicode":"1ef2",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -49195,7 +49210,7 @@
       {
         "name":"ygrave",
         "unicode":"1ef3",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -49339,7 +49354,7 @@
       {
         "name":"Yacute",
         "unicode":"00dd",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -49488,7 +49503,7 @@
       {
         "name":"yacute",
         "unicode":"00fd",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -49629,7 +49644,7 @@
       {
         "name":"Ycircumflex",
         "unicode":"0176",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -49778,7 +49793,7 @@
       {
         "name":"ycircumflex",
         "unicode":"0177",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -49919,7 +49934,7 @@
       {
         "name":"Ydieresis",
         "unicode":"0178",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -50068,7 +50083,7 @@
       {
         "name":"ydieresis",
         "unicode":"00ff",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -50209,7 +50224,7 @@
       {
         "name":"uni1EF8",
         "unicode":"1ef8",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -50361,7 +50376,7 @@
       {
         "name":"uni1EF9",
         "unicode":"1ef9",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -50505,7 +50520,7 @@
       {
         "name":"Zacute",
         "unicode":"0179",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -50654,7 +50669,7 @@
       {
         "name":"zacute",
         "unicode":"017a",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -50799,7 +50814,7 @@
       {
         "name":"Zcaron",
         "unicode":"017d",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -50964,7 +50979,7 @@
       {
         "name":"zcaron",
         "unicode":"017e",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -51125,7 +51140,7 @@
       {
         "name":"Zdotaccent",
         "unicode":"017b",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -51157,7 +51172,7 @@
               },
               {
                 "name":"bottom",
-                "point":"283 0",
+                "point":"282.5 0",
                 "exprX":"top"
               }
             ],
@@ -51227,7 +51242,7 @@
               },
               {
                 "name":"bottom",
-                "point":"243 0",
+                "point":"242.5 0",
                 "exprX":"top"
               }
             ],
@@ -51274,7 +51289,7 @@
       {
         "name":"zdotaccent",
         "unicode":"017c",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "openTypeGlyphClass":1,
         "layers":[
           {
@@ -51373,7 +51388,7 @@
               },
               {
                 "name":"bottom",
-                "point":"218 0",
+                "point":"217.5 0",
                 "exprX":"top"
               }
             ],
@@ -51419,7 +51434,7 @@
       {
         "name":"uni1E92",
         "unicode":"1e92",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -51559,7 +51574,7 @@
       {
         "name":"uni1E93",
         "unicode":"1e93",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -52082,7 +52097,7 @@
       {
         "name":"uni1EA0",
         "unicode":"1ea0",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -52241,7 +52256,7 @@
       },
       {
         "name":"uni1EA0.ss01",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -52401,7 +52416,7 @@
       {
         "name":"uni1EA1",
         "unicode":"1ea1",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -52557,7 +52572,7 @@
       {
         "name":"uni1EA2",
         "unicode":"1ea2",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -52720,7 +52735,7 @@
       },
       {
         "name":"uni1EA2.ss01",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -52884,7 +52899,7 @@
       {
         "name":"uni1EA3",
         "unicode":"1ea3",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -53040,7 +53055,7 @@
       {
         "name":"uni1EA4",
         "unicode":"1ea4",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -53203,7 +53218,7 @@
       },
       {
         "name":"uni1EA4.ss01",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -53367,7 +53382,7 @@
       {
         "name":"uni1EA5",
         "unicode":"1ea5",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -53523,7 +53538,7 @@
       {
         "name":"uni1EA6",
         "unicode":"1ea6",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -53686,7 +53701,7 @@
       },
       {
         "name":"uni1EA6.ss01",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -53850,7 +53865,7 @@
       {
         "name":"uni1EA7",
         "unicode":"1ea7",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -54006,7 +54021,7 @@
       {
         "name":"uni1EA8",
         "unicode":"1ea8",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -54169,7 +54184,7 @@
       },
       {
         "name":"uni1EA8.ss01",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -54333,7 +54348,7 @@
       {
         "name":"uni1EA9",
         "unicode":"1ea9",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -54489,7 +54504,7 @@
       {
         "name":"uni1EAA",
         "unicode":"1eaa",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -54652,7 +54667,7 @@
       },
       {
         "name":"uni1EAA.ss01",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -54816,7 +54831,7 @@
       {
         "name":"uni1EAB",
         "unicode":"1eab",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -54972,7 +54987,7 @@
       {
         "name":"uni1EAC",
         "unicode":"1eac",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -55167,7 +55182,7 @@
       },
       {
         "name":"uni1EAC.ss01",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -55363,7 +55378,7 @@
       {
         "name":"uni1EAD",
         "unicode":"1ead",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -55551,7 +55566,7 @@
       {
         "name":"uni1EAE",
         "unicode":"1eae",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -55714,7 +55729,7 @@
       },
       {
         "name":"uni1EAE.ss01",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -55878,7 +55893,7 @@
       {
         "name":"uni1EAF",
         "unicode":"1eaf",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -56034,7 +56049,7 @@
       {
         "name":"uni1EB0",
         "unicode":"1eb0",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -56197,7 +56212,7 @@
       },
       {
         "name":"uni1EB0.ss01",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -56361,7 +56376,7 @@
       {
         "name":"uni1EB1",
         "unicode":"1eb1",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -56517,7 +56532,7 @@
       {
         "name":"uni1EB2",
         "unicode":"1eb2",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -56680,7 +56695,7 @@
       },
       {
         "name":"uni1EB2.ss01",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -56844,7 +56859,7 @@
       {
         "name":"uni1EB3",
         "unicode":"1eb3",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -57000,7 +57015,7 @@
       {
         "name":"uni1EB4",
         "unicode":"1eb4",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -57163,7 +57178,7 @@
       },
       {
         "name":"uni1EB4.ss01",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -57327,7 +57342,7 @@
       {
         "name":"uni1EB5",
         "unicode":"1eb5",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -57483,7 +57498,7 @@
       {
         "name":"uni1EB6",
         "unicode":"1eb6",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -57678,7 +57693,7 @@
       },
       {
         "name":"uni1EB6.ss01",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -57874,7 +57889,7 @@
       {
         "name":"uni1EB7",
         "unicode":"1eb7",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -58062,7 +58077,7 @@
       {
         "name":"uni1EB8",
         "unicode":"1eb8",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -58218,7 +58233,7 @@
       {
         "name":"uni1EB9",
         "unicode":"1eb9",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -58374,7 +58389,7 @@
       {
         "name":"uni1EBA",
         "unicode":"1eba",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -58534,7 +58549,7 @@
       {
         "name":"uni1EBB",
         "unicode":"1ebb",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -58690,7 +58705,7 @@
       {
         "name":"uni1EBC",
         "unicode":"1ebc",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -58850,7 +58865,7 @@
       {
         "name":"uni1EBD",
         "unicode":"1ebd",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -59006,7 +59021,7 @@
       {
         "name":"uni1EBE",
         "unicode":"1ebe",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -59166,7 +59181,7 @@
       {
         "name":"uni1EBF",
         "unicode":"1ebf",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -59322,7 +59337,7 @@
       {
         "name":"uni1EC0",
         "unicode":"1ec0",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -59482,7 +59497,7 @@
       {
         "name":"uni1EC1",
         "unicode":"1ec1",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -59638,7 +59653,7 @@
       {
         "name":"uni1EC2",
         "unicode":"1ec2",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -59798,7 +59813,7 @@
       {
         "name":"uni1EC3",
         "unicode":"1ec3",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -59954,7 +59969,7 @@
       {
         "name":"uni1EC4",
         "unicode":"1ec4",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -60114,7 +60129,7 @@
       {
         "name":"uni1EC5",
         "unicode":"1ec5",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -60270,7 +60285,7 @@
       {
         "name":"uni1EC6",
         "unicode":"1ec6",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -60462,7 +60477,7 @@
       {
         "name":"uni1EC7",
         "unicode":"1ec7",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -60650,7 +60665,7 @@
       {
         "name":"uni1EC8",
         "unicode":"1ec8",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -60798,7 +60813,7 @@
       {
         "name":"uni1EC9",
         "unicode":"1ec9",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -60942,7 +60957,7 @@
       {
         "name":"uni1ECA",
         "unicode":"1eca",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -61086,7 +61101,7 @@
       {
         "name":"uni1ECB",
         "unicode":"1ecb",
-        "lastModified":"2020-12-10 21:13:50",
+        "lastModified":"2020-12-10 21:48:16",
         "layers":[
           {
             "name":"Black",
@@ -61230,7 +61245,7 @@
       {
         "name":"uni1ECC",
         "unicode":"1ecc",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -61374,7 +61389,7 @@
       {
         "name":"uni1ECD",
         "unicode":"1ecd",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -61518,7 +61533,7 @@
       {
         "name":"uni1ECE",
         "unicode":"1ece",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -61666,7 +61681,7 @@
       {
         "name":"uni1ECF",
         "unicode":"1ecf",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -61810,7 +61825,7 @@
       {
         "name":"uni1ED0",
         "unicode":"1ed0",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -61958,7 +61973,7 @@
       {
         "name":"uni1ED1",
         "unicode":"1ed1",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -62102,7 +62117,7 @@
       {
         "name":"uni1ED2",
         "unicode":"1ed2",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -62250,7 +62265,7 @@
       {
         "name":"uni1ED3",
         "unicode":"1ed3",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -62394,7 +62409,7 @@
       {
         "name":"uni1ED4",
         "unicode":"1ed4",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -62542,7 +62557,7 @@
       {
         "name":"uni1ED5",
         "unicode":"1ed5",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -62686,7 +62701,7 @@
       {
         "name":"uni1ED6",
         "unicode":"1ed6",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -62834,7 +62849,7 @@
       {
         "name":"uni1ED7",
         "unicode":"1ed7",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -62978,7 +62993,7 @@
       {
         "name":"uni1ED8",
         "unicode":"1ed8",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -63158,7 +63173,7 @@
       {
         "name":"uni1ED9",
         "unicode":"1ed9",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -63743,7 +63758,7 @@
       {
         "name":"uni1EDA",
         "unicode":"1eda",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -63883,7 +63898,7 @@
       {
         "name":"uni1EDB",
         "unicode":"1edb",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -64027,7 +64042,7 @@
       {
         "name":"uni1EDC",
         "unicode":"1edc",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -64167,7 +64182,7 @@
       {
         "name":"uni1EDD",
         "unicode":"1edd",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -64311,7 +64326,7 @@
       {
         "name":"uni1EDE",
         "unicode":"1ede",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -64451,7 +64466,7 @@
       {
         "name":"uni1EDF",
         "unicode":"1edf",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -64595,7 +64610,7 @@
       {
         "name":"uni1EE0",
         "unicode":"1ee0",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -64735,7 +64750,7 @@
       {
         "name":"uni1EE1",
         "unicode":"1ee1",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -64879,7 +64894,7 @@
       {
         "name":"uni1EE2",
         "unicode":"1ee2",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -65015,7 +65030,7 @@
       {
         "name":"uni1EE3",
         "unicode":"1ee3",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -65159,7 +65174,7 @@
       {
         "name":"uni1EE4",
         "unicode":"1ee4",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -65303,7 +65318,7 @@
       {
         "name":"uni1EE5",
         "unicode":"1ee5",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -65463,7 +65478,7 @@
       {
         "name":"uni1EE6",
         "unicode":"1ee6",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -65611,7 +65626,7 @@
       {
         "name":"uni1EE7",
         "unicode":"1ee7",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -66160,7 +66175,7 @@
       {
         "name":"uni1EE8",
         "unicode":"1ee8",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -66308,7 +66323,7 @@
       {
         "name":"uni1EE9",
         "unicode":"1ee9",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -66468,7 +66483,7 @@
       {
         "name":"uni1EEA",
         "unicode":"1eea",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -66616,7 +66631,7 @@
       {
         "name":"uni1EEB",
         "unicode":"1eeb",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -66776,7 +66791,7 @@
       {
         "name":"uni1EEC",
         "unicode":"1eec",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -66924,7 +66939,7 @@
       {
         "name":"uni1EED",
         "unicode":"1eed",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -67084,7 +67099,7 @@
       {
         "name":"uni1EEE",
         "unicode":"1eee",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -67232,7 +67247,7 @@
       {
         "name":"uni1EEF",
         "unicode":"1eef",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -67392,7 +67407,7 @@
       {
         "name":"uni1EF0",
         "unicode":"1ef0",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -67536,7 +67551,7 @@
       {
         "name":"uni1EF1",
         "unicode":"1ef1",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -67696,7 +67711,7 @@
       {
         "name":"uni1EF4",
         "unicode":"1ef4",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -68049,7 +68064,7 @@
       {
         "name":"uni1EF6",
         "unicode":"1ef6",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -68197,7 +68212,7 @@
       {
         "name":"uni1EF7",
         "unicode":"1ef7",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -68337,25 +68352,52 @@
       {
         "name":"uni0181",
         "unicode":"0181",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:22:10",
         "layers":[
           {
             "name":"Black",
             "autoRecipe":"hookleft_B",
-            "flags":16,
+            "flags":0,
             "advanceWidth":835,
             "elements":[
               {
-                "component":{
-                  "glyphName":"hookleft"
-                }
-              },
-              {
-                "component":{
-                  "glyphName":"B"
-                },
-                "transform":{
-                  "xOffset":185
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "190 530",
+                        "225 530",
+                        "225 0",
+                        "675 0",
+                        "815 140",
+                        "815 296",
+                        "728 366",
+                        "795 419",
+                        "795 560",
+                        "655 700",
+                        "130 700",
+                        "10 580",
+                        "10 420",
+                        "190 420"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "445 425",
+                        "445 530",
+                        "570 530",
+                        "570 425"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "445 170",
+                        "445 285",
+                        "585 285",
+                        "585 170"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -68375,21 +68417,49 @@
           {
             "name":"Regular",
             "autoRecipe":"hookleft_B",
-            "flags":16,
+            "flags":0,
             "advanceWidth":785,
             "elements":[
               {
-                "component":{
-                  "glyphName":"hookleft"
-                }
-              },
-              {
-                "component":{
-                  "glyphName":"B"
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "96 620",
+                        "205 620",
+                        "205 0",
+                        "665 0",
+                        "745 80",
+                        "745 316",
+                        "678 376",
+                        "725 419",
+                        "725 620",
+                        "645 700",
+                        "100 700",
+                        "10 610",
+                        "10 450",
+                        "96 450"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "295 405",
+                        "295 620",
+                        "635 620",
+                        "635 405"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "295 80",
+                        "295 325",
+                        "655 325",
+                        "655 80"
+                      ]
+                    }
+                  ]
                 },
-                "transform":{
-                  "xOffset":145
-                }
+                "active":true
               }
             ],
             "anchors":[
@@ -68408,20 +68478,47 @@
           {
             "name":"CondBlack",
             "autoRecipe":"hookleft_B",
-            "flags":16,
+            "flags":0,
             "advanceWidth":755,
             "elements":[
               {
-                "component":{
-                  "glyphName":"hookleft"
-                }
-              },
-              {
-                "component":{
-                  "glyphName":"B"
-                },
-                "transform":{
-                  "xOffset":185
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "180 530",
+                        "215 530",
+                        "215 0",
+                        "605 0",
+                        "735 130",
+                        "735 296",
+                        "648 364",
+                        "715 430",
+                        "715 570",
+                        "585 700",
+                        "130 700",
+                        "10 580",
+                        "10 420",
+                        "180 420"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "435 425",
+                        "435 530",
+                        "500 530",
+                        "500 425"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "435 170",
+                        "435 285",
+                        "515 285",
+                        "515 170"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -68441,20 +68538,47 @@
           {
             "name":"CondRegular",
             "autoRecipe":"hookleft_B",
-            "flags":16,
+            "flags":0,
             "advanceWidth":460,
             "elements":[
               {
-                "component":{
-                  "glyphName":"hookleft"
-                }
-              },
-              {
-                "component":{
-                  "glyphName":"B"
-                },
-                "transform":{
-                  "xOffset":110
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "96 620",
+                        "150 620",
+                        "150 0",
+                        "350 0",
+                        "430 80",
+                        "430 316",
+                        "363 376",
+                        "410 419",
+                        "410 620",
+                        "330 700",
+                        "100 700",
+                        "10 610",
+                        "10 450",
+                        "96 450"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "240 405",
+                        "240 620",
+                        "320 620",
+                        "320 405"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "240 80",
+                        "240 325",
+                        "340 325",
+                        "340 80"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -68477,7 +68601,7 @@
       {
         "name":"uni0253",
         "unicode":"0253",
-        "lastModified":"2020-12-10 17:38:45",
+        "lastModified":"2020-12-10 21:22:08",
         "layers":[
           {
             "name":"Black",
@@ -68552,7 +68676,8 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ],
             "color":"#ff34ff"
@@ -68641,25 +68766,41 @@
       {
         "name":"uni018A",
         "unicode":"018a",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:22:10",
         "layers":[
           {
             "name":"Black",
             "autoRecipe":"hookleft_D",
-            "flags":16,
+            "flags":0,
             "advanceWidth":820,
             "elements":[
               {
-                "component":{
-                  "glyphName":"hookleft"
-                }
-              },
-              {
-                "component":{
-                  "glyphName":"D"
-                },
-                "transform":{
-                  "xOffset":185
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "190 530",
+                        "225 530",
+                        "225 0",
+                        "635 0",
+                        "785 150",
+                        "785 550",
+                        "635 700",
+                        "130 700",
+                        "10 580",
+                        "10 420",
+                        "190 420"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "445 190",
+                        "445 510",
+                        "565 510",
+                        "565 190"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -68679,21 +68820,38 @@
           {
             "name":"Regular",
             "autoRecipe":"hookleft_D",
-            "flags":16,
+            "flags":0,
             "advanceWidth":780,
             "elements":[
               {
-                "component":{
-                  "glyphName":"hookleft"
-                }
-              },
-              {
-                "component":{
-                  "glyphName":"D"
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "96 620",
+                        "205 620",
+                        "205 0",
+                        "640 0",
+                        "720 80",
+                        "720 620",
+                        "640 700",
+                        "100 700",
+                        "10 610",
+                        "10 450",
+                        "96 450"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "295 80",
+                        "295 620",
+                        "630 620",
+                        "630 80"
+                      ]
+                    }
+                  ]
                 },
-                "transform":{
-                  "xOffset":145
-                }
+                "active":true
               }
             ],
             "anchors":[
@@ -68712,20 +68870,36 @@
           {
             "name":"CondBlack",
             "autoRecipe":"hookleft_D",
-            "flags":16,
+            "flags":0,
             "advanceWidth":740,
             "elements":[
               {
-                "component":{
-                  "glyphName":"hookleft"
-                }
-              },
-              {
-                "component":{
-                  "glyphName":"D"
-                },
-                "transform":{
-                  "xOffset":185
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "180 530",
+                        "215 530",
+                        "215 0",
+                        "575 0",
+                        "715 140",
+                        "715 560",
+                        "575 700",
+                        "130 700",
+                        "10 580",
+                        "10 420",
+                        "180 420"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "435 190",
+                        "435 510",
+                        "495 510",
+                        "495 190"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -68745,20 +68919,36 @@
           {
             "name":"CondRegular",
             "autoRecipe":"hookleft_D",
-            "flags":16,
+            "flags":0,
             "advanceWidth":470,
             "elements":[
               {
-                "component":{
-                  "glyphName":"hookleft"
-                }
-              },
-              {
-                "component":{
-                  "glyphName":"D"
-                },
-                "transform":{
-                  "xOffset":110
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "96 620",
+                        "150 620",
+                        "150 0",
+                        "350 0",
+                        "430 80",
+                        "430 620",
+                        "350 700",
+                        "100 700",
+                        "10 610",
+                        "10 450",
+                        "96 450"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "240 80",
+                        "240 620",
+                        "340 620",
+                        "340 80"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -68938,7 +69128,7 @@
       {
         "name":"uni0190",
         "unicode":"0190",
-        "lastModified":"2020-12-10 21:06:13",
+        "lastModified":"2020-12-10 21:46:00",
         "layers":[
           {
             "name":"Black",
@@ -69078,7 +69268,7 @@
       {
         "name":"uni025B",
         "unicode":"025b",
-        "lastModified":"2020-12-10 21:13:27",
+        "lastModified":"2020-12-10 21:46:00",
         "layers":[
           {
             "name":"Black",
@@ -69629,7 +69819,7 @@
       {
         "name":"uni0260",
         "unicode":"0260",
-        "lastModified":"2020-12-10 16:42:16",
+        "lastModified":"2020-12-10 21:31:18",
         "layers":[
           {
             "name":"Black",
@@ -69806,7 +69996,7 @@
       {
         "name":"uni0194",
         "unicode":"0194",
-        "lastModified":"2020-12-10 18:40:38",
+        "lastModified":"2020-12-10 21:47:48",
         "layers":[
           {
             "name":"Black",
@@ -69879,25 +70069,25 @@
                         "495 0",
                         "585 90",
                         "585 285",
-                        "381 452",
+                        "383 452",
                         "635 700",
                         "508 700",
                         "323 502",
                         "317 502",
                         "132 700",
                         "5 700",
-                        "259 452",
+                        "257 452",
                         "55 285",
                         "55 90"
                       ]
                     },
                     {
                       "nodes":[
-                        "143 80",
-                        "143 257",
+                        "145 80",
+                        "145 253",
                         "320 406",
-                        "497 257",
-                        "497 80"
+                        "495 253",
+                        "495 80"
                       ]
                     }
                   ]
@@ -69957,8 +70147,7 @@
                       ]
                     }
                   ]
-                },
-                "active":true
+                }
               }
             ],
             "anchors":[
@@ -69992,25 +70181,25 @@
                         "225 0",
                         "295 70",
                         "295 200",
-                        "216 343",
+                        "220 338",
                         "315 700",
                         "218 700",
                         "163 429",
                         "157 429",
                         "102 700",
                         "5 700",
-                        "104 343",
+                        "100 338",
                         "25 200",
                         "25 70"
                       ]
                     },
                     {
                       "nodes":[
-                        "113 80",
-                        "113 202",
-                        "160 269",
-                        "207 202",
-                        "207 80"
+                        "115 80",
+                        "115 196",
+                        "160 287",
+                        "205 196",
+                        "205 80"
                       ]
                     }
                   ]
@@ -70039,7 +70228,7 @@
       {
         "name":"uni0263",
         "unicode":"0263",
-        "lastModified":"2020-12-10 18:40:13",
+        "lastModified":"2020-12-10 21:48:16",
         "layers":[
           {
             "name":"Black",
@@ -70100,7 +70289,7 @@
           {
             "name":"Regular",
             "flags":0,
-            "advanceWidth":640,
+            "advanceWidth":590,
             "metricsRight":"|",
             "elements":[
               {
@@ -70108,45 +70297,46 @@
                   "contours":[
                     {
                       "nodes":[
-                        "145 -140",
-                        "495 -140",
-                        "585 -50",
-                        "585 145",
-                        "381 312",
-                        "635 560",
-                        "508 560",
-                        "323 362",
-                        "317 362",
-                        "132 560",
-                        "5 560",
-                        "259 312",
-                        "55 145",
-                        "55 -50"
+                        "170 -140",
+                        "420 -140",
+                        "510 -50",
+                        "510 143",
+                        "356 312",
+                        "590 560",
+                        "466 560",
+                        "298 362",
+                        "292 362",
+                        "124 560",
+                        "0 560",
+                        "234 312",
+                        "80 143",
+                        "80 -50"
                       ]
                     },
                     {
                       "nodes":[
-                        "143 -60",
-                        "143 117",
-                        "320 266",
-                        "497 117",
-                        "497 -60"
+                        "170 -60",
+                        "170 120",
+                        "295 266",
+                        "420 120",
+                        "420 -60"
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ],
             "anchors":[
               {
                 "name":"top",
-                "point":"320 560",
+                "point":"295 560",
                 "appearance":5,
                 "exprX":"width/2"
               },
               {
                 "name":"bottom",
-                "point":"320 -140",
+                "point":"295 -140",
                 "appearance":6,
                 "exprX":"top"
               }
@@ -70164,34 +70354,33 @@
                   "contours":[
                     {
                       "nodes":[
-                        "165 -140",
-                        "385 -140",
-                        "515 -10",
-                        "515 145",
-                        "440 266",
+                        "155 -140",
+                        "395 -140",
+                        "505 -30",
+                        "505 145",
+                        "440 226",
                         "550 560",
                         "303 560",
-                        "281 315",
-                        "269 315",
+                        "283 305",
+                        "267 305",
                         "247 560",
                         "0 560",
-                        "110 266",
-                        "35 145",
-                        "35 -10"
+                        "110 226",
+                        "45 145",
+                        "45 -30"
                       ]
                     },
                     {
                       "nodes":[
-                        "245 40",
+                        "245 30",
                         "245 117",
-                        "275 173",
+                        "275 163",
                         "305 117",
-                        "305 40"
+                        "305 30"
                       ]
                     }
                   ]
-                },
-                "active":true
+                }
               }
             ],
             "anchors":[
@@ -70221,29 +70410,29 @@
                   "contours":[
                     {
                       "nodes":[
-                        "95 -140",
-                        "225 -140",
-                        "295 -70",
-                        "295 60",
-                        "216 203",
-                        "315 560",
-                        "218 560",
-                        "163 289",
-                        "157 289",
-                        "102 560",
-                        "5 560",
-                        "104 203",
-                        "25 60",
-                        "25 -70"
+                        "100 -140",
+                        "220 -140",
+                        "290 -70",
+                        "290 60",
+                        "216 233",
+                        "320 560",
+                        "223 560",
+                        "163 319",
+                        "157 319",
+                        "97 560",
+                        "0 560",
+                        "104 233",
+                        "30 60",
+                        "30 -70"
                       ]
                     },
                     {
                       "nodes":[
-                        "113 -60",
-                        "113 62",
-                        "160 129",
-                        "207 62",
-                        "207 -60"
+                        "120 -60",
+                        "120 59",
+                        "160 179",
+                        "200 59",
+                        "200 -60"
                       ]
                     }
                   ]
@@ -70272,7 +70461,7 @@
       {
         "name":"uni0197",
         "unicode":"0197",
-        "lastModified":"2020-12-10 18:40:13",
+        "lastModified":"2020-12-10 21:31:18",
         "layers":[
           {
             "name":"Black",
@@ -70498,7 +70687,7 @@
       {
         "name":"uni0268",
         "unicode":"0268",
-        "lastModified":"2020-12-10 21:06:13",
+        "lastModified":"2020-12-10 21:46:00",
         "layers":[
           {
             "name":"Black",
@@ -70767,7 +70956,7 @@
       {
         "name":"uni0199",
         "unicode":"0199",
-        "lastModified":"2020-12-10 20:52:35",
+        "lastModified":"2020-12-10 21:39:08",
         "layers":[
           {
             "name":"Black",
@@ -71442,7 +71631,7 @@
       {
         "name":"uni0244",
         "unicode":"0244",
-        "lastModified":"2020-12-10 21:06:13",
+        "lastModified":"2020-12-10 21:46:00",
         "layers":[
           {
             "name":"Black",
@@ -71611,7 +71800,7 @@
       {
         "name":"uni0289",
         "unicode":"0289",
-        "lastModified":"2020-12-10 21:06:13",
+        "lastModified":"2020-12-10 21:46:00",
         "layers":[
           {
             "name":"Black",
@@ -71636,8 +71825,7 @@
                       ]
                     }
                   ]
-                },
-                "active":true
+                }
               }
             ],
             "anchors":[
@@ -72045,7 +72233,8 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ],
             "color":"#ff34ff"
@@ -72405,7 +72594,7 @@
       {
         "name":"uni0200",
         "unicode":"0200",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -72565,7 +72754,7 @@
       },
       {
         "name":"uni0200.ss01",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -72729,7 +72918,7 @@
       {
         "name":"uni0201",
         "unicode":"0201",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -72881,7 +73070,7 @@
       {
         "name":"uni0202",
         "unicode":"0202",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -73041,7 +73230,7 @@
       },
       {
         "name":"uni0202.ss01",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -73205,7 +73394,7 @@
       {
         "name":"uni0203",
         "unicode":"0203",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -73357,7 +73546,7 @@
       {
         "name":"Aringacute",
         "unicode":"01fa",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -73520,7 +73709,7 @@
       },
       {
         "name":"Aringacute.ss01",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -73684,7 +73873,7 @@
       {
         "name":"aringacute",
         "unicode":"01fb",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -73840,7 +74029,7 @@
       {
         "name":"AEacute",
         "unicode":"01fc",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -73980,7 +74169,7 @@
       },
       {
         "name":"AEacute.ss01",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -74128,7 +74317,7 @@
       {
         "name":"aeacute",
         "unicode":"01fd",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -74268,7 +74457,7 @@
       {
         "name":"uni0204",
         "unicode":"0204",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -74424,7 +74613,7 @@
       {
         "name":"uni0205",
         "unicode":"0205",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -74576,7 +74765,7 @@
       {
         "name":"uni0206",
         "unicode":"0206",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -74732,7 +74921,7 @@
       {
         "name":"uni0207",
         "unicode":"0207",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -74884,7 +75073,7 @@
       {
         "name":"Ibreve",
         "unicode":"012c",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -75032,7 +75221,7 @@
       {
         "name":"ibreve",
         "unicode":"012d",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -75176,7 +75365,7 @@
       {
         "name":"uni0208",
         "unicode":"0208",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -75320,7 +75509,7 @@
       {
         "name":"uni0209",
         "unicode":"0209",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -75460,7 +75649,7 @@
       {
         "name":"uni020A",
         "unicode":"020a",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -75604,7 +75793,7 @@
       {
         "name":"uni020B",
         "unicode":"020b",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -75748,7 +75937,7 @@
       {
         "name":"uni020C",
         "unicode":"020c",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -75892,7 +76081,7 @@
       {
         "name":"uni020D",
         "unicode":"020d",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -76032,7 +76221,7 @@
       {
         "name":"uni020E",
         "unicode":"020e",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -76176,7 +76365,7 @@
       {
         "name":"uni020F",
         "unicode":"020f",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -76316,7 +76505,7 @@
       {
         "name":"uni022A",
         "unicode":"022a",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -76500,7 +76689,7 @@
       {
         "name":"uni022B",
         "unicode":"022b",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -76648,7 +76837,7 @@
       {
         "name":"uni022C",
         "unicode":"022c",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -76832,7 +77021,7 @@
       {
         "name":"uni022D",
         "unicode":"022d",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -77012,7 +77201,7 @@
       {
         "name":"uni0230",
         "unicode":"0230",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -77196,7 +77385,7 @@
       {
         "name":"uni0231",
         "unicode":"0231",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -77376,7 +77565,7 @@
       {
         "name":"Oslashacute",
         "unicode":"01fe",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -77520,7 +77709,7 @@
       {
         "name":"oslashacute",
         "unicode":"01ff",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -77660,7 +77849,7 @@
       {
         "name":"uni0210",
         "unicode":"0210",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -77796,7 +77985,7 @@
       {
         "name":"uni0211",
         "unicode":"0211",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -77928,7 +78117,7 @@
       {
         "name":"uni0212",
         "unicode":"0212",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -78064,7 +78253,7 @@
       {
         "name":"uni0213",
         "unicode":"0213",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -78196,7 +78385,7 @@
       {
         "name":"uni0214",
         "unicode":"0214",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -78340,7 +78529,7 @@
       {
         "name":"uni0215",
         "unicode":"0215",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -78496,7 +78685,7 @@
       {
         "name":"uni0216",
         "unicode":"0216",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -78640,7 +78829,7 @@
       {
         "name":"uni0217",
         "unicode":"0217",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -78796,7 +78985,7 @@
       {
         "name":"uni0232",
         "unicode":"0232",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -78944,7 +79133,7 @@
       {
         "name":"uni0233",
         "unicode":"0233",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -79080,7 +79269,7 @@
       {
         "name":"uni01C4",
         "unicode":"01c4",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -79220,7 +79409,7 @@
       {
         "name":"uni01C5",
         "unicode":"01c5",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -79360,7 +79549,7 @@
       {
         "name":"uni01C6",
         "unicode":"01c6",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -79500,7 +79689,7 @@
       {
         "name":"uni01C7",
         "unicode":"01c7",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -79632,7 +79821,7 @@
       {
         "name":"uni01C8",
         "unicode":"01c8",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -79764,7 +79953,7 @@
       {
         "name":"uni01C9",
         "unicode":"01c9",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -79821,12 +80010,12 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"315 710",
+                "point":"210 710",
                 "exprX":"width/2"
               },
               {
                 "name":"bottom",
-                "point":"315 -140",
+                "point":"210 -140",
                 "exprX":"top"
               }
             ],
@@ -79887,12 +80076,12 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"255 710",
+                "point":"170 710",
                 "exprX":"width/2"
               },
               {
                 "name":"bottom",
-                "point":"255 -140",
+                "point":"170 -140",
                 "exprX":"top"
               }
             ],
@@ -79904,7 +80093,7 @@
       {
         "name":"uni01CA",
         "unicode":"01ca",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -79961,12 +80150,12 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"990 700",
+                "point":"650 700",
                 "exprX":"width/2"
               },
               {
                 "name":"bottom",
-                "point":"990 0",
+                "point":"650 0",
                 "exprX":"top"
               }
             ],
@@ -80027,12 +80216,12 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"565 700",
+                "point":"365 700",
                 "exprX":"width/2"
               },
               {
                 "name":"bottom",
-                "point":"555 0",
+                "point":"365 0",
                 "exprX":"top"
               }
             ],
@@ -80044,7 +80233,7 @@
       {
         "name":"uni01CB",
         "unicode":"01cb",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -80101,12 +80290,12 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"785 710",
+                "point":"445 710",
                 "exprX":"width/2"
               },
               {
                 "name":"bottom",
-                "point":"785 -140",
+                "point":"445 -140",
                 "exprX":"top"
               }
             ],
@@ -80167,12 +80356,12 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"465 710",
+                "point":"275 710",
                 "exprX":"width/2"
               },
               {
                 "name":"bottom",
-                "point":"465 -140",
+                "point":"275 -140",
                 "exprX":"top"
               }
             ],
@@ -80184,7 +80373,7 @@
       {
         "name":"uni01CC",
         "unicode":"01cc",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -80241,12 +80430,12 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"725 710",
+                "point":"415 710",
                 "exprX":"width/2"
               },
               {
                 "name":"bottom",
-                "point":"725 -140",
+                "point":"415 -140",
                 "exprX":"top"
               }
             ],
@@ -80324,7 +80513,7 @@
       {
         "name":"uni00A0",
         "unicode":"00a0",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -80662,7 +80851,7 @@
       {
         "name":"comma",
         "unicode":"002c",
-        "lastModified":"2020-12-10 21:08:58",
+        "lastModified":"2020-12-10 21:47:48",
         "layers":[
           {
             "name":"Black",
@@ -80984,7 +81173,7 @@
       {
         "name":"ellipsis",
         "unicode":"2026",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -81252,7 +81441,7 @@
       {
         "name":"exclamdown",
         "unicode":"00a1",
-        "lastModified":"2020-12-10 21:06:13",
+        "lastModified":"2020-12-10 21:46:00",
         "layers":[
           {
             "name":"Black",
@@ -81508,7 +81697,7 @@
       {
         "name":"questiondown",
         "unicode":"00bf",
-        "lastModified":"2020-12-10 21:06:13",
+        "lastModified":"2020-12-10 21:46:00",
         "layers":[
           {
             "name":"Black",
@@ -81549,7 +81738,8 @@
                   "yScale":-1,
                   "xOffset":550,
                   "yOffset":560
-                }
+                },
+                "active":true
               }
             ],
             "color":"#ff34ff"
@@ -81712,7 +81902,7 @@
       {
         "name":"quotedbl",
         "unicode":"0022",
-        "lastModified":"2020-12-10 21:06:13",
+        "lastModified":"2020-12-10 21:46:00",
         "layers":[
           {
             "name":"Black",
@@ -81920,8 +82110,7 @@
                 "elementData":"elementdata.28",
                 "transform":{
                   "yOffset":500
-                },
-                "active":true
+                }
               }
             ],
             "color":"#fe4a46"
@@ -81977,7 +82166,7 @@
       {
         "name":"quotesinglbase",
         "unicode":"201a",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -82045,7 +82234,7 @@
       {
         "name":"quotedblleft",
         "unicode":"201c",
-        "lastModified":"2020-12-10 21:06:13",
+        "lastModified":"2020-12-10 21:46:00",
         "layers":[
           {
             "name":"Black",
@@ -82185,8 +82374,7 @@
                 },
                 "transform":{
                   "xOffset":10
-                },
-                "active":true
+                }
               }
             ],
             "color":"#fe4a46"
@@ -82323,7 +82511,7 @@
       {
         "name":"quotedblbase",
         "unicode":"201e",
-        "lastModified":"2020-12-10 21:06:13",
+        "lastModified":"2020-12-10 21:46:00",
         "layers":[
           {
             "name":"Black",
@@ -82512,7 +82700,7 @@
       {
         "name":"guilsinglright",
         "unicode":"203a",
-        "lastModified":"2020-12-10 21:06:13",
+        "lastModified":"2020-12-10 21:46:00",
         "layers":[
           {
             "name":"Black",
@@ -82777,7 +82965,7 @@
       {
         "name":"guillemotright",
         "unicode":"00bb",
-        "lastModified":"2020-12-10 21:09:19",
+        "lastModified":"2020-12-10 21:46:00",
         "layers":[
           {
             "name":"Black",
@@ -83002,7 +83190,7 @@
       {
         "name":"parenright",
         "unicode":"0029",
-        "lastModified":"2020-12-10 21:08:26",
+        "lastModified":"2020-12-10 21:46:00",
         "layers":[
           {
             "name":"Black",
@@ -83220,7 +83408,7 @@
       {
         "name":"bracketright",
         "unicode":"005d",
-        "lastModified":"2020-12-10 21:06:13",
+        "lastModified":"2020-12-10 21:46:00",
         "layers":[
           {
             "name":"Black",
@@ -83482,7 +83670,7 @@
       {
         "name":"braceright",
         "unicode":"007d",
-        "lastModified":"2020-12-10 21:06:13",
+        "lastModified":"2020-12-10 21:46:00",
         "layers":[
           {
             "name":"Black",
@@ -83685,7 +83873,7 @@
       {
         "name":"backslash",
         "unicode":"005c",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -85280,7 +85468,7 @@
       {
         "name":"grave",
         "unicode":"0060",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -85994,7 +86182,7 @@
       {
         "name":"numbersign",
         "unicode":"0023",
-        "lastModified":"2020-12-10 20:31:10",
+        "lastModified":"2020-12-10 21:47:37",
         "layers":[
           {
             "name":"Black",
@@ -90402,7 +90590,8 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ],
             "color":"#bac000",
@@ -92470,7 +92659,7 @@
       {
         "name":"uni2080",
         "unicode":"2080",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -92598,7 +92787,7 @@
       {
         "name":"uni2081",
         "unicode":"2081",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -92678,7 +92867,7 @@
       {
         "name":"uni2082",
         "unicode":"2082",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -92758,7 +92947,7 @@
       {
         "name":"uni2083",
         "unicode":"2083",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -92838,7 +93027,7 @@
       {
         "name":"uni2084",
         "unicode":"2084",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -92918,7 +93107,7 @@
       {
         "name":"uni2085",
         "unicode":"2085",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -92998,7 +93187,7 @@
       {
         "name":"uni2086",
         "unicode":"2086",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -93078,7 +93267,7 @@
       {
         "name":"uni2087",
         "unicode":"2087",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -93158,7 +93347,7 @@
       {
         "name":"uni2088",
         "unicode":"2088",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -93238,7 +93427,7 @@
       {
         "name":"uni2089",
         "unicode":"2089",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -94038,7 +94227,7 @@
       },
       {
         "name":"uni2080.zero",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -94272,7 +94461,7 @@
       {
         "name":"onequarter",
         "unicode":"00bc",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -94408,7 +94597,7 @@
       {
         "name":"onehalf",
         "unicode":"00bd",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -94544,7 +94733,7 @@
       {
         "name":"threequarters",
         "unicode":"00be",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -95162,7 +95351,7 @@
       {
         "name":"second",
         "unicode":"2033",
-        "lastModified":"2020-12-10 21:06:13",
+        "lastModified":"2020-12-10 21:46:00",
         "layers":[
           {
             "name":"Black",
@@ -95649,7 +95838,7 @@
       {
         "name":"divide",
         "unicode":"00f7",
-        "lastModified":"2020-12-10 21:06:13",
+        "lastModified":"2020-12-10 21:46:00",
         "layers":[
           {
             "name":"Black",
@@ -96051,7 +96240,7 @@
       {
         "name":"greater",
         "unicode":"003e",
-        "lastModified":"2020-12-10 21:06:13",
+        "lastModified":"2020-12-10 21:46:00",
         "layers":[
           {
             "name":"Black",
@@ -96291,7 +96480,7 @@
       {
         "name":"greaterequal",
         "unicode":"2265",
-        "lastModified":"2020-12-10 21:06:13",
+        "lastModified":"2020-12-10 21:46:00",
         "layers":[
           {
             "name":"Black",
@@ -97092,7 +97281,7 @@
       {
         "name":"uni2052",
         "unicode":"2052",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -98503,7 +98692,7 @@
       {
         "name":"uni2116",
         "unicode":"2116",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -98529,12 +98718,12 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"600 700",
+                "point":"340 700",
                 "exprX":"width/2"
               },
               {
                 "name":"bottom",
-                "point":"600 0",
+                "point":"340 0",
                 "exprX":"top"
               }
             ],
@@ -98599,12 +98788,12 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"520 700",
+                "point":"280 700",
                 "exprX":"width/2"
               },
               {
                 "name":"bottom",
-                "point":"520 0",
+                "point":"280 0",
                 "exprX":"top"
               }
             ],
@@ -98634,12 +98823,12 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"360 700",
+                "point":"190 700",
                 "exprX":"width/2"
               },
               {
                 "name":"bottom",
-                "point":"360 0",
+                "point":"190 0",
                 "exprX":"top"
               }
             ],
@@ -100306,7 +100495,7 @@
       {
         "name":"acute",
         "unicode":"00b4",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -100426,7 +100615,7 @@
       {
         "name":"circumflex",
         "unicode":"02c6",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -100570,7 +100759,7 @@
       {
         "name":"caron",
         "unicode":"02c7",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -100690,7 +100879,7 @@
       {
         "name":"breve",
         "unicode":"02d8",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -100810,7 +100999,7 @@
       {
         "name":"tilde",
         "unicode":"02dc",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -100954,7 +101143,7 @@
       {
         "name":"dieresis",
         "unicode":"00a8",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -101080,16 +101269,20 @@
             "metricsRight":"|",
             "elements":[
               {
-                "component":{
-                  "glyphName":"space"
+                "elementData":{
+                  "component":{
+                    "glyphName":"space"
+                  }
                 },
                 "transform":{
                   "xOffset":90
                 }
               },
               {
-                "component":{
-                  "glyphName":"uni0308"
+                "elementData":{
+                  "component":{
+                    "glyphName":"uni0308"
+                  }
                 },
                 "transform":{
                   "xOffset":155
@@ -101110,7 +101303,7 @@
       {
         "name":"dotaccent",
         "unicode":"02d9",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -101254,7 +101447,7 @@
       {
         "name":"ring",
         "unicode":"02da",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -101398,7 +101591,7 @@
       {
         "name":"macron",
         "unicode":"00af",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -101542,7 +101735,7 @@
       {
         "name":"hungarumlaut",
         "unicode":"02dd",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -101662,7 +101855,7 @@
       {
         "name":"cedilla",
         "unicode":"00b8",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -101782,7 +101975,7 @@
       {
         "name":"ogonek",
         "unicode":"02db",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -101902,7 +102095,7 @@
       {
         "name":"uni02B9",
         "unicode":"02b9",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -101959,8 +102152,10 @@
             "advanceWidth":180,
             "elements":[
               {
-                "component":{
-                  "glyphName":"minute"
+                "elementData":{
+                  "component":{
+                    "glyphName":"minute"
+                  }
                 }
               }
             ],
@@ -101972,7 +102167,7 @@
       {
         "name":"uni02BA",
         "unicode":"02ba",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -102036,7 +102231,7 @@
       {
         "name":"uni02BB",
         "unicode":"02bb",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -102100,7 +102295,7 @@
       {
         "name":"uni02BC",
         "unicode":"02bc",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -102164,7 +102359,7 @@
       {
         "name":"fi",
         "unicode":"fb01",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -102308,7 +102503,7 @@
       {
         "name":"fl",
         "unicode":"fb02",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -102452,7 +102647,7 @@
       {
         "name":"f_f",
         "unicode":"fb00",
-        "lastModified":"2020-12-10 21:13:50",
+        "lastModified":"2020-12-10 21:48:16",
         "layers":[
           {
             "name":"Black",
@@ -102588,7 +102783,7 @@
       {
         "name":"f_f_i",
         "unicode":"fb03",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -102756,7 +102951,7 @@
       {
         "name":"f_f_l",
         "unicode":"fb04",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -104727,7 +104922,7 @@
       {
         "name":"uni0374",
         "unicode":"0374",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -104890,7 +105085,7 @@
       {
         "name":"uni037E",
         "unicode":"037e",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -105061,7 +105256,7 @@
       {
         "name":"tonos",
         "unicode":"0384",
-        "lastModified":"2020-12-10 21:06:13",
+        "lastModified":"2020-12-10 21:46:00",
         "layers":[
           {
             "name":"Black",
@@ -105270,7 +105465,7 @@
       {
         "name":"dieresistonos",
         "unicode":"0385",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -105394,7 +105589,7 @@
       {
         "name":"Alpha",
         "unicode":"0391",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -105403,8 +105598,10 @@
             "advanceWidth":640,
             "elements":[
               {
-                "component":{
-                  "glyphName":"A"
+                "elementData":{
+                  "component":{
+                    "glyphName":"A"
+                  }
                 }
               }
             ],
@@ -105465,8 +105662,10 @@
             "advanceWidth":580,
             "elements":[
               {
-                "component":{
-                  "glyphName":"A"
+                "elementData":{
+                  "component":{
+                    "glyphName":"A"
+                  }
                 }
               }
             ],
@@ -105526,7 +105725,7 @@
       {
         "name":"Beta",
         "unicode":"0392",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -105634,7 +105833,7 @@
       {
         "name":"Gamma",
         "unicode":"0393",
-        "lastModified":"2020-12-09 20:16:25",
+        "lastModified":"2020-12-10 21:17:32",
         "layers":[
           {
             "name":"Black",
@@ -105794,7 +105993,7 @@
       {
         "name":"uni0394",
         "unicode":"0394",
-        "lastModified":"2020-12-10 21:07:41",
+        "lastModified":"2020-12-10 21:17:32",
         "layers":[
           {
             "name":"Black",
@@ -105942,7 +106141,7 @@
       {
         "name":"Epsilon",
         "unicode":"0395",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -105951,8 +106150,10 @@
             "advanceWidth":560,
             "elements":[
               {
-                "component":{
-                  "glyphName":"E"
+                "elementData":{
+                  "component":{
+                    "glyphName":"E"
+                  }
                 }
               }
             ],
@@ -106011,8 +106212,10 @@
             "advanceWidth":440,
             "elements":[
               {
-                "component":{
-                  "glyphName":"E"
+                "elementData":{
+                  "component":{
+                    "glyphName":"E"
+                  }
                 }
               }
             ],
@@ -106070,7 +106273,7 @@
       {
         "name":"Zeta",
         "unicode":"0396",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -106182,7 +106385,7 @@
       {
         "name":"Eta",
         "unicode":"0397",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -106191,8 +106394,10 @@
             "advanceWidth":650,
             "elements":[
               {
-                "component":{
-                  "glyphName":"H"
+                "elementData":{
+                  "component":{
+                    "glyphName":"H"
+                  }
                 }
               }
             ],
@@ -106245,8 +106450,10 @@
             "advanceWidth":560,
             "elements":[
               {
-                "component":{
-                  "glyphName":"H"
+                "elementData":{
+                  "component":{
+                    "glyphName":"H"
+                  }
                 }
               }
             ],
@@ -106298,7 +106505,7 @@
       {
         "name":"Theta",
         "unicode":"0398",
-        "lastModified":"2020-12-10 21:09:19",
+        "lastModified":"2020-12-10 21:17:49",
         "layers":[
           {
             "name":"Black",
@@ -106535,7 +106742,7 @@
       {
         "name":"Iota",
         "unicode":"0399",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -106544,8 +106751,10 @@
             "advanceWidth":430,
             "elements":[
               {
-                "component":{
-                  "glyphName":"I"
+                "elementData":{
+                  "component":{
+                    "glyphName":"I"
+                  }
                 }
               }
             ],
@@ -106598,8 +106807,10 @@
             "advanceWidth":350,
             "elements":[
               {
-                "component":{
-                  "glyphName":"I"
+                "elementData":{
+                  "component":{
+                    "glyphName":"I"
+                  }
                 }
               }
             ],
@@ -106651,7 +106862,7 @@
       {
         "name":"Kappa",
         "unicode":"039a",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -106759,7 +106970,7 @@
       {
         "name":"Lambda",
         "unicode":"039b",
-        "lastModified":"2020-12-10 18:27:50",
+        "lastModified":"2020-12-10 21:18:17",
         "layers":[
           {
             "name":"Black",
@@ -106888,7 +107099,7 @@
       {
         "name":"Mu",
         "unicode":"039c",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -107000,7 +107211,7 @@
       {
         "name":"Nu",
         "unicode":"039d",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -107112,7 +107323,7 @@
       {
         "name":"Xi",
         "unicode":"039e",
-        "lastModified":"2020-12-10 21:09:19",
+        "lastModified":"2020-12-10 21:18:17",
         "layers":[
           {
             "name":"Black",
@@ -107171,7 +107382,7 @@
             "name":"Regular",
             "autoRecipe":"E_E",
             "flags":0,
-            "advanceWidth":830,
+            "advanceWidth":660,
             "metricsLeft":"|E",
             "metricsRight":"E",
             "elements":[
@@ -107181,24 +107392,24 @@
                     {
                       "nodes":[
                         "30 0",
-                        "800 0",
-                        "800 80",
-                        "460 80",
-                        "460 320",
-                        "740 320",
-                        "740 400",
-                        "460 400",
-                        "460 620",
-                        "790 620",
-                        "790 700",
+                        "630 0",
+                        "630 80",
+                        "373 80",
+                        "373 320",
+                        "570 320",
+                        "570 400",
+                        "373 400",
+                        "373 620",
+                        "620 620",
+                        "620 700",
                         "40 700",
                         "40 620",
-                        "370 620",
-                        "370 400",
+                        "287 620",
+                        "287 400",
                         "90 400",
                         "90 320",
-                        "370 320",
-                        "370 80",
+                        "287 320",
+                        "287 80",
                         "30 80"
                       ]
                     }
@@ -107209,12 +107420,12 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"415 700",
+                "point":"330 700",
                 "exprX":"width/2"
               },
               {
                 "name":"bottom",
-                "point":"415 0",
+                "point":"330 0",
                 "exprX":"top"
               }
             ],
@@ -107333,7 +107544,7 @@
       {
         "name":"Omicron",
         "unicode":"039f",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -107342,8 +107553,10 @@
             "advanceWidth":650,
             "elements":[
               {
-                "component":{
-                  "glyphName":"O"
+                "elementData":{
+                  "component":{
+                    "glyphName":"O"
+                  }
                 }
               }
             ],
@@ -107396,8 +107609,10 @@
             "advanceWidth":550,
             "elements":[
               {
-                "component":{
-                  "glyphName":"O"
+                "elementData":{
+                  "component":{
+                    "glyphName":"O"
+                  }
                 }
               }
             ],
@@ -107449,7 +107664,7 @@
       {
         "name":"Pi",
         "unicode":"03a0",
-        "lastModified":"2020-12-10 21:09:19",
+        "lastModified":"2020-12-10 21:18:17",
         "layers":[
           {
             "name":"Black",
@@ -107626,7 +107841,7 @@
       {
         "name":"Rho",
         "unicode":"03a1",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -107730,7 +107945,7 @@
       {
         "name":"Sigma",
         "unicode":"03a3",
-        "lastModified":"2020-12-10 21:08:49",
+        "lastModified":"2020-12-10 21:18:17",
         "layers":[
           {
             "name":"Black",
@@ -107864,7 +108079,7 @@
       {
         "name":"Tau",
         "unicode":"03a4",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -107976,7 +108191,7 @@
       {
         "name":"Upsilon",
         "unicode":"03a5",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -108096,7 +108311,7 @@
       {
         "name":"Phi",
         "unicode":"03a6",
-        "lastModified":"2020-12-10 21:08:49",
+        "lastModified":"2020-12-10 21:18:17",
         "layers":[
           {
             "name":"Black",
@@ -108333,7 +108548,7 @@
       {
         "name":"Chi",
         "unicode":"03a7",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -108445,7 +108660,7 @@
       {
         "name":"Psi",
         "unicode":"03a8",
-        "lastModified":"2020-12-09 18:49:03",
+        "lastModified":"2020-12-10 21:18:17",
         "layers":[
           {
             "name":"Black",
@@ -108661,7 +108876,7 @@
           8486,
           937
         ],
-        "lastModified":"2020-12-08 19:56:13",
+        "lastModified":"2020-12-10 21:17:49",
         "layers":[
           {
             "name":"Black",
@@ -108830,7 +109045,7 @@
       {
         "name":"Alphatonos",
         "unicode":"0386",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -108935,12 +109150,12 @@
               },
               {
                 "name":"top",
-                "point":"400 700",
+                "point":"450 700",
                 "exprX":"width/2"
               },
               {
                 "name":"bottom",
-                "point":"400 0",
+                "point":"450 0",
                 "exprX":"top"
               }
             ],
@@ -108973,12 +109188,12 @@
               },
               {
                 "name":"top",
-                "point":"260 700",
+                "point":"300 700",
                 "exprX":"width/2"
               },
               {
                 "name":"bottom",
-                "point":"260 0",
+                "point":"300 0",
                 "exprX":"top"
               }
             ],
@@ -108990,7 +109205,7 @@
       {
         "name":"Epsilontonos",
         "unicode":"0388",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -109146,7 +109361,7 @@
       {
         "name":"Etatonos",
         "unicode":"0389",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -109239,12 +109454,12 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"390 700",
+                "point":"500 700",
                 "exprX":"width/2"
               },
               {
                 "name":"bottom",
-                "point":"390 0",
+                "point":"500 0",
                 "exprX":"top"
               }
             ],
@@ -109273,12 +109488,12 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"270 700",
+                "point":"360 700",
                 "exprX":"width/2"
               },
               {
                 "name":"bottom",
-                "point":"270 0",
+                "point":"360 0",
                 "exprX":"top"
               }
             ],
@@ -109290,7 +109505,7 @@
       {
         "name":"Iotatonos",
         "unicode":"038a",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -109383,12 +109598,12 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"285 700",
+                "point":"395 700",
                 "exprX":"width/2"
               },
               {
                 "name":"bottom",
-                "point":"285 0",
+                "point":"395 0",
                 "exprX":"top"
               }
             ],
@@ -109417,12 +109632,12 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"215 700",
+                "point":"305 700",
                 "exprX":"width/2"
               },
               {
                 "name":"bottom",
-                "point":"215 0",
+                "point":"305 0",
                 "exprX":"top"
               }
             ],
@@ -109434,7 +109649,7 @@
       {
         "name":"Iotadieresis",
         "unicode":"03aa",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -109582,7 +109797,7 @@
       {
         "name":"Omicrontonos",
         "unicode":"038c",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -109607,12 +109822,12 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"445 700",
+                "point":"535 700",
                 "exprX":"width/2"
               },
               {
                 "name":"bottom",
-                "point":"445 0",
+                "point":"535 0",
                 "exprX":"top"
               }
             ],
@@ -109675,12 +109890,12 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"385 700",
+                "point":"465 700",
                 "exprX":"width/2"
               },
               {
                 "name":"bottom",
-                "point":"385 0",
+                "point":"465 0",
                 "exprX":"top"
               }
             ],
@@ -109709,12 +109924,12 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"270 700",
+                "point":"330 700",
                 "exprX":"width/2"
               },
               {
                 "name":"bottom",
-                "point":"270 0",
+                "point":"330 0",
                 "exprX":"top"
               }
             ],
@@ -109726,7 +109941,7 @@
       {
         "name":"Upsilontonos",
         "unicode":"038e",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -109751,12 +109966,12 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"440 700",
+                "point":"560 700",
                 "exprX":"width/2"
               },
               {
                 "name":"bottom",
-                "point":"440 0",
+                "point":"560 0",
                 "exprX":"top"
               }
             ],
@@ -109819,12 +110034,12 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"390 700",
+                "point":"500 700",
                 "exprX":"width/2"
               },
               {
                 "name":"bottom",
-                "point":"390 0",
+                "point":"500 0",
                 "exprX":"top"
               }
             ],
@@ -109853,12 +110068,12 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"270 700",
+                "point":"360 700",
                 "exprX":"width/2"
               },
               {
                 "name":"bottom",
-                "point":"270 0",
+                "point":"360 0",
                 "exprX":"top"
               }
             ],
@@ -109870,7 +110085,7 @@
       {
         "name":"Upsilondieresis",
         "unicode":"03ab",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -110018,7 +110233,7 @@
       {
         "name":"Omegatonos",
         "unicode":"038f",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -110114,7 +110329,7 @@
       {
         "name":"alpha",
         "unicode":"03b1",
-        "lastModified":"2020-12-10 21:13:50",
+        "lastModified":"2020-12-10 21:20:05",
         "layers":[
           {
             "name":"Black",
@@ -110155,7 +110370,8 @@
                 },
                 "transform":{
                   "xOffset":-60
-                }
+                },
+                "active":true
               }
             ],
             "anchors":[
@@ -110178,7 +110394,7 @@
             "name":"Regular",
             "autoRecipe":"ampersand",
             "flags":0,
-            "advanceWidth":625,
+            "advanceWidth":630,
             "metricsLeft":"omicron",
             "elements":[
               {
@@ -110213,7 +110429,8 @@
                 },
                 "transform":{
                   "xOffset":5
-                }
+                },
+                "active":true
               }
             ],
             "anchors":[
@@ -110290,7 +110507,7 @@
             "name":"CondRegular",
             "autoRecipe":"ampersand",
             "flags":0,
-            "advanceWidth":345,
+            "advanceWidth":350,
             "metricsLeft":"omicron",
             "elements":[
               {
@@ -110331,13 +110548,13 @@
             "anchors":[
               {
                 "name":"top",
-                "point":"173 560",
+                "point":"175 560",
                 "appearance":5,
                 "exprX":"width/2"
               },
               {
                 "name":"bottom",
-                "point":"173 0",
+                "point":"175 0",
                 "appearance":6,
                 "exprX":"top"
               }
@@ -110504,7 +110721,8 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ],
             "color":"#bac000",
@@ -110515,7 +110733,7 @@
       {
         "name":"gamma",
         "unicode":"03b3",
-        "lastModified":"2020-12-10 21:13:50",
+        "lastModified":"2020-12-10 21:18:12",
         "layers":[
           {
             "name":"Black",
@@ -110906,7 +111124,7 @@
       {
         "name":"epsilon",
         "unicode":"03b5",
-        "lastModified":"2020-12-10 21:13:50",
+        "lastModified":"2020-12-10 21:20:05",
         "layers":[
           {
             "name":"Black",
@@ -111200,7 +111418,8 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ],
             "anchors":[
@@ -111315,7 +111534,7 @@
       {
         "name":"eta",
         "unicode":"03b7",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -111324,8 +111543,10 @@
             "advanceWidth":620,
             "elements":[
               {
-                "component":{
-                  "glyphName":"n"
+                "elementData":{
+                  "component":{
+                    "glyphName":"n"
+                  }
                 }
               }
             ],
@@ -111378,8 +111599,10 @@
             "advanceWidth":560,
             "elements":[
               {
-                "component":{
-                  "glyphName":"n"
+                "elementData":{
+                  "component":{
+                    "glyphName":"n"
+                  }
                 }
               }
             ],
@@ -111668,7 +111891,7 @@
       {
         "name":"iota",
         "unicode":"03b9",
-        "lastModified":"2020-12-10 21:09:19",
+        "lastModified":"2020-12-10 21:20:05",
         "layers":[
           {
             "name":"Black",
@@ -111829,7 +112052,7 @@
       {
         "name":"kappa",
         "unicode":"03ba",
-        "lastModified":"2020-12-10 21:08:58",
+        "lastModified":"2020-12-10 21:46:00",
         "layers":[
           {
             "name":"Black",
@@ -111839,8 +112062,10 @@
             "metricsLeft":"mu",
             "elements":[
               {
-                "component":{
-                  "glyphName":"kgreenlandic"
+                "elementData":{
+                  "component":{
+                    "glyphName":"kgreenlandic"
+                  }
                 }
               }
             ],
@@ -111894,8 +112119,10 @@
             "metricsLeft":"mu",
             "elements":[
               {
-                "component":{
-                  "glyphName":"kgreenlandic"
+                "elementData":{
+                  "component":{
+                    "glyphName":"kgreenlandic"
+                  }
                 }
               }
             ],
@@ -111944,7 +112171,7 @@
       {
         "name":"lambda",
         "unicode":"03bb",
-        "lastModified":"2020-12-10 21:09:19",
+        "lastModified":"2020-12-10 21:20:05",
         "layers":[
           {
             "name":"Black",
@@ -112124,7 +112351,7 @@
       {
         "name":"uni03BC",
         "unicode":"03bc",
-        "lastModified":"2020-12-10 21:13:50",
+        "lastModified":"2020-12-10 21:20:05",
         "layers":[
           {
             "name":"Black",
@@ -112264,8 +112491,7 @@
                       ]
                     }
                   ]
-                },
-                "active":true
+                }
               }
             ],
             "color":"#bac000",
@@ -112276,7 +112502,7 @@
       {
         "name":"nu",
         "unicode":"03bd",
-        "lastModified":"2020-12-10 21:13:50",
+        "lastModified":"2020-12-10 21:20:05",
         "layers":[
           {
             "name":"Black",
@@ -112444,7 +112670,7 @@
       {
         "name":"xi",
         "unicode":"03be",
-        "lastModified":"2020-12-10 21:13:50",
+        "lastModified":"2020-12-10 21:18:12",
         "layers":[
           {
             "name":"Black",
@@ -112515,7 +112741,8 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ],
             "color":"#ff34ff"
@@ -112601,7 +112828,7 @@
       {
         "name":"omicron",
         "unicode":"03bf",
-        "lastModified":"2020-12-10 21:13:50",
+        "lastModified":"2020-12-10 21:46:00",
         "layers":[
           {
             "name":"Black",
@@ -112731,7 +112958,7 @@
       {
         "name":"pi",
         "unicode":"03c0",
-        "lastModified":"2020-12-10 21:13:50",
+        "lastModified":"2020-12-10 21:20:05",
         "layers":[
           {
             "name":"Black",
@@ -112906,7 +113133,7 @@
       {
         "name":"rho",
         "unicode":"03c1",
-        "lastModified":"2020-12-10 21:13:50",
+        "lastModified":"2020-12-10 21:18:12",
         "layers":[
           {
             "name":"Black",
@@ -113285,7 +113512,7 @@
       {
         "name":"sigma",
         "unicode":"03c3",
-        "lastModified":"2020-12-10 21:13:50",
+        "lastModified":"2020-12-10 21:20:05",
         "layers":[
           {
             "name":"Black",
@@ -113745,7 +113972,8 @@
                 },
                 "transform":{
                   "xOffset":10
-                }
+                },
+                "active":true
               }
             ],
             "anchors":[
@@ -114039,7 +114267,7 @@
       {
         "name":"chi",
         "unicode":"03c7",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -114581,7 +114809,7 @@
       {
         "name":"alphatonos",
         "unicode":"03ac",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -114621,7 +114849,7 @@
             "name":"Regular",
             "autoRecipe":"alpha+tonoscomb",
             "flags":16,
-            "advanceWidth":625,
+            "advanceWidth":630,
             "elements":[
               {
                 "component":{
@@ -114688,7 +114916,7 @@
             "name":"CondRegular",
             "autoRecipe":"alpha+tonoscomb",
             "flags":16,
-            "advanceWidth":345,
+            "advanceWidth":350,
             "elements":[
               {
                 "component":{
@@ -114700,19 +114928,19 @@
                   "glyphName":"tonoscomb"
                 },
                 "transform":{
-                  "xOffset":173
+                  "xOffset":175
                 }
               }
             ],
             "anchors":[
               {
                 "name":"top",
-                "point":"173 560",
+                "point":"175 560",
                 "exprX":"width/2"
               },
               {
                 "name":"bottom",
-                "point":"173 0",
+                "point":"175 0",
                 "exprX":"top"
               }
             ],
@@ -114724,7 +114952,7 @@
       {
         "name":"epsilontonos",
         "unicode":"03ad",
-        "lastModified":"2020-12-10 21:13:50",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -114864,7 +115092,7 @@
       {
         "name":"etatonos",
         "unicode":"03ae",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -115008,7 +115236,7 @@
       {
         "name":"iotatonos",
         "unicode":"03af",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -115144,7 +115372,7 @@
       {
         "name":"iotadieresis",
         "unicode":"03ca",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -115153,13 +115381,17 @@
             "advanceWidth":340,
             "elements":[
               {
-                "component":{
-                  "glyphName":"iota"
+                "elementData":{
+                  "component":{
+                    "glyphName":"iota"
+                  }
                 }
               },
               {
-                "component":{
-                  "glyphName":"uni0308"
+                "elementData":{
+                  "component":{
+                    "glyphName":"uni0308"
+                  }
                 },
                 "transform":{
                   "xOffset":150
@@ -115221,13 +115453,17 @@
             "advanceWidth":310,
             "elements":[
               {
-                "component":{
-                  "glyphName":"iota"
+                "elementData":{
+                  "component":{
+                    "glyphName":"iota"
+                  }
                 }
               },
               {
-                "component":{
-                  "glyphName":"uni0308"
+                "elementData":{
+                  "component":{
+                    "glyphName":"uni0308"
+                  }
                 },
                 "transform":{
                   "xOffset":140
@@ -115288,7 +115524,7 @@
       {
         "name":"iotadieresistonos",
         "unicode":"0390",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -115428,7 +115664,7 @@
       {
         "name":"omicrontonos",
         "unicode":"03cc",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -115572,7 +115808,7 @@
       {
         "name":"upsilontonos",
         "unicode":"03cd",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -115716,7 +115952,7 @@
       {
         "name":"upsilondieresis",
         "unicode":"03cb",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -115876,7 +116112,7 @@
       {
         "name":"upsilondieresistonos",
         "unicode":"03b0",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -116024,7 +116260,7 @@
       {
         "name":"omegatonos",
         "unicode":"03ce",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -116168,7 +116404,7 @@
       {
         "name":"uni03CF",
         "unicode":"03cf",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -116308,7 +116544,7 @@
       {
         "name":"uni03D7",
         "unicode":"03d7",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -117470,7 +117706,7 @@
       {
         "name":"arrowup",
         "unicode":"2191",
-        "lastModified":"2020-12-10 21:06:13",
+        "lastModified":"2020-12-10 21:46:00",
         "layers":[
           {
             "name":"Black",
@@ -117578,7 +117814,7 @@
       {
         "name":"arrowright",
         "unicode":"2192",
-        "lastModified":"2020-12-10 21:06:13",
+        "lastModified":"2020-12-10 21:46:00",
         "layers":[
           {
             "name":"Black",
@@ -117670,7 +117906,7 @@
       {
         "name":"arrowdown",
         "unicode":"2193",
-        "lastModified":"2020-12-10 21:06:13",
+        "lastModified":"2020-12-10 21:46:00",
         "layers":[
           {
             "name":"Black",
@@ -117746,7 +117982,7 @@
       {
         "name":"arrowboth",
         "unicode":"2194",
-        "lastModified":"2020-12-10 21:13:15",
+        "lastModified":"2020-12-10 21:47:42",
         "layers":[
           {
             "name":"Black",
@@ -117757,17 +117993,13 @@
             "metricsRight":"|arrowleft",
             "elements":[
               {
-                "elementData":{
-                  "component":{
-                    "glyphName":"arrowleft"
-                  }
+                "component":{
+                  "glyphName":"arrowleft"
                 }
               },
               {
-                "elementData":{
-                  "component":{
-                    "glyphName":"arrowright"
-                  }
+                "component":{
+                  "glyphName":"arrowright"
                 },
                 "transform":{
                   "xOffset":260
@@ -117854,7 +118086,7 @@
       {
         "name":"arrowupdn",
         "unicode":"2195",
-        "lastModified":"2020-12-10 21:06:13",
+        "lastModified":"2020-12-10 21:46:00",
         "layers":[
           {
             "name":"Black",
@@ -117955,7 +118187,7 @@
       {
         "name":"uni2196",
         "unicode":"2196",
-        "lastModified":"2020-12-10 21:06:13",
+        "lastModified":"2020-12-10 21:46:00",
         "layers":[
           {
             "name":"Black",
@@ -118059,7 +118291,7 @@
       {
         "name":"uni2197",
         "unicode":"2197",
-        "lastModified":"2020-12-10 21:06:13",
+        "lastModified":"2020-12-10 21:46:00",
         "layers":[
           {
             "name":"Black",
@@ -118151,7 +118383,7 @@
       {
         "name":"uni2198",
         "unicode":"2198",
-        "lastModified":"2020-12-10 21:06:13",
+        "lastModified":"2020-12-10 21:46:00",
         "layers":[
           {
             "name":"Black",
@@ -118243,7 +118475,7 @@
       {
         "name":"uni2199",
         "unicode":"2199",
-        "lastModified":"2020-12-10 21:06:13",
+        "lastModified":"2020-12-10 21:46:00",
         "layers":[
           {
             "name":"Black",
@@ -118378,7 +118610,8 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ],
             "color":"#ff34ff"
@@ -119170,13 +119403,19 @@
               },
               "@period":{
                 "@T":"-20",
-                "V":"-20"
+                "V":"-20",
+                "four":"-20"
               },
               "@quote":{
-                "@A1":"-30"
+                "@A1":"-30",
+                "questiondown":"-70"
+              },
+              "@quoteleft":{
+                "questiondown":"-70"
               },
               "@quoteright":{
-                "@A1":"-10"
+                "@A1":"-10",
+                "questiondown":"-60"
               },
               "F":{
                 "@A1":"-10",
@@ -119205,6 +119444,9 @@
                 "@C":"-10",
                 "@W":"-20",
                 "V":"-10"
+              },
+              "seven":{
+                "@period":"-40"
               },
               "tonos":{
                 "@C":"-30",
@@ -119584,13 +119826,16 @@
                 "V":"-50"
               },
               "@quote":{
-                "@A1":"-40"
+                "@A1":"-40",
+                "questiondown":"-130"
               },
               "@quoteleft":{
-                "@A1":"-30"
+                "@A1":"-30",
+                "questiondown":"-140"
               },
               "@quoteright":{
-                "@A1":"-40"
+                "@A1":"-40",
+                "questiondown":"-100"
               },
               "B":{
                 "@A1":"-10"
@@ -119631,6 +119876,9 @@
                 "@C":"-20",
                 "@W":"-40",
                 "V":"-70"
+              },
+              "seven":{
+                "@period":"-50"
               },
               "tonos":{
                 "Alpha":"-60",
@@ -120013,16 +120261,20 @@
               "@period":{
                 "@T":"-100",
                 "@W":"-40",
-                "V":"-60"
+                "V":"-60",
+                "four":"-30"
               },
               "@quote":{
-                "@A1":"-60"
+                "@A1":"-60",
+                "questiondown":"-190"
               },
               "@quoteleft":{
-                "@A1":"-20"
+                "@A1":"-20",
+                "questiondown":"-200"
               },
               "@quoteright":{
-                "@A1":"-50"
+                "@A1":"-50",
+                "questiondown":"-190"
               },
               "F":{
                 "@A1":"-40",
@@ -120057,6 +120309,9 @@
                 "@C":"-30",
                 "@W":"-80",
                 "V":"-100"
+              },
+              "seven":{
+                "@period":"-50"
               },
               "tonos":{
                 "@C":"-30",
@@ -120432,13 +120687,15 @@
               "@period":{
                 "@T":"-120",
                 "@W":"-20",
-                "V":"-60"
+                "V":"-60",
+                "four":"-10"
               },
               "@quote":{
                 "@A1":"-60"
               },
               "@quoteleft":{
-                "@A1":"-30"
+                "@A1":"-30",
+                "questiondown":"-150"
               },
               "@quoteright":{
                 "@A1":"-40"
@@ -120474,6 +120731,9 @@
                 "@C":"-30",
                 "@W":"-70",
                 "V":"-60"
+              },
+              "seven":{
+                "@period":"-50"
               },
               "tonos":{
                 "@C":"-30",
