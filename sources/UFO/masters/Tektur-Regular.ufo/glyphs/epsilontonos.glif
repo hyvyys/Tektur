@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="epsilontonos" format="2">
+  <advance width="590"/>
+  <unicode hex="03AD"/>
+  <anchor x="345" y="0" name="bottom"/>
+  <anchor x="345" y="560" name="top"/>
+  <outline>
+    <component base="epsilon"/>
+    <component base="tonoscomb" xOffset="345"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>epsilon+tonoscomb</string>
+  </dict>
+  </lib>
+</glyph>

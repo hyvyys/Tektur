@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowupdn" format="2">
+  <advance width="600"/>
+  <unicode hex="2195"/>
+  <outline>
+    <component base="arrowboth" xScale="0" xyScale="1" yxScale="-1" yScale="0" xOffset="580" yOffset="-210"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>arrowup</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>arrowup</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0455" format="2">
+  <advance width="580"/>
+  <unicode hex="0455"/>
+  <anchor x="270" y="0" name="bottom"/>
+  <anchor x="310" y="560" name="top"/>
+  <outline>
+    <component base="s"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  </dict>
+  </lib>
+</glyph>

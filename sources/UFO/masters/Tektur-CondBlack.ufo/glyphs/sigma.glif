@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sigma" format="2">
+  <advance width="560"/>
+  <unicode hex="03C3"/>
+  <anchor x="280" y="0" name="bottom"/>
+  <anchor x="280" y="560" name="top"/>
+  <outline>
+    <contour>
+      <point x="30" y="130" type="line"/>
+      <point x="160" y="0" type="line"/>
+      <point x="400" y="0" type="line"/>
+      <point x="530" y="130" type="line"/>
+      <point x="530" y="320" type="line"/>
+      <point x="420" y="390" type="line"/>
+      <point x="540" y="390" type="line"/>
+      <point x="540" y="560" type="line"/>
+      <point x="160" y="560" type="line"/>
+      <point x="30" y="430" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="170" type="line"/>
+      <point x="250" y="390" type="line"/>
+      <point x="310" y="390" type="line"/>
+      <point x="310" y="170" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>omicron</string>
+  <key>com.fontlab.recipe</key>
+  <string>o+>macron%</string>
+  </dict>
+  </lib>
+</glyph>

@@ -14,6 +14,11 @@
     <key>public.kern2.period</key>
     <integer>-30</integer>
   </dict>
+  <key>Gamma</key>
+  <dict>
+    <key>public.kern2.alpha</key>
+    <integer>-40</integer>
+  </dict>
   <key>P</key>
   <dict>
     <key>public.kern2.A1</key>
@@ -27,6 +32,16 @@
     <integer>-20</integer>
     <key>public.kern2.period</key>
     <integer>-50</integer>
+  </dict>
+  <key>gamma</key>
+  <dict>
+    <key>lambda</key>
+    <integer>-40</integer>
+  </dict>
+  <key>lambda</key>
+  <dict>
+    <key>gamma</key>
+    <integer>-40</integer>
   </dict>
   <key>question</key>
   <dict>
@@ -42,6 +57,20 @@
     <key>public.kern2.W</key>
     <integer>-70</integer>
   </dict>
+  <key>seven</key>
+  <dict>
+    <key>public.kern2.period</key>
+    <integer>-50</integer>
+  </dict>
+  <key>tonos</key>
+  <dict>
+    <key>uni03A9</key>
+    <integer>-30</integer>
+    <key>public.kern2.A1</key>
+    <integer>-70</integer>
+    <key>public.kern2.C</key>
+    <integer>-30</integer>
+  </dict>
   <key>public.kern1.A</key>
   <dict>
     <key>V</key>
@@ -52,10 +81,19 @@
     <integer>-50</integer>
     <key>public.kern2.W</key>
     <integer>-10</integer>
+    <key>public.kern2.Y</key>
+    <integer>-40</integer>
     <key>public.kern2.quote</key>
     <integer>-60</integer>
     <key>public.kern2.quoteleft</key>
     <integer>-30</integer>
+    <key>public.kern2.quoteright</key>
+    <integer>-30</integer>
+  </dict>
+  <key>public.kern1.D</key>
+  <dict>
+    <key>public.kern2.Y</key>
+    <integer>-20</integer>
   </dict>
   <key>public.kern1.L</key>
   <dict>
@@ -74,6 +112,8 @@
   </dict>
   <key>public.kern1.T</key>
   <dict>
+    <key>itilde</key>
+    <integer>10</integer>
     <key>public.kern2.A1</key>
     <integer>-50</integer>
     <key>public.kern2.period</key>
@@ -86,10 +126,19 @@
     <key>public.kern2.period</key>
     <integer>-20</integer>
   </dict>
+  <key>public.kern1.Y</key>
+  <dict>
+    <key>public.kern2.A1</key>
+    <integer>-40</integer>
+    <key>public.kern2.C</key>
+    <integer>-20</integer>
+  </dict>
   <key>public.kern1.period</key>
   <dict>
     <key>V</key>
     <integer>-60</integer>
+    <key>four</key>
+    <integer>-10</integer>
     <key>public.kern2.T</key>
     <integer>-120</integer>
     <key>public.kern2.W</key>
@@ -102,6 +151,8 @@
   </dict>
   <key>public.kern1.quoteleft</key>
   <dict>
+    <key>questiondown</key>
+    <integer>-150</integer>
     <key>public.kern2.A1</key>
     <integer>-30</integer>
   </dict>

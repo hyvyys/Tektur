@@ -3,15 +3,23 @@
   <advance width="300"/>
   <unicode hex="0129"/>
   <anchor x="150" y="0" name="bottom"/>
-  <anchor x="150" y="560" name="top"/>
+  <anchor x="150" y="730" name="top"/>
   <outline>
-    <component base="dotlessi"/>
-    <component base="tildecomb" xOffset="150"/>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="260" y="0" type="line"/>
+      <point x="260" y="560" type="line"/>
+      <point x="40" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="-10" y="570" type="line"/>
+      <point x="69" y="615" type="line"/>
+      <point x="230" y="575" type="line"/>
+      <point x="310" y="635" type="line"/>
+      <point x="310" y="750" type="line"/>
+      <point x="231" y="705" type="line"/>
+      <point x="70" y="745" type="line"/>
+      <point x="-10" y="685" type="line"/>
+    </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  </dict>
-  </lib>
 </glyph>

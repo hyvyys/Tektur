@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0491" format="2">
+  <advance width="240"/>
+  <unicode hex="0491"/>
+  <anchor x="90" y="0" name="bottom"/>
+  <anchor x="179" y="640" name="top"/>
+  <outline>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="130" y="478" type="line"/>
+      <point x="220" y="478" type="line"/>
+      <point x="220" y="680" type="line"/>
+      <point x="140" y="680" type="line"/>
+      <point x="140" y="560" type="line"/>
+      <point x="40" y="560" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>=uni0433+uni0307@68%,560</string>
+  </dict>
+  </lib>
+</glyph>

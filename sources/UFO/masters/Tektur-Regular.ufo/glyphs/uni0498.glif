@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0498" format="2">
+  <advance width="610"/>
+  <unicode hex="0498"/>
+  <outline>
+    <contour>
+      <point x="490" y="0" type="line"/>
+      <point x="570" y="80" type="line"/>
+      <point x="570" y="306" type="line"/>
+      <point x="493" y="366" type="line"/>
+      <point x="550" y="409" type="line"/>
+      <point x="550" y="620" type="line"/>
+      <point x="470" y="700" type="line"/>
+      <point x="40" y="700" type="line"/>
+      <point x="40" y="620" type="line"/>
+      <point x="460" y="620" type="line"/>
+      <point x="460" y="400" type="line"/>
+      <point x="90" y="400" type="line"/>
+      <point x="90" y="320" type="line"/>
+      <point x="480" y="320" type="line"/>
+      <point x="480" y="80" type="line"/>
+      <point x="30" y="80" type="line"/>
+      <point x="30" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="235" y="-140" type="line"/>
+      <point x="325" y="-140" type="line"/>
+      <point x="325" y="80" type="line"/>
+      <point x="235" y="80" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>=uni0417 + desccy@50%,</string>
+  </dict>
+  </lib>
+</glyph>

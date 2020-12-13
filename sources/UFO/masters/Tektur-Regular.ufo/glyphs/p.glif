@@ -5,7 +5,22 @@
   <anchor x="280" y="-140" name="bottom"/>
   <anchor x="300" y="560" name="top"/>
   <outline>
-    <component base="b" yScale="-1" yOffset="560"/>
+    <contour>
+      <point x="60" y="-140" type="line"/>
+      <point x="150" y="-140" type="line"/>
+      <point x="150" y="0" type="line"/>
+      <point x="475" y="0" type="line"/>
+      <point x="565" y="90" type="line"/>
+      <point x="565" y="470" type="line"/>
+      <point x="475" y="560" type="line"/>
+      <point x="60" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="475" y="480" type="line"/>
+      <point x="475" y="80" type="line"/>
+      <point x="150" y="80" type="line"/>
+      <point x="150" y="480" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>

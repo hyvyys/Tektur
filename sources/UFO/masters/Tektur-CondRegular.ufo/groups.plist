@@ -28,10 +28,13 @@
     <string>Acircumflex</string>
     <string>Adieresis</string>
     <string>Agrave</string>
+    <string>Alpha</string>
     <string>Amacron</string>
     <string>Aogonek</string>
     <string>Aring</string>
     <string>Atilde</string>
+    <string>Lambda</string>
+    <string>uni0394</string>
   </array>
   <key>public.kern1.D</key>
   <array>
@@ -47,6 +50,8 @@
     <string>Ograve</string>
     <string>Ohungarumlaut</string>
     <string>Omacron</string>
+    <string>Omicron</string>
+    <string>Omicrontonos</string>
     <string>Oslash</string>
     <string>Otilde</string>
   </array>
@@ -76,6 +81,21 @@
     <string>uni0162</string>
     <string>uni021A</string>
   </array>
+  <key>public.kern1.Y</key>
+  <array>
+    <string>Upsilon</string>
+    <string>Upsilondieresis</string>
+    <string>Upsilontonos</string>
+    <string>Y</string>
+    <string>Yacute</string>
+    <string>Ycircumflex</string>
+    <string>Ydieresis</string>
+    <string>Ygrave</string>
+    <string>uni0232</string>
+    <string>uni1EF4</string>
+    <string>uni1EF6</string>
+    <string>uni1EF8</string>
+  </array>
   <key>public.kern1.period</key>
   <array>
     <string>comma</string>
@@ -87,6 +107,11 @@
   <array>
     <string>quotedbl</string>
     <string>quotesingle</string>
+  </array>
+  <key>public.kern1.quoteleft</key>
+  <array>
+    <string>quotedblleft</string>
+    <string>quoteleft</string>
   </array>
   <key>public.kern1.quoteright</key>
   <array>
@@ -102,10 +127,13 @@
     <string>Acircumflex</string>
     <string>Adieresis</string>
     <string>Agrave</string>
+    <string>Alpha</string>
     <string>Amacron</string>
     <string>Aogonek</string>
     <string>Aring</string>
     <string>Atilde</string>
+    <string>Lambda</string>
+    <string>uni0394</string>
   </array>
   <key>public.kern2.C</key>
   <array>
@@ -127,6 +155,7 @@
     <string>Ograve</string>
     <string>Ohungarumlaut</string>
     <string>Omacron</string>
+    <string>Omicron</string>
     <string>Oslash</string>
     <string>Otilde</string>
     <string>Q</string>
@@ -156,6 +185,33 @@
     <string>Wcircumflex</string>
     <string>Wdieresis</string>
     <string>Wgrave</string>
+  </array>
+  <key>public.kern2.Y</key>
+  <array>
+    <string>Upsilon</string>
+    <string>Upsilondieresis</string>
+    <string>Upsilontonos</string>
+    <string>Y</string>
+    <string>Yacute</string>
+    <string>Ycircumflex</string>
+    <string>Ydieresis</string>
+    <string>Ygrave</string>
+    <string>uni0232</string>
+    <string>uni1EF4</string>
+    <string>uni1EF6</string>
+    <string>uni1EF8</string>
+  </array>
+  <key>public.kern2.alpha</key>
+  <array>
+    <string>alpha</string>
+    <string>alphatonos</string>
+    <string>epsilon</string>
+    <string>epsilontonos</string>
+    <string>omicron</string>
+    <string>omicrontonos</string>
+    <string>rho</string>
+    <string>sigma</string>
+    <string>uni03C2</string>
   </array>
   <key>public.kern2.period</key>
   <array>

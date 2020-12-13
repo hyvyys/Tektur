@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EB9" format="2">
+  <advance width="330"/>
+  <unicode hex="1EB9"/>
+  <anchor x="180" y="0" name="bottom"/>
+  <anchor x="215" y="-0" name="ogonek"/>
+  <anchor x="180" y="560" name="top"/>
+  <outline>
+    <component base="e"/>
+    <component base="dotbelowcomb" xOffset="180"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>e+dotbelowcomb</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowboth" format="2">
+  <advance width="1100"/>
+  <unicode hex="2194"/>
+  <outline>
+    <contour>
+      <point x="20" y="275" type="line"/>
+      <point x="220" y="0" type="line"/>
+      <point x="450" y="0" type="line"/>
+      <point x="312" y="185" type="line"/>
+      <point x="788" y="185" type="line"/>
+      <point x="650" y="0" type="line"/>
+      <point x="880" y="0" type="line"/>
+      <point x="1080" y="275" type="line"/>
+      <point x="1080" y="285" type="line"/>
+      <point x="880" y="560" type="line"/>
+      <point x="650" y="560" type="line"/>
+      <point x="788" y="375" type="line"/>
+      <point x="312" y="375" type="line"/>
+      <point x="450" y="560" type="line"/>
+      <point x="220" y="560" type="line"/>
+      <point x="20" y="285" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>arrowleft</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|arrowleft</string>
+  <key>com.fontlab.recipe</key>
+  <string>=arrowleft &amp; arrowright@30%,</string>
+  </dict>
+  </lib>
+</glyph>

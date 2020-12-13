@@ -3,14 +3,16 @@
   <advance width="620"/>
   <unicode hex="0173"/>
   <anchor x="310" y="0" name="bottom"/>
-  <anchor x="470" y="0" name="ogonek"/>
+  <anchor x="485" y="-0" name="ogonek"/>
   <anchor x="310" y="560" name="top"/>
   <outline>
     <component base="u"/>
-    <component base="uni0328" xOffset="470"/>
+    <component base="uni0328" xOffset="485"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>u+uni0328</string>
   </dict>

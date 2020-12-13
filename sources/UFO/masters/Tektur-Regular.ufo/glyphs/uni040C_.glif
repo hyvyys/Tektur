@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni040C" format="2">
+  <advance width="650"/>
+  <unicode hex="040C"/>
+  <anchor x="330" y="0" name="bottom"/>
+  <anchor x="330" y="700" name="top"/>
+  <outline>
+    <component base="uni041A"/>
+    <component base="acutecomb" xOffset="330" yOffset="140"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  </dict>
+  </lib>
+</glyph>

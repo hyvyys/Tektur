@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EB7" format="2">
+  <advance width="330"/>
+  <unicode hex="1EB7"/>
+  <anchor x="155" y="0" name="bottom"/>
+  <anchor x="240" y="-0" name="ogonek"/>
+  <anchor x="155" y="560" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="dotbelowcomb" xOffset="155"/>
+    <component base="uni0306" xOffset="155"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>a+dotbelowcomb+uni0306</string>
+  </dict>
+  </lib>
+</glyph>

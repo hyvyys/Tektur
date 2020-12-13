@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA78C" format="2">
+  <advance width="150"/>
+  <unicode hex="A78C"/>
+  <outline>
+    <contour>
+      <point x="40" y="300" type="line"/>
+      <point x="110" y="300" type="line"/>
+      <point x="123" y="700" type="line"/>
+      <point x="27" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  </dict>
+  </lib>
+</glyph>

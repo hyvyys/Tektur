@@ -54,7 +54,7 @@ fi
 
 if [[ $fontbakery == 1 ]]; then
   echo "Running checks"
-  fontbakery check-googlefonts --succinct -l WARN $target
+  fontbakery check-googlefonts --succinct -l WARN $variableFont
 
   PARAMS=(
     -x "com.google.fonts/check/family/tnum_horizontal_metrics" # https://github.com/googlefonts/fontbakery/issues/2278#issuecomment-739417643

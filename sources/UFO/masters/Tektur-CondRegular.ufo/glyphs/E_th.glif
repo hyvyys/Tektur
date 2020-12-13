@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eth" format="2">
-  <advance width="390"/>
+  <advance width="370"/>
   <unicode hex="00D0"/>
   <outline>
-    <component base="D" xOffset="30"/>
+    <component base="D" xOffset="10"/>
     <contour>
       <point x="10" y="310" type="line"/>
-      <point x="210" y="310" type="line"/>
-      <point x="210" y="390" type="line"/>
+      <point x="190" y="310" type="line"/>
+      <point x="190" y="390" type="line"/>
       <point x="10" y="390" type="line"/>
     </contour>
   </outline>

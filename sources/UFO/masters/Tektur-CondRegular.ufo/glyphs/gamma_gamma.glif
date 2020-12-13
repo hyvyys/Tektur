@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gamma_gamma" format="2">
+  <advance width="620"/>
+  <anchor x="310" y="-140" name="bottom"/>
+  <anchor x="310" y="560" name="top"/>
+  <outline>
+    <contour>
+      <point x="123" y="-20" type="line"/>
+      <point x="123" y="-140" type="line"/>
+      <point x="213" y="-140" type="line"/>
+      <point x="213" y="-20" type="line"/>
+      <point x="310" y="554" type="line"/>
+      <point x="407" y="-20" type="line"/>
+      <point x="407" y="-140" type="line"/>
+      <point x="497" y="-140" type="line"/>
+      <point x="497" y="-20" type="line"/>
+      <point x="600" y="560" type="line"/>
+      <point x="511" y="560" type="line"/>
+      <point x="458" y="160" type="line"/>
+      <point x="446" y="160" type="line"/>
+      <point x="391" y="560" type="line"/>
+      <point x="229" y="560" type="line"/>
+      <point x="174" y="160" type="line"/>
+      <point x="162" y="160" type="line"/>
+      <point x="109" y="560" type="line"/>
+      <point x="20" y="560" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>gamma</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>gamma</string>
+  </dict>
+  </lib>
+</glyph>

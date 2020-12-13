@@ -19,14 +19,18 @@
       <point x="40" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="5" y="564" type="line"/>
+      <point x="45" y="564" type="line"/>
       <point x="445" y="564" type="line"/>
       <point x="445" y="640" type="line"/>
-      <point x="5" y="640" type="line"/>
+      <point x="45" y="640" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>h</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>h</string>
   <key>com.fontlab.recipe</key>
   <string>h+uni0304</string>
   </dict>

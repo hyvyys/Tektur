@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Theta" format="2">
+  <advance width="650"/>
+  <unicode hex="0398"/>
+  <anchor x="325" y="0" name="bottom"/>
+  <anchor x="325" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="35" y="150" type="line"/>
+      <point x="185" y="0" type="line"/>
+      <point x="465" y="0" type="line"/>
+      <point x="615" y="150" type="line"/>
+      <point x="615" y="550" type="line"/>
+      <point x="465" y="700" type="line"/>
+      <point x="185" y="700" type="line"/>
+      <point x="35" y="550" type="line"/>
+    </contour>
+    <contour>
+      <point x="255" y="520" type="line"/>
+      <point x="395" y="520" type="line"/>
+      <point x="395" y="420" type="line"/>
+      <point x="255" y="420" type="line"/>
+    </contour>
+    <contour>
+      <point x="255" y="180" type="line"/>
+      <point x="255" y="280" type="line"/>
+      <point x="395" y="280" type="line"/>
+      <point x="395" y="180" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>O</string>
+  <key>com.fontlab.recipe</key>
+  <string>O</string>
+  </dict>
+  </lib>
+</glyph>

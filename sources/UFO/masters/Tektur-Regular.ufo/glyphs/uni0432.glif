@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0432" format="2">
+  <advance width="610"/>
+  <unicode hex="0432"/>
+  <anchor x="305" y="0" name="bottom"/>
+  <anchor x="305" y="560" name="top"/>
+  <outline>
+    <contour>
+      <point x="60" y="560" type="line"/>
+      <point x="460" y="560" type="line"/>
+      <point x="540" y="480" type="line"/>
+      <point x="540" y="335" type="line"/>
+      <point x="483" y="292" type="line"/>
+      <point x="560" y="232" type="line"/>
+      <point x="560" y="80" type="line"/>
+      <point x="480" y="0" type="line"/>
+      <point x="60" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="150" y="326" type="line"/>
+      <point x="450" y="326" type="line"/>
+      <point x="450" y="480" type="line"/>
+      <point x="150" y="480" type="line"/>
+    </contour>
+    <contour>
+      <point x="150" y="80" type="line"/>
+      <point x="470" y="80" type="line"/>
+      <point x="470" y="246" type="line"/>
+      <point x="150" y="246" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|epsilon</string>
+  <key>com.fontlab.recipe</key>
+  <string>=dotlessi &amp; epsilon@~70%,</string>
+  </dict>
+  </lib>
+</glyph>

@@ -8,25 +8,29 @@
     <contour>
       <point x="40" y="0" type="line"/>
       <point x="130" y="0" type="line"/>
-      <point x="130" y="380" type="line"/>
-      <point x="220" y="380" type="line"/>
+      <point x="130" y="420" type="line"/>
+      <point x="220" y="420" type="line"/>
       <point x="220" y="0" type="line"/>
       <point x="310" y="0" type="line"/>
-      <point x="310" y="380" type="line"/>
-      <point x="230" y="460" type="line"/>
-      <point x="130" y="460" type="line"/>
+      <point x="310" y="420" type="line"/>
+      <point x="230" y="500" type="line"/>
+      <point x="130" y="500" type="line"/>
       <point x="130" y="700" type="line"/>
       <point x="40" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="5" y="544" type="line"/>
-      <point x="245" y="544" type="line"/>
-      <point x="245" y="620" type="line"/>
-      <point x="5" y="620" type="line"/>
+      <point x="45" y="562" type="line"/>
+      <point x="245" y="562" type="line"/>
+      <point x="245" y="630" type="line"/>
+      <point x="45" y="630" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>h</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>h</string>
   <key>com.fontlab.recipe</key>
   <string>h+uni0304</string>
   </dict>

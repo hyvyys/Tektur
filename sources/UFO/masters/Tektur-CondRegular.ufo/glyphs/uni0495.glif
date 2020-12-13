@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0495" format="2">
+  <advance width="335"/>
+  <unicode hex="0495"/>
+  <anchor x="168" y="-140" name="bottom"/>
+  <anchor x="168" y="560" name="top"/>
+  <outline>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="130" y="270" type="line"/>
+      <point x="210" y="270" type="line"/>
+      <point x="210" y="-60" type="line"/>
+      <point x="150" y="-60" type="line"/>
+      <point x="150" y="-140" type="line"/>
+      <point x="240" y="-140" type="line"/>
+      <point x="300" y="-80" type="line"/>
+      <point x="300" y="290" type="line"/>
+      <point x="240" y="350" type="line"/>
+      <point x="130" y="350" type="line"/>
+      <point x="130" y="480" type="line"/>
+      <point x="295" y="480" type="line"/>
+      <point x="295" y="560" type="line"/>
+      <point x="40" y="560" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>o</string>
+  <key>com.fontlab.recipe</key>
+  <string>T</string>
+  </dict>
+  </lib>
+</glyph>

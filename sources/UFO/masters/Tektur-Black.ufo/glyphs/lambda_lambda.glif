@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lambda_lambda" format="2">
+  <advance width="1150"/>
+  <anchor x="575" y="0" name="bottom"/>
+  <anchor x="575" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="110" y="700" type="line"/>
+      <point x="110" y="540" type="line"/>
+      <point x="277" y="540" type="line"/>
+      <point x="292" y="480" type="line"/>
+      <point x="114" y="480" type="line"/>
+      <point x="5" y="0" type="line"/>
+      <point x="230" y="0" type="line"/>
+      <point x="280" y="320" type="line"/>
+      <point x="322" y="320" type="line"/>
+      <point x="372" y="0" type="line"/>
+      <point x="780" y="0" type="line"/>
+      <point x="830" y="320" type="line"/>
+      <point x="872" y="320" type="line"/>
+      <point x="922" y="0" type="line"/>
+      <point x="1145" y="0" type="line"/>
+      <point x="988" y="700" type="line"/>
+      <point x="660" y="700" type="line"/>
+      <point x="660" y="540" type="line"/>
+      <point x="827" y="540" type="line"/>
+      <point x="842" y="480" type="line"/>
+      <point x="664" y="480" type="line"/>
+      <point x="575" y="69" type="line"/>
+      <point x="438" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>lambda</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>lambda</string>
+  </dict>
+  </lib>
+</glyph>

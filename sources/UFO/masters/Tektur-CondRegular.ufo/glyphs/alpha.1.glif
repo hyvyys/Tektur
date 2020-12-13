@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alpha.1" format="2">
+  <advance width="400"/>
+  <anchor x="200" y="0" name="bottom"/>
+  <anchor x="200" y="560" name="top"/>
+  <outline>
+    <contour>
+      <point x="115" y="0" type="line"/>
+      <point x="241" y="0" type="line"/>
+      <point x="266" y="188" type="line"/>
+      <point x="295" y="0" type="line"/>
+      <point x="387" y="0" type="line"/>
+      <point x="314" y="280" type="line"/>
+      <point x="387" y="560" type="line"/>
+      <point x="295" y="560" type="line"/>
+      <point x="266" y="372" type="line"/>
+      <point x="241" y="560" type="line"/>
+      <point x="115" y="560" type="line"/>
+      <point x="35" y="480" type="line"/>
+      <point x="35" y="80" type="line"/>
+    </contour>
+    <contour>
+      <point x="125" y="80" type="line"/>
+      <point x="125" y="480" type="line"/>
+      <point x="179" y="480" type="line"/>
+      <point x="222" y="280" type="line"/>
+      <point x="179" y="80" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>o</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>x</string>
+  <key>com.fontlab.recipe</key>
+  <string>ampersand</string>
+  </dict>
+  </lib>
+</glyph>

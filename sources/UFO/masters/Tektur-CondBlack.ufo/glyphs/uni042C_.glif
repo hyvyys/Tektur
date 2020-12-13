@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni042C" format="2">
+  <advance width="550"/>
+  <unicode hex="042C"/>
+  <anchor x="275" y="0" name="bottom"/>
+  <anchor x="230" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="310" y="400" type="line"/>
+      <point x="310" y="170" type="line"/>
+      <point x="250" y="170" type="line"/>
+      <point x="250" y="400" type="line"/>
+    </contour>
+    <contour>
+      <point x="530" y="430" type="line"/>
+      <point x="390" y="570" type="line"/>
+      <point x="250" y="570" type="line"/>
+      <point x="250" y="700" type="line"/>
+      <point x="30" y="700" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="390" y="0" type="line"/>
+      <point x="530" y="140" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>=P@,~</string>
+  </dict>
+  </lib>
+</glyph>

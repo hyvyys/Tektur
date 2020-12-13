@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni051D" format="2">
+  <advance width="520"/>
+  <unicode hex="051D"/>
+  <anchor x="260" y="0" name="bottom"/>
+  <anchor x="260" y="560" name="top"/>
+  <outline>
+    <component base="w"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>w</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="jacute" format="2">
   <advance width="280"/>
+  <anchor x="140" y="-140" name="bottom"/>
   <anchor x="140" y="560" name="top"/>
   <outline>
     <component base="uni0237"/>

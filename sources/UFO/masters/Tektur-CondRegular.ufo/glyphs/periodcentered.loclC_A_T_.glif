@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="periodcentered.loclCAT" format="2">
+  <advance width="100"/>
+  <outline>
+    <contour>
+      <point x="5" y="310" type="line"/>
+      <point x="95" y="310" type="line"/>
+      <point x="95" y="400" type="line"/>
+      <point x="5" y="400" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  </dict>
+  </lib>
+</glyph>

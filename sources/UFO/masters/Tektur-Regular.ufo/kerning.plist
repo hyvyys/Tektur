@@ -9,6 +9,11 @@
     <key>public.kern2.period</key>
     <integer>-50</integer>
   </dict>
+  <key>Gamma</key>
+  <dict>
+    <key>public.kern2.alpha</key>
+    <integer>-40</integer>
+  </dict>
   <key>P</key>
   <dict>
     <key>public.kern2.A1</key>
@@ -27,6 +32,21 @@
     <key>public.kern2.period</key>
     <integer>-60</integer>
   </dict>
+  <key>gamma</key>
+  <dict>
+    <key>lambda</key>
+    <integer>-40</integer>
+  </dict>
+  <key>itilde</key>
+  <dict>
+    <key>a</key>
+    <integer>-11</integer>
+  </dict>
+  <key>lambda</key>
+  <dict>
+    <key>gamma</key>
+    <integer>-40</integer>
+  </dict>
   <key>question</key>
   <dict>
     <key>public.kern2.A1</key>
@@ -41,6 +61,20 @@
     <key>public.kern2.W</key>
     <integer>-80</integer>
   </dict>
+  <key>seven</key>
+  <dict>
+    <key>public.kern2.period</key>
+    <integer>-50</integer>
+  </dict>
+  <key>tonos</key>
+  <dict>
+    <key>uni03A9</key>
+    <integer>-30</integer>
+    <key>public.kern2.A1</key>
+    <integer>-100</integer>
+    <key>public.kern2.C</key>
+    <integer>-30</integer>
+  </dict>
   <key>public.kern1.A</key>
   <dict>
     <key>V</key>
@@ -53,12 +87,14 @@
     <integer>-70</integer>
     <key>public.kern2.W</key>
     <integer>-10</integer>
+    <key>public.kern2.Y</key>
+    <integer>-80</integer>
     <key>public.kern2.quote</key>
     <integer>-60</integer>
     <key>public.kern2.quoteleft</key>
     <integer>-50</integer>
     <key>public.kern2.quoteright</key>
-    <integer>-20</integer>
+    <integer>-50</integer>
   </dict>
   <key>public.kern1.D</key>
   <dict>
@@ -66,6 +102,8 @@
     <integer>-10</integer>
     <key>public.kern2.A1</key>
     <integer>-10</integer>
+    <key>public.kern2.Y</key>
+    <integer>-20</integer>
   </dict>
   <key>public.kern1.L</key>
   <dict>
@@ -89,6 +127,10 @@
   </dict>
   <key>public.kern1.T</key>
   <dict>
+    <key>igrave</key>
+    <integer>30</integer>
+    <key>itilde</key>
+    <integer>30</integer>
     <key>public.kern2.A1</key>
     <integer>-70</integer>
     <key>public.kern2.period</key>
@@ -101,10 +143,19 @@
     <key>public.kern2.period</key>
     <integer>-40</integer>
   </dict>
+  <key>public.kern1.Y</key>
+  <dict>
+    <key>public.kern2.A1</key>
+    <integer>-80</integer>
+    <key>public.kern2.C</key>
+    <integer>-20</integer>
+  </dict>
   <key>public.kern1.period</key>
   <dict>
     <key>V</key>
     <integer>-60</integer>
+    <key>four</key>
+    <integer>-30</integer>
     <key>public.kern2.T</key>
     <integer>-100</integer>
     <key>public.kern2.W</key>
@@ -112,16 +163,22 @@
   </dict>
   <key>public.kern1.quote</key>
   <dict>
+    <key>questiondown</key>
+    <integer>-190</integer>
     <key>public.kern2.A1</key>
     <integer>-60</integer>
   </dict>
   <key>public.kern1.quoteleft</key>
   <dict>
+    <key>questiondown</key>
+    <integer>-200</integer>
     <key>public.kern2.A1</key>
     <integer>-20</integer>
   </dict>
   <key>public.kern1.quoteright</key>
   <dict>
+    <key>questiondown</key>
+    <integer>-190</integer>
     <key>public.kern2.A1</key>
     <integer>-50</integer>
   </dict>

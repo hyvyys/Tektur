@@ -3,8 +3,8 @@
   <advance width="340"/>
   <unicode hex="00C4"/>
   <anchor x="170" y="0" name="bottom"/>
-  <anchor x="290" y="0" name="ogonek"/>
-  <anchor x="170" y="700" name="top"/>
+  <anchor x="278" y="-0" name="ogonek"/>
+  <anchor x="170" y="850" name="top"/>
   <outline>
     <component base="A"/>
     <component base="uni0308" xOffset="170" yOffset="140"/>

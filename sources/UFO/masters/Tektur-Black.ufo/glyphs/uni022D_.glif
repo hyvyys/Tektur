@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni022D" format="2">
+  <advance width="600"/>
+  <unicode hex="022D"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="300" y="830" name="top"/>
+  <outline>
+    <component base="o"/>
+    <component base="tildecomb" xOffset="300"/>
+    <component base="uni0304.stack" xOffset="300" yOffset="170"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>o+tildecomb+uni0304.stack</string>
+  </dict>
+  </lib>
+</glyph>

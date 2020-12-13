@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lambda" format="2">
+  <advance width="540"/>
+  <unicode hex="03BB"/>
+  <anchor x="270" y="0" name="bottom"/>
+  <anchor x="270" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="70" y="700" type="line"/>
+      <point x="70" y="540" type="line"/>
+      <point x="257" y="540" type="line"/>
+      <point x="266" y="480" type="line"/>
+      <point x="86" y="480" type="line"/>
+      <point x="5" y="0" type="line"/>
+      <point x="224" y="0" type="line"/>
+      <point x="254" y="320" type="line"/>
+      <point x="283" y="320" type="line"/>
+      <point x="318" y="0" type="line"/>
+      <point x="535" y="0" type="line"/>
+      <point x="417" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>y%</string>
+  </dict>
+  </lib>
+</glyph>

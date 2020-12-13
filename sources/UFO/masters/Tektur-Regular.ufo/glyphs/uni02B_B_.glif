@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02BB" format="2">
+  <advance width="250"/>
+  <unicode hex="02BB"/>
+  <outline>
+    <component base="quoteleft"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>quoteleft</string>
+  </dict>
+  </lib>
+</glyph>

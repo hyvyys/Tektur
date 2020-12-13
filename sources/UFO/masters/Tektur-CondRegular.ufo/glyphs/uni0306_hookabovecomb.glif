@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0306_hookabovecomb" format="2">
+  <anchor x="0" y="560" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-50" y="780" type="line"/>
+      <point x="8" y="780" type="line"/>
+      <point x="-30" y="728" type="line"/>
+      <point x="20" y="707" type="line"/>
+      <point x="65" y="780" type="line"/>
+      <point x="45" y="830" type="line"/>
+      <point x="-50" y="830" type="line"/>
+    </contour>
+    <contour>
+      <point x="50" y="710" type="line"/>
+      <point x="27" y="670" type="line"/>
+      <point x="-27" y="670" type="line"/>
+      <point x="-50" y="710" type="line"/>
+      <point x="-130" y="710" type="line"/>
+      <point x="-80" y="610" type="line"/>
+      <point x="80" y="610" type="line"/>
+      <point x="130" y="710" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni0302_gravecomb</string>
+  </dict>
+  </lib>
+</glyph>

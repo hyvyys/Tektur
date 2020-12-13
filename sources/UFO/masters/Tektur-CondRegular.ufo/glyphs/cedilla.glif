@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cedilla" format="2">
-  <advance width="227"/>
+  <advance width="206"/>
   <unicode hex="00B8"/>
   <outline>
-    <component base="uni0327" xOffset="122"/>
+    <component base="uni0327" xOffset="101"/>
   </outline>
   <lib>
   <dict>

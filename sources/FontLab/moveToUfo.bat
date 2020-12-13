@@ -1,0 +1,1 @@
+bash.exe -c ./moveToUfo.sh

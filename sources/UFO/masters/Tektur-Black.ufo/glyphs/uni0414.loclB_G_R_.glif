@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0414.loclBGR" format="2">
+  <advance width="720"/>
+  <outline>
+    <contour>
+      <point x="15" y="-140" type="line"/>
+      <point x="175" y="-140" type="line"/>
+      <point x="175" y="0" type="line"/>
+      <point x="545" y="0" type="line"/>
+      <point x="545" y="-140" type="line"/>
+      <point x="705" y="-140" type="line"/>
+      <point x="705" y="190" type="line"/>
+      <point x="645" y="190" type="line"/>
+      <point x="533" y="700" type="line"/>
+      <point x="187" y="700" type="line"/>
+      <point x="75" y="190" type="line"/>
+      <point x="15" y="190" type="line"/>
+    </contour>
+    <contour>
+      <point x="298" y="170" type="line"/>
+      <point x="355" y="530" type="line"/>
+      <point x="365" y="530" type="line"/>
+      <point x="422" y="170" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=15</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  <key>com.fontlab.recipe</key>
+  <string>desccy_Delta_desccy</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="delta" format="2">
+  <advance width="350"/>
+  <unicode hex="03B4"/>
+  <anchor x="175" y="0" name="bottom"/>
+  <anchor x="175" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="120" y="0" type="line"/>
+      <point x="230" y="0" type="line"/>
+      <point x="310" y="80" type="line"/>
+      <point x="310" y="500" type="line"/>
+      <point x="155" y="626" type="line"/>
+      <point x="305" y="626" type="line"/>
+      <point x="305" y="700" type="line"/>
+      <point x="65" y="700" type="line"/>
+      <point x="65" y="620" type="line"/>
+      <point x="220" y="480" type="line"/>
+      <point x="220" y="80" type="line"/>
+      <point x="130" y="80" type="line"/>
+      <point x="130" y="473" type="line"/>
+      <point x="204" y="538" type="line"/>
+      <point x="161" y="579" type="line"/>
+      <point x="40" y="500" type="line"/>
+      <point x="40" y="80" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>omicron</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>omicron</string>
+  <key>com.fontlab.recipe</key>
+  <string>eth</string>
+  </dict>
+  </lib>
+</glyph>

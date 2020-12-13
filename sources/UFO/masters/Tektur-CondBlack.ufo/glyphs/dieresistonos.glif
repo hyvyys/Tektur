@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresistonos" format="2">
+  <advance width="410"/>
+  <unicode hex="0385"/>
+  <anchor x="205" y="730" name="top"/>
+  <outline>
+    <component base="dieresis"/>
+    <component base="tonoscomb" xOffset="205" yOffset="170"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>dieresis+tonoscomb</string>
+  </dict>
+  </lib>
+</glyph>

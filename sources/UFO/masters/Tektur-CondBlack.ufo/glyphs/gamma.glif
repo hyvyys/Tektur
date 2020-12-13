@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gamma" format="2">
+  <advance width="540"/>
+  <unicode hex="03B3"/>
+  <anchor x="270" y="-140" name="bottom"/>
+  <anchor x="270" y="560" name="top"/>
+  <outline>
+    <contour>
+      <point x="150" y="-30" type="line"/>
+      <point x="150" y="-140" type="line"/>
+      <point x="390" y="-140" type="line"/>
+      <point x="390" y="-30" type="line"/>
+      <point x="535" y="560" type="line"/>
+      <point x="318" y="560" type="line"/>
+      <point x="280" y="195" type="line"/>
+      <point x="264" y="195" type="line"/>
+      <point x="226" y="560" type="line"/>
+      <point x="5" y="560" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>nu</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>nu</string>
+  <key>com.fontlab.recipe</key>
+  <string>v+dotlessi%</string>
+  </dict>
+  </lib>
+</glyph>

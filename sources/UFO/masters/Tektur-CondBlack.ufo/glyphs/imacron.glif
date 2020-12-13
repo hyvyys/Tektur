@@ -2,16 +2,21 @@
 <glyph name="imacron" format="2">
   <advance width="280"/>
   <unicode hex="012B"/>
-  <anchor x="140" y="0" name="bottom"/>
-  <anchor x="140" y="560" name="top"/>
+  <anchor x="140" y="-0" name="bottom"/>
+  <anchor x="140" y="730" name="top"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="uni0304" xOffset="140"/>
+    <contour>
+      <point x="0" y="600" type="line"/>
+      <point x="280" y="600" type="line"/>
+      <point x="280" y="730" type="line"/>
+      <point x="0" y="730" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
   </dict>
   </lib>
 </glyph>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0459" format="2">
+  <advance width="990"/>
+  <unicode hex="0459"/>
+  <anchor x="495" y="0" name="bottom"/>
+  <anchor x="495" y="560" name="top"/>
+  <outline>
+    <contour>
+      <point x="470" y="0" type="line"/>
+      <point x="845" y="0" type="line"/>
+      <point x="935" y="90" type="line"/>
+      <point x="935" y="330" type="line"/>
+      <point x="845" y="420" type="line"/>
+      <point x="560" y="420" type="line"/>
+      <point x="560" y="560" type="line"/>
+      <point x="65" y="560" type="line"/>
+      <point x="65" y="482" type="line"/>
+      <point x="152" y="482" type="line"/>
+      <point x="117" y="82" type="line"/>
+      <point x="15" y="82" type="line"/>
+      <point x="15" y="0" type="line"/>
+      <point x="194" y="0" type="line"/>
+      <point x="237" y="482" type="line"/>
+      <point x="470" y="482" type="line"/>
+    </contour>
+    <contour>
+      <point x="560" y="80" type="line"/>
+      <point x="560" y="340" type="line"/>
+      <point x="845" y="340" type="line"/>
+      <point x="845" y="80" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>uni043B</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>uni044C</string>
+  <key>com.fontlab.recipe</key>
+  <string>uni043B_uni044C</string>
+  </dict>
+  </lib>
+</glyph>

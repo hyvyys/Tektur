@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EDA" format="2">
+  <advance width="650"/>
+  <unicode hex="1EDA"/>
+  <anchor x="325" y="0" name="bottom"/>
+  <anchor x="325" y="700" name="top"/>
+  <outline>
+    <component base="Ohorn"/>
+    <component base="acutecomb" xOffset="325" yOffset="140"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Ohorn+acutecomb</string>
+  </dict>
+  </lib>
+</glyph>

@@ -2,11 +2,12 @@
 <glyph name="j" format="2">
   <advance width="280"/>
   <unicode hex="006A"/>
+  <anchor x="140" y="-140" name="bottom"/>
   <anchor x="140" y="730" name="top"/>
   <outline>
     <contour>
-      <point x="30" y="-160" type="line"/>
-      <point x="250" y="-160" type="line"/>
+      <point x="30" y="-140" type="line"/>
+      <point x="250" y="-140" type="line"/>
       <point x="250" y="560" type="line"/>
       <point x="30" y="560" type="line"/>
     </contour>

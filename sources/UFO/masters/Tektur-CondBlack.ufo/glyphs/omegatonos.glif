@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omegatonos" format="2">
+  <advance width="830"/>
+  <unicode hex="03CE"/>
+  <anchor x="415" y="0" name="bottom"/>
+  <anchor x="415" y="560" name="top"/>
+  <outline>
+    <component base="omega"/>
+    <component base="tonoscomb" xOffset="415"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>omega+tonoscomb</string>
+  </dict>
+  </lib>
+</glyph>

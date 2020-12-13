@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iota" format="2">
+  <advance width="430"/>
+  <unicode hex="0399"/>
+  <anchor x="215" y="0" name="bottom"/>
+  <anchor x="215" y="700" name="top"/>
+  <outline>
+    <component base="I"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>I%</string>
+  </dict>
+  </lib>
+</glyph>

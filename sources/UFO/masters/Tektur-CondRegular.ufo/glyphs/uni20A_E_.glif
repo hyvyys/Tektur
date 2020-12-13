@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni20AE" format="2">
+  <advance width="280"/>
+  <unicode hex="20AE"/>
+  <anchor x="140" y="0" name="bottom"/>
+  <anchor x="140" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="95" y="0" type="line"/>
+      <point x="185" y="0" type="line"/>
+      <point x="185" y="620" type="line"/>
+      <point x="260" y="620" type="line"/>
+      <point x="260" y="700" type="line"/>
+      <point x="20" y="700" type="line"/>
+      <point x="20" y="620" type="line"/>
+      <point x="95" y="620" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="334" type="line"/>
+      <point x="250" y="404" type="line"/>
+      <point x="250" y="480" type="line"/>
+      <point x="30" y="410" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="174" type="line"/>
+      <point x="250" y="244" type="line"/>
+      <point x="250" y="320" type="line"/>
+      <point x="30" y="250" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Tbar</string>
+  </dict>
+  </lib>
+</glyph>

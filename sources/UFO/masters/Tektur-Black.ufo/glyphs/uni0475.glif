@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0475" format="2">
+  <advance width="695"/>
+  <unicode hex="0475"/>
+  <anchor x="348" y="0" name="bottom"/>
+  <anchor x="348" y="560" name="top"/>
+  <outline>
+    <contour>
+      <point x="109" y="0" type="line"/>
+      <point x="471" y="0" type="line"/>
+      <point x="542" y="380" type="line"/>
+      <point x="685" y="380" type="line"/>
+      <point x="685" y="560" type="line"/>
+      <point x="355" y="560" type="line"/>
+      <point x="315" y="180" type="line"/>
+      <point x="269" y="180" type="line"/>
+      <point x="230" y="560" type="line"/>
+      <point x="5" y="560" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>=v &amp; hookleft</string>
+  </dict>
+  </lib>
+</glyph>

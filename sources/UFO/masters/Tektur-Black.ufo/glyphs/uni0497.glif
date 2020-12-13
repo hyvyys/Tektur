@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0497" format="2">
+  <advance width="990"/>
+  <unicode hex="0497"/>
+  <anchor x="470" y="0" name="bottom"/>
+  <anchor x="470" y="560" name="top"/>
+  <outline>
+    <component base="uni0436"/>
+    <component base="desccy" xOffset="940"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni0436_desccy</string>
+  </dict>
+  </lib>
+</glyph>

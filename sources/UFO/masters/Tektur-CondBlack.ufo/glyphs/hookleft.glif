@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hookleft" format="2">
+  <advance width="65"/>
+  <outline>
+    <contour>
+      <point x="-40" y="370" type="line"/>
+      <point x="55" y="370" type="line"/>
+      <point x="55" y="560" type="line"/>
+      <point x="-40" y="560" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>-lsb("B")-10</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=10</string>
+  </dict>
+  </lib>
+</glyph>

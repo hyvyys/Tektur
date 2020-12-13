@@ -6,18 +6,18 @@
   <anchor x="175" y="560" name="top"/>
   <outline>
     <contour>
-      <point x="36" y="-160" type="line"/>
-      <point x="239" y="-160" type="line"/>
+      <point x="36" y="-140" type="line"/>
+      <point x="239" y="-140" type="line"/>
       <point x="330" y="560" type="line"/>
       <point x="239" y="560" type="line"/>
-      <point x="195" y="130" type="line"/>
+      <point x="194" y="130" type="line"/>
       <point x="155" y="130" type="line"/>
       <point x="111" y="560" type="line"/>
       <point x="20" y="560" type="line"/>
       <point x="83" y="50" type="line"/>
-      <point x="185" y="50" type="line"/>
-      <point x="166" y="-80" type="line"/>
-      <point x="36" y="-80" type="line"/>
+      <point x="184" y="50" type="line"/>
+      <point x="167" y="-60" type="line"/>
+      <point x="36" y="-60" type="line"/>
     </contour>
   </outline>
   <lib>

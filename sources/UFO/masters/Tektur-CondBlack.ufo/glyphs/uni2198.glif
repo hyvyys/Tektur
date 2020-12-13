@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2198" format="2">
+  <advance width="642"/>
+  <unicode hex="2198"/>
+  <outline>
+    <contour>
+      <point x="531" y="96" type="line"/>
+      <point x="634" y="382" type="line"/>
+      <point x="493" y="523" type="line"/>
+      <point x="418" y="337" type="line"/>
+      <point x="143" y="612" type="line"/>
+      <point x="8" y="477" type="line"/>
+      <point x="283" y="202" type="line"/>
+      <point x="97" y="127" type="line"/>
+      <point x="238" y="-14" type="line"/>
+      <point x="524" y="89" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>uni2197</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>uni2197</string>
+  </dict>
+  </lib>
+</glyph>

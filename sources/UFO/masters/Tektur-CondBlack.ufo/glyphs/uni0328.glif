@@ -5,10 +5,10 @@
   <anchor x="0" y="0" name="_ogonek"/>
   <outline>
     <contour>
-      <point x="95" y="-50" type="line"/>
-      <point x="-55" y="-50" type="line"/>
-      <point x="-145" y="-250" type="line"/>
-      <point x="45" y="-250" type="line"/>
+      <point x="95" y="-40" type="line"/>
+      <point x="-55" y="-40" type="line"/>
+      <point x="-135" y="-200" type="line"/>
+      <point x="55" y="-200" type="line"/>
     </contour>
   </outline>
 </glyph>

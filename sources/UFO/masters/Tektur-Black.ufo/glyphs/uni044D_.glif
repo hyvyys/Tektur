@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni044D" format="2">
+  <advance width="570"/>
+  <unicode hex="044D"/>
+  <anchor x="260" y="0" name="bottom"/>
+  <anchor x="140" y="0" name="ogonek"/>
+  <anchor x="260" y="560" name="top"/>
+  <outline>
+    <component base="uni0454" xScale="-1" xOffset="570"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>|uni0454</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|uni0454</string>
+  <key>com.fontlab.recipe</key>
+  <string>=uni0454@~,</string>
+  </dict>
+  </lib>
+</glyph>

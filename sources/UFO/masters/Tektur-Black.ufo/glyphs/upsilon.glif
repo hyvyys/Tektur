@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upsilon" format="2">
+  <advance width="620"/>
+  <unicode hex="03C5"/>
+  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="310" y="560" name="top"/>
+  <outline>
+    <contour>
+      <point x="580" y="560" type="line"/>
+      <point x="360" y="560" type="line"/>
+      <point x="360" y="190" type="line"/>
+      <point x="260" y="190" type="line"/>
+      <point x="260" y="560" type="line"/>
+      <point x="40" y="560" type="line"/>
+      <point x="40" y="140" type="line"/>
+      <point x="180" y="0" type="line"/>
+      <point x="440" y="0" type="line"/>
+      <point x="580" y="140" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>mu</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  <key>com.fontlab.recipe</key>
+  <string>u%</string>
+  </dict>
+  </lib>
+</glyph>

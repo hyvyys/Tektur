@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04B1" format="2">
+  <advance width="580"/>
+  <unicode hex="04B1"/>
+  <anchor x="290" y="-140" name="bottom"/>
+  <anchor x="290" y="560" name="top"/>
+  <outline>
+    <contour>
+      <point x="245" y="40" type="line"/>
+      <point x="245" y="-140" type="line"/>
+      <point x="335" y="-140" type="line"/>
+      <point x="335" y="40" type="line"/>
+      <point x="550" y="40" type="line"/>
+      <point x="550" y="116" type="line"/>
+      <point x="379" y="116" type="line"/>
+      <point x="569" y="560" type="line"/>
+      <point x="478" y="560" type="line"/>
+      <point x="295" y="116" type="line"/>
+      <point x="285" y="116" type="line"/>
+      <point x="102" y="560" type="line"/>
+      <point x="11" y="560" type="line"/>
+      <point x="201" y="116" type="line"/>
+      <point x="30" y="116" type="line"/>
+      <point x="30" y="40" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>=gamma+underscore@50%,30%</string>
+  </dict>
+  </lib>
+</glyph>

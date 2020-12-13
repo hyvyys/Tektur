@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01DC" format="2">
+  <advance width="620"/>
+  <unicode hex="01DC"/>
+  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="485" y="-0" name="ogonek"/>
+  <anchor x="310" y="690" name="top"/>
+  <outline>
+    <component base="u"/>
+    <component base="uni0308.stack" xOffset="310"/>
+    <component base="gravecomb" xOffset="310" yOffset="130"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>u+uni0308.stack+gravecomb</string>
+  </dict>
+  </lib>
+</glyph>

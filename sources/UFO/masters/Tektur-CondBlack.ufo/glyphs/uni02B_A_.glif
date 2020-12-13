@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02BA" format="2">
+  <advance width="420"/>
+  <unicode hex="02BA"/>
+  <outline>
+    <component base="second"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>second</string>
+  </dict>
+  </lib>
+</glyph>

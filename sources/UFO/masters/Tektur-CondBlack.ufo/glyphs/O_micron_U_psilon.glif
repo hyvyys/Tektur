@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omicron_Upsilon" format="2">
+  <advance width="560"/>
+  <outline>
+    <contour>
+      <point x="30" y="110" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="420" y="0" type="line"/>
+      <point x="530" y="110" type="line"/>
+      <point x="530" y="340" type="line"/>
+      <point x="410" y="460" type="line"/>
+      <point x="150" y="460" type="line"/>
+      <point x="30" y="340" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="170" type="line"/>
+      <point x="250" y="300" type="line"/>
+      <point x="310" y="300" type="line"/>
+      <point x="310" y="170" type="line"/>
+    </contour>
+    <contour>
+      <point x="478" y="340" type="line"/>
+      <point x="560" y="700" type="line"/>
+      <point x="325" y="700" type="line"/>
+      <point x="300" y="460" type="line"/>
+      <point x="260" y="460" type="line"/>
+      <point x="235" y="700" type="line"/>
+      <point x="0" y="700" type="line"/>
+      <point x="82" y="340" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  </dict>
+  </lib>
+</glyph>

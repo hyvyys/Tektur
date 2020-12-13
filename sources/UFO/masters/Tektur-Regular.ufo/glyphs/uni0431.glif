@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0431" format="2">
+  <advance width="620"/>
+  <unicode hex="0431"/>
+  <outline>
+    <contour>
+      <point x="150" y="80" type="line"/>
+      <point x="150" y="430" type="line"/>
+      <point x="475" y="430" type="line"/>
+      <point x="475" y="80" type="line"/>
+    </contour>
+    <contour>
+      <point x="150" y="0" type="line"/>
+      <point x="475" y="0" type="line"/>
+      <point x="565" y="90" type="line"/>
+      <point x="565" y="430" type="line"/>
+      <point x="485" y="510" type="line"/>
+      <point x="150" y="510" type="line"/>
+      <point x="150" y="620" type="line"/>
+      <point x="550" y="620" type="line"/>
+      <point x="550" y="700" type="line"/>
+      <point x="150" y="700" type="line"/>
+      <point x="60" y="610" type="line"/>
+      <point x="60" y="90" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>bhook</string>
+  </dict>
+  </lib>
+</glyph>

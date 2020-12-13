@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tau" format="2">
+  <advance width="430"/>
+  <unicode hex="03C4"/>
+  <anchor x="210" y="0" name="bottom"/>
+  <anchor x="220" y="560" name="top"/>
+  <outline>
+    <contour>
+      <point x="90" y="120" type="line"/>
+      <point x="210" y="0" type="line"/>
+      <point x="410" y="0" type="line"/>
+      <point x="410" y="180" type="line"/>
+      <point x="310" y="180" type="line"/>
+      <point x="310" y="380" type="line"/>
+      <point x="410" y="380" type="line"/>
+      <point x="410" y="560" type="line"/>
+      <point x="55" y="560" type="line"/>
+      <point x="20" y="525" type="line"/>
+      <point x="20" y="380" type="line"/>
+      <point x="90" y="380" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>|t</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>t</string>
+  <key>com.fontlab.recipe</key>
+  <string>t</string>
+  </dict>
+  </lib>
+</glyph>

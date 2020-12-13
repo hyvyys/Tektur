@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EC0" format="2">
+  <advance width="580"/>
+  <unicode hex="1EC0"/>
+  <anchor x="305" y="0" name="bottom"/>
+  <anchor x="420" y="-0" name="ogonek"/>
+  <anchor x="305" y="700" name="top"/>
+  <outline>
+    <component base="E"/>
+    <component base="uni0302_gravecomb" xOffset="305" yOffset="140"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>=E+uni0302_gravecomb@top</string>
+  </dict>
+  </lib>
+</glyph>

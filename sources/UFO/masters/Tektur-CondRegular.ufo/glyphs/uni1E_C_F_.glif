@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1ECF" format="2">
+  <advance width="340"/>
+  <unicode hex="1ECF"/>
+  <anchor x="170" y="0" name="bottom"/>
+  <anchor x="170" y="560" name="top"/>
+  <outline>
+    <component base="o"/>
+    <component base="hookabovecomb" xOffset="170"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>o+hookabovecomb</string>
+  </dict>
+  </lib>
+</glyph>

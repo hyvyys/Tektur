@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01E5" format="2">
+  <advance width="610"/>
+  <unicode hex="01E5"/>
+  <anchor x="290" y="-160" name="bottom"/>
+  <anchor x="320" y="560" name="top"/>
+  <outline>
+    <contour>
+      <point x="60" y="-140" type="line"/>
+      <point x="406" y="-140" type="line"/>
+      <point x="570" y="24" type="line"/>
+      <point x="570" y="560" type="line"/>
+      <point x="160" y="560" type="line"/>
+      <point x="30" y="430" type="line"/>
+      <point x="30" y="227" type="line"/>
+      <point x="100" y="157" type="line"/>
+      <point x="350" y="157" type="line"/>
+      <point x="350" y="30" type="line"/>
+      <point x="60" y="30" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="380" type="line"/>
+      <point x="350" y="380" type="line"/>
+      <point x="350" y="260" type="line"/>
+      <point x="250" y="260" type="line"/>
+    </contour>
+    <contour>
+      <point x="90" y="60" type="line"/>
+      <point x="605" y="60" type="line"/>
+      <point x="605" y="126" type="line"/>
+      <point x="90" y="126" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>g</string>
+  </dict>
+  </lib>
+</glyph>

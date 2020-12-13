@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Psi" format="2">
+  <advance width="870"/>
+  <unicode hex="03A8"/>
+  <anchor x="435" y="0" name="bottom"/>
+  <anchor x="435" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="185" y="160" type="line"/>
+      <point x="335" y="160" type="line"/>
+      <point x="335" y="0" type="line"/>
+      <point x="535" y="0" type="line"/>
+      <point x="535" y="160" type="line"/>
+      <point x="685" y="160" type="line"/>
+      <point x="835" y="310" type="line"/>
+      <point x="835" y="700" type="line"/>
+      <point x="625" y="700" type="line"/>
+      <point x="625" y="330" type="line"/>
+      <point x="535" y="330" type="line"/>
+      <point x="535" y="700" type="line"/>
+      <point x="335" y="700" type="line"/>
+      <point x="335" y="330" type="line"/>
+      <point x="245" y="330" type="line"/>
+      <point x="245" y="700" type="line"/>
+      <point x="35" y="700" type="line"/>
+      <point x="35" y="310" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>O</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>O</string>
+  <key>com.fontlab.recipe</key>
+  <string>O_I%</string>
+  </dict>
+  </lib>
+</glyph>

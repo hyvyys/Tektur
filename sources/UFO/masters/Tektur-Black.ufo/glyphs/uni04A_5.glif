@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04A5" format="2">
+  <advance width="735"/>
+  <unicode hex="04A5"/>
+  <anchor x="368" y="0" name="bottom"/>
+  <anchor x="368" y="560" name="top"/>
+  <outline>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="260" y="0" type="line"/>
+      <point x="260" y="190" type="line"/>
+      <point x="360" y="190" type="line"/>
+      <point x="360" y="0" type="line"/>
+      <point x="580" y="0" type="line"/>
+      <point x="580" y="380" type="line"/>
+      <point x="725" y="380" type="line"/>
+      <point x="725" y="560" type="line"/>
+      <point x="360" y="560" type="line"/>
+      <point x="360" y="390" type="line"/>
+      <point x="260" y="390" type="line"/>
+      <point x="260" y="560" type="line"/>
+      <point x="40" y="560" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni043D_hookleft</string>
+  </dict>
+  </lib>
+</glyph>

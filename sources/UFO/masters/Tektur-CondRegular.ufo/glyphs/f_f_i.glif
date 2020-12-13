@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_f_i" format="2">
+  <advance width="650"/>
+  <unicode hex="FB03"/>
+  <anchor x="565" y="-0" name="bottom"/>
+  <anchor x="565" y="710" name="top"/>
+  <outline>
+    <component base="f"/>
+    <component base="f" xOffset="240"/>
+    <component base="i" xOffset="480"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  </dict>
+  </lib>
+</glyph>

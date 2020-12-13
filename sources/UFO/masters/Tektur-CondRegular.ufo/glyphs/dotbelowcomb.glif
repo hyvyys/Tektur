@@ -3,6 +3,11 @@
   <unicode hex="0323"/>
   <anchor x="0" y="0" name="_bottom"/>
   <outline>
-    <component base="uni0307" yOffset="-790"/>
+    <contour>
+      <point x="-45" y="-160" type="line"/>
+      <point x="45" y="-160" type="line"/>
+      <point x="45" y="-80" type="line"/>
+      <point x="-45" y="-80" type="line"/>
+    </contour>
   </outline>
 </glyph>

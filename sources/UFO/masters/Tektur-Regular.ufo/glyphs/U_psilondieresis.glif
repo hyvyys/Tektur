@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Upsilondieresis" format="2">
+  <advance width="640"/>
+  <unicode hex="03AB"/>
+  <anchor x="320" y="0" name="bottom"/>
+  <anchor x="320" y="850" name="top"/>
+  <outline>
+    <component base="Y"/>
+    <component base="uni0308" xOffset="320" yOffset="140"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Y+uni0308</string>
+  </dict>
+  </lib>
+</glyph>

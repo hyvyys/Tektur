@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01C6" format="2">
+  <advance width="595"/>
+  <unicode hex="01C6"/>
+  <anchor x="470" y="-0" name="bottom"/>
+  <anchor x="470" y="560" name="top"/>
+  <outline>
+    <contour>
+      <point x="305" y="700" type="line"/>
+      <point x="215" y="700" type="line"/>
+      <point x="215" y="560" type="line"/>
+      <point x="115" y="560" type="line"/>
+      <point x="35" y="480" type="line"/>
+      <point x="35" y="80" type="line"/>
+      <point x="115" y="0" type="line"/>
+      <point x="305" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="125" y="80" type="line"/>
+      <point x="125" y="480" type="line"/>
+      <point x="215" y="480" type="line"/>
+      <point x="215" y="80" type="line"/>
+    </contour>
+    <contour>
+      <point x="365" y="0" type="line"/>
+      <point x="575" y="0" type="line"/>
+      <point x="575" y="80" type="line"/>
+      <point x="457" y="80" type="line"/>
+      <point x="575" y="500" type="line"/>
+      <point x="575" y="560" type="line"/>
+      <point x="365" y="560" type="line"/>
+      <point x="365" y="480" type="line"/>
+      <point x="483" y="480" type="line"/>
+      <point x="365" y="60" type="line"/>
+    </contour>
+    <contour>
+      <point x="570" y="740" type="line"/>
+      <point x="470" y="680" type="line"/>
+      <point x="370" y="740" type="line"/>
+      <point x="370" y="660" type="line"/>
+      <point x="470" y="600" type="line"/>
+      <point x="570" y="660" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>d_zcaron</string>
+  </dict>
+  </lib>
+</glyph>

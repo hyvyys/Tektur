@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0437" format="2">
+  <advance width="580"/>
+  <unicode hex="0437"/>
+  <anchor x="255" y="-0" name="bottom"/>
+  <anchor x="255" y="560" name="top"/>
+  <outline>
+    <component base="epsilon" xScale="-1" xOffset="580"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>|eopen</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|eopen</string>
+  <key>com.fontlab.recipe</key>
+  <string>=epsilon@~,</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01C2" format="2">
+  <advance width="500"/>
+  <unicode hex="01C2"/>
+  <outline>
+    <contour>
+      <point x="155" y="-30" type="line"/>
+      <point x="345" y="-30" type="line"/>
+      <point x="345" y="730" type="line"/>
+      <point x="155" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="380" type="line"/>
+      <point x="460" y="380" type="line"/>
+      <point x="460" y="550" type="line"/>
+      <point x="40" y="550" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="150" type="line"/>
+      <point x="460" y="150" type="line"/>
+      <point x="460" y="320" type="line"/>
+      <point x="40" y="320" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>equal</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>equal</string>
+  <key>com.fontlab.recipe</key>
+  <string>=uni01C0 + equal@50%,50%</string>
+  </dict>
+  </lib>
+</glyph>

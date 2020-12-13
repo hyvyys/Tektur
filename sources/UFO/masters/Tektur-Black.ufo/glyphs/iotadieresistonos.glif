@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iotadieresistonos" format="2">
+  <advance width="340"/>
+  <unicode hex="0390"/>
+  <anchor x="170" y="0" name="bottom"/>
+  <anchor x="150" y="730" name="top"/>
+  <outline>
+    <component base="iotadieresis"/>
+    <component base="tonoscomb" xOffset="150" yOffset="170"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>iotadieresis+tonoscomb</string>
+  </dict>
+  </lib>
+</glyph>

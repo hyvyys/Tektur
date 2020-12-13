@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0442" format="2">
+  <advance width="280"/>
+  <unicode hex="0442"/>
+  <anchor x="140" y="0" name="bottom"/>
+  <anchor x="140" y="560" name="top"/>
+  <outline>
+    <contour>
+      <point x="185" y="0" type="line"/>
+      <point x="95" y="0" type="line"/>
+      <point x="95" y="478" type="line"/>
+      <point x="20" y="478" type="line"/>
+      <point x="20" y="560" type="line"/>
+      <point x="260" y="560" type="line"/>
+      <point x="260" y="478" type="line"/>
+      <point x="185" y="478" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>|gecyrillic</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>gecyrillic</string>
+  <key>com.fontlab.recipe</key>
+  <string>=gecyrillic@~, &amp; gecyrillic@40%,</string>
+  </dict>
+  </lib>
+</glyph>

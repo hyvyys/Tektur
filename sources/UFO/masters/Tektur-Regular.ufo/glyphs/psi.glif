@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="psi" format="2">
+  <advance width="780"/>
+  <unicode hex="03C8"/>
+  <anchor x="390" y="-140" name="bottom"/>
+  <anchor x="390" y="620" name="top"/>
+  <outline>
+    <contour>
+      <point x="140" y="0" type="line"/>
+      <point x="345" y="0" type="line"/>
+      <point x="345" y="-140" type="line"/>
+      <point x="435" y="-140" type="line"/>
+      <point x="435" y="0" type="line"/>
+      <point x="640" y="0" type="line"/>
+      <point x="720" y="80" type="line"/>
+      <point x="720" y="560" type="line"/>
+      <point x="630" y="560" type="line"/>
+      <point x="630" y="80" type="line"/>
+      <point x="435" y="80" type="line"/>
+      <point x="435" y="620" type="line"/>
+      <point x="345" y="620" type="line"/>
+      <point x="345" y="80" type="line"/>
+      <point x="150" y="80" type="line"/>
+      <point x="150" y="560" type="line"/>
+      <point x="60" y="560" type="line"/>
+      <point x="60" y="80" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>n</string>
+  <key>com.fontlab.recipe</key>
+  <string>Psi</string>
+  </dict>
+  </lib>
+</glyph>

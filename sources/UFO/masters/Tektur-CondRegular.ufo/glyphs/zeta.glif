@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zeta" format="2">
+  <advance width="270"/>
+  <unicode hex="03B6"/>
+  <anchor x="135" y="-120" name="bottom"/>
+  <anchor x="135" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="115" y="0" type="line"/>
+      <point x="175" y="0" type="line"/>
+      <point x="175" y="-160" type="line"/>
+      <point x="255" y="-160" type="line"/>
+      <point x="255" y="78" type="line"/>
+      <point x="125" y="78" type="line"/>
+      <point x="125" y="399" type="line"/>
+      <point x="245" y="620" type="line"/>
+      <point x="245" y="700" type="line"/>
+      <point x="35" y="700" type="line"/>
+      <point x="35" y="624" type="line"/>
+      <point x="160" y="624" type="line"/>
+      <point x="35" y="396" type="line"/>
+      <point x="35" y="80" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>o</string>
+  <key>com.fontlab.recipe</key>
+  <string>eth</string>
+  </dict>
+  </lib>
+</glyph>

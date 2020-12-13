@@ -3,7 +3,7 @@
   <advance width="360"/>
   <anchor x="180" y="0" name="bottom"/>
   <anchor x="280" y="0" name="ogonek"/>
-  <anchor x="180" y="700" name="top"/>
+  <anchor x="180" y="890" name="top"/>
   <outline>
     <component base="A.ss01"/>
     <component base="uni0302" xOffset="180" yOffset="140"/>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EBD" format="2">
+  <advance width="590"/>
+  <unicode hex="1EBD"/>
+  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="430" y="0" name="ogonek"/>
+  <anchor x="310" y="730" name="top"/>
+  <outline>
+    <component base="e"/>
+    <component base="tildecomb" xOffset="310"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>e+tildecomb</string>
+  </dict>
+  </lib>
+</glyph>

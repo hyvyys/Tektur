@@ -7,10 +7,10 @@
   <outline>
     <component base="t"/>
     <contour>
-      <point x="174" y="570" type="line"/>
-      <point x="230" y="570" type="line"/>
-      <point x="230" y="700" type="line"/>
-      <point x="174" y="700" type="line"/>
+      <point x="174" y="580" type="line"/>
+      <point x="230" y="580" type="line"/>
+      <point x="230" y="770" type="line"/>
+      <point x="174" y="770" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04A1" format="2">
+  <advance width="370"/>
+  <unicode hex="04A1"/>
+  <anchor x="210" y="0" name="bottom"/>
+  <anchor x="210" y="560" name="top"/>
+  <outline>
+    <contour>
+      <point x="10" y="482" type="line"/>
+      <point x="80" y="482" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="170" y="0" type="line"/>
+      <point x="170" y="251" type="line"/>
+      <point x="200" y="251" type="line"/>
+      <point x="258" y="0" type="line"/>
+      <point x="350" y="0" type="line"/>
+      <point x="275" y="302" type="line"/>
+      <point x="344" y="560" type="line"/>
+      <point x="254" y="560" type="line"/>
+      <point x="197" y="331" type="line"/>
+      <point x="170" y="331" type="line"/>
+      <point x="170" y="560" type="line"/>
+      <point x="10" y="560" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>hookleft_kappa</string>
+  </dict>
+  </lib>
+</glyph>

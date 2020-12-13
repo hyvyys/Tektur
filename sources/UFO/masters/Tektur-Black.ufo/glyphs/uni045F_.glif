@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni045F" format="2">
+  <advance width="620"/>
+  <unicode hex="045F"/>
+  <anchor x="310" y="560" name="bottom"/>
+  <anchor x="310" y="0" name="top"/>
+  <outline>
+    <component base="pi" xScale="-1" yScale="-1" xOffset="620" yOffset="560"/>
+    <component base="desccy" xOffset="350"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>=pi@~,~ + desccy@50%,</string>
+  </dict>
+  </lib>
+</glyph>

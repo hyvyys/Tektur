@@ -3,7 +3,7 @@
   <advance width="300"/>
   <unicode hex="017B"/>
   <anchor x="150" y="0" name="bottom"/>
-  <anchor x="150" y="700" name="top"/>
+  <anchor x="150" y="850" name="top"/>
   <outline>
     <component base="Z"/>
     <component base="uni0307" xOffset="150" yOffset="140"/>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowleft" format="2">
+  <advance width="840"/>
+  <unicode hex="2190"/>
+  <outline>
+    <contour>
+      <point x="20" y="265" type="line"/>
+      <point x="300" y="0" type="line"/>
+      <point x="420" y="0" type="line"/>
+      <point x="155" y="240" type="line"/>
+      <point x="820" y="240" type="line"/>
+      <point x="820" y="320" type="line"/>
+      <point x="155" y="320" type="line"/>
+      <point x="420" y="560" type="line"/>
+      <point x="300" y="560" type="line"/>
+      <point x="20" y="295" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>guilsinglleft_emdash</string>
+  </dict>
+  </lib>
+</glyph>

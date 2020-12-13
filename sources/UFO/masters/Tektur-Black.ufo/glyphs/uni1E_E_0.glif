@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EE0" format="2">
+  <advance width="650"/>
+  <unicode hex="1EE0"/>
+  <anchor x="325" y="0" name="bottom"/>
+  <anchor x="315" y="870" name="top"/>
+  <outline>
+    <component base="Ohorn"/>
+    <component base="tildecomb" xOffset="315" yOffset="140"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Ohorn+tildecomb</string>
+  </dict>
+  </lib>
+</glyph>

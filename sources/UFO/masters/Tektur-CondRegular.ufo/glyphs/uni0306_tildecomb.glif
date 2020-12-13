@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0306_tildecomb" format="2">
+  <anchor x="0" y="560" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-80" y="728" type="line"/>
+      <point x="-34" y="768" type="line"/>
+      <point x="40" y="728" type="line"/>
+      <point x="100" y="785" type="line"/>
+      <point x="80" y="840" type="line"/>
+      <point x="34" y="800" type="line"/>
+      <point x="-40" y="840" type="line"/>
+      <point x="-100" y="783" type="line"/>
+    </contour>
+    <contour>
+      <point x="50" y="710" type="line"/>
+      <point x="27" y="670" type="line"/>
+      <point x="-27" y="670" type="line"/>
+      <point x="-50" y="710" type="line"/>
+      <point x="-130" y="710" type="line"/>
+      <point x="-80" y="610" type="line"/>
+      <point x="80" y="610" type="line"/>
+      <point x="130" y="710" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni0302_gravecomb</string>
+  </dict>
+  </lib>
+</glyph>

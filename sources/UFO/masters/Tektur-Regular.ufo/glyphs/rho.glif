@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rho" format="2">
+  <advance width="635"/>
+  <unicode hex="03C1"/>
+  <anchor x="290" y="-140" name="bottom"/>
+  <anchor x="310" y="560" name="top"/>
+  <outline>
+    <contour>
+      <point x="70" y="-140" type="line"/>
+      <point x="160" y="-140" type="line"/>
+      <point x="160" y="0" type="line"/>
+      <point x="485" y="0" type="line"/>
+      <point x="575" y="90" type="line"/>
+      <point x="575" y="470" type="line"/>
+      <point x="485" y="560" type="line"/>
+      <point x="160" y="560" type="line"/>
+      <point x="70" y="470" type="line"/>
+    </contour>
+    <contour>
+      <point x="485" y="480" type="line"/>
+      <point x="485" y="80" type="line"/>
+      <point x="160" y="80" type="line"/>
+      <point x="160" y="480" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>mu</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>omicron</string>
+  <key>com.fontlab.recipe</key>
+  <string>p%</string>
+  </dict>
+  </lib>
+</glyph>

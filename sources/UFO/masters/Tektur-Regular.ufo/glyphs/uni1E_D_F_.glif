@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EDF" format="2">
+  <advance width="610"/>
+  <unicode hex="1EDF"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="295" y="560" name="top"/>
+  <outline>
+    <component base="ohorn"/>
+    <component base="hookabovecomb" xOffset="295"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>ohorn+hookabovecomb</string>
+  </dict>
+  </lib>
+</glyph>

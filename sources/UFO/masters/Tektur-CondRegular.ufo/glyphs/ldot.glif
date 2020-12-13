@@ -3,17 +3,17 @@
   <advance width="270"/>
   <unicode hex="0140"/>
   <anchor x="85" y="0" name="bottom"/>
-  <anchor x="135" y="700" name="top"/>
+  <anchor x="85" y="700" name="top"/>
   <outline>
     <component base="l"/>
-    <component base="periodcentered.locl_CAT" xOffset="170"/>
+    <component base="periodcentered.loclCAT" xOffset="170"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>=l&amp;periodcentered.locl_CAT</string>
+  <string>=l&amp;periodcentered.loclCAT</string>
   </dict>
   </lib>
 </glyph>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="product" format="2">
-  <advance width="350"/>
+  <advance width="360"/>
   <unicode hex="220F"/>
-  <anchor x="175" y="0" name="bottom"/>
-  <anchor x="175" y="560" name="top"/>
+  <anchor x="180" y="0" name="bottom"/>
+  <anchor x="180" y="700" name="top"/>
   <outline>
     <contour>
-      <point x="40" y="0" type="line"/>
-      <point x="130" y="0" type="line"/>
+      <point x="40" y="-140" type="line"/>
+      <point x="130" y="-140" type="line"/>
       <point x="130" y="620" type="line"/>
-      <point x="220" y="620" type="line"/>
-      <point x="220" y="0" type="line"/>
-      <point x="310" y="0" type="line"/>
-      <point x="310" y="700" type="line"/>
+      <point x="230" y="620" type="line"/>
+      <point x="230" y="-140" type="line"/>
+      <point x="320" y="-140" type="line"/>
+      <point x="320" y="700" type="line"/>
       <point x="40" y="700" type="line"/>
     </contour>
   </outline>

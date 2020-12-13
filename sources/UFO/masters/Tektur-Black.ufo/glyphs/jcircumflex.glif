@@ -2,7 +2,8 @@
 <glyph name="jcircumflex" format="2">
   <advance width="300"/>
   <unicode hex="0135"/>
-  <anchor x="150" y="560" name="top"/>
+  <anchor x="150" y="-140" name="bottom"/>
+  <anchor x="150" y="750" name="top"/>
   <outline>
     <component base="uni0237"/>
     <component base="uni0302" xOffset="150"/>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0492" format="2">
+  <advance width="390"/>
+  <unicode hex="0492"/>
+  <anchor x="195" y="0" name="bottom"/>
+  <anchor x="195" y="700" name="top"/>
+  <outline>
+    <component base="Gamma"/>
+    <contour>
+      <point x="40" y="220" type="line"/>
+      <point x="360" y="220" type="line"/>
+      <point x="360" y="370" type="line"/>
+      <point x="40" y="370" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Gamma</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0424.loclBGR" format="2">
+  <advance width="730"/>
+  <anchor x="365" y="0" name="bottom"/>
+  <anchor x="365" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="25" y="160" type="line"/>
+      <point x="175" y="10" type="line"/>
+      <point x="555" y="10" type="line"/>
+      <point x="705" y="160" type="line"/>
+      <point x="705" y="540" type="line"/>
+      <point x="555" y="690" type="line"/>
+      <point x="175" y="690" type="line"/>
+      <point x="25" y="540" type="line"/>
+    </contour>
+    <contour>
+      <point x="225" y="520" type="line"/>
+      <point x="505" y="520" type="line"/>
+      <point x="505" y="180" type="line"/>
+      <point x="225" y="180" type="line"/>
+    </contour>
+    <contour>
+      <point x="455" y="-40" type="line"/>
+      <point x="455" y="740" type="line"/>
+      <point x="275" y="740" type="line"/>
+      <point x="275" y="-40" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>=Phi</string>
+  </dict>
+  </lib>
+</glyph>

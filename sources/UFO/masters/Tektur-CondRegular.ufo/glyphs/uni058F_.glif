@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni058F" format="2">
+  <advance width="350"/>
+  <unicode hex="058F"/>
+  <anchor x="185" y="0" name="bottom"/>
+  <anchor x="175" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="310" y="0" type="line"/>
+      <point x="220" y="0" type="line"/>
+      <point x="220" y="110" type="line"/>
+      <point x="110" y="110" type="line"/>
+      <point x="110" y="190" type="line"/>
+      <point x="220" y="190" type="line"/>
+      <point x="220" y="260" type="line"/>
+      <point x="110" y="260" type="line"/>
+      <point x="110" y="340" type="line"/>
+      <point x="220" y="340" type="line"/>
+      <point x="220" y="620" type="line"/>
+      <point x="130" y="620" type="line"/>
+      <point x="130" y="410" type="line"/>
+      <point x="40" y="410" type="line"/>
+      <point x="40" y="620" type="line"/>
+      <point x="120" y="700" type="line"/>
+      <point x="230" y="700" type="line"/>
+      <point x="310" y="620" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>=J@,~</string>
+  </dict>
+  </lib>
+</glyph>

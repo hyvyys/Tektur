@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0308.i" format="2">
+  <anchor x="0" y="560" name="_top"/>
+  <anchor x="0" y="710" name="top"/>
+  <outline>
+    <contour>
+      <point x="-125" y="630" type="line"/>
+      <point x="-35" y="630" type="line"/>
+      <point x="-35" y="710" type="line"/>
+      <point x="-125" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="35" y="630" type="line"/>
+      <point x="125" y="630" type="line"/>
+      <point x="125" y="710" type="line"/>
+      <point x="35" y="710" type="line"/>
+    </contour>
+  </outline>
+</glyph>

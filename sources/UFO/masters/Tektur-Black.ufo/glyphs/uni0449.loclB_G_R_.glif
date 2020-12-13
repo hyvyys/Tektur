@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0449.loclBGR" format="2">
+  <advance width="970"/>
+  <anchor x="460" y="560" name="bottom"/>
+  <anchor x="460" y="0" name="top"/>
+  <outline>
+    <component base="m" xScale="-1" yScale="-1" xOffset="920" yOffset="560"/>
+    <component base="desccy" xOffset="920"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>=m@~,~ &amp; desccy</string>
+  </dict>
+  </lib>
+</glyph>

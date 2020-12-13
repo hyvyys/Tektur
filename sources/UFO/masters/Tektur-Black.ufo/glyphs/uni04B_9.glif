@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04B9" format="2">
+  <advance width="640"/>
+  <unicode hex="04B9"/>
+  <anchor x="370" y="0" name="bottom"/>
+  <anchor x="320" y="560" name="top"/>
+  <outline>
+    <contour>
+      <point x="600" y="560" type="line"/>
+      <point x="390" y="560" type="line"/>
+      <point x="390" y="300" type="line"/>
+      <point x="250" y="300" type="line"/>
+      <point x="250" y="560" type="line"/>
+      <point x="40" y="560" type="line"/>
+      <point x="40" y="260" type="line"/>
+      <point x="180" y="120" type="line"/>
+      <point x="390" y="120" type="line"/>
+      <point x="390" y="0" type="line"/>
+      <point x="600" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="358" y="50" type="line"/>
+      <point x="358" y="440" type="line"/>
+      <point x="282" y="440" type="line"/>
+      <point x="282" y="50" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>|n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>M</string>
+  <key>com.fontlab.recipe</key>
+  <string>=h@~,~</string>
+  </dict>
+  </lib>
+</glyph>

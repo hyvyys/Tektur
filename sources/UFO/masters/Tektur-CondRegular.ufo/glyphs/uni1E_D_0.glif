@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1ED0" format="2">
+  <advance width="360"/>
+  <unicode hex="1ED0"/>
+  <anchor x="180" y="0" name="bottom"/>
+  <anchor x="180" y="700" name="top"/>
+  <outline>
+    <component base="O"/>
+    <component base="uni0302_acutecomb" xOffset="180" yOffset="140"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>=O+uni0302_acutecomb@top</string>
+  </dict>
+  </lib>
+</glyph>

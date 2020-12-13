@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2116" format="2">
+  <advance width="1040"/>
+  <unicode hex="2116"/>
+  <anchor x="280" y="0" name="bottom"/>
+  <anchor x="280" y="700" name="top"/>
+  <outline>
+    <component base="N"/>
+    <component base="ordmasculine" xOffset="560" yOffset="-150"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>=N &amp; ordmasculine@,100</string>
+  </dict>
+  </lib>
+</glyph>
