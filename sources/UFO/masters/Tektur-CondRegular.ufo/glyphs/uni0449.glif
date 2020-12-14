@@ -3,13 +3,27 @@
   <advance width="545"/>
   <unicode hex="0449"/>
   <outline>
-    <component base="uni0448"/>
-    <component base="desccy" xOffset="530"/>
+    <contour>
+      <point x="310" y="560" type="line"/>
+      <point x="220" y="560" type="line"/>
+      <point x="220" y="80" type="line"/>
+      <point x="130" y="80" type="line"/>
+      <point x="130" y="560" type="line"/>
+      <point x="40" y="560" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="455" y="0" type="line"/>
+      <point x="455" y="-140" type="line"/>
+      <point x="535" y="-140" type="line"/>
+      <point x="535" y="80" type="line"/>
+      <point x="490" y="80" type="line"/>
+      <point x="490" y="560" type="line"/>
+      <point x="400" y="560" type="line"/>
+      <point x="400" y="80" type="line"/>
+      <point x="310" y="80" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>=uni0448 &amp; desccy</string>
   </dict>

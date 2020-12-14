@@ -2,18 +2,18 @@
 <glyph name="Etatonos" format="2">
   <advance width="850"/>
   <unicode hex="0389"/>
-  <anchor x="425" y="-0" name="bottom"/>
-  <anchor x="425" y="700" name="top"/>
+  <anchor x="525" y="0" name="bottom"/>
+  <anchor x="525" y="700" name="top"/>
   <outline>
     <component base="tonos"/>
-    <component base="H" xOffset="200"/>
+    <component base="Eta" xOffset="200"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>=tonos&amp;\H</string>
+  <string>=tonos&amp;\Eta</string>
   </dict>
   </lib>
 </glyph>

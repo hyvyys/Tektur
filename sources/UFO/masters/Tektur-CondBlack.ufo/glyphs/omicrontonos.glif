@@ -5,7 +5,7 @@
   <anchor x="280" y="0" name="bottom"/>
   <anchor x="280" y="560" name="top"/>
   <outline>
-    <component base="o"/>
+    <component base="omicron"/>
     <component base="tonoscomb" xOffset="280"/>
   </outline>
   <lib>
@@ -13,7 +13,7 @@
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>o+tonoscomb</string>
+  <string>omicron+tonoscomb</string>
   </dict>
   </lib>
 </glyph>

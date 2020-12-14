@@ -127,13 +127,10 @@
     <string>Acircumflex</string>
     <string>Adieresis</string>
     <string>Agrave</string>
-    <string>Alpha</string>
     <string>Amacron</string>
     <string>Aogonek</string>
     <string>Aring</string>
     <string>Atilde</string>
-    <string>Lambda</string>
-    <string>uni0394</string>
   </array>
   <key>public.kern2.C</key>
   <array>

@@ -5,7 +5,7 @@
   <anchor x="310" y="0" name="bottom"/>
   <anchor x="310" y="560" name="top"/>
   <outline>
-    <component base="n"/>
+    <component base="eta"/>
     <component base="tonoscomb" xOffset="310"/>
   </outline>
   <lib>
@@ -13,7 +13,7 @@
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>n+tonoscomb</string>
+  <string>eta+tonoscomb</string>
   </dict>
   </lib>
 </glyph>

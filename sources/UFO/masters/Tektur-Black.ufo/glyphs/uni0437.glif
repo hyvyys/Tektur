@@ -5,12 +5,28 @@
   <anchor x="255" y="-0" name="bottom"/>
   <anchor x="255" y="560" name="top"/>
   <outline>
-    <component base="epsilon" xScale="-1" xOffset="580"/>
+    <contour>
+      <point x="560" y="100" type="line"/>
+      <point x="560" y="226" type="line"/>
+      <point x="473" y="296" type="line"/>
+      <point x="540" y="349" type="line"/>
+      <point x="540" y="460" type="line"/>
+      <point x="440" y="560" type="line"/>
+      <point x="40" y="560" type="line"/>
+      <point x="40" y="390" type="line"/>
+      <point x="309" y="390" type="line"/>
+      <point x="309" y="345" type="line"/>
+      <point x="70" y="345" type="line"/>
+      <point x="70" y="215" type="line"/>
+      <point x="329" y="215" type="line"/>
+      <point x="329" y="170" type="line"/>
+      <point x="30" y="170" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="460" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.metricsLeft</key>
   <string>|eopen</string>
   <key>com.fontlab.metricsRight</key>

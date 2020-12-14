@@ -2,16 +2,26 @@
 <glyph name="uni0446" format="2">
   <advance width="610"/>
   <unicode hex="0446"/>
-  <anchor x="280" y="560" name="bottom"/>
-  <anchor x="280" y="0" name="top"/>
+  <anchor x="305" y="560" name="bottom"/>
+  <anchor x="305" y="-0" name="top"/>
   <outline>
-    <component base="pi" xScale="-1" yScale="-1" xOffset="560" yOffset="560"/>
-    <component base="desccy" xOffset="560"/>
+    <contour>
+      <point x="530" y="560" type="line"/>
+      <point x="310" y="560" type="line"/>
+      <point x="310" y="190" type="line"/>
+      <point x="250" y="190" type="line"/>
+      <point x="250" y="560" type="line"/>
+      <point x="30" y="560" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="440" y="0" type="line"/>
+      <point x="440" y="-140" type="line"/>
+      <point x="600" y="-140" type="line"/>
+      <point x="600" y="190" type="line"/>
+      <point x="530" y="190" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>=pi@~,~ &amp; desccy</string>
   </dict>

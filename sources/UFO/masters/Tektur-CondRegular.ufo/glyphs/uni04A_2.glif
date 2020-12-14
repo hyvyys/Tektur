@@ -2,16 +2,30 @@
 <glyph name="uni04A2" format="2">
   <advance width="375"/>
   <unicode hex="04A2"/>
-  <anchor x="180" y="0" name="bottom"/>
+  <anchor x="188" y="-0" name="bottom"/>
   <anchor x="188" y="700" name="top"/>
   <outline>
-    <component base="uni041D"/>
-    <component base="desccy" xOffset="360"/>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="130" y="320" type="line"/>
+      <point x="230" y="320" type="line"/>
+      <point x="230" y="0" type="line"/>
+      <point x="285" y="0" type="line"/>
+      <point x="285" y="-140" type="line"/>
+      <point x="365" y="-140" type="line"/>
+      <point x="365" y="80" type="line"/>
+      <point x="320" y="80" type="line"/>
+      <point x="320" y="700" type="line"/>
+      <point x="230" y="700" type="line"/>
+      <point x="230" y="400" type="line"/>
+      <point x="130" y="400" type="line"/>
+      <point x="130" y="700" type="line"/>
+      <point x="40" y="700" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>uni041D_desccy</string>
   </dict>

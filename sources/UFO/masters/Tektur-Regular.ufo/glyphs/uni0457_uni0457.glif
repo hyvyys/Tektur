@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0457_uni0457" format="2">
+  <advance width="420"/>
+  <anchor x="210" y="-0" name="bottom"/>
+  <anchor x="210" y="710" name="top"/>
+  <outline>
+    <contour>
+      <point x="60" y="0" type="line"/>
+      <point x="150" y="0" type="line"/>
+      <point x="150" y="560" type="line"/>
+      <point x="60" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="-10" y="630" type="line"/>
+      <point x="70" y="630" type="line"/>
+      <point x="70" y="710" type="line"/>
+      <point x="-10" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="110" y="630" type="line"/>
+      <point x="190" y="630" type="line"/>
+      <point x="190" y="710" type="line"/>
+      <point x="110" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="270" y="0" type="line"/>
+      <point x="360" y="0" type="line"/>
+      <point x="360" y="560" type="line"/>
+      <point x="270" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="230" y="630" type="line"/>
+      <point x="310" y="630" type="line"/>
+      <point x="310" y="710" type="line"/>
+      <point x="230" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="350" y="630" type="line"/>
+      <point x="430" y="630" type="line"/>
+      <point x="430" y="710" type="line"/>
+      <point x="350" y="710" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni0457_uni0457</string>
+  </dict>
+  </lib>
+</glyph>

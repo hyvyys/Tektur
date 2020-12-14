@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="omicrontonos" format="2">
-  <advance width="340"/>
+  <advance width="350"/>
   <unicode hex="03CC"/>
-  <anchor x="170" y="0" name="bottom"/>
-  <anchor x="170" y="560" name="top"/>
+  <anchor x="175" y="0" name="bottom"/>
+  <anchor x="175" y="560" name="top"/>
   <outline>
-    <component base="o"/>
-    <component base="tonoscomb" xOffset="170"/>
+    <component base="omicron"/>
+    <component base="tonoscomb" xOffset="175"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>o+tonoscomb</string>
+  <string>omicron+tonoscomb</string>
   </dict>
   </lib>
 </glyph>

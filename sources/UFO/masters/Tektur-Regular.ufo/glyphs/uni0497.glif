@@ -2,16 +2,40 @@
 <glyph name="uni0497" format="2">
   <advance width="962"/>
   <unicode hex="0497"/>
-  <anchor x="475" y="0" name="bottom"/>
-  <anchor x="475" y="560" name="top"/>
+  <anchor x="481" y="-0" name="bottom"/>
+  <anchor x="481" y="560" name="top"/>
   <outline>
-    <component base="uni0436"/>
-    <component base="desccy" xOffset="950"/>
+    <contour>
+      <point x="520" y="0" type="line"/>
+      <point x="520" y="251" type="line"/>
+      <point x="687" y="251" type="line"/>
+      <point x="838" y="0" type="line"/>
+      <point x="862" y="0" type="line"/>
+      <point x="862" y="-140" type="line"/>
+      <point x="952" y="-140" type="line"/>
+      <point x="952" y="80" type="line"/>
+      <point x="891" y="80" type="line"/>
+      <point x="755" y="302" type="line"/>
+      <point x="931" y="560" type="line"/>
+      <point x="828" y="560" type="line"/>
+      <point x="678" y="331" type="line"/>
+      <point x="520" y="331" type="line"/>
+      <point x="520" y="560" type="line"/>
+      <point x="430" y="560" type="line"/>
+      <point x="430" y="331" type="line"/>
+      <point x="272" y="331" type="line"/>
+      <point x="122" y="560" type="line"/>
+      <point x="19" y="560" type="line"/>
+      <point x="195" y="302" type="line"/>
+      <point x="10" y="0" type="line"/>
+      <point x="112" y="0" type="line"/>
+      <point x="263" y="251" type="line"/>
+      <point x="430" y="251" type="line"/>
+      <point x="430" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>uni0436_desccy</string>
   </dict>

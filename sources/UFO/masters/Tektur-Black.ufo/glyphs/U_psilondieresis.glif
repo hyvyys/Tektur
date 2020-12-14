@@ -5,7 +5,7 @@
   <anchor x="320" y="0" name="bottom"/>
   <anchor x="320" y="870" name="top"/>
   <outline>
-    <component base="Y"/>
+    <component base="Upsilon"/>
     <component base="uni0308" xOffset="320" yOffset="140"/>
   </outline>
   <lib>
@@ -13,7 +13,7 @@
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>Y+uni0308</string>
+  <string>Upsilon+uni0308</string>
   </dict>
   </lib>
 </glyph>

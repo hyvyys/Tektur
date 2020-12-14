@@ -21,12 +21,10 @@
       <point x="255" y="180" type="line"/>
       <point x="20" y="180" type="line"/>
       <point x="20" y="0" type="line"/>
-    </contour>
-    <contour>
+      <point x="140" y="0" type="line"/>
       <point x="140" y="-140" type="line"/>
       <point x="300" y="-140" type="line"/>
-      <point x="300" y="170" type="line"/>
-      <point x="140" y="170" type="line"/>
+      <point x="300" y="0" type="line"/>
     </contour>
   </outline>
   <lib>

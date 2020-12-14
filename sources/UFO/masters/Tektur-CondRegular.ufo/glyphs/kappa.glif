@@ -25,6 +25,8 @@
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>mu</string>
+  <key>com.fontlab.recipe</key>
+  <string>kgreenlandic</string>
   </dict>
   </lib>
 </glyph>

@@ -57,10 +57,10 @@
   </dict>
   <key>tonos</key>
   <dict>
+    <key>Alpha</key>
+    <integer>-50</integer>
     <key>uni03A9</key>
     <integer>-30</integer>
-    <key>public.kern2.A1</key>
-    <integer>-50</integer>
     <key>public.kern2.C</key>
     <integer>-30</integer>
   </dict>

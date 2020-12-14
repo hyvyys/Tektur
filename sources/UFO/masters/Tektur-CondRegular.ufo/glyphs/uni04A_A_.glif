@@ -5,13 +5,25 @@
   <anchor x="160" y="0" name="bottom"/>
   <anchor x="160" y="700" name="top"/>
   <outline>
-    <component base="uni0421"/>
-    <component base="desccy" xOffset="209"/>
+    <contour>
+      <point x="40" y="80" type="line"/>
+      <point x="120" y="0" type="line"/>
+      <point x="134" y="0" type="line"/>
+      <point x="134" y="-140" type="line"/>
+      <point x="214" y="-140" type="line"/>
+      <point x="214" y="0" type="line"/>
+      <point x="250" y="0" type="line"/>
+      <point x="250" y="82" type="line"/>
+      <point x="130" y="82" type="line"/>
+      <point x="130" y="618" type="line"/>
+      <point x="240" y="618" type="line"/>
+      <point x="240" y="700" type="line"/>
+      <point x="120" y="700" type="line"/>
+      <point x="40" y="620" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>=uni0421+desccy@60%,</string>
   </dict>

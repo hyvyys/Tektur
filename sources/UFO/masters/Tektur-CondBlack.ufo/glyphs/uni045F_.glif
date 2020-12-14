@@ -5,13 +5,23 @@
   <anchor x="280" y="560" name="bottom"/>
   <anchor x="280" y="0" name="top"/>
   <outline>
-    <component base="pi" xScale="-1" yScale="-1" xOffset="560" yOffset="560"/>
-    <component base="desccy" xOffset="320"/>
+    <contour>
+      <point x="530" y="560" type="line"/>
+      <point x="310" y="560" type="line"/>
+      <point x="310" y="190" type="line"/>
+      <point x="250" y="190" type="line"/>
+      <point x="250" y="560" type="line"/>
+      <point x="30" y="560" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="200" y="0" type="line"/>
+      <point x="200" y="-140" type="line"/>
+      <point x="360" y="-140" type="line"/>
+      <point x="360" y="0" type="line"/>
+      <point x="530" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>=pi@~,~ + desccy@50%,</string>
   </dict>

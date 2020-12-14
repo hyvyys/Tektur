@@ -6,14 +6,14 @@
   <anchor x="125" y="780" name="top"/>
   <outline>
     <contour>
-      <point x="160" y="700" type="line"/>
-      <point x="40" y="700" type="line"/>
       <point x="40" y="0" type="line"/>
       <point x="130" y="0" type="line"/>
       <point x="130" y="620" type="line"/>
       <point x="240" y="620" type="line"/>
       <point x="240" y="800" type="line"/>
       <point x="160" y="800" type="line"/>
+      <point x="160" y="700" type="line"/>
+      <point x="40" y="700" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -5,45 +5,13 @@
   <anchor x="885" y="-0" name="bottom"/>
   <anchor x="885" y="560" name="top"/>
   <outline>
-    <contour>
-      <point x="580" y="700" type="line"/>
-      <point x="360" y="700" type="line"/>
-      <point x="360" y="560" type="line"/>
-      <point x="180" y="560" type="line"/>
-      <point x="30" y="410" type="line"/>
-      <point x="30" y="150" type="line"/>
-      <point x="180" y="0" type="line"/>
-      <point x="580" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="250" y="180" type="line"/>
-      <point x="250" y="380" type="line"/>
-      <point x="360" y="380" type="line"/>
-      <point x="360" y="180" type="line"/>
-    </contour>
-    <contour>
-      <point x="640" y="0" type="line"/>
-      <point x="1130" y="0" type="line"/>
-      <point x="1130" y="180" type="line"/>
-      <point x="910" y="180" type="line"/>
-      <point x="1130" y="400" type="line"/>
-      <point x="1130" y="560" type="line"/>
-      <point x="640" y="560" type="line"/>
-      <point x="640" y="380" type="line"/>
-      <point x="860" y="380" type="line"/>
-      <point x="640" y="160" type="line"/>
-    </contour>
-    <contour>
-      <point x="1075" y="770" type="line"/>
-      <point x="885" y="710" type="line"/>
-      <point x="695" y="770" type="line"/>
-      <point x="695" y="650" type="line"/>
-      <point x="885" y="590" type="line"/>
-      <point x="1075" y="650" type="line"/>
-    </contour>
+    <component base="d"/>
+    <component base="zcaron" xOffset="620"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>d_zcaron</string>
   </dict>

@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2199" format="2">
-  <advance width="642"/>
+  <advance width="662"/>
   <unicode hex="2199"/>
   <outline>
-    <component base="uni2198" xScale="-1" xOffset="642"/>
+    <contour>
+      <point x="111" y="96" type="line"/>
+      <point x="28" y="402" type="line"/>
+      <point x="169" y="543" type="line"/>
+      <point x="224" y="337" type="line"/>
+      <point x="499" y="612" type="line"/>
+      <point x="634" y="477" type="line"/>
+      <point x="359" y="202" type="line"/>
+      <point x="565" y="147" type="line"/>
+      <point x="424" y="6" type="line"/>
+      <point x="118" y="89" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>

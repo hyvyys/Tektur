@@ -78,11 +78,11 @@
   </dict>
   <key>tonos</key>
   <dict>
-    <key>uni03A9</key>
-    <integer>-30</integer>
-    <key>public.kern2.A1</key>
+    <key>Alpha</key>
     <integer>-60</integer>
-    <key>public.kern2.C</key>
+    <key>Omicron</key>
+    <integer>-30</integer>
+    <key>uni03A9</key>
     <integer>-30</integer>
   </dict>
   <key>public.kern1.A</key>

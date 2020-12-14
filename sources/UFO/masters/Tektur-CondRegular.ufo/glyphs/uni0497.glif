@@ -5,13 +5,37 @@
   <anchor x="248" y="-0" name="bottom"/>
   <anchor x="248" y="560" name="top"/>
   <outline>
-    <component base="uni0436"/>
-    <component base="desccy" xOffset="480"/>
+    <contour>
+      <point x="285" y="0" type="line"/>
+      <point x="285" y="251" type="line"/>
+      <point x="315" y="251" type="line"/>
+      <point x="368" y="0" type="line"/>
+      <point x="405" y="0" type="line"/>
+      <point x="405" y="-140" type="line"/>
+      <point x="485" y="-140" type="line"/>
+      <point x="485" y="80" type="line"/>
+      <point x="440" y="80" type="line"/>
+      <point x="385" y="302" type="line"/>
+      <point x="454" y="560" type="line"/>
+      <point x="364" y="560" type="line"/>
+      <point x="312" y="331" type="line"/>
+      <point x="285" y="331" type="line"/>
+      <point x="285" y="560" type="line"/>
+      <point x="195" y="560" type="line"/>
+      <point x="195" y="331" type="line"/>
+      <point x="168" y="331" type="line"/>
+      <point x="116" y="560" type="line"/>
+      <point x="26" y="560" type="line"/>
+      <point x="95" y="302" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="112" y="0" type="line"/>
+      <point x="165" y="251" type="line"/>
+      <point x="195" y="251" type="line"/>
+      <point x="195" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>uni0436_desccy</string>
   </dict>
