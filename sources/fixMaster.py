@@ -1,6 +1,7 @@
 __doc__ = """
     Use on FontLab-produced UFO masters:
-    - adds vendor ID
+    - adds vendor ID to UFO fontinfo
+    - adds flattenComponents filter to UFO lib
 """
 
 import sys
@@ -11,10 +12,9 @@ path = sys.argv[-1]
 def fixFontinfo(path):
     with open(path, 'rb') as fp:
         pl = load(fp)
-
     pl['openTypeOS2VendorID'] = 'Adam'
     
     with open(path, 'wb') as fp:
         dump(pl, fp)
 
-fixFontinfo(path)
+fixFontinfo(path + 'fontinfo.plist')

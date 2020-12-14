@@ -3,14 +3,14 @@
 fix_masters=1
 export_variable=1
 export_static=1
-fontbakery=1
+# fontbakery=1
 
 
 if [[ $fix_masters == 1 ]]; then
     echo "Fixing FontLab UFO export"
     for master in ./UFO/masters/*.ufo/
     do
-      python3 fixMaster.py "${master}fontinfo.plist"
+      python3 fixMaster.py "${master}"
     done
 fi
 
@@ -24,7 +24,7 @@ if [[ $export_variable == 1 ]]; then
     target=$variableFont
     backup="../fonts/variable/${designspace}-VF-backup-fonttools-prep-gasp.ttf";
 
-    fontmake --verbose WARNING -m "./UFO/${designspace}.designspace" -o variable --output-dir ../fonts/variable
+    fontmake --verbose WARNING --flatten-components -m "./UFO/${designspace}.designspace" -o variable --output-dir ../fonts/variable
 
     echo "Post-processing variable TTF font"
     python3 fixVariable.py $source
@@ -38,7 +38,7 @@ fi
 if [[ $export_static == 1 ]]; then
     echo "Building static TTF fonts"
     rm -R ./UFO/instances/
-    fontmake --verbose WARNING -m ./UFO/Tektur-static.designspace -o ttf --output-dir ../fonts/ttf -i
+    fontmake --verbose WARNING --flatten-components -m ./UFO/Tektur-static.designspace -o ttf --output-dir ../fonts/ttf -i
 
     echo "Post-processing static TTF fonts"
     for ttf in $(ls ../fonts/ttf/*.ttf)
@@ -54,7 +54,6 @@ fi
 
 if [[ $fontbakery == 1 ]]; then
   echo "Running checks"
-  fontbakery check-googlefonts --succinct -l WARN $variableFont
 
   PARAMS=(
     -x "com.google.fonts/check/family/tnum_horizontal_metrics" # https://github.com/googlefonts/fontbakery/issues/2278#issuecomment-739417643
@@ -70,5 +69,7 @@ if [[ $fontbakery == 1 ]]; then
     -x "com.google.fonts/check/outline_alignment_miss"         # fails because of accents like tilde
     -x "com.google.fonts/check/gdef_mark_chars"                # uni0315 in this font is spacing and contains no anchors
   )
-  fontbakery check-googlefonts --succinct -l WARN ${PARAMS[@]} ../fonts/ttf/*.ttf
+  fontbakery check-googlefonts --succinct -l WARN $variableFont
+  fontbakery check-googlefonts --succinct -l WARN ${PARAMS[@]} ../fonts/ttf/
+
 fi
