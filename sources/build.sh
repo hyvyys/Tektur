@@ -24,7 +24,7 @@ if [[ $export_variable == 1 ]]; then
     target=$variableFont
     backup="../fonts/variable/${designspace}-VF-backup-fonttools-prep-gasp.ttf";
 
-    fontmake --verbose WARNING --flatten-components -m "./UFO/${designspace}.designspace" -o variable --output-dir ../fonts/variable
+    fontmake --verbose WARNING -m "./UFO/${designspace}.designspace" -o variable --output-dir ../fonts/variable
 
     echo "Post-processing variable TTF font"
     python3 fixVariable.py $source
@@ -38,7 +38,7 @@ fi
 if [[ $export_static == 1 ]]; then
     echo "Building static TTF fonts"
     rm -R ./UFO/instances/
-    fontmake --verbose WARNING --flatten-components -m ./UFO/Tektur-static.designspace -o ttf --output-dir ../fonts/ttf -i
+    fontmake --verbose WARNING -m ./UFO/Tektur-static.designspace -o ttf --output-dir ../fonts/ttf -i
 
     echo "Post-processing static TTF fonts"
     for ttf in $(ls ../fonts/ttf/*.ttf)
