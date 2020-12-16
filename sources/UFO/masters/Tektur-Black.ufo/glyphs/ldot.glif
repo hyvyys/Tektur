@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ldot" format="2">
-  <advance width="440"/>
+  <advance width="420"/>
   <unicode hex="0140"/>
   <anchor x="150" y="0" name="bottom"/>
   <anchor x="150" y="700" name="top"/>

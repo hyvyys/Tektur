@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni022A" format="2">
-  <advance width="650"/>
+  <advance width="680"/>
   <unicode hex="022A"/>
-  <anchor x="325" y="0" name="bottom"/>
-  <anchor x="325" y="950" name="top"/>
+  <anchor x="340" y="0" name="bottom"/>
+  <anchor x="340" y="950" name="top"/>
   <outline>
     <component base="O"/>
-    <component base="uni0308" xOffset="325" yOffset="140"/>
-    <component base="uni0304.stack" xOffset="325" yOffset="290"/>
+    <component base="uni0308" xOffset="340" yOffset="140"/>
+    <component base="uni0304.stack" xOffset="340" yOffset="290"/>
   </outline>
   <lib>
   <dict>

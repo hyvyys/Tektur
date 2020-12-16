@@ -61,6 +61,15 @@
     <key>public.kern2.W</key>
     <integer>-80</integer>
   </dict>
+  <key>r</key>
+  <dict>
+    <key>r</key>
+    <integer>-10</integer>
+    <key>v</key>
+    <integer>20</integer>
+    <key>y</key>
+    <integer>20</integer>
+  </dict>
   <key>seven</key>
   <dict>
     <key>public.kern2.period</key>

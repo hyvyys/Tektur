@@ -5,8 +5,18 @@
   <anchor x="180" y="0" name="bottom"/>
   <anchor x="260" y="560" name="top"/>
   <outline>
-    <component base="uni0433"/>
-    <component base="desccy" xOffset="210"/>
+    <contour>
+      <point x="60" y="0" type="line"/>
+      <point x="122" y="0" type="line"/>
+      <point x="122" y="-140" type="line"/>
+      <point x="212" y="-140" type="line"/>
+      <point x="212" y="80" type="line"/>
+      <point x="150" y="80" type="line"/>
+      <point x="150" y="480" type="line"/>
+      <point x="450" y="480" type="line"/>
+      <point x="450" y="560" type="line"/>
+      <point x="60" y="560" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>

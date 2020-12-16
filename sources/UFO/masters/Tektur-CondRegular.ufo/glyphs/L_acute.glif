@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lacute" format="2">
-  <advance width="305"/>
+  <advance width="310"/>
   <unicode hex="0139"/>
   <anchor x="165" y="0" name="bottom"/>
-  <anchor x="133" y="700" name="top"/>
+  <anchor x="130" y="700" name="top"/>
   <outline>
     <component base="L"/>
-    <component base="acutecomb.i" xOffset="133" yOffset="140"/>
+    <component base="acutecomb" xOffset="130" yOffset="140"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>L+acutecomb.i</string>
+  <string>L+acutecomb</string>
   </dict>
   </lib>
 </glyph>

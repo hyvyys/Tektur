@@ -8,12 +8,12 @@
     <contour>
       <point x="40" y="80" type="line"/>
       <point x="120" y="0" type="line"/>
-      <point x="250" y="0" type="line"/>
-      <point x="250" y="82" type="line"/>
-      <point x="130" y="82" type="line"/>
-      <point x="130" y="618" type="line"/>
-      <point x="240" y="618" type="line"/>
-      <point x="240" y="700" type="line"/>
+      <point x="260" y="0" type="line"/>
+      <point x="260" y="84" type="line"/>
+      <point x="132" y="84" type="line"/>
+      <point x="132" y="616" type="line"/>
+      <point x="250" y="616" type="line"/>
+      <point x="250" y="700" type="line"/>
       <point x="120" y="700" type="line"/>
       <point x="40" y="620" type="line"/>
     </contour>
@@ -22,6 +22,8 @@
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>O</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
   </dict>
   </lib>
 </glyph>

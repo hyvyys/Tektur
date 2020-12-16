@@ -21,22 +21,31 @@
 		<string>A.ss01</string>
 		<string>B</string>
 		<string>C</string>
+		<string>C.ss02</string>
+		<string>C.ss03</string>
 		<string>D</string>
 		<string>E</string>
 		<string>F</string>
 		<string>G</string>
+		<string>G.ss02</string>
+		<string>G.ss03</string>
 		<string>H</string>
 		<string>I</string>
 		<string>J</string>
 		<string>K</string>
 		<string>L</string>
+		<string>L.ss05</string>
+		<string>Lslash.ss05</string>
 		<string>M</string>
+		<string>M.ss04</string>
 		<string>N</string>
 		<string>O</string>
 		<string>P</string>
 		<string>Q</string>
 		<string>R</string>
 		<string>S</string>
+		<string>S.ss02</string>
+		<string>S.ss03</string>
 		<string>T</string>
 		<string>U</string>
 		<string>V</string>
@@ -230,6 +239,8 @@
 		<string>uni020A</string>
 		<string>uni020B</string>
 		<string>IJ</string>
+		<string>I_J.loclNLD</string>
+		<string>Iacute_J.loclNLD</string>
 		<string>ij</string>
 		<string>uni0197</string>
 		<string>uni0268</string>
@@ -598,6 +609,8 @@
 		<string>hyphen</string>
 		<string>endash</string>
 		<string>emdash</string>
+		<string>uni2015</string>
+		<string>figuredash</string>
 		<string>periodcentered</string>
 		<string>asciitilde</string>
 		<string>bullet</string>
@@ -1064,10 +1077,49 @@
 		<string>uni044C.loclBGR</string>
 		<string>uni044E.loclBGR</string>
 		<string>uni0306.cy</string>
-		<string>desccy</string>
-		<string>hookleft</string>
-		<string>alpha.1</string>
 		<string>uni0457_uni0457</string>
+		<string>Cacute.ss02</string>
+		<string>Ccircumflex.ss02</string>
+		<string>Ccaron.ss02</string>
+		<string>Cdotaccent.ss02</string>
+		<string>Ccedilla.ss02</string>
+		<string>uni01F4.ss02</string>
+		<string>Gbreve.ss02</string>
+		<string>Gcircumflex.ss02</string>
+		<string>Gcaron.ss02</string>
+		<string>Gdotaccent.ss02</string>
+		<string>uni0122.ss02</string>
+		<string>uni0186.ss02</string>
+		<string>Sacute.ss02</string>
+		<string>Scircumflex.ss02</string>
+		<string>Scaron.ss02</string>
+		<string>uni1E60.ss02</string>
+		<string>Scedilla.ss02</string>
+		<string>uni1E62.ss02</string>
+		<string>uni0218.ss02</string>
+		<string>uni0421.ss02</string>
+		<string>uni0405.ss02</string>
+		<string>Cacute.ss03</string>
+		<string>Ccircumflex.ss03</string>
+		<string>Ccaron.ss03</string>
+		<string>Cdotaccent.ss03</string>
+		<string>Ccedilla.ss03</string>
+		<string>uni01F4.ss03</string>
+		<string>Gbreve.ss03</string>
+		<string>Gcircumflex.ss03</string>
+		<string>Gcaron.ss03</string>
+		<string>Gdotaccent.ss03</string>
+		<string>uni0122.ss03</string>
+		<string>uni0186.ss03</string>
+		<string>Sacute.ss03</string>
+		<string>Scircumflex.ss03</string>
+		<string>Scaron.ss03</string>
+		<string>uni1E60.ss03</string>
+		<string>Scedilla.ss03</string>
+		<string>uni1E62.ss03</string>
+		<string>uni0218.ss03</string>
+		<string>uni0421.ss03</string>
+		<string>uni0405.ss03</string>
 	</array>
 </dict>
 </plist>

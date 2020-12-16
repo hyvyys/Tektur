@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="L" format="2">
-  <advance width="305"/>
+  <advance width="310"/>
   <unicode hex="004C"/>
   <anchor x="165" y="0" name="bottom"/>
-  <anchor x="133" y="700" name="top"/>
+  <anchor x="130" y="700" name="top"/>
   <outline>
     <contour>
       <point x="40" y="0" type="line"/>
@@ -20,8 +20,6 @@
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>H</string>
-  <key>com.fontlab.metricsRight</key>
-  <string>F</string>
   </dict>
   </lib>
 </glyph>

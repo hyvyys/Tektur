@@ -2,16 +2,18 @@
 <glyph name="Cacute" format="2">
   <advance width="465"/>
   <unicode hex="0106"/>
-  <anchor x="255" y="0" name="bottom"/>
-  <anchor x="255" y="700" name="top"/>
+  <anchor x="265" y="0" name="bottom"/>
+  <anchor x="265" y="700" name="top"/>
   <outline>
     <component base="C"/>
-    <component base="acutecomb" xOffset="255" yOffset="140"/>
+    <component base="acutecomb" xOffset="265" yOffset="140"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
   </dict>
   </lib>
 </glyph>

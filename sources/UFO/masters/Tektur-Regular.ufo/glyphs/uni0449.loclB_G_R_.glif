@@ -2,15 +2,30 @@
 <glyph name="uni0449.loclBGR" format="2">
   <advance width="932"/>
   <anchor x="466" y="560" name="bottom"/>
-  <anchor x="466" y="-0" name="top"/>
+  <anchor x="466" y="0" name="top"/>
   <outline>
-    <component base="m" xScale="-1" yScale="-1" xOffset="920" yOffset="560"/>
-    <component base="desccy" xOffset="920"/>
+    <contour>
+      <point x="832" y="-140" type="line"/>
+      <point x="922" y="-140" type="line"/>
+      <point x="922" y="80" type="line"/>
+      <point x="860" y="80" type="line"/>
+      <point x="860" y="560" type="line"/>
+      <point x="770" y="560" type="line"/>
+      <point x="770" y="80" type="line"/>
+      <point x="505" y="80" type="line"/>
+      <point x="505" y="560" type="line"/>
+      <point x="415" y="560" type="line"/>
+      <point x="415" y="80" type="line"/>
+      <point x="150" y="80" type="line"/>
+      <point x="150" y="560" type="line"/>
+      <point x="60" y="560" type="line"/>
+      <point x="60" y="100" type="line"/>
+      <point x="160" y="0" type="line"/>
+      <point x="832" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>=m@~,~ &amp; desccy</string>
   </dict>

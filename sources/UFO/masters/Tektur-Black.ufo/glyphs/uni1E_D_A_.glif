@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EDA" format="2">
-  <advance width="650"/>
+  <advance width="680"/>
   <unicode hex="1EDA"/>
-  <anchor x="325" y="0" name="bottom"/>
-  <anchor x="315" y="700" name="top"/>
+  <anchor x="340" y="0" name="bottom"/>
+  <anchor x="335" y="700" name="top"/>
   <outline>
     <component base="Ohorn"/>
-    <component base="acutecomb" xOffset="315" yOffset="140"/>
+    <component base="acutecomb" xOffset="335" yOffset="140"/>
   </outline>
   <lib>
   <dict>

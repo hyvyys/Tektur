@@ -1,17 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0446.loclBGR" format="2">
   <advance width="670"/>
-  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="335" y="0" name="bottom"/>
   <anchor x="450" y="0" name="ogonek"/>
-  <anchor x="310" y="560" name="top"/>
+  <anchor x="335" y="560" name="top"/>
   <outline>
-    <component base="u"/>
-    <component base="desccy" xOffset="620"/>
+    <contour>
+      <point x="580" y="560" type="line"/>
+      <point x="360" y="560" type="line"/>
+      <point x="360" y="190" type="line"/>
+      <point x="260" y="190" type="line"/>
+      <point x="260" y="560" type="line"/>
+      <point x="40" y="560" type="line"/>
+      <point x="40" y="140" type="line"/>
+      <point x="180" y="0" type="line"/>
+      <point x="500" y="0" type="line"/>
+      <point x="500" y="-140" type="line"/>
+      <point x="660" y="-140" type="line"/>
+      <point x="660" y="190" type="line"/>
+      <point x="580" y="190" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>=u &amp; desccy</string>
   </dict>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I_J.loclNLD" format="2">
+  <advance width="530"/>
+  <outline>
+    <contour>
+      <point x="25" y="-4" type="line"/>
+      <point x="115" y="4" type="line"/>
+      <point x="205" y="-4" type="line"/>
+      <point x="205" y="73" type="line"/>
+      <point x="160" y="78" type="line"/>
+      <point x="160" y="622" type="line"/>
+      <point x="205" y="627" type="line"/>
+      <point x="205" y="704" type="line"/>
+      <point x="115" y="696" type="line"/>
+      <point x="25" y="704" type="line"/>
+      <point x="25" y="627" type="line"/>
+      <point x="70" y="622" type="line"/>
+      <point x="70" y="78" type="line"/>
+      <point x="25" y="73" type="line"/>
+    </contour>
+    <contour>
+      <point x="240" y="80" type="line"/>
+      <point x="320" y="0" type="line"/>
+      <point x="410" y="0" type="line"/>
+      <point x="490" y="80" type="line"/>
+      <point x="490" y="700" type="line"/>
+      <point x="270" y="700" type="line"/>
+      <point x="270" y="620" type="line"/>
+      <point x="400" y="620" type="line"/>
+      <point x="400" y="80" type="line"/>
+      <point x="330" y="80" type="line"/>
+      <point x="330" y="300" type="line"/>
+      <point x="240" y="300" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>I</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>J</string>
+  </dict>
+  </lib>
+</glyph>

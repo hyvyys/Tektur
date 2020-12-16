@@ -8,24 +8,24 @@
     <contour>
       <point x="40" y="80" type="line"/>
       <point x="120" y="0" type="line"/>
-      <point x="320" y="-81" type="line"/>
-      <point x="320" y="2" type="line"/>
-      <point x="130" y="79" type="line"/>
+      <point x="330" y="-81" type="line"/>
+      <point x="330" y="7" type="line"/>
+      <point x="130" y="83" type="line"/>
       <point x="130" y="620" type="line"/>
       <point x="230" y="620" type="line"/>
       <point x="230" y="-16" type="line"/>
       <point x="320" y="60" type="line"/>
-      <point x="320" y="620" type="line"/>
-      <point x="240" y="700" type="line"/>
-      <point x="120" y="700" type="line"/>
-      <point x="40" y="620" type="line"/>
+      <point x="320" y="622" type="line"/>
+      <point x="240" y="702" type="line"/>
+      <point x="120" y="702" type="line"/>
+      <point x="40" y="622" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>O</string>
-  <key>com.fontlab.metricsRight</key>
+  <key>com.fontlab.metricsWidth</key>
   <string>O</string>
   </dict>
   </lib>

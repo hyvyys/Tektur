@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M.ss04" format="2">
+  <advance width="780"/>
+  <anchor x="390" y="0" name="bottom"/>
+  <anchor x="390" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="30" y="0" type="line"/>
+      <point x="240" y="0" type="line"/>
+      <point x="240" y="450" type="line"/>
+      <point x="255" y="450" type="line"/>
+      <point x="310" y="80" type="line"/>
+      <point x="470" y="80" type="line"/>
+      <point x="525" y="450" type="line"/>
+      <point x="540" y="450" type="line"/>
+      <point x="540" y="0" type="line"/>
+      <point x="750" y="0" type="line"/>
+      <point x="750" y="700" type="line"/>
+      <point x="440" y="700" type="line"/>
+      <point x="390" y="310" type="line"/>
+      <point x="340" y="700" type="line"/>
+      <point x="30" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Etatonos" format="2">
-  <advance width="850"/>
+  <advance width="870"/>
   <unicode hex="0389"/>
-  <anchor x="525" y="0" name="bottom"/>
-  <anchor x="525" y="700" name="top"/>
+  <anchor x="535" y="0" name="bottom"/>
+  <anchor x="535" y="700" name="top"/>
   <outline>
     <component base="tonos"/>
     <component base="Eta" xOffset="200"/>

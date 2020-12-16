@@ -2,8 +2,8 @@
 <glyph name="uni0421" format="2">
   <advance width="465"/>
   <unicode hex="0421"/>
-  <anchor x="255" y="0" name="bottom"/>
-  <anchor x="255" y="700" name="top"/>
+  <anchor x="265" y="0" name="bottom"/>
+  <anchor x="265" y="700" name="top"/>
   <outline>
     <component base="C"/>
   </outline>
@@ -11,6 +11,8 @@
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
   </dict>
   </lib>
 </glyph>

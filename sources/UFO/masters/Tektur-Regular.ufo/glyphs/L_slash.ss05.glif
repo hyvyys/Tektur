@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lslash.ss05" format="2">
+  <advance width="540"/>
+  <anchor x="305" y="0" name="bottom"/>
+  <anchor x="143" y="700" name="top"/>
+  <outline>
+    <component base="L.ss05"/>
+    <contour>
+      <point x="115" y="310" type="line"/>
+      <point x="465" y="430" type="line"/>
+      <point x="465" y="510" type="line"/>
+      <point x="115" y="390" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>L.ss05</string>
+  <key>com.fontlab.metricsWidth</key>
+  <string>L.ss05</string>
+  </dict>
+  </lib>
+</glyph>

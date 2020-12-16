@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Q" format="2">
-  <advance width="550"/>
+  <advance width="560"/>
   <unicode hex="0051"/>
-  <anchor x="275" y="0" name="bottom"/>
-  <anchor x="275" y="700" name="top"/>
+  <anchor x="280" y="0" name="bottom"/>
+  <anchor x="280" y="700" name="top"/>
   <outline>
     <contour>
       <point x="25" y="140" type="line"/>
       <point x="165" y="0" type="line"/>
-      <point x="525" y="-100" type="line"/>
-      <point x="525" y="108" type="line"/>
+      <point x="535" y="-100" type="line"/>
+      <point x="535" y="110" type="line"/>
       <point x="245" y="185" type="line"/>
       <point x="245" y="500" type="line"/>
       <point x="305" y="500" type="line"/>
@@ -25,7 +25,7 @@
   <dict>
   <key>com.fontlab.metricsLeft</key>
   <string>O</string>
-  <key>com.fontlab.metricsRight</key>
+  <key>com.fontlab.metricsWidth</key>
   <string>O</string>
   </dict>
   </lib>

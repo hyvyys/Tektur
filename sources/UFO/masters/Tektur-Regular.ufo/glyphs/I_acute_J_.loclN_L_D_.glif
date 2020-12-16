@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iacute_J.loclNLD" format="2">
+  <advance width="900"/>
+  <outline>
+    <component base="I_J.loclNLD"/>
+    <component base="acutecomb" xOffset="180" yOffset="140"/>
+    <component base="acutecomb" xOffset="630" yOffset="140"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>I</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>J</string>
+  <key>com.fontlab.recipe</key>
+  <string>=I_J.loclNLD + acutecomb@50,top+acutecomb@500,</string>
+  </dict>
+  </lib>
+</glyph>

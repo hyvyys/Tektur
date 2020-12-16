@@ -6,20 +6,24 @@
     <contour>
       <point x="200" y="-30" type="line"/>
       <point x="400" y="-30" type="line"/>
-      <point x="400" y="730" type="line"/>
-      <point x="200" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="40" y="380" type="line"/>
-      <point x="560" y="380" type="line"/>
-      <point x="560" y="550" type="line"/>
-      <point x="40" y="550" type="line"/>
-    </contour>
-    <contour>
-      <point x="40" y="150" type="line"/>
+      <point x="400" y="150" type="line"/>
       <point x="560" y="150" type="line"/>
       <point x="560" y="320" type="line"/>
+      <point x="400" y="320" type="line"/>
+      <point x="400" y="380" type="line"/>
+      <point x="560" y="380" type="line"/>
+      <point x="560" y="550" type="line"/>
+      <point x="400" y="550" type="line"/>
+      <point x="400" y="730" type="line"/>
+      <point x="200" y="730" type="line"/>
+      <point x="200" y="550" type="line"/>
+      <point x="40" y="550" type="line"/>
+      <point x="40" y="380" type="line"/>
+      <point x="200" y="380" type="line"/>
+      <point x="200" y="320" type="line"/>
       <point x="40" y="320" type="line"/>
+      <point x="40" y="150" type="line"/>
+      <point x="200" y="150" type="line"/>
     </contour>
   </outline>
   <lib>

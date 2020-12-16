@@ -3,17 +3,17 @@
   <advance width="600"/>
   <unicode hex="0139"/>
   <anchor x="315" y="0" name="bottom"/>
-  <anchor x="173" y="700" name="top"/>
+  <anchor x="190" y="700" name="top"/>
   <outline>
     <component base="L"/>
-    <component base="acutecomb.i" xOffset="173" yOffset="140"/>
+    <component base="acutecomb" xOffset="190" yOffset="140"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>L+acutecomb.i</string>
+  <string>L+acutecomb</string>
   </dict>
   </lib>
 </glyph>

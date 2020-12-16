@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="G" format="2">
-  <advance width="640"/>
+  <advance width="650"/>
   <unicode hex="0047"/>
   <anchor x="340" y="0" name="bottom"/>
   <anchor x="340" y="700" name="top"/>
@@ -8,16 +8,16 @@
     <contour>
       <point x="60" y="80" type="line"/>
       <point x="140" y="0" type="line"/>
-      <point x="580" y="0" type="line"/>
-      <point x="580" y="405" type="line"/>
+      <point x="590" y="0" type="line"/>
+      <point x="590" y="405" type="line"/>
       <point x="290" y="405" type="line"/>
-      <point x="290" y="325" type="line"/>
-      <point x="490" y="325" type="line"/>
-      <point x="490" y="80" type="line"/>
+      <point x="290" y="327" type="line"/>
+      <point x="504" y="327" type="line"/>
+      <point x="504" y="80" type="line"/>
       <point x="150" y="80" type="line"/>
       <point x="150" y="620" type="line"/>
-      <point x="540" y="620" type="line"/>
-      <point x="540" y="700" type="line"/>
+      <point x="560" y="620" type="line"/>
+      <point x="560" y="700" type="line"/>
       <point x="140" y="700" type="line"/>
       <point x="60" y="620" type="line"/>
     </contour>
@@ -28,6 +28,8 @@
   <string>O</string>
   <key>com.fontlab.metricsRight</key>
   <string>O</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
   </dict>
   </lib>
 </glyph>
