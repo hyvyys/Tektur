@@ -18,6 +18,8 @@
   <dict>
     <key>public.kern2.alpha</key>
     <integer>-30</integer>
+    <key>public.kern2.c</key>
+    <integer>-30</integer>
   </dict>
   <key>P</key>
   <dict>
@@ -94,6 +96,11 @@
     <key>uni03A9</key>
     <integer>-30</integer>
   </dict>
+  <key>zeta</key>
+  <dict>
+    <key>public.kern2.upsilon</key>
+    <integer>-10</integer>
+  </dict>
   <key>public.kern1.A</key>
   <dict>
     <key>V</key>
@@ -149,6 +156,8 @@
     <key>itilde</key>
     <integer>20</integer>
     <key>public.kern2.A1</key>
+    <integer>-40</integer>
+    <key>public.kern2.c</key>
     <integer>-40</integer>
     <key>public.kern2.period</key>
     <integer>-90</integer>

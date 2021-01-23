@@ -20,4 +20,10 @@
       <point x="40" y="80" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  </dict>
+  </lib>
 </glyph>

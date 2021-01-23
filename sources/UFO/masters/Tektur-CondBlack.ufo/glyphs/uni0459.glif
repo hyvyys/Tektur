@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0459" format="2">
-  <advance width="850"/>
+  <advance width="840"/>
   <unicode hex="0459"/>
-  <anchor x="425" y="0" name="bottom"/>
-  <anchor x="425" y="560" name="top"/>
+  <anchor x="420" y="-0" name="bottom"/>
+  <anchor x="420" y="560" name="top"/>
   <outline>
     <contour>
       <point x="15" y="0" type="line"/>
       <point x="250" y="0" type="line"/>
-      <point x="283" y="380" type="line"/>
-      <point x="320" y="380" type="line"/>
+      <point x="283" y="390" type="line"/>
+      <point x="320" y="390" type="line"/>
       <point x="320" y="0" type="line"/>
       <point x="700" y="0" type="line"/>
       <point x="820" y="120" type="line"/>
@@ -18,8 +18,8 @@
       <point x="540" y="440" type="line"/>
       <point x="540" y="560" type="line"/>
       <point x="45" y="560" type="line"/>
-      <point x="45" y="380" type="line"/>
-      <point x="82" y="380" type="line"/>
+      <point x="45" y="390" type="line"/>
+      <point x="82" y="390" type="line"/>
       <point x="65" y="190" type="line"/>
       <point x="15" y="190" type="line"/>
     </contour>

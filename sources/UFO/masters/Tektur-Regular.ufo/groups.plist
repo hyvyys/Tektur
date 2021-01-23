@@ -350,17 +350,144 @@
     <string>uni1EF6</string>
     <string>uni1EF8</string>
   </array>
+  <key>public.kern2.a</key>
+  <array>
+    <string>a</string>
+    <string>aacute</string>
+    <string>abreve</string>
+    <string>acircumflex</string>
+    <string>adieresis</string>
+    <string>ae</string>
+    <string>aeacute</string>
+    <string>agrave</string>
+    <string>amacron</string>
+    <string>aogonek</string>
+    <string>aring</string>
+    <string>aringacute</string>
+    <string>atilde</string>
+    <string>uni01CE</string>
+    <string>uni01DF</string>
+    <string>uni0201</string>
+    <string>uni0203</string>
+    <string>uni0259</string>
+    <string>uni0430</string>
+    <string>uni04D1</string>
+    <string>uni04D3</string>
+    <string>uni04D5</string>
+    <string>uni04D9</string>
+    <string>uni1EA1</string>
+    <string>uni1EA3</string>
+    <string>uni1EA5</string>
+    <string>uni1EA7</string>
+    <string>uni1EA9</string>
+    <string>uni1EAB</string>
+    <string>uni1EAD</string>
+    <string>uni1EAF</string>
+    <string>uni1EB1</string>
+    <string>uni1EB3</string>
+    <string>uni1EB5</string>
+    <string>uni1EB7</string>
+  </array>
   <key>public.kern2.alpha</key>
+  <array>
+    <string>rho</string>
+  </array>
+  <key>public.kern2.c</key>
   <array>
     <string>alpha</string>
     <string>alphatonos</string>
+    <string>c</string>
+    <string>cacute</string>
+    <string>ccaron</string>
+    <string>ccedilla</string>
+    <string>ccircumflex</string>
+    <string>cdotaccent</string>
+    <string>d</string>
+    <string>dcaron</string>
+    <string>e</string>
+    <string>eacute</string>
+    <string>ebreve</string>
+    <string>ecaron</string>
+    <string>ecircumflex</string>
+    <string>edieresis</string>
+    <string>edotaccent</string>
+    <string>egrave</string>
+    <string>emacron</string>
+    <string>eogonek</string>
     <string>epsilon</string>
     <string>epsilontonos</string>
+    <string>o</string>
+    <string>oacute</string>
+    <string>obreve</string>
+    <string>ocircumflex</string>
+    <string>odieresis</string>
+    <string>ograve</string>
+    <string>ohungarumlaut</string>
+    <string>omacron</string>
     <string>omicron</string>
     <string>omicrontonos</string>
-    <string>rho</string>
+    <string>otilde</string>
+    <string>phi</string>
+    <string>q</string>
     <string>sigma</string>
+    <string>uni01C6</string>
+    <string>uni01D2</string>
+    <string>uni01EB</string>
+    <string>uni0205</string>
+    <string>uni0207</string>
+    <string>uni020D</string>
+    <string>uni020F</string>
+    <string>uni022B</string>
+    <string>uni022D</string>
+    <string>uni022F</string>
+    <string>uni0231</string>
+    <string>uni0254</string>
+    <string>uni0256</string>
+    <string>uni0257</string>
+    <string>uni025B</string>
     <string>uni03C2</string>
+    <string>uni0435</string>
+    <string>uni043E</string>
+    <string>uni0441</string>
+    <string>uni0450</string>
+    <string>uni0451</string>
+    <string>uni0454</string>
+    <string>uni0473</string>
+    <string>uni04AB</string>
+    <string>uni04D7</string>
+    <string>uni04E7</string>
+    <string>uni04E9</string>
+    <string>uni051B</string>
+    <string>uni1E0B</string>
+    <string>uni1E0D</string>
+    <string>uni1E11</string>
+    <string>uni1EB9</string>
+    <string>uni1EBB</string>
+    <string>uni1EBD</string>
+    <string>uni1EBF</string>
+    <string>uni1EC1</string>
+    <string>uni1EC3</string>
+    <string>uni1EC5</string>
+    <string>uni1EC7</string>
+    <string>uni1ECD</string>
+    <string>uni1ECF</string>
+    <string>uni1ED1</string>
+    <string>uni1ED3</string>
+    <string>uni1ED5</string>
+    <string>uni1ED7</string>
+    <string>uni1ED9</string>
+  </array>
+  <key>public.kern2.g</key>
+  <array>
+    <string>g</string>
+    <string>gbreve</string>
+    <string>gcaron</string>
+    <string>gcircumflex</string>
+    <string>gdotaccent</string>
+    <string>uni0123</string>
+    <string>uni01F5</string>
+    <string>uni0434</string>
+    <string>uni0434.loclBGR</string>
   </array>
   <key>public.kern2.period</key>
   <array>
@@ -383,6 +510,15 @@
   <array>
     <string>quotedblright</string>
     <string>quoteright</string>
+  </array>
+  <key>public.kern2.upsilon</key>
+  <array>
+    <string>omega</string>
+    <string>omegatonos</string>
+    <string>upsilon</string>
+    <string>upsilondieresis</string>
+    <string>upsilondieresistonos</string>
+    <string>upsilontonos</string>
   </array>
 </dict>
 </plist>

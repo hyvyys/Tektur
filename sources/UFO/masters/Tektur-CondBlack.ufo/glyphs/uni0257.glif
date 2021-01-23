@@ -10,6 +10,7 @@
       <point x="310" y="180" type="line"/>
     </contour>
     <contour>
+      <point x="30" y="140" type="line"/>
       <point x="170" y="0" type="line"/>
       <point x="530" y="0" type="line"/>
       <point x="530" y="540" type="line"/>
@@ -20,7 +21,6 @@
       <point x="310" y="560" type="line"/>
       <point x="170" y="560" type="line"/>
       <point x="30" y="420" type="line"/>
-      <point x="30" y="140" type="line"/>
     </contour>
   </outline>
 </glyph>

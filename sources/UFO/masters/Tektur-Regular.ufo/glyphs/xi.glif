@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="xi" format="2">
-  <advance width="560"/>
+  <advance width="540"/>
   <unicode hex="03BE"/>
   <outline>
     <contour>
       <point x="130" y="0" type="line"/>
-      <point x="440" y="0" type="line"/>
-      <point x="440" y="-160" type="line"/>
-      <point x="530" y="-160" type="line"/>
-      <point x="530" y="78" type="line"/>
+      <point x="420" y="0" type="line"/>
+      <point x="420" y="-160" type="line"/>
+      <point x="510" y="-160" type="line"/>
+      <point x="510" y="78" type="line"/>
       <point x="140" y="78" type="line"/>
       <point x="140" y="317" type="line"/>
-      <point x="505" y="317" type="line"/>
-      <point x="505" y="395" type="line"/>
+      <point x="485" y="317" type="line"/>
+      <point x="485" y="395" type="line"/>
       <point x="160" y="395" type="line"/>
       <point x="160" y="622" type="line"/>
-      <point x="525" y="622" type="line"/>
-      <point x="525" y="700" type="line"/>
+      <point x="505" y="622" type="line"/>
+      <point x="505" y="700" type="line"/>
       <point x="150" y="700" type="line"/>
       <point x="70" y="620" type="line"/>
       <point x="70" y="405" type="line"/>

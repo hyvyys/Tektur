@@ -1,27 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0446" format="2">
-  <advance width="642"/>
+  <advance width="637"/>
   <unicode hex="0446"/>
-  <anchor x="321" y="560" name="bottom"/>
-  <anchor x="321" y="0" name="top"/>
+  <anchor x="319" y="560" name="bottom"/>
+  <anchor x="319" y="-0" name="top"/>
   <outline>
     <contour>
-      <point x="565" y="560" type="line"/>
-      <point x="475" y="560" type="line"/>
-      <point x="475" y="80" type="line"/>
-      <point x="155" y="80" type="line"/>
-      <point x="155" y="560" type="line"/>
-      <point x="65" y="560" type="line"/>
-      <point x="65" y="0" type="line"/>
-      <point x="542" y="0" type="line"/>
-      <point x="542" y="-140" type="line"/>
-      <point x="632" y="-140" type="line"/>
-      <point x="632" y="80" type="line"/>
-      <point x="565" y="80" type="line"/>
+      <point x="560" y="560" type="line"/>
+      <point x="470" y="560" type="line"/>
+      <point x="470" y="80" type="line"/>
+      <point x="150" y="80" type="line"/>
+      <point x="150" y="560" type="line"/>
+      <point x="60" y="560" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="537" y="0" type="line"/>
+      <point x="537" y="-140" type="line"/>
+      <point x="627" y="-140" type="line"/>
+      <point x="627" y="80" type="line"/>
+      <point x="560" y="80" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>n</string>
   <key>com.fontlab.recipe</key>
   <string>=pi@~,~ &amp; desccy</string>
   </dict>

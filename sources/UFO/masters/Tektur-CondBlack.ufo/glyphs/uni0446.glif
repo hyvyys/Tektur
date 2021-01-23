@@ -22,6 +22,8 @@
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>n</string>
   <key>com.fontlab.recipe</key>
   <string>=pi@~,~ &amp; desccy</string>
   </dict>

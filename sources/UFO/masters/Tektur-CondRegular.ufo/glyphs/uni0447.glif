@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0447" format="2">
-  <advance width="350"/>
+  <advance width="345"/>
   <unicode hex="0447"/>
-  <anchor x="220" y="0" name="bottom"/>
-  <anchor x="170" y="560" name="top"/>
+  <anchor x="215" y="-0" name="bottom"/>
+  <anchor x="165" y="560" name="top"/>
   <outline>
     <contour>
-      <point x="310" y="560" type="line"/>
-      <point x="220" y="560" type="line"/>
-      <point x="220" y="220" type="line"/>
-      <point x="130" y="220" type="line"/>
-      <point x="130" y="560" type="line"/>
-      <point x="40" y="560" type="line"/>
-      <point x="40" y="220" type="line"/>
-      <point x="120" y="140" type="line"/>
-      <point x="220" y="140" type="line"/>
-      <point x="220" y="0" type="line"/>
-      <point x="310" y="0" type="line"/>
+      <point x="305" y="560" type="line"/>
+      <point x="215" y="560" type="line"/>
+      <point x="215" y="220" type="line"/>
+      <point x="125" y="220" type="line"/>
+      <point x="125" y="560" type="line"/>
+      <point x="35" y="560" type="line"/>
+      <point x="35" y="220" type="line"/>
+      <point x="115" y="140" type="line"/>
+      <point x="215" y="140" type="line"/>
+      <point x="215" y="0" type="line"/>
+      <point x="305" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>
-  <string>|n</string>
+  <string>|n-5</string>
   <key>com.fontlab.metricsRight</key>
   <string>M</string>
   <key>com.fontlab.recipe</key>

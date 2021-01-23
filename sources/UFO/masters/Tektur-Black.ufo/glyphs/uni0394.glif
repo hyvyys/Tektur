@@ -1,23 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0394" format="2">
-  <advance width="660"/>
+  <advance width="700"/>
   <unicode hex="0394"/>
   <outline>
     <contour>
-      <point x="523" y="700" type="line"/>
-      <point x="137" y="700" type="line"/>
-      <point x="15" y="0" type="line"/>
-      <point x="260" y="0" type="line"/>
-      <point x="315" y="520" type="line"/>
-      <point x="345" y="520" type="line"/>
-      <point x="400" y="0" type="line"/>
-      <point x="645" y="0" type="line"/>
+      <point x="540" y="700" type="line"/>
+      <point x="160" y="700" type="line"/>
+      <point x="5" y="0" type="line"/>
+      <point x="250" y="0" type="line"/>
+      <point x="335" y="520" type="line"/>
+      <point x="365" y="520" type="line"/>
+      <point x="450" y="0" type="line"/>
+      <point x="695" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="70" y="0" type="line"/>
-      <point x="590" y="0" type="line"/>
-      <point x="590" y="180" type="line"/>
-      <point x="70" y="180" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="640" y="0" type="line"/>
+      <point x="640" y="180" type="line"/>
+      <point x="60" y="180" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  </dict>
+  </lib>
 </glyph>

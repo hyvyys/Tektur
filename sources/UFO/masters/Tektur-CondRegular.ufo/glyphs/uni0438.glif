@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0438" format="2">
-  <advance width="380"/>
+  <advance width="360"/>
   <unicode hex="0438"/>
-  <anchor x="190" y="0" name="bottom"/>
-  <anchor x="190" y="560" name="top"/>
+  <anchor x="180" y="-0" name="bottom"/>
+  <anchor x="180" y="560" name="top"/>
   <outline>
     <contour>
       <point x="320" y="0" type="line"/>
@@ -18,4 +18,12 @@
       <point x="236" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>n</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>|</string>
+  </dict>
+  </lib>
 </glyph>
