@@ -5,4 +5,4 @@
 The Tektur static font family comprises three widths (Tight, Narrow, normal) in 6 weights (Regular, Medium, SemiBold, Bold, ExtraBold, Black), giving a wide design range useful for many applications. The variable version has width locations renamed (Condensed, SemiCondensed, Normal) for compliance with Google recommendations. The typeface was designed and developed by Adam Jagosz.
 
 ## Tags
-square, squarish, mechanical, angular, blocky, blockish, octagonal, rectangular, sharp, technical, techno, industrial, modern, retro, computer, constructivist, decorative, geometric, machine, masculine, narrow, condensed, tall, tight, display, poster, sans-serif, monoline, sports
+square, squarish, mechanical, angular, blocky, blockish, octagonal, rectangular, sharp, technical, techno, industrial, modern, retro, computer, constructivist, decorative, geometric, machine, masculine, narrow, condensed, tall, tight, display, poster, sans-serif, monoline, sports, athletic, army, college, fraternity, old school
