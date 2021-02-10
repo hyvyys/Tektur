@@ -2,7 +2,7 @@
 <glyph name="uni045A" format="2">
   <advance width="830"/>
   <unicode hex="045A"/>
-  <anchor x="415" y="-0" name="bottom"/>
+  <anchor x="415" y="0" name="bottom"/>
   <anchor x="415" y="560" name="top"/>
   <outline>
     <contour>

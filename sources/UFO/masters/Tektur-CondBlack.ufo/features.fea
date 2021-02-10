@@ -866,9 +866,9 @@ feature mark {
       pos base zcaron
           <anchor 217 0> mark @bottom;
       pos base Zdotaccent
-          <anchor 242 0> mark @bottom;
+          <anchor 243 0> mark @bottom;
       pos base zdotaccent
-          <anchor 217 0> mark @bottom;
+          <anchor 218 0> mark @bottom;
       pos base uni1E92
           <anchor 242 0> mark @bottom;
       pos base uni1E93
@@ -1090,9 +1090,9 @@ feature mark {
       pos base uni01C8
           <anchor 650 -140> mark @bottom;
       pos base uni01C9
-          <anchor 420 -140> mark @bottom;
+          <anchor 280 -140> mark @bottom;
       pos base uni01CA
-          <anchor 825 0> mark @bottom;
+          <anchor 850 0> mark @bottom;
       pos base uni01CB
           <anchor 700 -140> mark @bottom;
       pos base uni01CC
@@ -3134,7 +3134,7 @@ feature mark {
       pos base uni01C8
           <anchor 650 730> mark @top;
       pos base uni01C9
-          <anchor 420 730> mark @top;
+          <anchor 280 730> mark @top;
       pos base uni01CA
           <anchor 850 700> mark @top;
       pos base uni01CB

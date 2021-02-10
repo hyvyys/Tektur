@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="R" format="2">
-  <advance width="660"/>
+  <advance width="650"/>
   <unicode hex="0052"/>
   <anchor x="335" y="0" name="bottom"/>
   <anchor x="320" y="700" name="top"/>
@@ -8,21 +8,21 @@
     <contour>
       <point x="150" y="320" type="line"/>
       <point x="150" y="620" type="line"/>
-      <point x="510" y="620" type="line"/>
-      <point x="510" y="320" type="line"/>
+      <point x="500" y="620" type="line"/>
+      <point x="500" y="320" type="line"/>
     </contour>
     <contour>
-      <point x="600" y="620" type="line"/>
-      <point x="520" y="700" type="line"/>
+      <point x="590" y="620" type="line"/>
+      <point x="510" y="700" type="line"/>
       <point x="60" y="700" type="line"/>
       <point x="60" y="0" type="line"/>
       <point x="150" y="0" type="line"/>
       <point x="150" y="240" type="line"/>
-      <point x="454" y="240" type="line"/>
-      <point x="553" y="0" type="line"/>
-      <point x="650" y="0" type="line"/>
-      <point x="544" y="254" type="line"/>
-      <point x="600" y="310" type="line"/>
+      <point x="435" y="240" type="line"/>
+      <point x="548" y="0" type="line"/>
+      <point x="645" y="0" type="line"/>
+      <point x="523" y="253" type="line"/>
+      <point x="590" y="320" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f" format="2">
-  <advance width="450"/>
+  <advance width="410"/>
   <unicode hex="0066"/>
   <anchor x="240" y="0" name="bottom"/>
   <anchor x="240" y="700" name="top"/>
@@ -8,13 +8,13 @@
     <contour>
       <point x="60" y="0" type="line"/>
       <point x="150" y="0" type="line"/>
-      <point x="150" y="310" type="line"/>
-      <point x="430" y="310" type="line"/>
-      <point x="430" y="390" type="line"/>
-      <point x="150" y="390" type="line"/>
+      <point x="150" y="350" type="line"/>
+      <point x="390" y="350" type="line"/>
+      <point x="390" y="430" type="line"/>
+      <point x="150" y="430" type="line"/>
       <point x="150" y="620" type="line"/>
-      <point x="430" y="620" type="line"/>
-      <point x="430" y="700" type="line"/>
+      <point x="390" y="620" type="line"/>
+      <point x="390" y="700" type="line"/>
       <point x="150" y="700" type="line"/>
       <point x="60" y="610" type="line"/>
     </contour>

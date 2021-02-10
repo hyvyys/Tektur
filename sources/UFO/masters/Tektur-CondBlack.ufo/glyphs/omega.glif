@@ -2,7 +2,7 @@
 <glyph name="omega" format="2">
   <advance width="820"/>
   <unicode hex="03C9"/>
-  <anchor x="410" y="-0" name="bottom"/>
+  <anchor x="410" y="0" name="bottom"/>
   <anchor x="410" y="560" name="top"/>
   <outline>
     <contour>
