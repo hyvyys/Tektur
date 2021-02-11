@@ -208,6 +208,15 @@
     <string>Lslash</string>
     <string>uni013B</string>
   </array>
+  <key>public.kern1.L1</key>
+  <array>
+    <string>L.ss05</string>
+    <string>Lacute.ss05</string>
+    <string>Lcaron.ss05</string>
+    <string>uni013B.ss05</string>
+    <string>uni1E36.ss05</string>
+    <string>uni1E3A.ss05</string>
+  </array>
   <key>public.kern1.S</key>
   <array>
     <string>S</string>

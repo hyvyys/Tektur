@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Mu.ss04" format="2">
+  <advance width="780"/>
+  <anchor x="390" y="0" name="bottom"/>
+  <anchor x="390" y="700" name="top"/>
+  <outline>
+    <component base="M.ss04"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>M.ss04</string>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

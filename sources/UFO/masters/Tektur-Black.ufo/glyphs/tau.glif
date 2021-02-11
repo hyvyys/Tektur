@@ -2,7 +2,7 @@
 <glyph name="tau" format="2">
   <advance width="520"/>
   <unicode hex="03C4"/>
-  <anchor x="320" y="-0" name="bottom"/>
+  <anchor x="320" y="0" name="bottom"/>
   <anchor x="289" y="560" name="top"/>
   <outline>
     <contour>

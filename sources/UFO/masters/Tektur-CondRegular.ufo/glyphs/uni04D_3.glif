@@ -6,13 +6,7 @@
   <anchor x="240" y="0" name="ogonek"/>
   <anchor x="155" y="710" name="top"/>
   <outline>
-    <component base="uni0430"/>
+    <component base="a"/>
     <component base="uni0308" xOffset="155"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  </dict>
-  </lib>
 </glyph>

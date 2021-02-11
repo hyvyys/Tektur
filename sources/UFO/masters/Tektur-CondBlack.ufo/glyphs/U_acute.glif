@@ -9,10 +9,4 @@
     <component base="U"/>
     <component base="acutecomb" xOffset="280" yOffset="140"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  </dict>
-  </lib>
 </glyph>

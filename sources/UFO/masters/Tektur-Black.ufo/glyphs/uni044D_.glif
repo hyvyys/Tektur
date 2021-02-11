@@ -6,12 +6,25 @@
   <anchor x="140" y="0" name="ogonek"/>
   <anchor x="260" y="560" name="top"/>
   <outline>
-    <component base="uni0454" xScale="-1" xOffset="570"/>
+    <contour>
+      <point x="410" y="0" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="30" y="170" type="line"/>
+      <point x="320" y="170" type="line"/>
+      <point x="320" y="225" type="line"/>
+      <point x="60" y="225" type="line"/>
+      <point x="60" y="335" type="line"/>
+      <point x="320" y="335" type="line"/>
+      <point x="320" y="390" type="line"/>
+      <point x="30" y="390" type="line"/>
+      <point x="30" y="560" type="line"/>
+      <point x="410" y="560" type="line"/>
+      <point x="540" y="430" type="line"/>
+      <point x="540" y="130" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.metricsLeft</key>
   <string>|uni0454</string>
   <key>com.fontlab.metricsRight</key>

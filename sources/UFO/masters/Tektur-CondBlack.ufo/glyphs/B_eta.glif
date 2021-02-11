@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Beta" format="2">
-  <advance width="570"/>
+  <advance width="560"/>
   <unicode hex="0392"/>
   <anchor x="270" y="0" name="bottom"/>
   <anchor x="270" y="700" name="top"/>
@@ -9,8 +9,6 @@
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>B%</string>
   </dict>

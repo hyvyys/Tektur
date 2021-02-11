@@ -5,13 +5,7 @@
   <anchor x="236" y="-160" name="bottom"/>
   <anchor x="300" y="730" name="top"/>
   <outline>
-    <component base="uni0443"/>
+    <component base="y"/>
     <component base="uni0304" xOffset="300"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  </dict>
-  </lib>
 </glyph>

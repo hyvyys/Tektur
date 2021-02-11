@@ -10,8 +10,6 @@
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>=kappa+uni0328@70%,</string>
   </dict>

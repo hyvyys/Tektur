@@ -21,21 +21,18 @@
     <key>public.kern2.c</key>
     <integer>-30</integer>
   </dict>
+  <key>Lslash.ss05</key>
+  <dict>
+    <key>public.kern2.T</key>
+    <integer>-20</integer>
+    <key>public.kern2.W</key>
+    <integer>-10</integer>
+  </dict>
   <key>P</key>
   <dict>
     <key>public.kern2.A1</key>
     <integer>-20</integer>
     <key>public.kern2.period</key>
-    <integer>-50</integer>
-  </dict>
-  <key>Upsilondieresis</key>
-  <dict>
-    <key>Lambda</key>
-    <integer>-50</integer>
-  </dict>
-  <key>Upsilontonos</key>
-  <dict>
-    <key>Lambda</key>
     <integer>-50</integer>
   </dict>
   <key>V</key>
@@ -91,9 +88,9 @@
   <dict>
     <key>Alpha</key>
     <integer>-60</integer>
-    <key>Omicron</key>
-    <integer>-30</integer>
     <key>uni03A9</key>
+    <integer>-30</integer>
+    <key>public.kern2.C</key>
     <integer>-30</integer>
   </dict>
   <key>zeta</key>
@@ -138,13 +135,22 @@
     <key>question</key>
     <integer>-20</integer>
     <key>public.kern2.T</key>
-    <integer>-50</integer>
+    <integer>-60</integer>
     <key>public.kern2.quote</key>
     <integer>-40</integer>
     <key>public.kern2.quoteleft</key>
     <integer>-50</integer>
     <key>public.kern2.quoteright</key>
     <integer>-60</integer>
+  </dict>
+  <key>public.kern1.L1</key>
+  <dict>
+    <key>V</key>
+    <integer>-50</integer>
+    <key>public.kern2.T</key>
+    <integer>-80</integer>
+    <key>public.kern2.W</key>
+    <integer>-10</integer>
   </dict>
   <key>public.kern1.S</key>
   <dict>
@@ -171,6 +177,8 @@
   </dict>
   <key>public.kern1.Y</key>
   <dict>
+    <key>Lambda</key>
+    <integer>-50</integer>
     <key>public.kern2.A1</key>
     <integer>-50</integer>
     <key>public.kern2.C</key>

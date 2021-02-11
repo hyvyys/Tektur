@@ -5,13 +5,11 @@
   <anchor x="236" y="-160" name="bottom"/>
   <anchor x="300" y="560" name="top"/>
   <outline>
-    <component base="uni0443"/>
+    <component base="y"/>
     <component base="uni0306.cy" xOffset="300"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>uni0443+uni0306.cy</string>
   </dict>

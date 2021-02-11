@@ -4,13 +4,11 @@
   <unicode hex="0385"/>
   <anchor x="205" y="730" name="top"/>
   <outline>
-    <component base="dieresis"/>
+    <component base="uni0308" xOffset="205"/>
     <component base="tonoscomb" xOffset="205" yOffset="170"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>dieresis+tonoscomb</string>
   </dict>

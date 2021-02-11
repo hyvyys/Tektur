@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01C8" format="2">
-  <advance width="875"/>
+  <advance width="865"/>
   <unicode hex="01C8"/>
-  <anchor x="725" y="-140" name="bottom"/>
-  <anchor x="725" y="730" name="top"/>
+  <anchor x="715" y="-140" name="bottom"/>
+  <anchor x="715" y="730" name="top"/>
   <outline>
     <component base="L"/>
-    <component base="j" xOffset="575"/>
+    <component base="j" xOffset="565"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  </dict>
-  </lib>
 </glyph>

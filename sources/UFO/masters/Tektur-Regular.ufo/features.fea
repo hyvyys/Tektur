@@ -21,6 +21,8 @@ languagesystem cyrl BGR;
 languagesystem grek dflt;
 
 
+
+
 feature mark {
 #> feature
 # GPOS feature : Mark Positioning
@@ -101,8 +103,6 @@ feature mark {
           <anchor 315 0> mark @bottom;
       pos base L.ss05
           <anchor 315 0> mark @bottom;
-      pos base Lslash.ss05
-          <anchor 305 0> mark @bottom;
       pos base M
           <anchor 390 0> mark @bottom;
       pos base M.ss04
@@ -1172,15 +1172,15 @@ feature mark {
       pos base Epsilontonos
           <anchor 505 0> mark @bottom;
       pos base Etatonos
-          <anchor 535 0> mark @bottom;
+          <anchor 435 0> mark @bottom;
       pos base Iotatonos
-          <anchor 415 0> mark @bottom;
+          <anchor 315 0> mark @bottom;
       pos base Iotadieresis
           <anchor 215 0> mark @bottom;
       pos base Omicrontonos
-          <anchor 510 0> mark @bottom;
+          <anchor 440 0> mark @bottom;
       pos base Upsilontonos
-          <anchor 520 0> mark @bottom;
+          <anchor 420 0> mark @bottom;
       pos base Upsilondieresis
           <anchor 320 0> mark @bottom;
       pos base alpha
@@ -1214,7 +1214,7 @@ feature mark {
       pos base uni03C2
           <anchor 340 -100> mark @bottom;
       pos base sigma
-          <anchor 313 0> mark @bottom;
+          <anchor 312 0> mark @bottom;
       pos base tau
           <anchor 340 0> mark @bottom;
       pos base upsilon
@@ -1350,7 +1350,7 @@ feature mark {
       pos base uni0445
           <anchor 315 0> mark @bottom;
       pos base uni0446
-          <anchor 319 560> mark @bottom;
+          <anchor 318 560> mark @bottom;
       pos base uni0447
           <anchor 375 0> mark @bottom;
       pos base uni044A
@@ -1392,9 +1392,9 @@ feature mark {
       pos base uni0492
           <anchor 255 0> mark @bottom;
       pos base uni0494
-          <anchor 323 0> mark @bottom;
+          <anchor 322 0> mark @bottom;
       pos base uni0495
-          <anchor 308 -140> mark @bottom;
+          <anchor 307 -140> mark @bottom;
       pos base uni04F6
           <anchor 255 0> mark @bottom;
       pos base uni04F7
@@ -1514,7 +1514,7 @@ feature mark {
       pos base uni04AB
           <anchor 335 0> mark @bottom;
       pos base uni040B
-          <anchor 398 0> mark @bottom;
+          <anchor 397 0> mark @bottom;
       pos base uni045B
           <anchor 310 0> mark @bottom;
       pos base uni040E
@@ -1719,6 +1719,32 @@ feature mark {
           <anchor 330 0> mark @bottom;
       pos base uni0405.ss03
           <anchor 310 0> mark @bottom;
+      pos base uni1E3E.ss04
+          <anchor 420 0> mark @bottom;
+      pos base uni1E40.ss04
+          <anchor 420 0> mark @bottom;
+      pos base Mu.ss04
+          <anchor 420 0> mark @bottom;
+      pos base uni041C.ss04
+          <anchor 420 0> mark @bottom;
+      pos base Lslash.ss05
+          <anchor 305 0> mark @bottom;
+      pos base Lacute.ss05
+          <anchor 315 0> mark @bottom;
+      pos base Lcaron.ss05
+          <anchor 295 0> mark @bottom;
+      pos base uni013B.ss05
+          <anchor 315 0> mark @bottom;
+      pos base uni1E36.ss05
+          <anchor 315 0> mark @bottom;
+      pos base uni1E3A.ss05
+          <anchor 315 0> mark @bottom;
+      pos base Ldot.ss05
+          <anchor 315 0> mark @bottom;
+      pos base uni01C7.ss05
+          <anchor 820 0> mark @bottom;
+      pos base uni01C8.ss05
+          <anchor 625 -140> mark @bottom;
   } markLTR1;
 
   lookup markLTR2 {
@@ -2145,8 +2171,6 @@ feature mark {
           <anchor 190 700> mark @top;
       pos base L.ss05
           <anchor 190 700> mark @top;
-      pos base Lslash.ss05
-          <anchor 143 700> mark @top;
       pos base M
           <anchor 390 700> mark @top;
       pos base M.ss04
@@ -3228,15 +3252,15 @@ feature mark {
       pos base Epsilontonos
           <anchor 505 700> mark @top;
       pos base Etatonos
-          <anchor 535 700> mark @top;
+          <anchor 435 700> mark @top;
       pos base Iotatonos
-          <anchor 415 700> mark @top;
+          <anchor 315 700> mark @top;
       pos base Iotadieresis
           <anchor 215 850> mark @top;
       pos base Omicrontonos
-          <anchor 510 700> mark @top;
+          <anchor 440 700> mark @top;
       pos base Upsilontonos
-          <anchor 520 700> mark @top;
+          <anchor 420 700> mark @top;
       pos base Upsilondieresis
           <anchor 320 850> mark @top;
       pos base alpha
@@ -3270,7 +3294,7 @@ feature mark {
       pos base uni03C2
           <anchor 340 560> mark @top;
       pos base sigma
-          <anchor 313 560> mark @top;
+          <anchor 312 560> mark @top;
       pos base tau
           <anchor 280 560> mark @top;
       pos base upsilon
@@ -3408,7 +3432,7 @@ feature mark {
       pos base uni0445
           <anchor 315 560> mark @top;
       pos base uni0446
-          <anchor 319 0> mark @top;
+          <anchor 318 0> mark @top;
       pos base uni0447
           <anchor 305 560> mark @top;
       pos base uni044A
@@ -3450,9 +3474,9 @@ feature mark {
       pos base uni0492
           <anchor 255 700> mark @top;
       pos base uni0494
-          <anchor 323 700> mark @top;
+          <anchor 322 700> mark @top;
       pos base uni0495
-          <anchor 308 560> mark @top;
+          <anchor 307 560> mark @top;
       pos base uni04F6
           <anchor 255 700> mark @top;
       pos base uni04F7
@@ -3572,7 +3596,7 @@ feature mark {
       pos base uni04AB
           <anchor 335 560> mark @top;
       pos base uni040B
-          <anchor 398 700> mark @top;
+          <anchor 397 700> mark @top;
       pos base uni045B
           <anchor 240 700> mark @top;
       pos base uni040E
@@ -3777,6 +3801,32 @@ feature mark {
           <anchor 330 700> mark @top;
       pos base uni0405.ss03
           <anchor 340 700> mark @top;
+      pos base uni1E3E.ss04
+          <anchor 420 700> mark @top;
+      pos base uni1E40.ss04
+          <anchor 420 850> mark @top;
+      pos base Mu.ss04
+          <anchor 420 700> mark @top;
+      pos base uni041C.ss04
+          <anchor 420 700> mark @top;
+      pos base Lslash.ss05
+          <anchor 143 700> mark @top;
+      pos base Lacute.ss05
+          <anchor 190 700> mark @top;
+      pos base Lcaron.ss05
+          <anchor 173 700> mark @top;
+      pos base uni013B.ss05
+          <anchor 190 700> mark @top;
+      pos base uni1E36.ss05
+          <anchor 190 700> mark @top;
+      pos base uni1E3A.ss05
+          <anchor 190 700> mark @top;
+      pos base Ldot.ss05
+          <anchor 190 700> mark @top;
+      pos base uni01C7.ss05
+          <anchor 810 700> mark @top;
+      pos base uni01C8.ss05
+          <anchor 625 710> mark @top;
   } markLTR3;
 
   lookup markLTR1;
@@ -3784,6 +3834,8 @@ feature mark {
   lookup markLTR3;
 #< feature
 } mark;
+
+
 
 
 
@@ -3862,10 +3914,14 @@ feature mkmk {
 
 
 
+
+
 feature ccmp {
   sub [i j iogonek]' @CombiningTopAccents by [dotlessi uni0237 iogonek.dotless];
   sub [dotlessi uni0237 iogonek.dotless] [ acutecomb gravecomb ]' by [ acutecomb.i gravecomb.i ];
 } ccmp;
+
+
 
 
 
@@ -3895,6 +3951,8 @@ language BGR;
 sub @loclBGR_0 by @loclBGR_1;
 
 } locl;
+
+
 
 
 
@@ -3949,6 +4007,8 @@ lookup anoteleia {
 } calt;
 
 
+
+
 feature liga {
 
 sub gamma gamma by gamma_gamma;
@@ -3969,11 +4029,15 @@ sub I acutecomb J by Iacute_J.loclNLD;
 
 
 
+
+
 feature dlig {
 
   sub Omicron Upsilon by Omicron_Upsilon;
 
 } dlig;
+
+
 
 
 
@@ -3995,6 +4059,8 @@ feature sups {
   sub zero by uni2070;
 #< feature
 } sups;
+
+
 
 
 
@@ -4031,6 +4097,8 @@ feature subs {
 
 
 
+
+
 feature tnum {
 # Tabular Figures
 
@@ -4047,6 +4115,8 @@ feature tnum {
   sub zero by zero.tnum;
 #< feature
 } tnum;
+
+
 
 
 
@@ -4083,12 +4153,16 @@ feature pnum {
 
 
 
+
+
 feature zero {
   sub uni2070 by uni2070.zero;
   sub uni2080 by uni2080.zero;
   sub zero by zero.zero;
   sub zero.tnum by zero.tnum.zero;
 } zero;
+
+
 
 
 
@@ -4144,6 +4218,8 @@ featureNames {
 
 
 
+
+
 feature ss02 {
 featureNames {
 	name "Seriffed C, G, S";
@@ -4177,6 +4253,8 @@ featureNames {
   sub uni1E62 by uni1E62.ss02;
 #< feature
 } ss02;
+
+
 
 
 feature ss03 {
@@ -4214,6 +4292,8 @@ featureNames {
 } ss03;
 
 
+
+
 feature ss04 {
 featureNames {
 	name "Wide M";
@@ -4221,8 +4301,14 @@ featureNames {
 };
 #> feature
   sub M by M.ss04;
+  sub Mu by Mu.ss04;
+  sub uni041C by uni041C.ss04;
+  sub uni1E3E by uni1E3E.ss04;
+  sub uni1E40 by uni1E40.ss04;
 #< feature
 } ss04;
+
+
 
 
 feature ss05 {
@@ -4232,6 +4318,16 @@ featureNames {
 };
 #> feature
   sub L by L.ss05;
+  sub Lacute by Lacute.ss05;
+  sub Lcaron by Lcaron.ss05;
+  sub Ldot by Ldot.ss05;
   sub Lslash by Lslash.ss05;
+  sub uni013B by uni013B.ss05;
+  sub uni01C7 by uni01C7.ss05;
+  sub uni01C8 by uni01C8.ss05;
+  sub uni1E36 by uni1E36.ss05;
+  sub uni1E3A by uni1E3A.ss05;
 #< feature
 } ss05;
+
+

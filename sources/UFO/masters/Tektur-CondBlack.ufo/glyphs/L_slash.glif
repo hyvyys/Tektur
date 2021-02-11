@@ -8,8 +8,8 @@
     <component base="L"/>
     <contour>
       <point x="125" y="250" type="line"/>
-      <point x="445" y="410" type="line"/>
-      <point x="445" y="580" type="line"/>
+      <point x="425" y="410" type="line"/>
+      <point x="425" y="580" type="line"/>
       <point x="125" y="420" type="line"/>
     </contour>
   </outline>

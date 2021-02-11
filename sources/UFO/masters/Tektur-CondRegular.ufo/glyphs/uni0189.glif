@@ -3,12 +3,29 @@
   <advance width="370"/>
   <unicode hex="0189"/>
   <outline>
-    <component base="Eth"/>
+    <contour>
+      <point x="140" y="80" type="line"/>
+      <point x="140" y="620" type="line"/>
+      <point x="240" y="620" type="line"/>
+      <point x="240" y="80" type="line"/>
+    </contour>
+    <contour>
+      <point x="50" y="0" type="line"/>
+      <point x="250" y="0" type="line"/>
+      <point x="330" y="80" type="line"/>
+      <point x="330" y="620" type="line"/>
+      <point x="250" y="700" type="line"/>
+      <point x="50" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="310" type="line"/>
+      <point x="190" y="310" type="line"/>
+      <point x="190" y="390" type="line"/>
+      <point x="10" y="390" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>Eth</string>
   </dict>

@@ -5,13 +5,11 @@
   <anchor x="265" y="0" name="bottom"/>
   <anchor x="265" y="560" name="top"/>
   <outline>
-    <component base="epsilon"/>
+    <component base="uni025B"/>
     <component base="tonoscomb" xOffset="265"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>epsilon+tonoscomb</string>
   </dict>

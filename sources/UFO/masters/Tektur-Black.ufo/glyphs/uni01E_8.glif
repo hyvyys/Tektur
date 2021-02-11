@@ -2,16 +2,10 @@
 <glyph name="uni01E8" format="2">
   <advance width="670"/>
   <unicode hex="01E8"/>
-  <anchor x="325" y="-0" name="bottom"/>
+  <anchor x="325" y="0" name="bottom"/>
   <anchor x="325" y="700" name="top"/>
   <outline>
     <component base="K"/>
     <component base="uni030C" xOffset="325" yOffset="140"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  </dict>
-  </lib>
 </glyph>

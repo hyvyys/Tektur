@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lslash" format="2">
-  <advance width="575"/>
+  <advance width="565"/>
   <unicode hex="0141"/>
   <anchor x="315" y="0" name="bottom"/>
   <anchor x="153" y="700" name="top"/>
@@ -8,8 +8,8 @@
     <component base="L"/>
     <contour>
       <point x="125" y="240" type="line"/>
-      <point x="475" y="400" type="line"/>
-      <point x="475" y="580" type="line"/>
+      <point x="465" y="400" type="line"/>
+      <point x="465" y="580" type="line"/>
       <point x="125" y="420" type="line"/>
     </contour>
   </outline>

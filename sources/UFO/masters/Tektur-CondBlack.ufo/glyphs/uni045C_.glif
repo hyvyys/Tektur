@@ -5,13 +5,7 @@
   <anchor x="300" y="0" name="bottom"/>
   <anchor x="278" y="560" name="top"/>
   <outline>
-    <component base="uni043A"/>
+    <component base="kgreenlandic"/>
     <component base="acutecomb" xOffset="278"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  </dict>
-  </lib>
 </glyph>

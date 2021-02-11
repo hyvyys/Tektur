@@ -3,18 +3,7 @@
   <advance width="170"/>
   <unicode hex="0021"/>
   <outline>
-    <contour>
-      <point x="40" y="0" type="line"/>
-      <point x="130" y="0" type="line"/>
-      <point x="130" y="100" type="line"/>
-      <point x="40" y="100" type="line"/>
-    </contour>
-    <contour>
-      <point x="50" y="200" type="line"/>
-      <point x="120" y="200" type="line"/>
-      <point x="136" y="700" type="line"/>
-      <point x="34" y="700" type="line"/>
-    </contour>
+    <component base="uni01C3"/>
   </outline>
   <lib>
   <dict>

@@ -2,16 +2,29 @@
 <glyph name="uni044D" format="2">
   <advance width="290"/>
   <unicode hex="044D"/>
-  <anchor x="110" y="0" name="bottom"/>
-  <anchor x="57" y="0" name="ogonek"/>
+  <anchor x="110" y="-0" name="bottom"/>
+  <anchor x="57" y="-0" name="ogonek"/>
   <anchor x="110" y="560" name="top"/>
   <outline>
-    <component base="uni0454" xScale="-1" xOffset="290"/>
+    <contour>
+      <point x="175" y="0" type="line"/>
+      <point x="15" y="0" type="line"/>
+      <point x="15" y="80" type="line"/>
+      <point x="165" y="80" type="line"/>
+      <point x="165" y="250" type="line"/>
+      <point x="35" y="250" type="line"/>
+      <point x="35" y="330" type="line"/>
+      <point x="165" y="330" type="line"/>
+      <point x="165" y="480" type="line"/>
+      <point x="15" y="480" type="line"/>
+      <point x="15" y="560" type="line"/>
+      <point x="175" y="560" type="line"/>
+      <point x="255" y="480" type="line"/>
+      <point x="255" y="80" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.metricsLeft</key>
   <string>|uni0454</string>
   <key>com.fontlab.metricsRight</key>

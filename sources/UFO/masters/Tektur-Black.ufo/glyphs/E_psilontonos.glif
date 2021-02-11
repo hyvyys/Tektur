@@ -7,12 +7,10 @@
   <anchor x="535" y="700" name="top"/>
   <outline>
     <component base="tonos"/>
-    <component base="Epsilon" xOffset="240"/>
+    <component base="E" xOffset="240"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>=tonos&amp;\Epsilon</string>
   </dict>

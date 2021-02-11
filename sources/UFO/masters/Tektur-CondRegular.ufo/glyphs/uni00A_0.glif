@@ -4,8 +4,6 @@
   <unicode hex="00A0"/>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>space</string>
   </dict>

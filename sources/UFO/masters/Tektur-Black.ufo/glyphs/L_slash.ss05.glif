@@ -7,8 +7,8 @@
     <component base="L.ss05"/>
     <contour>
       <point x="135" y="240" type="line"/>
-      <point x="485" y="400" type="line"/>
-      <point x="485" y="580" type="line"/>
+      <point x="465" y="400" type="line"/>
+      <point x="465" y="580" type="line"/>
       <point x="135" y="420" type="line"/>
     </contour>
   </outline>

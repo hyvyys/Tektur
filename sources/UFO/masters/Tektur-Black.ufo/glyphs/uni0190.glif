@@ -2,10 +2,28 @@
 <glyph name="uni0190" format="2">
   <advance width="630"/>
   <unicode hex="0190"/>
-  <anchor x="356" y="-0" name="bottom"/>
+  <anchor x="356" y="0" name="bottom"/>
   <anchor x="356" y="700" name="top"/>
   <outline>
-    <component base="three" xScale="-1" xOffset="630"/>
+    <contour>
+      <point x="160" y="0" type="line"/>
+      <point x="20" y="140" type="line"/>
+      <point x="20" y="296" type="line"/>
+      <point x="107" y="366" type="line"/>
+      <point x="40" y="419" type="line"/>
+      <point x="40" y="560" type="line"/>
+      <point x="180" y="700" type="line"/>
+      <point x="590" y="700" type="line"/>
+      <point x="590" y="520" type="line"/>
+      <point x="265" y="520" type="line"/>
+      <point x="265" y="440" type="line"/>
+      <point x="540" y="440" type="line"/>
+      <point x="540" y="270" type="line"/>
+      <point x="245" y="270" type="line"/>
+      <point x="245" y="180" type="line"/>
+      <point x="600" y="180" type="line"/>
+      <point x="600" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>

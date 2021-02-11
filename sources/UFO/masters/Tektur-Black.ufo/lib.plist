@@ -35,7 +35,6 @@
 		<string>K</string>
 		<string>L</string>
 		<string>L.ss05</string>
-		<string>Lslash.ss05</string>
 		<string>M</string>
 		<string>M.ss04</string>
 		<string>N</string>
@@ -1120,6 +1119,19 @@
 		<string>uni0218.ss03</string>
 		<string>uni0421.ss03</string>
 		<string>uni0405.ss03</string>
+		<string>uni1E3E.ss04</string>
+		<string>uni1E40.ss04</string>
+		<string>Mu.ss04</string>
+		<string>uni041C.ss04</string>
+		<string>Lslash.ss05</string>
+		<string>Lacute.ss05</string>
+		<string>Lcaron.ss05</string>
+		<string>uni013B.ss05</string>
+		<string>uni1E36.ss05</string>
+		<string>uni1E3A.ss05</string>
+		<string>Ldot.ss05</string>
+		<string>uni01C7.ss05</string>
+		<string>uni01C8.ss05</string>
 	</array>
 </dict>
 </plist>

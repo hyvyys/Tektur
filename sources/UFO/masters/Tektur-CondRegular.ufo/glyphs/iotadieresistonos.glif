@@ -5,13 +5,31 @@
   <anchor x="110" y="0" name="bottom"/>
   <anchor x="86" y="710" name="top"/>
   <outline>
-    <component base="iotadieresis"/>
     <component base="tonoscomb" xOffset="86" yOffset="150"/>
+    <contour>
+      <point x="40" y="560" type="line"/>
+      <point x="40" y="70" type="line"/>
+      <point x="110" y="0" type="line"/>
+      <point x="170" y="0" type="line"/>
+      <point x="170" y="82" type="line"/>
+      <point x="130" y="82" type="line"/>
+      <point x="130" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="-19" y="630" type="line"/>
+      <point x="61" y="630" type="line"/>
+      <point x="61" y="710" type="line"/>
+      <point x="-19" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="111" y="630" type="line"/>
+      <point x="191" y="630" type="line"/>
+      <point x="191" y="710" type="line"/>
+      <point x="111" y="710" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>iotadieresis+tonoscomb</string>
   </dict>

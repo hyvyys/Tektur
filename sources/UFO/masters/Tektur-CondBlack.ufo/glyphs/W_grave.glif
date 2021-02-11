@@ -8,10 +8,4 @@
     <component base="W"/>
     <component base="gravecomb" xOffset="370" yOffset="140"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  </dict>
-  </lib>
 </glyph>

@@ -3,12 +3,10 @@
   <advance width="180"/>
   <unicode hex="0374"/>
   <outline>
-    <component base="uni02B9"/>
+    <component base="minute"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>uni02B9</string>
   </dict>

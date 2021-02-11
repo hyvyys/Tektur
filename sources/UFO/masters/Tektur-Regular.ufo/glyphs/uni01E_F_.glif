@@ -8,8 +8,6 @@
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>uni0292+uni030C</string>
   </dict>

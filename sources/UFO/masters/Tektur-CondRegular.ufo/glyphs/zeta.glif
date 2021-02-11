@@ -2,8 +2,8 @@
 <glyph name="zeta" format="2">
   <advance width="265"/>
   <unicode hex="03B6"/>
-  <anchor x="133" y="-120" name="bottom"/>
-  <anchor x="133" y="700" name="top"/>
+  <anchor x="132.5" y="-120" name="bottom"/>
+  <anchor x="132.5" y="700" name="top"/>
   <outline>
     <contour>
       <point x="115" y="0" type="line"/>

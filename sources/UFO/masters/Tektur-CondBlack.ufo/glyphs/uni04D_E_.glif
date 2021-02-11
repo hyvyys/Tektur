@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04DE" format="2">
-  <advance width="500"/>
+  <advance width="495"/>
   <unicode hex="04DE"/>
   <anchor x="225" y="0" name="bottom"/>
   <anchor x="225" y="870" name="top"/>
@@ -8,10 +8,4 @@
     <component base="uni0417"/>
     <component base="uni0308" xOffset="225" yOffset="140"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  </dict>
-  </lib>
 </glyph>

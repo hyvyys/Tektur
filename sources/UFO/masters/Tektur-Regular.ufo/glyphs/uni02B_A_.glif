@@ -3,12 +3,21 @@
   <advance width="350"/>
   <unicode hex="02BA"/>
   <outline>
-    <component base="second"/>
+    <contour>
+      <point x="55" y="460" type="line"/>
+      <point x="115" y="460" type="line"/>
+      <point x="155" y="700" type="line"/>
+      <point x="55" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="205" y="460" type="line"/>
+      <point x="265" y="460" type="line"/>
+      <point x="305" y="700" type="line"/>
+      <point x="205" y="700" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>second</string>
   </dict>

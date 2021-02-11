@@ -5,13 +5,11 @@
   <anchor x="175" y="0" name="bottom"/>
   <anchor x="175" y="870" name="top"/>
   <outline>
-    <component base="Iota"/>
+    <component base="I"/>
     <component base="uni0308" xOffset="175" yOffset="140"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>Iota+uni0308</string>
   </dict>

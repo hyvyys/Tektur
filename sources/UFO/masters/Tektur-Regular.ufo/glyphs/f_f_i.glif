@@ -9,10 +9,4 @@
     <component base="f" xOffset="410"/>
     <component base="i" xOffset="820"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  </dict>
-  </lib>
 </glyph>

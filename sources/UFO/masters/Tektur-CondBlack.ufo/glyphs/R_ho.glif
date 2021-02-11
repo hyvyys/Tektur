@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Rho" format="2">
-  <advance width="550"/>
+  <advance width="545"/>
   <unicode hex="03A1"/>
   <anchor x="190" y="0" name="bottom"/>
   <anchor x="270" y="700" name="top"/>
@@ -9,8 +9,6 @@
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>P%</string>
   </dict>

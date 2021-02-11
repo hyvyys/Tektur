@@ -6,12 +6,10 @@
   <anchor x="285" y="700" name="top"/>
   <outline>
     <component base="tonos"/>
-    <component base="Iota" xOffset="220"/>
+    <component base="I" xOffset="220"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>=tonos&amp;\Iota</string>
   </dict>

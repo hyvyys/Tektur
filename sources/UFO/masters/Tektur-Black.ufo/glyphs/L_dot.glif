@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ldot" format="2">
-  <advance width="575"/>
+  <advance width="565"/>
   <unicode hex="013F"/>
   <anchor x="295" y="0" name="bottom"/>
   <anchor x="170" y="700" name="top"/>
   <outline>
     <component base="L"/>
-    <component base="periodcentered.loclCAT.cap" xOffset="575"/>
+    <component base="periodcentered.loclCAT.cap" xOffset="565"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>=L&amp;periodcentered.loclCAT.cap</string>
   </dict>

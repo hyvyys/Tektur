@@ -5,7 +5,25 @@
   <anchor x="165" y="0" name="bottom"/>
   <anchor x="165" y="700" name="top"/>
   <outline>
-    <component base="three" xScale="-1" xOffset="275"/>
+    <contour>
+      <point x="110" y="0" type="line"/>
+      <point x="30" y="80" type="line"/>
+      <point x="30" y="306" type="line"/>
+      <point x="103" y="366" type="line"/>
+      <point x="45" y="419" type="line"/>
+      <point x="45" y="620" type="line"/>
+      <point x="125" y="700" type="line"/>
+      <point x="250" y="700" type="line"/>
+      <point x="250" y="620" type="line"/>
+      <point x="135" y="620" type="line"/>
+      <point x="135" y="400" type="line"/>
+      <point x="240" y="400" type="line"/>
+      <point x="240" y="320" type="line"/>
+      <point x="120" y="320" type="line"/>
+      <point x="120" y="80" type="line"/>
+      <point x="260" y="80" type="line"/>
+      <point x="260" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>

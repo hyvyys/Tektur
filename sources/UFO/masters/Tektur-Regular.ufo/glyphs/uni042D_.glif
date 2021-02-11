@@ -5,12 +5,27 @@
   <anchor x="260" y="-0" name="bottom"/>
   <anchor x="260" y="700" name="top"/>
   <outline>
-    <component base="uni0404" xScale="-1" xOffset="600"/>
+    <contour>
+      <point x="540" y="90" type="line"/>
+      <point x="450" y="0" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="30" y="82" type="line"/>
+      <point x="450" y="82" type="line"/>
+      <point x="450" y="618" type="line"/>
+      <point x="40" y="618" type="line"/>
+      <point x="40" y="700" type="line"/>
+      <point x="450" y="700" type="line"/>
+      <point x="540" y="610" type="line"/>
+    </contour>
+    <contour>
+      <point x="485" y="310" type="line"/>
+      <point x="155" y="310" type="line"/>
+      <point x="155" y="390" type="line"/>
+      <point x="485" y="390" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.metricsLeft</key>
   <string>|uni0404</string>
   <key>com.fontlab.metricsRight</key>

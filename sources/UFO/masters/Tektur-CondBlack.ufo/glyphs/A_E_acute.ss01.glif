@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="AEacute.ss01" format="2">
   <advance width="695"/>
-  <anchor x="348" y="0" name="bottom"/>
-  <anchor x="348" y="700" name="top"/>
+  <anchor x="347.5" y="0" name="bottom"/>
+  <anchor x="347.5" y="700" name="top"/>
   <outline>
     <component base="AE.ss01"/>
     <component base="acutecomb" xOffset="348" yOffset="140"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>AE.ss01+acutecomb</string>
   </dict>

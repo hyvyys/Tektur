@@ -8,10 +8,4 @@
     <component base="dotlessi"/>
     <component base="uni030F" xOffset="150"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  </dict>
-  </lib>
 </glyph>

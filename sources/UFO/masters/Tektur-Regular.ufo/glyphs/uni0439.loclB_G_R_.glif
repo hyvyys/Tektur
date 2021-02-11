@@ -5,13 +5,11 @@
   <anchor x="485" y="0" name="ogonek"/>
   <anchor x="310" y="560" name="top"/>
   <outline>
-    <component base="uni0438.loclBGR"/>
+    <component base="u"/>
     <component base="uni0306.cy" xOffset="310"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>uni0438.loclBGR+uni0306.cy</string>
   </dict>

@@ -12,8 +12,6 @@
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>a+dotbelowcomb+uni0302</string>
   </dict>

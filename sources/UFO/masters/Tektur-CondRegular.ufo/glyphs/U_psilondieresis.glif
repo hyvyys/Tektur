@@ -5,13 +5,11 @@
   <anchor x="180" y="0" name="bottom"/>
   <anchor x="180" y="850" name="top"/>
   <outline>
-    <component base="Upsilon"/>
+    <component base="Y"/>
     <component base="uni0308" xOffset="180" yOffset="140"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>Upsilon+uni0308</string>
   </dict>

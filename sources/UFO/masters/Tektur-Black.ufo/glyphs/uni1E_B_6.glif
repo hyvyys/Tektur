@@ -2,8 +2,8 @@
 <glyph name="uni1EB6" format="2">
   <advance width="660"/>
   <unicode hex="1EB6"/>
-  <anchor x="330" y="-0" name="bottom"/>
-  <anchor x="530" y="-0" name="ogonek"/>
+  <anchor x="330" y="0" name="bottom"/>
+  <anchor x="530" y="0" name="ogonek"/>
   <anchor x="330" y="700" name="top"/>
   <outline>
     <component base="A"/>
@@ -12,8 +12,6 @@
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>A+dotbelowcomb+uni0306</string>
   </dict>

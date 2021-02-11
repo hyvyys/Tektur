@@ -2,16 +2,14 @@
 <glyph name="Iotatonos" format="2">
   <advance width="430"/>
   <unicode hex="038A"/>
-  <anchor x="215" y="0" name="bottom"/>
+  <anchor x="215" y="-0" name="bottom"/>
   <anchor x="215" y="700" name="top"/>
   <outline>
     <component base="tonos"/>
-    <component base="Iota" xOffset="180"/>
+    <component base="I" xOffset="180"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.recipe</key>
   <string>=tonos&amp;\Iota</string>
   </dict>

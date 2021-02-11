@@ -234,12 +234,18 @@
   <string>L_.ss05.glif</string>
   <key>Lacute</key>
   <string>L_acute.glif</string>
+  <key>Lacute.ss05</key>
+  <string>L_acute.ss05.glif</string>
   <key>Lambda</key>
   <string>L_ambda.glif</string>
   <key>Lcaron</key>
   <string>L_caron.glif</string>
+  <key>Lcaron.ss05</key>
+  <string>L_caron.ss05.glif</string>
   <key>Ldot</key>
   <string>L_dot.glif</string>
+  <key>Ldot.ss05</key>
+  <string>L_dot.ss05.glif</string>
   <key>Lslash</key>
   <string>L_slash.glif</string>
   <key>Lslash.ss05</key>
@@ -250,6 +256,8 @@
   <string>M_.ss04.glif</string>
   <key>Mu</key>
   <string>M_u.glif</string>
+  <key>Mu.ss04</key>
+  <string>M_u.ss04.glif</string>
   <key>N</key>
   <string>N_.glif</string>
   <key>NULL</key>
@@ -1012,6 +1020,8 @@
   <string>uni0137.glif</string>
   <key>uni013B</key>
   <string>uni013B_.glif</string>
+  <key>uni013B.ss05</key>
+  <string>uni013B_.ss05.glif</string>
   <key>uni013C</key>
   <string>uni013C_.glif</string>
   <key>uni0145</key>
@@ -1082,8 +1092,12 @@
   <string>uni01C_6.glif</string>
   <key>uni01C7</key>
   <string>uni01C_7.glif</string>
+  <key>uni01C7.ss05</key>
+  <string>uni01C_7.ss05.glif</string>
   <key>uni01C8</key>
   <string>uni01C_8.glif</string>
+  <key>uni01C8.ss05</key>
+  <string>uni01C_8.ss05.glif</string>
   <key>uni01C9</key>
   <string>uni01C_9.glif</string>
   <key>uni01CA</key>
@@ -1436,6 +1450,8 @@
   <string>uni041B_.loclB_G_R_.glif</string>
   <key>uni041C</key>
   <string>uni041C_.glif</string>
+  <key>uni041C.ss04</key>
+  <string>uni041C_.ss04.glif</string>
   <key>uni041D</key>
   <string>uni041D_.glif</string>
   <key>uni041E</key>
@@ -1816,18 +1832,26 @@
   <string>uni1E_25.glif</string>
   <key>uni1E36</key>
   <string>uni1E_36.glif</string>
+  <key>uni1E36.ss05</key>
+  <string>uni1E_36.ss05.glif</string>
   <key>uni1E37</key>
   <string>uni1E_37.glif</string>
   <key>uni1E3A</key>
   <string>uni1E_3A_.glif</string>
+  <key>uni1E3A.ss05</key>
+  <string>uni1E_3A_.ss05.glif</string>
   <key>uni1E3B</key>
   <string>uni1E_3B_.glif</string>
   <key>uni1E3E</key>
   <string>uni1E_3E_.glif</string>
+  <key>uni1E3E.ss04</key>
+  <string>uni1E_3E_.ss04.glif</string>
   <key>uni1E3F</key>
   <string>uni1E_3F_.glif</string>
   <key>uni1E40</key>
   <string>uni1E_40.glif</string>
+  <key>uni1E40.ss04</key>
+  <string>uni1E_40.ss04.glif</string>
   <key>uni1E41</key>
   <string>uni1E_41.glif</string>
   <key>uni1E44</key>

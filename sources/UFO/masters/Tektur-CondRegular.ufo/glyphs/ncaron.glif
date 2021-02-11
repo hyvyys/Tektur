@@ -8,10 +8,4 @@
     <component base="n"/>
     <component base="uni030C" xOffset="175"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
-  </dict>
-  </lib>
 </glyph>

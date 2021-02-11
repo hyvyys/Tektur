@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01C7.ss05" format="2">
+  <advance width="955"/>
+  <anchor x="690" y="-0" name="bottom"/>
+  <anchor x="715" y="700" name="top"/>
+  <outline>
+    <component base="L.ss05"/>
+    <component base="J" xOffset="425"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>L.ss05_J</string>
+  </dict>
+  </lib>
+</glyph>

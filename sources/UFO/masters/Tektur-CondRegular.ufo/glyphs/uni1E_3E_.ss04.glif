@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E3E.ss04" format="2">
+  <advance width="500"/>
+  <anchor x="250" y="0" name="bottom"/>
+  <anchor x="250" y="700" name="top"/>
+  <outline>
+    <component base="M.ss04"/>
+    <component base="acutecomb" xOffset="250" yOffset="140"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>M.ss04+acutecomb</string>
+  </dict>
+  </lib>
+</glyph>
