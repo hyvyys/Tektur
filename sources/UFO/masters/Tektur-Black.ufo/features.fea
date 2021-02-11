@@ -866,7 +866,7 @@ feature mark {
       pos base zcaron
           <anchor 265 0> mark @bottom;
       pos base Zdotaccent
-          <anchor 282 0> mark @bottom;
+          <anchor 283 0> mark @bottom;
       pos base zdotaccent
           <anchor 265 0> mark @bottom;
       pos base uni1E92
@@ -1180,7 +1180,7 @@ feature mark {
       pos base Omicrontonos
           <anchor 550 0> mark @bottom;
       pos base Upsilontonos
-          <anchor 560 0> mark @bottom;
+          <anchor 440 0> mark @bottom;
       pos base Upsilondieresis
           <anchor 320 0> mark @bottom;
       pos base alpha
@@ -3260,7 +3260,7 @@ feature mark {
       pos base Omicrontonos
           <anchor 550 700> mark @top;
       pos base Upsilontonos
-          <anchor 560 700> mark @top;
+          <anchor 440 700> mark @top;
       pos base Upsilondieresis
           <anchor 320 870> mark @top;
       pos base alpha

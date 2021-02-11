@@ -3,21 +3,12 @@
   <advance width="270"/>
   <unicode hex="01C3"/>
   <outline>
-    <contour>
-      <point x="90" y="0" type="line"/>
-      <point x="180" y="0" type="line"/>
-      <point x="180" y="100" type="line"/>
-      <point x="90" y="100" type="line"/>
-    </contour>
-    <contour>
-      <point x="100" y="220" type="line"/>
-      <point x="170" y="220" type="line"/>
-      <point x="188" y="700" type="line"/>
-      <point x="82" y="700" type="line"/>
-    </contour>
+    <component base="exclam"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>exclam</string>
   </dict>

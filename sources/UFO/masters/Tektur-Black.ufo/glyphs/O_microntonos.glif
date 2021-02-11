@@ -6,10 +6,12 @@
   <anchor x="550" y="700" name="top"/>
   <outline>
     <component base="tonos"/>
-    <component base="O" xOffset="210"/>
+    <component base="Omicron" xOffset="210"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>=tonos&amp;\Omicron</string>
   </dict>

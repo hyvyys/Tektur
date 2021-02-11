@@ -1092,9 +1092,9 @@ feature mark {
       pos base uni01C9
           <anchor 315 -140> mark @bottom;
       pos base uni01CA
-          <anchor 980 0> mark @bottom;
+          <anchor 640 0> mark @bottom;
       pos base uni01CB
-          <anchor 785 -140> mark @bottom;
+          <anchor 445 -140> mark @bottom;
       pos base uni01CC
           <anchor 725 -140> mark @bottom;
       pos base zero
@@ -1112,7 +1112,7 @@ feature mark {
       pos base product
           <anchor 325 0> mark @bottom;
       pos base uni2116
-          <anchor 340 0> mark @bottom;
+          <anchor 590 0> mark @bottom;
       pos base uni20AE
           <anchor 280 0> mark @bottom;
       pos base uni20B4
@@ -3160,9 +3160,9 @@ feature mark {
       pos base uni01C9
           <anchor 315 710> mark @top;
       pos base uni01CA
-          <anchor 970 700> mark @top;
+          <anchor 640 700> mark @top;
       pos base uni01CB
-          <anchor 785 710> mark @top;
+          <anchor 445 710> mark @top;
       pos base uni01CC
           <anchor 725 710> mark @top;
       pos base zero
@@ -3180,7 +3180,7 @@ feature mark {
       pos base product
           <anchor 325 700> mark @top;
       pos base uni2116
-          <anchor 340 700> mark @top;
+          <anchor 590 700> mark @top;
       pos base uni20AE
           <anchor 280 700> mark @top;
       pos base uni20B4

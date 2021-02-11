@@ -2,33 +2,16 @@
 <glyph name="uni01C6" format="2">
   <advance width="595"/>
   <unicode hex="01C6"/>
-  <anchor x="470" y="-0" name="bottom"/>
+  <anchor x="470" y="0" name="bottom"/>
   <anchor x="470" y="560" name="top"/>
   <outline>
     <component base="d"/>
-    <contour>
-      <point x="365" y="0" type="line"/>
-      <point x="575" y="0" type="line"/>
-      <point x="575" y="80" type="line"/>
-      <point x="457" y="80" type="line"/>
-      <point x="575" y="500" type="line"/>
-      <point x="575" y="560" type="line"/>
-      <point x="365" y="560" type="line"/>
-      <point x="365" y="480" type="line"/>
-      <point x="483" y="480" type="line"/>
-      <point x="365" y="60" type="line"/>
-    </contour>
-    <contour>
-      <point x="570" y="740" type="line"/>
-      <point x="470" y="680" type="line"/>
-      <point x="370" y="740" type="line"/>
-      <point x="370" y="660" type="line"/>
-      <point x="470" y="600" type="line"/>
-      <point x="570" y="660" type="line"/>
-    </contour>
+    <component base="zcaron" xOffset="345"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>d_zcaron</string>
   </dict>

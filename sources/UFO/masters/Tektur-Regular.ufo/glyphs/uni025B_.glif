@@ -5,25 +5,7 @@
   <anchor x="350" y="0" name="bottom"/>
   <anchor x="350" y="560" name="top"/>
   <outline>
-    <contour>
-      <point x="135" y="0" type="line"/>
-      <point x="555" y="0" type="line"/>
-      <point x="555" y="80" type="line"/>
-      <point x="145" y="80" type="line"/>
-      <point x="145" y="246" type="line"/>
-      <point x="505" y="246" type="line"/>
-      <point x="505" y="326" type="line"/>
-      <point x="165" y="326" type="line"/>
-      <point x="165" y="480" type="line"/>
-      <point x="545" y="480" type="line"/>
-      <point x="545" y="560" type="line"/>
-      <point x="155" y="560" type="line"/>
-      <point x="75" y="480" type="line"/>
-      <point x="75" y="335" type="line"/>
-      <point x="132" y="292" type="line"/>
-      <point x="55" y="232" type="line"/>
-      <point x="55" y="80" type="line"/>
-    </contour>
+    <component base="epsilon" xOffset="5"/>
   </outline>
   <lib>
   <dict>

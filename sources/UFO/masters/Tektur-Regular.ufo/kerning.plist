@@ -136,6 +136,8 @@
     <integer>-50</integer>
     <key>public.kern2.T</key>
     <integer>-90</integer>
+    <key>public.kern2.Y</key>
+    <integer>-80</integer>
     <key>public.kern2.quote</key>
     <integer>-40</integer>
     <key>public.kern2.quoteleft</key>
@@ -151,6 +153,8 @@
     <integer>-160</integer>
     <key>public.kern2.W</key>
     <integer>-50</integer>
+    <key>public.kern2.Y</key>
+    <integer>-100</integer>
   </dict>
   <key>public.kern1.S</key>
   <dict>

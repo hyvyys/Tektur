@@ -5,7 +5,24 @@
   <anchor x="340" y="0" name="bottom"/>
   <anchor x="340" y="700" name="top"/>
   <outline>
-    <component base="uni042D" xScale="-1" xOffset="600"/>
+    <contour>
+      <point x="60" y="90" type="line"/>
+      <point x="150" y="0" type="line"/>
+      <point x="570" y="0" type="line"/>
+      <point x="570" y="82" type="line"/>
+      <point x="150" y="82" type="line"/>
+      <point x="150" y="618" type="line"/>
+      <point x="560" y="618" type="line"/>
+      <point x="560" y="700" type="line"/>
+      <point x="150" y="700" type="line"/>
+      <point x="60" y="610" type="line"/>
+    </contour>
+    <contour>
+      <point x="115" y="310" type="line"/>
+      <point x="445" y="310" type="line"/>
+      <point x="445" y="390" type="line"/>
+      <point x="115" y="390" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>

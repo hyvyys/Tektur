@@ -2,9 +2,15 @@
 <glyph name="uni0422" format="2">
   <advance width="580"/>
   <unicode hex="0422"/>
-  <anchor x="290" y="-0" name="bottom"/>
+  <anchor x="290" y="0" name="bottom"/>
   <anchor x="290" y="700" name="top"/>
   <outline>
     <component base="T"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  </dict>
+  </lib>
 </glyph>

@@ -6,29 +6,12 @@
   <anchor x="778" y="560" name="top"/>
   <outline>
     <component base="d"/>
-    <contour>
-      <point x="580" y="0" type="line"/>
-      <point x="975" y="0" type="line"/>
-      <point x="975" y="180" type="line"/>
-      <point x="820" y="180" type="line"/>
-      <point x="970" y="400" type="line"/>
-      <point x="970" y="560" type="line"/>
-      <point x="585" y="560" type="line"/>
-      <point x="585" y="380" type="line"/>
-      <point x="730" y="380" type="line"/>
-      <point x="580" y="160" type="line"/>
-    </contour>
-    <contour>
-      <point x="928" y="770" type="line"/>
-      <point x="778" y="710" type="line"/>
-      <point x="628" y="770" type="line"/>
-      <point x="628" y="650" type="line"/>
-      <point x="778" y="590" type="line"/>
-      <point x="928" y="650" type="line"/>
-    </contour>
+    <component base="zcaron" xOffset="560"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>d_zcaron</string>
   </dict>

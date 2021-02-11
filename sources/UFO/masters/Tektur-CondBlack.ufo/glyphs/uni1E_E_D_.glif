@@ -11,6 +11,8 @@
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>uhorn+hookabovecomb</string>
   </dict>

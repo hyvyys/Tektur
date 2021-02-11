@@ -8,4 +8,10 @@
     <component base="n"/>
     <component base="tildecomb" xOffset="280"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  </dict>
+  </lib>
 </glyph>

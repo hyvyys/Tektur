@@ -5,28 +5,13 @@
   <anchor x="420" y="0" name="bottom"/>
   <anchor x="420" y="730" name="top"/>
   <outline>
+    <component base="uni044B"/>
     <component base="uni0308" xOffset="420"/>
-    <contour>
-      <point x="30" y="0" type="line"/>
-      <point x="410" y="0" type="line"/>
-      <point x="530" y="120" type="line"/>
-      <point x="530" y="320" type="line"/>
-      <point x="410" y="440" type="line"/>
-      <point x="250" y="440" type="line"/>
-      <point x="250" y="560" type="line"/>
-      <point x="30" y="560" type="line"/>
-    </contour>
-    <contour>
-      <point x="250" y="160" type="line"/>
-      <point x="250" y="280" type="line"/>
-      <point x="310" y="280" type="line"/>
-      <point x="310" y="160" type="line"/>
-    </contour>
-    <contour>
-      <point x="590" y="0" type="line"/>
-      <point x="810" y="0" type="line"/>
-      <point x="810" y="560" type="line"/>
-      <point x="590" y="560" type="line"/>
-    </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  </dict>
+  </lib>
 </glyph>

@@ -2,11 +2,17 @@
 <glyph name="f_f_i" format="2">
   <advance width="1030"/>
   <unicode hex="FB03"/>
-  <anchor x="925" y="-0" name="bottom"/>
+  <anchor x="925" y="0" name="bottom"/>
   <anchor x="925" y="710" name="top"/>
   <outline>
     <component base="f"/>
     <component base="f" xOffset="410"/>
     <component base="i" xOffset="820"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  </dict>
+  </lib>
 </glyph>

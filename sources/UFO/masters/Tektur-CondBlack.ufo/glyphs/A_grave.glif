@@ -9,4 +9,10 @@
     <component base="A"/>
     <component base="gravecomb" xOffset="290" yOffset="140"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  </dict>
+  </lib>
 </glyph>

@@ -2,13 +2,15 @@
 <glyph name="Tau" format="2">
   <advance width="580"/>
   <unicode hex="03A4"/>
-  <anchor x="290" y="-0" name="bottom"/>
+  <anchor x="290" y="0" name="bottom"/>
   <anchor x="290" y="700" name="top"/>
   <outline>
     <component base="T"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>T%</string>
   </dict>

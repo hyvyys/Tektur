@@ -3,10 +3,12 @@
   <advance width="280"/>
   <unicode hex="02BC"/>
   <outline>
-    <component base="comma" yOffset="500"/>
+    <component base="quoteright"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>quoteright</string>
   </dict>

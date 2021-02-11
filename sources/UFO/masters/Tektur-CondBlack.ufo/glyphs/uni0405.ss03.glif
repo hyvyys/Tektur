@@ -8,6 +8,8 @@
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.recipe</key>
   <string>S.ss03</string>
   <key>public.markColor</key>
