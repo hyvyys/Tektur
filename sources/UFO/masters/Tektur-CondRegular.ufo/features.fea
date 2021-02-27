@@ -1178,7 +1178,7 @@ feature mark {
       pos base Iotadieresis
           <anchor 125 0> mark @bottom;
       pos base Omicrontonos
-          <anchor 270 0> mark @bottom;
+          <anchor 330 0> mark @bottom;
       pos base Upsilontonos
           <anchor 270 0> mark @bottom;
       pos base Upsilondieresis
@@ -3258,7 +3258,7 @@ feature mark {
       pos base Iotadieresis
           <anchor 125 850> mark @top;
       pos base Omicrontonos
-          <anchor 270 700> mark @top;
+          <anchor 330 700> mark @top;
       pos base Upsilontonos
           <anchor 270 700> mark @top;
       pos base Upsilondieresis

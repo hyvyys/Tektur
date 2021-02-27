@@ -10,8 +10,8 @@
       <point x="165" y="0" type="line"/>
       <point x="465" y="0" type="line"/>
       <point x="465" y="185" type="line"/>
-      <point x="265" y="185" type="line"/>
-      <point x="265" y="515" type="line"/>
+      <point x="250" y="185" type="line"/>
+      <point x="250" y="515" type="line"/>
       <point x="465" y="515" type="line"/>
       <point x="465" y="700" type="line"/>
       <point x="165" y="700" type="line"/>

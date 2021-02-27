@@ -14,26 +14,12 @@
     <key>public.kern2.period</key>
     <integer>-30</integer>
   </dict>
-  <key>Gamma</key>
-  <dict>
-    <key>public.kern2.alpha</key>
-    <integer>-40</integer>
-    <key>public.kern2.c</key>
-    <integer>-40</integer>
-  </dict>
   <key>Lslash.ss05</key>
   <dict>
     <key>public.kern2.T</key>
     <integer>-60</integer>
     <key>public.kern2.W</key>
     <integer>-10</integer>
-  </dict>
-  <key>P</key>
-  <dict>
-    <key>public.kern2.A1</key>
-    <integer>-30</integer>
-    <key>public.kern2.period</key>
-    <integer>-50</integer>
   </dict>
   <key>V</key>
   <dict>
@@ -82,11 +68,21 @@
   </dict>
   <key>tonos</key>
   <dict>
-    <key>Alpha</key>
-    <integer>-70</integer>
     <key>uni03A9</key>
     <integer>-30</integer>
+    <key>public.kern2.A1</key>
+    <integer>-70</integer>
     <key>public.kern2.C</key>
+    <integer>-30</integer>
+  </dict>
+  <key>uni0411</key>
+  <dict>
+    <key>uni042A</key>
+    <integer>-40</integer>
+  </dict>
+  <key>uni0426</key>
+  <dict>
+    <key>uni042A</key>
     <integer>-30</integer>
   </dict>
   <key>zeta</key>
@@ -99,6 +95,10 @@
     <key>V</key>
     <integer>-20</integer>
     <key>question</key>
+    <integer>-40</integer>
+    <key>uni042A</key>
+    <integer>-60</integer>
+    <key>public.kern2.Hookleft</key>
     <integer>-40</integer>
     <key>public.kern2.T</key>
     <integer>-50</integer>
@@ -115,8 +115,21 @@
   </dict>
   <key>public.kern1.D</key>
   <dict>
+    <key>public.kern2.Elcy</key>
+    <integer>-10</integer>
     <key>public.kern2.Y</key>
     <integer>-20</integer>
+  </dict>
+  <key>public.kern1.Gamma</key>
+  <dict>
+    <key>public.kern2.A1</key>
+    <integer>-60</integer>
+    <key>public.kern2.Elcy</key>
+    <integer>-60</integer>
+    <key>public.kern2.alpha</key>
+    <integer>-40</integer>
+    <key>public.kern2.c</key>
+    <integer>-40</integer>
   </dict>
   <key>public.kern1.L</key>
   <dict>
@@ -124,6 +137,8 @@
     <integer>-55</integer>
     <key>question</key>
     <integer>-50</integer>
+    <key>public.kern2.Hookleft</key>
+    <integer>-140</integer>
     <key>public.kern2.T</key>
     <integer>-90</integer>
     <key>public.kern2.Y</key>
@@ -146,18 +161,34 @@
     <key>public.kern2.Y</key>
     <integer>-100</integer>
   </dict>
+  <key>public.kern1.P</key>
+  <dict>
+    <key>public.kern2.A1</key>
+    <integer>-30</integer>
+    <key>public.kern2.period</key>
+    <integer>-50</integer>
+  </dict>
   <key>public.kern1.T</key>
   <dict>
     <key>itilde</key>
     <integer>10</integer>
     <key>public.kern2.A1</key>
     <integer>-50</integer>
+    <key>public.kern2.Elcy</key>
+    <integer>-40</integer>
     <key>public.kern2.a</key>
     <integer>-30</integer>
     <key>public.kern2.c</key>
     <integer>-40</integer>
     <key>public.kern2.period</key>
     <integer>-120</integer>
+  </dict>
+  <key>public.kern1.Ucy</key>
+  <dict>
+    <key>uni0414</key>
+    <integer>-70</integer>
+    <key>public.kern2.A1</key>
+    <integer>-20</integer>
   </dict>
   <key>public.kern1.W</key>
   <dict>

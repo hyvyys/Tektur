@@ -866,9 +866,9 @@ feature mark {
       pos base zcaron
           <anchor 217 0> mark @bottom;
       pos base Zdotaccent
-          <anchor 242 0> mark @bottom;
+          <anchor 243 0> mark @bottom;
       pos base zdotaccent
-          <anchor 217 0> mark @bottom;
+          <anchor 218 0> mark @bottom;
       pos base uni1E92
           <anchor 242 0> mark @bottom;
       pos base uni1E93
@@ -1178,7 +1178,7 @@ feature mark {
       pos base Iotadieresis
           <anchor 175 0> mark @bottom;
       pos base Omicrontonos
-          <anchor 390 0> mark @bottom;
+          <anchor 470 0> mark @bottom;
       pos base Upsilontonos
           <anchor 390 0> mark @bottom;
       pos base Upsilondieresis
@@ -1304,7 +1304,7 @@ feature mark {
       pos base uni042D
           <anchor 205 0> mark @bottom;
       pos base uni042E
-          <anchor 415 0> mark @bottom;
+          <anchor 410 0> mark @bottom;
       pos base uni042F
           <anchor 285 0> mark @bottom;
       pos base uni0430
@@ -2934,9 +2934,9 @@ feature mark {
       pos base zcaron
           <anchor 217 560> mark @top;
       pos base Zdotaccent
-          <anchor 242 870> mark @top;
+          <anchor 243 870> mark @top;
       pos base zdotaccent
-          <anchor 217 730> mark @top;
+          <anchor 218 730> mark @top;
       pos base uni1E92
           <anchor 242 700> mark @top;
       pos base uni1E93
@@ -3386,7 +3386,7 @@ feature mark {
       pos base uni042D
           <anchor 205 700> mark @top;
       pos base uni042E
-          <anchor 415 700> mark @top;
+          <anchor 410 700> mark @top;
       pos base uni042F
           <anchor 305 700> mark @top;
       pos base uni0430

@@ -173,12 +173,26 @@
     <string>Adieresis</string>
     <string>Agrave</string>
     <string>Alpha</string>
+    <string>Alphatonos</string>
     <string>Amacron</string>
     <string>Aogonek</string>
     <string>Aring</string>
     <string>Atilde</string>
     <string>Lambda</string>
     <string>uni0394</string>
+    <string>uni0410</string>
+    <string>uni1EA0</string>
+    <string>uni1EA2</string>
+    <string>uni1EA4</string>
+    <string>uni1EA6</string>
+    <string>uni1EA8</string>
+    <string>uni1EAA</string>
+    <string>uni1EAC</string>
+    <string>uni1EAE</string>
+    <string>uni1EB0</string>
+    <string>uni1EB2</string>
+    <string>uni1EB4</string>
+    <string>uni1EB6</string>
   </array>
   <key>public.kern1.D</key>
   <array>
@@ -198,6 +212,21 @@
     <string>Omicrontonos</string>
     <string>Oslash</string>
     <string>Otilde</string>
+    <string>Theta</string>
+    <string>uni0417</string>
+    <string>uni041E</string>
+    <string>uni042E</string>
+    <string>uni0472</string>
+    <string>uni04E6</string>
+    <string>uni04E8</string>
+  </array>
+  <key>public.kern1.Gamma</key>
+  <array>
+    <string>Gamma</string>
+    <string>uni0403</string>
+    <string>uni0413</string>
+    <string>uni0490</string>
+    <string>uni04F6</string>
   </array>
   <key>public.kern1.L</key>
   <array>
@@ -217,6 +246,13 @@
     <string>uni1E36.ss05</string>
     <string>uni1E3A.ss05</string>
   </array>
+  <key>public.kern1.P</key>
+  <array>
+    <string>P</string>
+    <string>Rho</string>
+    <string>uni0420</string>
+    <string>uni1E56</string>
+  </array>
   <key>public.kern1.S</key>
   <array>
     <string>S</string>
@@ -229,10 +265,20 @@
   <key>public.kern1.T</key>
   <array>
     <string>T</string>
+    <string>Tau</string>
     <string>Tbar</string>
     <string>Tcaron</string>
     <string>uni0162</string>
     <string>uni021A</string>
+    <string>uni0422</string>
+  </array>
+  <key>public.kern1.Ucy</key>
+  <array>
+    <string>uni040E</string>
+    <string>uni0423</string>
+    <string>uni04EE</string>
+    <string>uni04F0</string>
+    <string>uni04F2</string>
   </array>
   <key>public.kern1.W</key>
   <array>
@@ -252,10 +298,19 @@
     <string>Ycircumflex</string>
     <string>Ydieresis</string>
     <string>Ygrave</string>
+    <string>uni01B3</string>
     <string>uni0232</string>
+    <string>uni04AE</string>
     <string>uni1EF4</string>
     <string>uni1EF6</string>
     <string>uni1EF8</string>
+  </array>
+  <key>public.kern1.gecy</key>
+  <array>
+    <string>uni0433</string>
+    <string>uni0453</string>
+    <string>uni0491</string>
+    <string>uni04F7</string>
   </array>
   <key>public.kern1.period</key>
   <array>
@@ -288,10 +343,24 @@
     <string>Acircumflex</string>
     <string>Adieresis</string>
     <string>Agrave</string>
+    <string>Alpha</string>
     <string>Amacron</string>
     <string>Aogonek</string>
     <string>Aring</string>
     <string>Atilde</string>
+    <string>uni0410</string>
+    <string>uni1EA0</string>
+    <string>uni1EA2</string>
+    <string>uni1EA4</string>
+    <string>uni1EA6</string>
+    <string>uni1EA8</string>
+    <string>uni1EAA</string>
+    <string>uni1EAC</string>
+    <string>uni1EAE</string>
+    <string>uni1EB0</string>
+    <string>uni1EB2</string>
+    <string>uni1EB4</string>
+    <string>uni1EB6</string>
   </array>
   <key>public.kern2.C</key>
   <array>
@@ -317,7 +386,25 @@
     <string>Oslash</string>
     <string>Otilde</string>
     <string>Q</string>
+    <string>Theta</string>
     <string>uni0122</string>
+    <string>uni0404</string>
+    <string>uni041E</string>
+    <string>uni0421</string>
+    <string>uni0472</string>
+    <string>uni04E6</string>
+    <string>uni04E8</string>
+    <string>uni051A</string>
+  </array>
+  <key>public.kern2.Elcy</key>
+  <array>
+    <string>uni0409</string>
+    <string>uni041B</string>
+  </array>
+  <key>public.kern2.Hookleft</key>
+  <array>
+    <string>uni0181</string>
+    <string>uni018A</string>
   </array>
   <key>public.kern2.S</key>
   <array>
@@ -331,10 +418,12 @@
   <key>public.kern2.T</key>
   <array>
     <string>T</string>
+    <string>Tau</string>
     <string>Tbar</string>
     <string>Tcaron</string>
     <string>uni0162</string>
     <string>uni021A</string>
+    <string>uni0422</string>
   </array>
   <key>public.kern2.W</key>
   <array>
@@ -354,7 +443,9 @@
     <string>Ycircumflex</string>
     <string>Ydieresis</string>
     <string>Ygrave</string>
+    <string>uni01B3</string>
     <string>uni0232</string>
+    <string>uni04AE</string>
     <string>uni1EF4</string>
     <string>uni1EF6</string>
     <string>uni1EF8</string>
