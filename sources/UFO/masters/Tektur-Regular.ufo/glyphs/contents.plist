@@ -1422,6 +1422,8 @@
   <string>uni040F_.glif</string>
   <key>uni0410</key>
   <string>uni0410.glif</string>
+  <key>uni0410.ss01</key>
+  <string>uni0410.ss01.glif</string>
   <key>uni0411</key>
   <string>uni0411.glif</string>
   <key>uni0412</key>
@@ -1734,14 +1736,20 @@
   <string>uni04C_F_.glif</string>
   <key>uni04D0</key>
   <string>uni04D_0.glif</string>
+  <key>uni04D0.ss01</key>
+  <string>uni04D_0.ss01.glif</string>
   <key>uni04D1</key>
   <string>uni04D_1.glif</string>
   <key>uni04D2</key>
   <string>uni04D_2.glif</string>
+  <key>uni04D2.ss01</key>
+  <string>uni04D_2.ss01.glif</string>
   <key>uni04D3</key>
   <string>uni04D_3.glif</string>
   <key>uni04D4</key>
   <string>uni04D_4.glif</string>
+  <key>uni04D4.ss01</key>
+  <string>uni04D_4.ss01.glif</string>
   <key>uni04D5</key>
   <string>uni04D_5.glif</string>
   <key>uni04D6</key>

@@ -23,6 +23,428 @@ languagesystem grek dflt;
 
 
 
+feature ccmp {
+  sub [i j iogonek]' @CombiningTopAccents by [dotlessi uni0237 iogonek.dotless];
+  sub [dotlessi uni0237 iogonek.dotless] [ acutecomb gravecomb ]' by [ acutecomb.i gravecomb.i ];
+} ccmp;
+
+
+
+
+
+
+
+
+
+
+
+
+feature locl {
+script latn;
+
+language CAT;
+lookup loclCAT {
+  sub L periodcentered' L by periodcentered.loclCAT.cap;
+  sub l periodcentered' l by periodcentered.loclCAT;
+} loclCAT;
+
+language NLD;
+sub iacute j' by jacute;
+sub Iacute J' by Jacute;
+
+
+script cyrl;
+language BGR;
+sub @loclBGR_0 by @loclBGR_1;
+
+} locl;
+
+
+
+
+
+
+
+
+
+
+
+
+feature calt {
+
+script grek;
+
+@grekAll = [ @grek_UC @grek_lc ] ;
+
+@whitespace = [ space uni2007 uni2008 uni2009 uni200A ];
+@dashes = [ hyphen figuredash endash emdash uni2015 ] ;
+@quoteHigh = [ quotesingle quotedbl quoteleft quotedblleft quoteright quotedblright ] ;
+@quoteLow = [ quotedblbase quotesinglbase ] ;
+@punctuation = [ @quoteHigh @quoteLow @dashes comma period semicolon colon uni037E exclam question ] ;
+@non_letter = [ @whitespace @punctuation];
+
+lookup grek_dialytikaInsertion {
+	script grek;
+	sub [Alphatonos Epsilontonos Omicrontonos Upsilontonos] Iota' by Iotadieresis;
+	sub [Alphatonos Epsilontonos Omicrontonos] Upsilon' by Upsilondieresis;
+} grek_dialytikaInsertion;
+
+lookup grek_tonosSuppression {
+# tonos supression of single-letter word
+  sub @grek_UC_tonos' @non_letter @non_letter @non_letter @non_letter @non_letter @grek_UC by @grek_UC_tonosless;
+  sub @grek_UC_tonos' @non_letter @non_letter @non_letter @non_letter @grek_UC by @grek_UC_tonosless;
+  sub @grek_UC_tonos' @non_letter @non_letter @non_letter @grek_UC by @grek_UC_tonosless;
+  sub @grek_UC_tonos' @non_letter @non_letter @grek_UC by @grek_UC_tonosless;
+  sub @grek_UC_tonos' @non_letter @grek_UC by @grek_UC_tonosless;
+  sub @grek_UC @non_letter @non_letter @non_letter @non_letter @non_letter @grek_UC_tonos' by @grek_UC_tonosless;
+  sub @grek_UC @non_letter @non_letter @non_letter @non_letter @grek_UC_tonos' by @grek_UC_tonosless;
+  sub @grek_UC @non_letter @non_letter @non_letter @grek_UC_tonos' by @grek_UC_tonosless;
+  sub @grek_UC @non_letter @non_letter @grek_UC_tonos' by @grek_UC_tonosless;
+  sub @grek_UC @non_letter @grek_UC_tonos' by @grek_UC_tonosless;
+  # tonos supression within a word
+  sub   @grek_UC @grek_UC_tonos' by @grek_UC_tonosless;
+  sub   @grek_UC_tonos' @grek_UC by @grek_UC_tonosless;
+} grek_tonosSuppression;
+
+lookup anoteleia {
+	ignore sub @grekAll periodcentered' @grekAll;
+	sub @grekAll periodcentered' by anoteleia;
+} anoteleia;
+
+} calt;
+
+
+
+
+feature liga {
+
+sub gamma gamma by gamma_gamma;
+sub lambda lambda by lambda_lambda;
+
+sub uni0457 uni0457 by uni0457_uni0457;
+
+script latn;
+language NLD;
+sub I J by I_J.loclNLD;
+sub Iacute J by Iacute_J.loclNLD;
+sub Iacute Jacute by Iacute_J.loclNLD;
+sub I acutecomb J by Iacute_J.loclNLD;
+
+} liga;
+
+
+
+
+
+
+
+feature dlig {
+
+  sub Omicron Upsilon by Omicron_Upsilon;
+
+} dlig;
+
+
+
+
+
+
+
+feature sups {
+# Superscript
+
+#> feature
+  sub eight by uni2078;
+  sub five by uni2075;
+  sub four by uni2074;
+  sub nine by uni2079;
+  sub one by onesuperior;
+  sub seven by uni2077;
+  sub six by uni2076;
+  sub three by threesuperior;
+  sub two by twosuperior;
+  sub zero by uni2070;
+#< feature
+} sups;
+
+
+
+
+
+
+
+
+
+
+
+
+feature subs {
+# Subscript
+
+#> feature
+  sub eight by uni2088;
+  sub five by uni2085;
+  sub four by uni2084;
+  sub nine by uni2089;
+  sub one by uni2081;
+  sub seven by uni2087;
+  sub six by uni2086;
+  sub three by uni2083;
+  sub two by uni2082;
+  sub zero by uni2080;
+#< feature
+} subs;
+
+
+
+
+
+
+
+
+
+
+
+
+feature tnum {
+# Tabular Figures
+
+#> feature
+  sub eight by eight.tnum;
+  sub five by five.tnum;
+  sub four by four.tnum;
+  sub nine by nine.tnum;
+  sub one by one.tnum;
+  sub seven by seven.tnum;
+  sub six by six.tnum;
+  sub three by three.tnum;
+  sub two by two.tnum;
+  sub zero by zero.tnum;
+#< feature
+} tnum;
+
+
+
+
+
+
+
+
+
+
+
+
+feature pnum {
+# Proportional Figures
+
+#> feature
+  sub eight.tnum by eight;
+  sub five.tnum by five;
+  sub four.tnum by four;
+  sub nine.tnum by nine;
+  sub one.tnum by one;
+  sub seven.tnum by seven;
+  sub six.tnum by six;
+  sub three.tnum by three;
+  sub two.tnum by two;
+  sub zero.tnum.zero by zero;
+#< feature
+} pnum;
+
+
+
+
+
+
+
+
+
+
+
+
+feature zero {
+  sub uni2070 by uni2070.zero;
+  sub uni2080 by uni2080.zero;
+  sub zero by zero.zero;
+  sub zero.tnum by zero.tnum.zero;
+} zero;
+
+
+
+
+
+
+
+
+
+
+
+feature ss01 {
+featureNames {
+	name "Round A";
+	name 1 "Round A";
+};
+
+#> feature
+  sub A by A.ss01;
+  sub AE by AE.ss01;
+  sub AEacute by AEacute.ss01;
+  sub Aacute by Aacute.ss01;
+  sub Abreve by Abreve.ss01;
+  sub Acircumflex by Acircumflex.ss01;
+  sub Adieresis by Adieresis.ss01;
+  sub Agrave by Agrave.ss01;
+  sub Amacron by Amacron.ss01;
+  sub Aogonek by Aogonek.ss01;
+  sub Aring by Aring.ss01;
+  sub Aringacute by Aringacute.ss01;
+  sub Atilde by Atilde.ss01;
+  sub uni01CD by uni01CD.ss01;
+  sub uni0200 by uni0200.ss01;
+  sub uni0202 by uni0202.ss01;
+  sub uni0410 by uni0410.ss01;
+  sub uni04D0 by uni04D0.ss01;
+  sub uni04D2 by uni04D2.ss01;
+  sub uni04D4 by uni04D4.ss01;
+  sub uni1EA0 by uni1EA0.ss01;
+  sub uni1EA2 by uni1EA2.ss01;
+  sub uni1EA4 by uni1EA4.ss01;
+  sub uni1EA6 by uni1EA6.ss01;
+  sub uni1EA8 by uni1EA8.ss01;
+  sub uni1EAA by uni1EAA.ss01;
+  sub uni1EAC by uni1EAC.ss01;
+  sub uni1EAE by uni1EAE.ss01;
+  sub uni1EB0 by uni1EB0.ss01;
+  sub uni1EB2 by uni1EB2.ss01;
+  sub uni1EB4 by uni1EB4.ss01;
+  sub uni1EB6 by uni1EB6.ss01;
+#< feature
+} ss01;
+
+
+
+
+
+
+
+
+
+
+
+feature ss02 {
+featureNames {
+	name "Seriffed C, G, S";
+	name 1 "Seriffed C, G, S";
+};
+
+#> feature
+  sub C by C.ss02;
+  sub Cacute by Cacute.ss02;
+  sub Ccaron by Ccaron.ss02;
+  sub Ccedilla by Ccedilla.ss02;
+  sub Ccircumflex by Ccircumflex.ss02;
+  sub Cdotaccent by Cdotaccent.ss02;
+  sub G by G.ss02;
+  sub Gbreve by Gbreve.ss02;
+  sub Gcaron by Gcaron.ss02;
+  sub Gcircumflex by Gcircumflex.ss02;
+  sub Gdotaccent by Gdotaccent.ss02;
+  sub S by S.ss02;
+  sub Sacute by Sacute.ss02;
+  sub Scaron by Scaron.ss02;
+  sub Scedilla by Scedilla.ss02;
+  sub Scircumflex by Scircumflex.ss02;
+  sub uni0122 by uni0122.ss02;
+  sub uni0186 by uni0186.ss02;
+  sub uni01F4 by uni01F4.ss02;
+  sub uni0218 by uni0218.ss02;
+  sub uni0405 by uni0405.ss02;
+  sub uni0421 by uni0421.ss02;
+  sub uni04AA by uni04AA.ss02;
+  sub uni1E60 by uni1E60.ss02;
+  sub uni1E62 by uni1E62.ss02;
+#< feature
+} ss02;
+
+
+
+
+feature ss03 {
+featureNames {
+	name "Round C, G, S";
+	name 1 "Round C, G, S";
+};
+
+#> feature
+  sub C by C.ss03;
+  sub Cacute by Cacute.ss03;
+  sub Ccaron by Ccaron.ss03;
+  sub Ccedilla by Ccedilla.ss03;
+  sub Ccircumflex by Ccircumflex.ss03;
+  sub Cdotaccent by Cdotaccent.ss03;
+  sub G by G.ss03;
+  sub Gbreve by Gbreve.ss03;
+  sub Gcaron by Gcaron.ss03;
+  sub Gcircumflex by Gcircumflex.ss03;
+  sub Gdotaccent by Gdotaccent.ss03;
+  sub S by S.ss03;
+  sub Sacute by Sacute.ss03;
+  sub Scaron by Scaron.ss03;
+  sub Scedilla by Scedilla.ss03;
+  sub Scircumflex by Scircumflex.ss03;
+  sub uni0122 by uni0122.ss03;
+  sub uni0186 by uni0186.ss03;
+  sub uni01F4 by uni01F4.ss03;
+  sub uni0218 by uni0218.ss03;
+  sub uni0405 by uni0405.ss03;
+  sub uni0421 by uni0421.ss03;
+  sub uni04AA by uni04AA.ss03;
+  sub uni1E60 by uni1E60.ss03;
+  sub uni1E62 by uni1E62.ss03;
+#< feature
+} ss03;
+
+
+
+
+feature ss04 {
+featureNames {
+	name "Wide M";
+	name 1 "Wide M";
+};
+#> feature
+  sub M by M.ss04;
+  sub Mu by Mu.ss04;
+  sub uni041C by uni041C.ss04;
+  sub uni1E3E by uni1E3E.ss04;
+  sub uni1E40 by uni1E40.ss04;
+#< feature
+} ss04;
+
+
+
+
+feature ss05 {
+featureNames {
+	name "Simple L";
+	name 1 "Simple L";
+};
+#> feature
+  sub L by L.ss05;
+  sub Lacute by Lacute.ss05;
+  sub Lcaron by Lcaron.ss05;
+  sub Ldot by Ldot.ss05;
+  sub Lslash by Lslash.ss05;
+  sub uni013B by uni013B.ss05;
+  sub uni01C7 by uni01C7.ss05;
+  sub uni01C8 by uni01C8.ss05;
+  sub uni1E36 by uni1E36.ss05;
+  sub uni1E3A by uni1E3A.ss05;
+#< feature
+} ss05;
+
+
+
 feature mark {
 #> feature
 # GPOS feature : Mark Positioning
@@ -1745,6 +2167,14 @@ feature mark {
           <anchor 820 0> mark @bottom;
       pos base uni01C8.ss05
           <anchor 625 -140> mark @bottom;
+      pos base uni0410.ss01
+          <anchor 330 0> mark @bottom;
+      pos base uni04D0.ss01
+          <anchor 330 0> mark @bottom;
+      pos base uni04D2.ss01
+          <anchor 330 0> mark @bottom;
+      pos base uni04D4.ss01
+          <anchor 450 0> mark @bottom;
       pos base uni04AA.ss02
           <anchor 320 0> mark @bottom;
       pos base uni04AA.ss03
@@ -2136,6 +2566,12 @@ feature mark {
           <anchor 485 0> mark @ogonek;
       pos base uni0446.loclBGR
           <anchor 485 0> mark @ogonek;
+      pos base uni0410.ss01
+          <anchor 560 0> mark @ogonek;
+      pos base uni04D0.ss01
+          <anchor 560 0> mark @ogonek;
+      pos base uni04D2.ss01
+          <anchor 560 0> mark @ogonek;
   } markLTR2;
 
   lookup markLTR3 {
@@ -3831,6 +4267,14 @@ feature mark {
           <anchor 810 700> mark @top;
       pos base uni01C8.ss05
           <anchor 625 710> mark @top;
+      pos base uni0410.ss01
+          <anchor 330 700> mark @top;
+      pos base uni04D0.ss01
+          <anchor 330 700> mark @top;
+      pos base uni04D2.ss01
+          <anchor 330 850> mark @top;
+      pos base uni04D4.ss01
+          <anchor 450 700> mark @top;
       pos base uni04AA.ss02
           <anchor 320 700> mark @top;
       pos base uni04AA.ss03
@@ -3842,17 +4286,6 @@ feature mark {
   lookup markLTR3;
 #< feature
 } mark;
-
-
-
-
-
-
-
-
-
-
-
 
 feature mkmk {
 #> feature
@@ -3916,430 +4349,3 @@ feature mkmk {
   lookup mkmkLTR;
 #< feature
 } mkmk;
-
-
-
-
-
-
-
-
-feature ccmp {
-  sub [i j iogonek]' @CombiningTopAccents by [dotlessi uni0237 iogonek.dotless];
-  sub [dotlessi uni0237 iogonek.dotless] [ acutecomb gravecomb ]' by [ acutecomb.i gravecomb.i ];
-} ccmp;
-
-
-
-
-
-
-
-
-
-
-
-
-feature locl {
-script latn;
-
-language CAT;
-lookup loclCAT {
-  sub L periodcentered' L by periodcentered.loclCAT.cap;
-  sub l periodcentered' l by periodcentered.loclCAT;
-} loclCAT;
-
-language NLD;
-sub iacute j' by jacute;
-sub Iacute J' by Jacute;
-
-
-script cyrl;
-language BGR;
-sub @loclBGR_0 by @loclBGR_1;
-
-} locl;
-
-
-
-
-
-
-
-
-
-
-
-
-feature calt {
-
-script grek;
-
-@grekAll = [ @grek_UC @grek_lc ] ;
-
-@whitespace = [ space uni2007 uni2008 uni2009 uni200A ];
-@dashes = [ hyphen figuredash endash emdash uni2015 ] ;
-@quoteHigh = [ quotesingle quotedbl quoteleft quotedblleft quoteright quotedblright ] ;
-@quoteLow = [ quotedblbase quotesinglbase ] ;
-@punctuation = [ @quoteHigh @quoteLow @dashes comma period semicolon colon uni037E exclam question ] ;
-@non_letter = [ @whitespace @punctuation];
-
-lookup grek_dialytikaInsertion {
-	script grek;
-	sub [Alphatonos Epsilontonos Omicrontonos Upsilontonos] Iota' by Iotadieresis;
-	sub [Alphatonos Epsilontonos Omicrontonos] Upsilon' by Upsilondieresis;
-} grek_dialytikaInsertion;
-
-lookup grek_tonosSuppression {
-# tonos supression of single-letter word
-  sub @grek_UC_tonos' @non_letter @non_letter @non_letter @non_letter @non_letter @grek_UC by @grek_UC_tonosless;
-  sub @grek_UC_tonos' @non_letter @non_letter @non_letter @non_letter @grek_UC by @grek_UC_tonosless;
-  sub @grek_UC_tonos' @non_letter @non_letter @non_letter @grek_UC by @grek_UC_tonosless;
-  sub @grek_UC_tonos' @non_letter @non_letter @grek_UC by @grek_UC_tonosless;
-  sub @grek_UC_tonos' @non_letter @grek_UC by @grek_UC_tonosless;
-  sub @grek_UC @non_letter @non_letter @non_letter @non_letter @non_letter @grek_UC_tonos' by @grek_UC_tonosless;
-  sub @grek_UC @non_letter @non_letter @non_letter @non_letter @grek_UC_tonos' by @grek_UC_tonosless;
-  sub @grek_UC @non_letter @non_letter @non_letter @grek_UC_tonos' by @grek_UC_tonosless;
-  sub @grek_UC @non_letter @non_letter @grek_UC_tonos' by @grek_UC_tonosless;
-  sub @grek_UC @non_letter @grek_UC_tonos' by @grek_UC_tonosless;
-  # tonos supression within a word
-  sub   @grek_UC @grek_UC_tonos' by @grek_UC_tonosless;
-  sub   @grek_UC_tonos' @grek_UC by @grek_UC_tonosless;
-} grek_tonosSuppression;
-
-lookup anoteleia {
-	ignore sub @grekAll periodcentered' @grekAll;
-	sub @grekAll periodcentered' by anoteleia;
-} anoteleia;
-
-} calt;
-
-
-
-
-feature liga {
-
-sub gamma gamma by gamma_gamma;
-sub lambda lambda by lambda_lambda;
-
-sub uni0457 uni0457 by uni0457_uni0457;
-
-script latn;
-language NLD;
-sub I J by I_J.loclNLD;
-sub Iacute J by Iacute_J.loclNLD;
-sub Iacute Jacute by Iacute_J.loclNLD;
-sub I acutecomb J by Iacute_J.loclNLD;
-
-} liga;
-
-
-
-
-
-
-
-feature dlig {
-
-  sub Omicron Upsilon by Omicron_Upsilon;
-
-} dlig;
-
-
-
-
-
-
-
-feature sups {
-# Superscript
-
-#> feature
-  sub eight by uni2078;
-  sub five by uni2075;
-  sub four by uni2074;
-  sub nine by uni2079;
-  sub one by onesuperior;
-  sub seven by uni2077;
-  sub six by uni2076;
-  sub three by threesuperior;
-  sub two by twosuperior;
-  sub zero by uni2070;
-#< feature
-} sups;
-
-
-
-
-
-
-
-
-
-
-
-
-feature subs {
-# Subscript
-
-#> feature
-  sub eight by uni2088;
-  sub five by uni2085;
-  sub four by uni2084;
-  sub nine by uni2089;
-  sub one by uni2081;
-  sub seven by uni2087;
-  sub six by uni2086;
-  sub three by uni2083;
-  sub two by uni2082;
-  sub zero by uni2080;
-#< feature
-} subs;
-
-
-
-
-
-
-
-
-
-
-
-
-feature tnum {
-# Tabular Figures
-
-#> feature
-  sub eight by eight.tnum;
-  sub five by five.tnum;
-  sub four by four.tnum;
-  sub nine by nine.tnum;
-  sub one by one.tnum;
-  sub seven by seven.tnum;
-  sub six by six.tnum;
-  sub three by three.tnum;
-  sub two by two.tnum;
-  sub zero by zero.tnum;
-#< feature
-} tnum;
-
-
-
-
-
-
-
-
-
-
-
-
-feature pnum {
-# Proportional Figures
-
-#> feature
-  sub eight.tnum by eight;
-  sub five.tnum by five;
-  sub four.tnum by four;
-  sub nine.tnum by nine;
-  sub one.tnum by one;
-  sub seven.tnum by seven;
-  sub six.tnum by six;
-  sub three.tnum by three;
-  sub two.tnum by two;
-  sub zero.tnum.zero by zero;
-#< feature
-} pnum;
-
-
-
-
-
-
-
-
-
-
-
-
-feature zero {
-  sub uni2070 by uni2070.zero;
-  sub uni2080 by uni2080.zero;
-  sub zero by zero.zero;
-  sub zero.tnum by zero.tnum.zero;
-} zero;
-
-
-
-
-
-
-
-
-
-
-
-feature ss01 {
-featureNames {
-	name "Round A";
-	name 1 "Round A";
-};
-
-#> feature
-  sub A by A.ss01;
-  sub AE by AE.ss01;
-  sub AEacute by AEacute.ss01;
-  sub Aacute by Aacute.ss01;
-  sub Abreve by Abreve.ss01;
-  sub Acircumflex by Acircumflex.ss01;
-  sub Adieresis by Adieresis.ss01;
-  sub Agrave by Agrave.ss01;
-  sub Amacron by Amacron.ss01;
-  sub Aogonek by Aogonek.ss01;
-  sub Aring by Aring.ss01;
-  sub Aringacute by Aringacute.ss01;
-  sub Atilde by Atilde.ss01;
-  sub uni01CD by uni01CD.ss01;
-  sub uni0200 by uni0200.ss01;
-  sub uni0202 by uni0202.ss01;
-  sub uni1EA0 by uni1EA0.ss01;
-  sub uni1EA2 by uni1EA2.ss01;
-  sub uni1EA4 by uni1EA4.ss01;
-  sub uni1EA6 by uni1EA6.ss01;
-  sub uni1EA8 by uni1EA8.ss01;
-  sub uni1EAA by uni1EAA.ss01;
-  sub uni1EAC by uni1EAC.ss01;
-  sub uni1EAE by uni1EAE.ss01;
-  sub uni1EB0 by uni1EB0.ss01;
-  sub uni1EB2 by uni1EB2.ss01;
-  sub uni1EB4 by uni1EB4.ss01;
-  sub uni1EB6 by uni1EB6.ss01;
-#< feature
-
-  sub uni0410 by A.ss01;
-} ss01;
-
-
-
-
-
-
-
-
-
-
-
-feature ss02 {
-featureNames {
-	name "Seriffed C, G, S";
-	name 1 "Seriffed C, G, S";
-};
-
-#> feature
-  sub C by C.ss02;
-  sub Cacute by Cacute.ss02;
-  sub Ccaron by Ccaron.ss02;
-  sub Ccedilla by Ccedilla.ss02;
-  sub Ccircumflex by Ccircumflex.ss02;
-  sub Cdotaccent by Cdotaccent.ss02;
-  sub G by G.ss02;
-  sub Gbreve by Gbreve.ss02;
-  sub Gcaron by Gcaron.ss02;
-  sub Gcircumflex by Gcircumflex.ss02;
-  sub Gdotaccent by Gdotaccent.ss02;
-  sub S by S.ss02;
-  sub Sacute by Sacute.ss02;
-  sub Scaron by Scaron.ss02;
-  sub Scedilla by Scedilla.ss02;
-  sub Scircumflex by Scircumflex.ss02;
-  sub uni0122 by uni0122.ss02;
-  sub uni0186 by uni0186.ss02;
-  sub uni01F4 by uni01F4.ss02;
-  sub uni0218 by uni0218.ss02;
-  sub uni0405 by uni0405.ss02;
-  sub uni0421 by uni0421.ss02;
-  sub uni04AA by uni04AA.ss02;
-  sub uni1E60 by uni1E60.ss02;
-  sub uni1E62 by uni1E62.ss02;
-#< feature
-} ss02;
-
-
-
-
-feature ss03 {
-featureNames {
-	name "Round C, G, S";
-	name 1 "Round C, G, S";
-};
-
-#> feature
-  sub C by C.ss03;
-  sub Cacute by Cacute.ss03;
-  sub Ccaron by Ccaron.ss03;
-  sub Ccedilla by Ccedilla.ss03;
-  sub Ccircumflex by Ccircumflex.ss03;
-  sub Cdotaccent by Cdotaccent.ss03;
-  sub G by G.ss03;
-  sub Gbreve by Gbreve.ss03;
-  sub Gcaron by Gcaron.ss03;
-  sub Gcircumflex by Gcircumflex.ss03;
-  sub Gdotaccent by Gdotaccent.ss03;
-  sub S by S.ss03;
-  sub Sacute by Sacute.ss03;
-  sub Scaron by Scaron.ss03;
-  sub Scedilla by Scedilla.ss03;
-  sub Scircumflex by Scircumflex.ss03;
-  sub uni0122 by uni0122.ss03;
-  sub uni0186 by uni0186.ss03;
-  sub uni01F4 by uni01F4.ss03;
-  sub uni0218 by uni0218.ss03;
-  sub uni0405 by uni0405.ss03;
-  sub uni0421 by uni0421.ss03;
-  sub uni04AA by uni04AA.ss03;
-  sub uni1E60 by uni1E60.ss03;
-  sub uni1E62 by uni1E62.ss03;
-#< feature
-} ss03;
-
-
-
-
-feature ss04 {
-featureNames {
-	name "Wide M";
-	name 1 "Wide M";
-};
-#> feature
-  sub M by M.ss04;
-  sub Mu by Mu.ss04;
-  sub uni041C by uni041C.ss04;
-  sub uni1E3E by uni1E3E.ss04;
-  sub uni1E40 by uni1E40.ss04;
-#< feature
-} ss04;
-
-
-
-
-feature ss05 {
-featureNames {
-	name "Simple L";
-	name 1 "Simple L";
-};
-#> feature
-  sub L by L.ss05;
-  sub Lacute by Lacute.ss05;
-  sub Lcaron by Lcaron.ss05;
-  sub Ldot by Ldot.ss05;
-  sub Lslash by Lslash.ss05;
-  sub uni013B by uni013B.ss05;
-  sub uni01C7 by uni01C7.ss05;
-  sub uni01C8 by uni01C8.ss05;
-  sub uni1E36 by uni1E36.ss05;
-  sub uni1E3A by uni1E3A.ss05;
-#< feature
-} ss05;
-
-
