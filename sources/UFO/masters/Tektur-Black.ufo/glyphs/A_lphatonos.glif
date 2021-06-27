@@ -2,9 +2,9 @@
 <glyph name="Alphatonos" format="2">
   <advance width="900"/>
   <unicode hex="0386"/>
-  <anchor x="450" y="-0" name="bottom"/>
+  <anchor x="500" y="0" name="bottom"/>
   <anchor x="700" y="0" name="ogonek"/>
-  <anchor x="450" y="700" name="top"/>
+  <anchor x="500" y="700" name="top"/>
   <outline>
     <component base="tonos"/>
     <component base="Alpha" xOffset="170"/>

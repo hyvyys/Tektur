@@ -486,7 +486,7 @@ feature mark {
       pos base uni020B
           <anchor 105 0> mark @bottom;
       pos base ij
-          <anchor 210 -140> mark @bottom;
+          <anchor 315 -140> mark @bottom;
       pos base uni0197
           <anchor 215 0> mark @bottom;
       pos base Jacute
@@ -534,7 +534,7 @@ feature mark {
       pos base Ldot
           <anchor 315 0> mark @bottom;
       pos base ldot
-          <anchor 140 0> mark @bottom;
+          <anchor 105 0> mark @bottom;
       pos base uni1E3E
           <anchor 390 0> mark @bottom;
       pos base uni1E3F
@@ -1090,13 +1090,13 @@ feature mark {
       pos base uni01C8
           <anchor 705 -140> mark @bottom;
       pos base uni01C9
-          <anchor 210 -140> mark @bottom;
+          <anchor 315 -140> mark @bottom;
       pos base uni01CA
-          <anchor 640 0> mark @bottom;
+          <anchor 970 0> mark @bottom;
       pos base uni01CB
-          <anchor 445 -140> mark @bottom;
+          <anchor 785 -140> mark @bottom;
       pos base uni01CC
-          <anchor 415 -140> mark @bottom;
+          <anchor 725 -140> mark @bottom;
       pos base zero
           <anchor 325 0> mark @bottom;
       pos base uni2070
@@ -1112,7 +1112,7 @@ feature mark {
       pos base product
           <anchor 325 0> mark @bottom;
       pos base uni2116
-          <anchor 590 0> mark @bottom;
+          <anchor 340 0> mark @bottom;
       pos base uni20AE
           <anchor 280 0> mark @bottom;
       pos base uni20B4
@@ -1172,13 +1172,13 @@ feature mark {
       pos base Epsilontonos
           <anchor 505 0> mark @bottom;
       pos base Etatonos
-          <anchor 435 0> mark @bottom;
+          <anchor 535 0> mark @bottom;
       pos base Iotatonos
-          <anchor 315 0> mark @bottom;
+          <anchor 415 0> mark @bottom;
       pos base Iotadieresis
           <anchor 215 0> mark @bottom;
       pos base Omicrontonos
-          <anchor 440 0> mark @bottom;
+          <anchor 510 0> mark @bottom;
       pos base Upsilontonos
           <anchor 520 0> mark @bottom;
       pos base Upsilondieresis
@@ -1745,6 +1745,10 @@ feature mark {
           <anchor 820 0> mark @bottom;
       pos base uni01C8.ss05
           <anchor 625 -140> mark @bottom;
+      pos base uni04AA.ss02
+          <anchor 320 0> mark @bottom;
+      pos base uni04AA.ss03
+          <anchor 330 0> mark @bottom;
   } markLTR1;
 
   lookup markLTR2 {
@@ -2554,7 +2558,7 @@ feature mark {
       pos base uni020B
           <anchor 105 560> mark @top;
       pos base ij
-          <anchor 210 710> mark @top;
+          <anchor 315 710> mark @top;
       pos base uni0197
           <anchor 215 700> mark @top;
       pos base Jacute
@@ -2602,7 +2606,7 @@ feature mark {
       pos base Ldot
           <anchor 190 700> mark @top;
       pos base ldot
-          <anchor 140 700> mark @top;
+          <anchor 105 700> mark @top;
       pos base uni1E3E
           <anchor 390 700> mark @top;
       pos base uni1E3F
@@ -3158,13 +3162,13 @@ feature mark {
       pos base uni01C8
           <anchor 705 710> mark @top;
       pos base uni01C9
-          <anchor 210 710> mark @top;
+          <anchor 315 710> mark @top;
       pos base uni01CA
-          <anchor 640 700> mark @top;
+          <anchor 970 700> mark @top;
       pos base uni01CB
-          <anchor 445 710> mark @top;
+          <anchor 785 710> mark @top;
       pos base uni01CC
-          <anchor 415 710> mark @top;
+          <anchor 725 710> mark @top;
       pos base zero
           <anchor 325 700> mark @top;
       pos base uni2070
@@ -3180,7 +3184,7 @@ feature mark {
       pos base product
           <anchor 325 700> mark @top;
       pos base uni2116
-          <anchor 590 700> mark @top;
+          <anchor 340 700> mark @top;
       pos base uni20AE
           <anchor 280 700> mark @top;
       pos base uni20B4
@@ -3252,13 +3256,13 @@ feature mark {
       pos base Epsilontonos
           <anchor 505 700> mark @top;
       pos base Etatonos
-          <anchor 435 700> mark @top;
+          <anchor 535 700> mark @top;
       pos base Iotatonos
-          <anchor 315 700> mark @top;
+          <anchor 415 700> mark @top;
       pos base Iotadieresis
           <anchor 215 850> mark @top;
       pos base Omicrontonos
-          <anchor 440 700> mark @top;
+          <anchor 510 700> mark @top;
       pos base Upsilontonos
           <anchor 520 700> mark @top;
       pos base Upsilondieresis
@@ -3827,6 +3831,10 @@ feature mark {
           <anchor 810 700> mark @top;
       pos base uni01C8.ss05
           <anchor 625 710> mark @top;
+      pos base uni04AA.ss02
+          <anchor 320 700> mark @top;
+      pos base uni04AA.ss03
+          <anchor 330 700> mark @top;
   } markLTR3;
 
   lookup markLTR1;
@@ -4208,6 +4216,8 @@ featureNames {
   sub uni1EB4 by uni1EB4.ss01;
   sub uni1EB6 by uni1EB6.ss01;
 #< feature
+
+  sub uni0410 by A.ss01;
 } ss01;
 
 
@@ -4249,6 +4259,7 @@ featureNames {
   sub uni0218 by uni0218.ss02;
   sub uni0405 by uni0405.ss02;
   sub uni0421 by uni0421.ss02;
+  sub uni04AA by uni04AA.ss02;
   sub uni1E60 by uni1E60.ss02;
   sub uni1E62 by uni1E62.ss02;
 #< feature
@@ -4286,6 +4297,7 @@ featureNames {
   sub uni0218 by uni0218.ss03;
   sub uni0405 by uni0405.ss03;
   sub uni0421 by uni0421.ss03;
+  sub uni04AA by uni04AA.ss03;
   sub uni1E60 by uni1E60.ss03;
   sub uni1E62 by uni1E62.ss03;
 #< feature

@@ -1178,7 +1178,7 @@ feature mark {
       pos base Iotadieresis
           <anchor 125 0> mark @bottom;
       pos base Omicrontonos
-          <anchor 330 0> mark @bottom;
+          <anchor 270 0> mark @bottom;
       pos base Upsilontonos
           <anchor 270 0> mark @bottom;
       pos base Upsilondieresis
@@ -1745,6 +1745,10 @@ feature mark {
           <anchor 445 0> mark @bottom;
       pos base uni01C8.ss05
           <anchor 365 -140> mark @bottom;
+      pos base uni04AA.ss02
+          <anchor 180 0> mark @bottom;
+      pos base uni04AA.ss03
+          <anchor 180 0> mark @bottom;
   } markLTR1;
 
   lookup markLTR2 {
@@ -3258,7 +3262,7 @@ feature mark {
       pos base Iotadieresis
           <anchor 125 850> mark @top;
       pos base Omicrontonos
-          <anchor 330 700> mark @top;
+          <anchor 270 700> mark @top;
       pos base Upsilontonos
           <anchor 270 700> mark @top;
       pos base Upsilondieresis
@@ -3827,6 +3831,10 @@ feature mark {
           <anchor 445 700> mark @top;
       pos base uni01C8.ss05
           <anchor 365 710> mark @top;
+      pos base uni04AA.ss02
+          <anchor 180 700> mark @top;
+      pos base uni04AA.ss03
+          <anchor 180 700> mark @top;
   } markLTR3;
 
   lookup markLTR1;
@@ -4208,6 +4216,8 @@ featureNames {
   sub uni1EB4 by uni1EB4.ss01;
   sub uni1EB6 by uni1EB6.ss01;
 #< feature
+
+  sub uni0410 by A.ss01;
 } ss01;
 
 
@@ -4249,6 +4259,7 @@ featureNames {
   sub uni0218 by uni0218.ss02;
   sub uni0405 by uni0405.ss02;
   sub uni0421 by uni0421.ss02;
+  sub uni04AA by uni04AA.ss02;
   sub uni1E60 by uni1E60.ss02;
   sub uni1E62 by uni1E62.ss02;
 #< feature
@@ -4286,6 +4297,7 @@ featureNames {
   sub uni0218 by uni0218.ss03;
   sub uni0405 by uni0405.ss03;
   sub uni0421 by uni0421.ss03;
+  sub uni04AA by uni04AA.ss03;
   sub uni1E60 by uni1E60.ss03;
   sub uni1E62 by uni1E62.ss03;
 #< feature

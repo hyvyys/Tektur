@@ -1090,13 +1090,13 @@ feature mark {
       pos base uni01C8
           <anchor 715 -140> mark @bottom;
       pos base uni01C9
-          <anchor 300 -140> mark @bottom;
+          <anchor 450 -140> mark @bottom;
       pos base uni01CA
-          <anchor 640 0> mark @bottom;
+          <anchor 980 0> mark @bottom;
       pos base uni01CB
-          <anchor 490 -140> mark @bottom;
+          <anchor 830 -140> mark @bottom;
       pos base uni01CC
-          <anchor 460 -140> mark @bottom;
+          <anchor 770 -140> mark @bottom;
       pos base zero
           <anchor 325 0> mark @bottom;
       pos base uni2070
@@ -1112,7 +1112,7 @@ feature mark {
       pos base product
           <anchor 335 0> mark @bottom;
       pos base uni2116
-          <anchor 600 0> mark @bottom;
+          <anchor 340 0> mark @bottom;
       pos base uni20AE
           <anchor 280 0> mark @bottom;
       pos base uni20B4
@@ -1168,19 +1168,19 @@ feature mark {
       pos base Psi
           <anchor 435 0> mark @bottom;
       pos base Alphatonos
-          <anchor 450 0> mark @bottom;
+          <anchor 500 0> mark @bottom;
       pos base Epsilontonos
           <anchor 535 0> mark @bottom;
       pos base Etatonos
-          <anchor 445 0> mark @bottom;
+          <anchor 565 0> mark @bottom;
       pos base Iotatonos
-          <anchor 335 0> mark @bottom;
+          <anchor 455 0> mark @bottom;
       pos base Iotadieresis
           <anchor 215 0> mark @bottom;
       pos base Omicrontonos
           <anchor 550 0> mark @bottom;
       pos base Upsilontonos
-          <anchor 440 0> mark @bottom;
+          <anchor 560 0> mark @bottom;
       pos base Upsilondieresis
           <anchor 320 0> mark @bottom;
       pos base alpha
@@ -1745,6 +1745,10 @@ feature mark {
           <anchor 845 0> mark @bottom;
       pos base uni01C8.ss05
           <anchor 695 -140> mark @bottom;
+      pos base uni04AA.ss02
+          <anchor 375 0> mark @bottom;
+      pos base uni04AA.ss03
+          <anchor 325 0> mark @bottom;
   } markLTR1;
 
   lookup markLTR2 {
@@ -3158,13 +3162,13 @@ feature mark {
       pos base uni01C8
           <anchor 715 730> mark @top;
       pos base uni01C9
-          <anchor 300 730> mark @top;
+          <anchor 450 730> mark @top;
       pos base uni01CA
-          <anchor 640 700> mark @top;
+          <anchor 980 700> mark @top;
       pos base uni01CB
-          <anchor 490 730> mark @top;
+          <anchor 830 730> mark @top;
       pos base uni01CC
-          <anchor 460 730> mark @top;
+          <anchor 770 730> mark @top;
       pos base zero
           <anchor 325 700> mark @top;
       pos base uni2070
@@ -3180,7 +3184,7 @@ feature mark {
       pos base product
           <anchor 335 700> mark @top;
       pos base uni2116
-          <anchor 600 700> mark @top;
+          <anchor 340 700> mark @top;
       pos base uni20AE
           <anchor 280 700> mark @top;
       pos base uni20B4
@@ -3248,19 +3252,19 @@ feature mark {
       pos base Psi
           <anchor 435 700> mark @top;
       pos base Alphatonos
-          <anchor 450 700> mark @top;
+          <anchor 500 700> mark @top;
       pos base Epsilontonos
           <anchor 535 700> mark @top;
       pos base Etatonos
-          <anchor 445 700> mark @top;
+          <anchor 565 700> mark @top;
       pos base Iotatonos
-          <anchor 335 700> mark @top;
+          <anchor 455 700> mark @top;
       pos base Iotadieresis
           <anchor 215 870> mark @top;
       pos base Omicrontonos
           <anchor 550 700> mark @top;
       pos base Upsilontonos
-          <anchor 440 700> mark @top;
+          <anchor 560 700> mark @top;
       pos base Upsilondieresis
           <anchor 320 870> mark @top;
       pos base alpha
@@ -3827,6 +3831,10 @@ feature mark {
           <anchor 845 700> mark @top;
       pos base uni01C8.ss05
           <anchor 695 730> mark @top;
+      pos base uni04AA.ss02
+          <anchor 375 700> mark @top;
+      pos base uni04AA.ss03
+          <anchor 325 700> mark @top;
   } markLTR3;
 
   lookup markLTR1;
@@ -4208,6 +4216,8 @@ featureNames {
   sub uni1EB4 by uni1EB4.ss01;
   sub uni1EB6 by uni1EB6.ss01;
 #< feature
+
+  sub uni0410 by A.ss01;
 } ss01;
 
 
@@ -4249,6 +4259,7 @@ featureNames {
   sub uni0218 by uni0218.ss02;
   sub uni0405 by uni0405.ss02;
   sub uni0421 by uni0421.ss02;
+  sub uni04AA by uni04AA.ss02;
   sub uni1E60 by uni1E60.ss02;
   sub uni1E62 by uni1E62.ss02;
 #< feature
@@ -4286,6 +4297,7 @@ featureNames {
   sub uni0218 by uni0218.ss03;
   sub uni0405 by uni0405.ss03;
   sub uni0421 by uni0421.ss03;
+  sub uni04AA by uni04AA.ss03;
   sub uni1E60 by uni1E60.ss03;
   sub uni1E62 by uni1E62.ss03;
 #< feature
