@@ -79,52 +79,36 @@
 		<string>y</string>
 		<string>z</string>
 		<string>Aacute</string>
-		<string>Aacute.ss01</string>
 		<string>aacute</string>
 		<string>Agrave</string>
-		<string>Agrave.ss01</string>
 		<string>agrave</string>
 		<string>Abreve</string>
-		<string>Abreve.ss01</string>
-		<string>uni01CD.ss01</string>
 		<string>abreve</string>
 		<string>Acircumflex</string>
-		<string>Acircumflex.ss01</string>
 		<string>acircumflex</string>
 		<string>uni01CD</string>
 		<string>uni01CE</string>
 		<string>Aring</string>
-		<string>Aring.ss01</string>
 		<string>aring</string>
 		<string>Aringacute</string>
-		<string>Aringacute.ss01</string>
 		<string>aringacute</string>
 		<string>Adieresis</string>
-		<string>Adieresis.ss01</string>
 		<string>adieresis</string>
 		<string>uni01DE</string>
-		<string>uni01DE.1</string>
 		<string>uni01DF</string>
 		<string>Atilde</string>
-		<string>Atilde.ss01</string>
 		<string>atilde</string>
 		<string>Aogonek</string>
-		<string>Aogonek.ss01</string>
 		<string>aogonek</string>
 		<string>Amacron</string>
-		<string>Amacron.ss01</string>
 		<string>amacron</string>
 		<string>uni0200</string>
-		<string>uni0200.ss01</string>
 		<string>uni0201</string>
 		<string>uni0202</string>
-		<string>uni0202.ss01</string>
 		<string>uni0203</string>
 		<string>AE</string>
-		<string>AE.ss01</string>
 		<string>ae</string>
 		<string>AEacute</string>
-		<string>AEacute.ss01</string>
 		<string>aeacute</string>
 		<string>uni1E02</string>
 		<string>uni1E03</string>
@@ -458,40 +442,28 @@
 		<string>uni01C2</string>
 		<string>uni01C3</string>
 		<string>uni1EA0</string>
-		<string>uni1EA0.ss01</string>
 		<string>uni1EA1</string>
 		<string>uni1EA2</string>
-		<string>uni1EA2.ss01</string>
 		<string>uni1EA3</string>
 		<string>uni1EA4</string>
-		<string>uni1EA4.ss01</string>
 		<string>uni1EA5</string>
 		<string>uni1EA6</string>
-		<string>uni1EA6.ss01</string>
 		<string>uni1EA7</string>
 		<string>uni1EA8</string>
-		<string>uni1EA8.ss01</string>
 		<string>uni1EA9</string>
 		<string>uni1EAA</string>
-		<string>uni1EAA.ss01</string>
 		<string>uni1EAB</string>
 		<string>uni1EAC</string>
-		<string>uni1EAC.ss01</string>
 		<string>uni1EAD</string>
 		<string>uni1EAE</string>
-		<string>uni1EAE.ss01</string>
 		<string>uni1EAF</string>
 		<string>uni1EB0</string>
-		<string>uni1EB0.ss01</string>
 		<string>uni1EB1</string>
 		<string>uni1EB2</string>
-		<string>uni1EB2.ss01</string>
 		<string>uni1EB3</string>
 		<string>uni1EB4</string>
-		<string>uni1EB4.ss01</string>
 		<string>uni1EB5</string>
 		<string>uni1EB6</string>
-		<string>uni1EB6.ss01</string>
 		<string>uni1EB7</string>
 		<string>uni1EB8</string>
 		<string>uni1EB9</string>
@@ -861,6 +833,7 @@
 		<string>omegatonos</string>
 		<string>uni03CF</string>
 		<string>uni03D7</string>
+		<string>phi1</string>
 		<string>gamma_gamma</string>
 		<string>lambda_lambda</string>
 		<string>Omicron_Upsilon</string>
@@ -1077,6 +1050,38 @@
 		<string>uni044E.loclBGR</string>
 		<string>uni0306.cy</string>
 		<string>uni0457_uni0457</string>
+		<string>Aacute.ss01</string>
+		<string>Agrave.ss01</string>
+		<string>Abreve.ss01</string>
+		<string>Acircumflex.ss01</string>
+		<string>uni01CD.ss01</string>
+		<string>Aring.ss01</string>
+		<string>Aringacute.ss01</string>
+		<string>Adieresis.ss01</string>
+		<string>uni01DE.ss01</string>
+		<string>Atilde.ss01</string>
+		<string>Aogonek.ss01</string>
+		<string>Amacron.ss01</string>
+		<string>uni0200.ss01</string>
+		<string>uni0202.ss01</string>
+		<string>AE.ss01</string>
+		<string>AEacute.ss01</string>
+		<string>uni1EA0.ss01</string>
+		<string>uni1EA2.ss01</string>
+		<string>uni1EA4.ss01</string>
+		<string>uni1EA6.ss01</string>
+		<string>uni1EA8.ss01</string>
+		<string>uni1EAA.ss01</string>
+		<string>uni1EAC.ss01</string>
+		<string>uni1EAE.ss01</string>
+		<string>uni1EB0.ss01</string>
+		<string>uni1EB2.ss01</string>
+		<string>uni1EB4.ss01</string>
+		<string>uni1EB6.ss01</string>
+		<string>uni0410.ss01</string>
+		<string>uni04D0.ss01</string>
+		<string>uni04D2.ss01</string>
+		<string>uni04D4.ss01</string>
 		<string>Cacute.ss02</string>
 		<string>Ccircumflex.ss02</string>
 		<string>Ccaron.ss02</string>
@@ -1097,6 +1102,7 @@
 		<string>uni1E62.ss02</string>
 		<string>uni0218.ss02</string>
 		<string>uni0421.ss02</string>
+		<string>uni04AA.ss02</string>
 		<string>uni0405.ss02</string>
 		<string>Cacute.ss03</string>
 		<string>Ccircumflex.ss03</string>
@@ -1118,6 +1124,7 @@
 		<string>uni1E62.ss03</string>
 		<string>uni0218.ss03</string>
 		<string>uni0421.ss03</string>
+		<string>uni04AA.ss03</string>
 		<string>uni0405.ss03</string>
 		<string>uni1E3E.ss04</string>
 		<string>uni1E40.ss04</string>
@@ -1132,12 +1139,9 @@
 		<string>Ldot.ss05</string>
 		<string>uni01C7.ss05</string>
 		<string>uni01C8.ss05</string>
-		<string>uni0410.ss01</string>
-		<string>uni04D0.ss01</string>
-		<string>uni04D2.ss01</string>
-		<string>uni04D4.ss01</string>
-		<string>uni04AA.ss02</string>
-		<string>uni04AA.ss03</string>
+		<string>eta.ss06</string>
+		<string>etatonos.ss06</string>
+		<string>chi.ss06</string>
 	</array>
 </dict>
 </plist>

@@ -300,6 +300,7 @@ featureNames {
   sub Aringacute by Aringacute.ss01;
   sub Atilde by Atilde.ss01;
   sub uni01CD by uni01CD.ss01;
+  sub uni01DE by uni01DE.ss01;
   sub uni0200 by uni0200.ss01;
   sub uni0202 by uni0202.ss01;
   sub uni0410 by uni0410.ss01;
@@ -445,7 +446,21 @@ featureNames {
 
 
 
+feature ss06 {
+featureNames {
+	name "Descending eta chi";
+	name 1 "Descending eta chi";
+};
+
+#> feature
+  sub chi by chi.ss06;
+  sub eta by eta.ss06;
+  sub etatonos by etatonos.ss06;
+#< feature
+} ss06;
+
 feature mark {
+#> feature
 # GPOS feature : Mark Positioning
     markClass gravecomb <anchor 0 560> @top;
     markClass acutecomb <anchor 0 560> @top;
@@ -523,7 +538,7 @@ feature mark {
       pos base L
           <anchor 165 0> mark @bottom;
       pos base L.ss05
-          <anchor 165 0> mark @bottom;
+          <anchor 145 0> mark @bottom;
       pos base M
           <anchor 200 0> mark @bottom;
       pos base M.ss04
@@ -612,28 +627,18 @@ feature mark {
           <anchor 125 0> mark @bottom;
       pos base Aacute
           <anchor 170 0> mark @bottom;
-      pos base Aacute.ss01
-          <anchor 180 0> mark @bottom;
       pos base aacute
           <anchor 155 0> mark @bottom;
       pos base Agrave
           <anchor 170 0> mark @bottom;
-      pos base Agrave.ss01
-          <anchor 180 0> mark @bottom;
       pos base agrave
           <anchor 155 0> mark @bottom;
       pos base Abreve
           <anchor 170 0> mark @bottom;
-      pos base Abreve.ss01
-          <anchor 180 0> mark @bottom;
-      pos base uni01CD.ss01
-          <anchor 180 0> mark @bottom;
       pos base abreve
           <anchor 155 0> mark @bottom;
       pos base Acircumflex
           <anchor 170 0> mark @bottom;
-      pos base Acircumflex.ss01
-          <anchor 180 0> mark @bottom;
       pos base acircumflex
           <anchor 155 0> mark @bottom;
       pos base uni01CD
@@ -642,67 +647,45 @@ feature mark {
           <anchor 155 0> mark @bottom;
       pos base Aring
           <anchor 170 0> mark @bottom;
-      pos base Aring.ss01
-          <anchor 180 0> mark @bottom;
       pos base aring
           <anchor 155 0> mark @bottom;
       pos base Aringacute
           <anchor 170 0> mark @bottom;
-      pos base Aringacute.ss01
-          <anchor 180 0> mark @bottom;
       pos base aringacute
           <anchor 155 0> mark @bottom;
       pos base Adieresis
           <anchor 170 0> mark @bottom;
-      pos base Adieresis.ss01
-          <anchor 180 0> mark @bottom;
       pos base adieresis
           <anchor 155 0> mark @bottom;
       pos base uni01DE
           <anchor 170 0> mark @bottom;
-      pos base uni01DE.1
-          <anchor 180 0> mark @bottom;
       pos base uni01DF
           <anchor 155 0> mark @bottom;
       pos base Atilde
           <anchor 170 0> mark @bottom;
-      pos base Atilde.ss01
-          <anchor 180 0> mark @bottom;
       pos base atilde
           <anchor 155 0> mark @bottom;
       pos base Aogonek
           <anchor 170 0> mark @bottom;
-      pos base Aogonek.ss01
-          <anchor 180 0> mark @bottom;
       pos base aogonek
           <anchor 155 0> mark @bottom;
       pos base Amacron
           <anchor 170 0> mark @bottom;
-      pos base Amacron.ss01
-          <anchor 180 0> mark @bottom;
       pos base amacron
           <anchor 155 0> mark @bottom;
       pos base uni0200
           <anchor 170 0> mark @bottom;
-      pos base uni0200.ss01
-          <anchor 180 0> mark @bottom;
       pos base uni0201
           <anchor 155 0> mark @bottom;
       pos base uni0202
           <anchor 170 0> mark @bottom;
-      pos base uni0202.ss01
-          <anchor 180 0> mark @bottom;
       pos base uni0203
           <anchor 155 0> mark @bottom;
       pos base AE
           <anchor 202 0> mark @bottom;
-      pos base AE.ss01
-          <anchor 202 0> mark @bottom;
       pos base ae
           <anchor 247 0> mark @bottom;
       pos base AEacute
-          <anchor 202 0> mark @bottom;
-      pos base AEacute.ss01
           <anchor 202 0> mark @bottom;
       pos base aeacute
           <anchor 247 0> mark @bottom;
@@ -907,7 +890,7 @@ feature mark {
       pos base uni020B
           <anchor 85 0> mark @bottom;
       pos base ij
-          <anchor 170 -140> mark @bottom;
+          <anchor 255 -140> mark @bottom;
       pos base uni0197
           <anchor 125 0> mark @bottom;
       pos base Jacute
@@ -955,7 +938,7 @@ feature mark {
       pos base Ldot
           <anchor 165 0> mark @bottom;
       pos base ldot
-          <anchor 110 0> mark @bottom;
+          <anchor 85 0> mark @bottom;
       pos base uni1E3E
           <anchor 200 0> mark @bottom;
       pos base uni1E3F
@@ -1298,74 +1281,50 @@ feature mark {
           <anchor 150 -140> mark @bottom;
       pos base uni1EA0
           <anchor 170 0> mark @bottom;
-      pos base uni1EA0.ss01
-          <anchor 180 0> mark @bottom;
       pos base uni1EA1
           <anchor 155 0> mark @bottom;
       pos base uni1EA2
           <anchor 170 0> mark @bottom;
-      pos base uni1EA2.ss01
-          <anchor 180 0> mark @bottom;
       pos base uni1EA3
           <anchor 155 0> mark @bottom;
       pos base uni1EA4
           <anchor 170 0> mark @bottom;
-      pos base uni1EA4.ss01
-          <anchor 180 0> mark @bottom;
       pos base uni1EA5
           <anchor 155 0> mark @bottom;
       pos base uni1EA6
           <anchor 170 0> mark @bottom;
-      pos base uni1EA6.ss01
-          <anchor 180 0> mark @bottom;
       pos base uni1EA7
           <anchor 155 0> mark @bottom;
       pos base uni1EA8
           <anchor 170 0> mark @bottom;
-      pos base uni1EA8.ss01
-          <anchor 180 0> mark @bottom;
       pos base uni1EA9
           <anchor 155 0> mark @bottom;
       pos base uni1EAA
           <anchor 170 0> mark @bottom;
-      pos base uni1EAA.ss01
-          <anchor 180 0> mark @bottom;
       pos base uni1EAB
           <anchor 155 0> mark @bottom;
       pos base uni1EAC
           <anchor 170 0> mark @bottom;
-      pos base uni1EAC.ss01
-          <anchor 180 0> mark @bottom;
       pos base uni1EAD
           <anchor 155 0> mark @bottom;
       pos base uni1EAE
           <anchor 170 0> mark @bottom;
-      pos base uni1EAE.ss01
-          <anchor 180 0> mark @bottom;
       pos base uni1EAF
           <anchor 155 0> mark @bottom;
       pos base uni1EB0
           <anchor 170 0> mark @bottom;
-      pos base uni1EB0.ss01
-          <anchor 180 0> mark @bottom;
       pos base uni1EB1
           <anchor 155 0> mark @bottom;
       pos base uni1EB2
           <anchor 170 0> mark @bottom;
-      pos base uni1EB2.ss01
-          <anchor 180 0> mark @bottom;
       pos base uni1EB3
           <anchor 155 0> mark @bottom;
       pos base uni1EB4
           <anchor 170 0> mark @bottom;
-      pos base uni1EB4.ss01
-          <anchor 180 0> mark @bottom;
       pos base uni1EB5
           <anchor 155 0> mark @bottom;
       pos base uni1EB6
           <anchor 170 0> mark @bottom;
-      pos base uni1EB6.ss01
-          <anchor 180 0> mark @bottom;
       pos base uni1EB7
           <anchor 155 0> mark @bottom;
       pos base uni1EB8
@@ -1511,13 +1470,13 @@ feature mark {
       pos base uni01C8
           <anchor 395 -140> mark @bottom;
       pos base uni01C9
-          <anchor 170 -140> mark @bottom;
+          <anchor 255 -140> mark @bottom;
       pos base uni01CA
-          <anchor 355 0> mark @bottom;
+          <anchor 545 0> mark @bottom;
       pos base uni01CB
-          <anchor 275 -140> mark @bottom;
+          <anchor 465 -140> mark @bottom;
       pos base uni01CC
-          <anchor 260 -140> mark @bottom;
+          <anchor 435 -140> mark @bottom;
       pos base zero
           <anchor 180 0> mark @bottom;
       pos base uni2070
@@ -1533,7 +1492,7 @@ feature mark {
       pos base product
           <anchor 180 0> mark @bottom;
       pos base uni2116
-          <anchor 360 0> mark @bottom;
+          <anchor 190 0> mark @bottom;
       pos base uni20AE
           <anchor 140 0> mark @bottom;
       pos base uni20B4
@@ -1589,19 +1548,19 @@ feature mark {
       pos base Psi
           <anchor 255 0> mark @bottom;
       pos base Alphatonos
-          <anchor 260 0> mark @bottom;
+          <anchor 300 0> mark @bottom;
       pos base Epsilontonos
           <anchor 320 0> mark @bottom;
       pos base Etatonos
-          <anchor 270 0> mark @bottom;
+          <anchor 360 0> mark @bottom;
       pos base Iotatonos
-          <anchor 215 0> mark @bottom;
+          <anchor 305 0> mark @bottom;
       pos base Iotadieresis
           <anchor 125 0> mark @bottom;
       pos base Omicrontonos
-          <anchor 270 0> mark @bottom;
+          <anchor 330 0> mark @bottom;
       pos base Upsilontonos
-          <anchor 270 0> mark @bottom;
+          <anchor 360 0> mark @bottom;
       pos base Upsilondieresis
           <anchor 180 0> mark @bottom;
       pos base alpha
@@ -1993,7 +1952,7 @@ feature mark {
       pos base uni04F8
           <anchor 260 0> mark @bottom;
       pos base uni04F9
-          <anchor 257 0> mark @bottom;
+          <anchor 258 0> mark @bottom;
       pos base uni0462
           <anchor 180 0> mark @bottom;
       pos base uni0463
@@ -2056,6 +2015,70 @@ feature mark {
           <anchor 160 0> mark @bottom;
       pos base uni044E.loclBGR
           <anchor 255 0> mark @bottom;
+      pos base Aacute.ss01
+          <anchor 180 0> mark @bottom;
+      pos base Agrave.ss01
+          <anchor 180 0> mark @bottom;
+      pos base Abreve.ss01
+          <anchor 180 0> mark @bottom;
+      pos base Acircumflex.ss01
+          <anchor 180 0> mark @bottom;
+      pos base uni01CD.ss01
+          <anchor 180 0> mark @bottom;
+      pos base Aring.ss01
+          <anchor 180 0> mark @bottom;
+      pos base Aringacute.ss01
+          <anchor 180 0> mark @bottom;
+      pos base Adieresis.ss01
+          <anchor 180 0> mark @bottom;
+      pos base uni01DE.ss01
+          <anchor 180 0> mark @bottom;
+      pos base Atilde.ss01
+          <anchor 180 0> mark @bottom;
+      pos base Aogonek.ss01
+          <anchor 180 0> mark @bottom;
+      pos base Amacron.ss01
+          <anchor 180 0> mark @bottom;
+      pos base uni0200.ss01
+          <anchor 180 0> mark @bottom;
+      pos base uni0202.ss01
+          <anchor 180 0> mark @bottom;
+      pos base AE.ss01
+          <anchor 202 0> mark @bottom;
+      pos base AEacute.ss01
+          <anchor 202 0> mark @bottom;
+      pos base uni1EA0.ss01
+          <anchor 180 0> mark @bottom;
+      pos base uni1EA2.ss01
+          <anchor 180 0> mark @bottom;
+      pos base uni1EA4.ss01
+          <anchor 180 0> mark @bottom;
+      pos base uni1EA6.ss01
+          <anchor 180 0> mark @bottom;
+      pos base uni1EA8.ss01
+          <anchor 180 0> mark @bottom;
+      pos base uni1EAA.ss01
+          <anchor 180 0> mark @bottom;
+      pos base uni1EAC.ss01
+          <anchor 180 0> mark @bottom;
+      pos base uni1EAE.ss01
+          <anchor 180 0> mark @bottom;
+      pos base uni1EB0.ss01
+          <anchor 180 0> mark @bottom;
+      pos base uni1EB2.ss01
+          <anchor 180 0> mark @bottom;
+      pos base uni1EB4.ss01
+          <anchor 180 0> mark @bottom;
+      pos base uni1EB6.ss01
+          <anchor 180 0> mark @bottom;
+      pos base uni0410.ss01
+          <anchor 180 0> mark @bottom;
+      pos base uni04D0.ss01
+          <anchor 180 0> mark @bottom;
+      pos base uni04D2.ss01
+          <anchor 180 0> mark @bottom;
+      pos base uni04D4.ss01
+          <anchor 202 0> mark @bottom;
       pos base Cacute.ss02
           <anchor 180 0> mark @bottom;
       pos base Ccircumflex.ss02
@@ -2095,6 +2118,8 @@ feature mark {
       pos base uni0218.ss02
           <anchor 160 0> mark @bottom;
       pos base uni0421.ss02
+          <anchor 180 0> mark @bottom;
+      pos base uni04AA.ss02
           <anchor 180 0> mark @bottom;
       pos base uni0405.ss02
           <anchor 160 0> mark @bottom;
@@ -2138,6 +2163,8 @@ feature mark {
           <anchor 160 0> mark @bottom;
       pos base uni0421.ss03
           <anchor 180 0> mark @bottom;
+      pos base uni04AA.ss03
+          <anchor 180 0> mark @bottom;
       pos base uni0405.ss03
           <anchor 160 0> mark @bottom;
       pos base uni1E3E.ss04
@@ -2151,33 +2178,27 @@ feature mark {
       pos base Lslash.ss05
           <anchor 150 0> mark @bottom;
       pos base Lacute.ss05
-          <anchor 165 0> mark @bottom;
+          <anchor 145 0> mark @bottom;
       pos base Lcaron.ss05
           <anchor 155 0> mark @bottom;
       pos base uni013B.ss05
-          <anchor 165 0> mark @bottom;
+          <anchor 145 0> mark @bottom;
       pos base uni1E36.ss05
-          <anchor 165 0> mark @bottom;
+          <anchor 145 0> mark @bottom;
       pos base uni1E3A.ss05
-          <anchor 165 0> mark @bottom;
+          <anchor 145 0> mark @bottom;
       pos base Ldot.ss05
-          <anchor 165 0> mark @bottom;
+          <anchor 145 0> mark @bottom;
       pos base uni01C7.ss05
           <anchor 445 0> mark @bottom;
       pos base uni01C8.ss05
           <anchor 365 -140> mark @bottom;
-      pos base uni0410.ss01
-          <anchor 180 0> mark @bottom;
-      pos base uni04D0.ss01
-          <anchor 180 0> mark @bottom;
-      pos base uni04D2.ss01
-          <anchor 180 0> mark @bottom;
-      pos base uni04D4.ss01
-          <anchor 202 0> mark @bottom;
-      pos base uni04AA.ss02
-          <anchor 180 0> mark @bottom;
-      pos base uni04AA.ss03
-          <anchor 180 0> mark @bottom;
+      pos base eta.ss06
+          <anchor 175 0> mark @bottom;
+      pos base etatonos.ss06
+          <anchor 175 0> mark @bottom;
+      pos base chi.ss06
+          <anchor 160 0> mark @bottom;
   } markLTR1;
 
   lookup markLTR2 {
@@ -2197,28 +2218,18 @@ feature mark {
           <anchor 250 0> mark @ogonek;
       pos base Aacute
           <anchor 278 0> mark @ogonek;
-      pos base Aacute.ss01
-          <anchor 280 0> mark @ogonek;
       pos base aacute
           <anchor 240 0> mark @ogonek;
       pos base Agrave
           <anchor 278 0> mark @ogonek;
-      pos base Agrave.ss01
-          <anchor 280 0> mark @ogonek;
       pos base agrave
           <anchor 240 0> mark @ogonek;
       pos base Abreve
           <anchor 278 0> mark @ogonek;
-      pos base Abreve.ss01
-          <anchor 280 0> mark @ogonek;
-      pos base uni01CD.ss01
-          <anchor 280 0> mark @ogonek;
       pos base abreve
           <anchor 240 0> mark @ogonek;
       pos base Acircumflex
           <anchor 278 0> mark @ogonek;
-      pos base Acircumflex.ss01
-          <anchor 280 0> mark @ogonek;
       pos base acircumflex
           <anchor 240 0> mark @ogonek;
       pos base uni01CD
@@ -2227,56 +2238,38 @@ feature mark {
           <anchor 240 0> mark @ogonek;
       pos base Aring
           <anchor 278 0> mark @ogonek;
-      pos base Aring.ss01
-          <anchor 280 0> mark @ogonek;
       pos base aring
           <anchor 240 0> mark @ogonek;
       pos base Aringacute
           <anchor 278 0> mark @ogonek;
-      pos base Aringacute.ss01
-          <anchor 280 0> mark @ogonek;
       pos base aringacute
           <anchor 240 0> mark @ogonek;
       pos base Adieresis
           <anchor 278 0> mark @ogonek;
-      pos base Adieresis.ss01
-          <anchor 280 0> mark @ogonek;
       pos base adieresis
           <anchor 240 0> mark @ogonek;
       pos base uni01DE
           <anchor 278 0> mark @ogonek;
-      pos base uni01DE.1
-          <anchor 280 0> mark @ogonek;
       pos base uni01DF
           <anchor 240 0> mark @ogonek;
       pos base Atilde
           <anchor 278 0> mark @ogonek;
-      pos base Atilde.ss01
-          <anchor 280 0> mark @ogonek;
       pos base atilde
           <anchor 240 0> mark @ogonek;
       pos base Aogonek
           <anchor 278 0> mark @ogonek;
-      pos base Aogonek.ss01
-          <anchor 280 0> mark @ogonek;
       pos base aogonek
           <anchor 240 0> mark @ogonek;
       pos base Amacron
           <anchor 278 0> mark @ogonek;
-      pos base Amacron.ss01
-          <anchor 280 0> mark @ogonek;
       pos base amacron
           <anchor 240 0> mark @ogonek;
       pos base uni0200
           <anchor 278 0> mark @ogonek;
-      pos base uni0200.ss01
-          <anchor 280 0> mark @ogonek;
       pos base uni0201
           <anchor 240 0> mark @ogonek;
       pos base uni0202
           <anchor 278 0> mark @ogonek;
-      pos base uni0202.ss01
-          <anchor 280 0> mark @ogonek;
       pos base uni0203
           <anchor 240 0> mark @ogonek;
       pos base Eacute
@@ -2395,74 +2388,50 @@ feature mark {
           <anchor 260 0> mark @ogonek;
       pos base uni1EA0
           <anchor 278 0> mark @ogonek;
-      pos base uni1EA0.ss01
-          <anchor 280 0> mark @ogonek;
       pos base uni1EA1
           <anchor 240 0> mark @ogonek;
       pos base uni1EA2
           <anchor 278 0> mark @ogonek;
-      pos base uni1EA2.ss01
-          <anchor 280 0> mark @ogonek;
       pos base uni1EA3
           <anchor 240 0> mark @ogonek;
       pos base uni1EA4
           <anchor 278 0> mark @ogonek;
-      pos base uni1EA4.ss01
-          <anchor 280 0> mark @ogonek;
       pos base uni1EA5
           <anchor 240 0> mark @ogonek;
       pos base uni1EA6
           <anchor 278 0> mark @ogonek;
-      pos base uni1EA6.ss01
-          <anchor 280 0> mark @ogonek;
       pos base uni1EA7
           <anchor 240 0> mark @ogonek;
       pos base uni1EA8
           <anchor 278 0> mark @ogonek;
-      pos base uni1EA8.ss01
-          <anchor 280 0> mark @ogonek;
       pos base uni1EA9
           <anchor 240 0> mark @ogonek;
       pos base uni1EAA
           <anchor 278 0> mark @ogonek;
-      pos base uni1EAA.ss01
-          <anchor 280 0> mark @ogonek;
       pos base uni1EAB
           <anchor 240 0> mark @ogonek;
       pos base uni1EAC
           <anchor 278 0> mark @ogonek;
-      pos base uni1EAC.ss01
-          <anchor 280 0> mark @ogonek;
       pos base uni1EAD
           <anchor 240 0> mark @ogonek;
       pos base uni1EAE
           <anchor 278 0> mark @ogonek;
-      pos base uni1EAE.ss01
-          <anchor 280 0> mark @ogonek;
       pos base uni1EAF
           <anchor 240 0> mark @ogonek;
       pos base uni1EB0
           <anchor 278 0> mark @ogonek;
-      pos base uni1EB0.ss01
-          <anchor 280 0> mark @ogonek;
       pos base uni1EB1
           <anchor 240 0> mark @ogonek;
       pos base uni1EB2
           <anchor 278 0> mark @ogonek;
-      pos base uni1EB2.ss01
-          <anchor 280 0> mark @ogonek;
       pos base uni1EB3
           <anchor 240 0> mark @ogonek;
       pos base uni1EB4
           <anchor 278 0> mark @ogonek;
-      pos base uni1EB4.ss01
-          <anchor 280 0> mark @ogonek;
       pos base uni1EB5
           <anchor 240 0> mark @ogonek;
       pos base uni1EB6
           <anchor 278 0> mark @ogonek;
-      pos base uni1EB6.ss01
-          <anchor 280 0> mark @ogonek;
       pos base uni1EB7
           <anchor 240 0> mark @ogonek;
       pos base uni1EB8
@@ -2565,6 +2534,58 @@ feature mark {
           <anchor 250 0> mark @ogonek;
       pos base uni0446.loclBGR
           <anchor 250 0> mark @ogonek;
+      pos base Aacute.ss01
+          <anchor 280 0> mark @ogonek;
+      pos base Agrave.ss01
+          <anchor 280 0> mark @ogonek;
+      pos base Abreve.ss01
+          <anchor 280 0> mark @ogonek;
+      pos base Acircumflex.ss01
+          <anchor 280 0> mark @ogonek;
+      pos base uni01CD.ss01
+          <anchor 280 0> mark @ogonek;
+      pos base Aring.ss01
+          <anchor 280 0> mark @ogonek;
+      pos base Aringacute.ss01
+          <anchor 280 0> mark @ogonek;
+      pos base Adieresis.ss01
+          <anchor 280 0> mark @ogonek;
+      pos base uni01DE.ss01
+          <anchor 280 0> mark @ogonek;
+      pos base Atilde.ss01
+          <anchor 280 0> mark @ogonek;
+      pos base Aogonek.ss01
+          <anchor 280 0> mark @ogonek;
+      pos base Amacron.ss01
+          <anchor 280 0> mark @ogonek;
+      pos base uni0200.ss01
+          <anchor 280 0> mark @ogonek;
+      pos base uni0202.ss01
+          <anchor 280 0> mark @ogonek;
+      pos base uni1EA0.ss01
+          <anchor 280 0> mark @ogonek;
+      pos base uni1EA2.ss01
+          <anchor 280 0> mark @ogonek;
+      pos base uni1EA4.ss01
+          <anchor 280 0> mark @ogonek;
+      pos base uni1EA6.ss01
+          <anchor 280 0> mark @ogonek;
+      pos base uni1EA8.ss01
+          <anchor 280 0> mark @ogonek;
+      pos base uni1EAA.ss01
+          <anchor 280 0> mark @ogonek;
+      pos base uni1EAC.ss01
+          <anchor 280 0> mark @ogonek;
+      pos base uni1EAE.ss01
+          <anchor 280 0> mark @ogonek;
+      pos base uni1EB0.ss01
+          <anchor 280 0> mark @ogonek;
+      pos base uni1EB2.ss01
+          <anchor 280 0> mark @ogonek;
+      pos base uni1EB4.ss01
+          <anchor 280 0> mark @ogonek;
+      pos base uni1EB6.ss01
+          <anchor 280 0> mark @ogonek;
       pos base uni0410.ss01
           <anchor 280 0> mark @ogonek;
       pos base uni04D0.ss01
@@ -2698,28 +2719,18 @@ feature mark {
           <anchor 125 560> mark @top;
       pos base Aacute
           <anchor 170 700> mark @top;
-      pos base Aacute.ss01
-          <anchor 180 700> mark @top;
       pos base aacute
           <anchor 155 560> mark @top;
       pos base Agrave
           <anchor 170 700> mark @top;
-      pos base Agrave.ss01
-          <anchor 180 700> mark @top;
       pos base agrave
           <anchor 155 560> mark @top;
       pos base Abreve
           <anchor 170 700> mark @top;
-      pos base Abreve.ss01
-          <anchor 180 700> mark @top;
-      pos base uni01CD.ss01
-          <anchor 180 700> mark @top;
       pos base abreve
           <anchor 155 560> mark @top;
       pos base Acircumflex
           <anchor 170 890> mark @top;
-      pos base Acircumflex.ss01
-          <anchor 180 890> mark @top;
       pos base acircumflex
           <anchor 155 750> mark @top;
       pos base uni01CD
@@ -2728,68 +2739,46 @@ feature mark {
           <anchor 155 560> mark @top;
       pos base Aring
           <anchor 170 920> mark @top;
-      pos base Aring.ss01
-          <anchor 180 920> mark @top;
       pos base aring
           <anchor 155 780> mark @top;
       pos base Aringacute
           <anchor 170 920> mark @top;
-      pos base Aringacute.ss01
-          <anchor 180 920> mark @top;
       pos base aringacute
           <anchor 155 780> mark @top;
       pos base Adieresis
           <anchor 170 850> mark @top;
-      pos base Adieresis.ss01
-          <anchor 180 850> mark @top;
       pos base adieresis
           <anchor 155 710> mark @top;
       pos base uni01DE
           <anchor 170 950> mark @top;
-      pos base uni01DE.1
-          <anchor 180 950> mark @top;
       pos base uni01DF
           <anchor 155 810> mark @top;
       pos base Atilde
           <anchor 170 870> mark @top;
-      pos base Atilde.ss01
-          <anchor 180 870> mark @top;
       pos base atilde
           <anchor 155 730> mark @top;
       pos base Aogonek
           <anchor 170 700> mark @top;
-      pos base Aogonek.ss01
-          <anchor 180 700> mark @top;
       pos base aogonek
           <anchor 155 560> mark @top;
       pos base Amacron
           <anchor 170 870> mark @top;
-      pos base Amacron.ss01
-          <anchor 180 870> mark @top;
       pos base amacron
           <anchor 155 730> mark @top;
       pos base uni0200
           <anchor 170 700> mark @top;
-      pos base uni0200.ss01
-          <anchor 180 700> mark @top;
       pos base uni0201
           <anchor 155 560> mark @top;
       pos base uni0202
           <anchor 170 700> mark @top;
-      pos base uni0202.ss01
-          <anchor 180 700> mark @top;
       pos base uni0203
           <anchor 155 560> mark @top;
       pos base AE
           <anchor 229 700> mark @top;
-      pos base AE.ss01
-          <anchor 202 700> mark @top;
       pos base ae
           <anchor 247 560> mark @top;
       pos base AEacute
           <anchor 229 700> mark @top;
-      pos base AEacute.ss01
-          <anchor 202 700> mark @top;
       pos base aeacute
           <anchor 247 560> mark @top;
       pos base uni1E02
@@ -2993,7 +2982,7 @@ feature mark {
       pos base uni020B
           <anchor 85 560> mark @top;
       pos base ij
-          <anchor 170 710> mark @top;
+          <anchor 255 710> mark @top;
       pos base uni0197
           <anchor 125 700> mark @top;
       pos base Jacute
@@ -3041,7 +3030,7 @@ feature mark {
       pos base Ldot
           <anchor 130 700> mark @top;
       pos base ldot
-          <anchor 110 700> mark @top;
+          <anchor 85 700> mark @top;
       pos base uni1E3E
           <anchor 200 700> mark @top;
       pos base uni1E3F
@@ -3384,74 +3373,50 @@ feature mark {
           <anchor 150 700> mark @top;
       pos base uni1EA0
           <anchor 170 700> mark @top;
-      pos base uni1EA0.ss01
-          <anchor 180 700> mark @top;
       pos base uni1EA1
           <anchor 155 560> mark @top;
       pos base uni1EA2
           <anchor 170 700> mark @top;
-      pos base uni1EA2.ss01
-          <anchor 180 700> mark @top;
       pos base uni1EA3
           <anchor 155 560> mark @top;
       pos base uni1EA4
           <anchor 170 700> mark @top;
-      pos base uni1EA4.ss01
-          <anchor 180 700> mark @top;
       pos base uni1EA5
           <anchor 155 560> mark @top;
       pos base uni1EA6
           <anchor 170 700> mark @top;
-      pos base uni1EA6.ss01
-          <anchor 180 700> mark @top;
       pos base uni1EA7
           <anchor 155 560> mark @top;
       pos base uni1EA8
           <anchor 170 700> mark @top;
-      pos base uni1EA8.ss01
-          <anchor 180 700> mark @top;
       pos base uni1EA9
           <anchor 155 560> mark @top;
       pos base uni1EAA
           <anchor 170 700> mark @top;
-      pos base uni1EAA.ss01
-          <anchor 180 700> mark @top;
       pos base uni1EAB
           <anchor 155 560> mark @top;
       pos base uni1EAC
           <anchor 170 890> mark @top;
-      pos base uni1EAC.ss01
-          <anchor 180 890> mark @top;
       pos base uni1EAD
           <anchor 155 750> mark @top;
       pos base uni1EAE
           <anchor 170 700> mark @top;
-      pos base uni1EAE.ss01
-          <anchor 180 700> mark @top;
       pos base uni1EAF
           <anchor 155 560> mark @top;
       pos base uni1EB0
           <anchor 170 700> mark @top;
-      pos base uni1EB0.ss01
-          <anchor 180 700> mark @top;
       pos base uni1EB1
           <anchor 155 560> mark @top;
       pos base uni1EB2
           <anchor 170 700> mark @top;
-      pos base uni1EB2.ss01
-          <anchor 180 700> mark @top;
       pos base uni1EB3
           <anchor 155 560> mark @top;
       pos base uni1EB4
           <anchor 170 700> mark @top;
-      pos base uni1EB4.ss01
-          <anchor 180 700> mark @top;
       pos base uni1EB5
           <anchor 155 560> mark @top;
       pos base uni1EB6
           <anchor 170 700> mark @top;
-      pos base uni1EB6.ss01
-          <anchor 180 700> mark @top;
       pos base uni1EB7
           <anchor 155 560> mark @top;
       pos base uni1EB8
@@ -3597,13 +3562,13 @@ feature mark {
       pos base uni01C8
           <anchor 395 710> mark @top;
       pos base uni01C9
-          <anchor 170 710> mark @top;
+          <anchor 255 710> mark @top;
       pos base uni01CA
-          <anchor 355 700> mark @top;
+          <anchor 545 700> mark @top;
       pos base uni01CB
-          <anchor 275 710> mark @top;
+          <anchor 465 710> mark @top;
       pos base uni01CC
-          <anchor 260 710> mark @top;
+          <anchor 435 710> mark @top;
       pos base zero
           <anchor 180 700> mark @top;
       pos base uni2070
@@ -3619,7 +3584,7 @@ feature mark {
       pos base product
           <anchor 180 700> mark @top;
       pos base uni2116
-          <anchor 360 700> mark @top;
+          <anchor 190 700> mark @top;
       pos base uni20AE
           <anchor 140 700> mark @top;
       pos base uni20B4
@@ -3687,19 +3652,19 @@ feature mark {
       pos base Psi
           <anchor 255 700> mark @top;
       pos base Alphatonos
-          <anchor 260 700> mark @top;
+          <anchor 300 700> mark @top;
       pos base Epsilontonos
           <anchor 320 700> mark @top;
       pos base Etatonos
-          <anchor 270 700> mark @top;
+          <anchor 360 700> mark @top;
       pos base Iotatonos
-          <anchor 215 700> mark @top;
+          <anchor 305 700> mark @top;
       pos base Iotadieresis
           <anchor 125 850> mark @top;
       pos base Omicrontonos
-          <anchor 270 700> mark @top;
+          <anchor 330 700> mark @top;
       pos base Upsilontonos
-          <anchor 270 700> mark @top;
+          <anchor 360 700> mark @top;
       pos base Upsilondieresis
           <anchor 180 850> mark @top;
       pos base alpha
@@ -4156,6 +4121,70 @@ feature mark {
           <anchor 160 560> mark @top;
       pos base uni044E.loclBGR
           <anchor 255 560> mark @top;
+      pos base Aacute.ss01
+          <anchor 180 700> mark @top;
+      pos base Agrave.ss01
+          <anchor 180 700> mark @top;
+      pos base Abreve.ss01
+          <anchor 180 700> mark @top;
+      pos base Acircumflex.ss01
+          <anchor 180 890> mark @top;
+      pos base uni01CD.ss01
+          <anchor 180 700> mark @top;
+      pos base Aring.ss01
+          <anchor 180 920> mark @top;
+      pos base Aringacute.ss01
+          <anchor 180 920> mark @top;
+      pos base Adieresis.ss01
+          <anchor 180 850> mark @top;
+      pos base uni01DE.ss01
+          <anchor 180 950> mark @top;
+      pos base Atilde.ss01
+          <anchor 180 870> mark @top;
+      pos base Aogonek.ss01
+          <anchor 180 700> mark @top;
+      pos base Amacron.ss01
+          <anchor 180 870> mark @top;
+      pos base uni0200.ss01
+          <anchor 180 700> mark @top;
+      pos base uni0202.ss01
+          <anchor 180 700> mark @top;
+      pos base AE.ss01
+          <anchor 202 700> mark @top;
+      pos base AEacute.ss01
+          <anchor 202 700> mark @top;
+      pos base uni1EA0.ss01
+          <anchor 180 700> mark @top;
+      pos base uni1EA2.ss01
+          <anchor 180 700> mark @top;
+      pos base uni1EA4.ss01
+          <anchor 180 700> mark @top;
+      pos base uni1EA6.ss01
+          <anchor 180 700> mark @top;
+      pos base uni1EA8.ss01
+          <anchor 180 700> mark @top;
+      pos base uni1EAA.ss01
+          <anchor 180 700> mark @top;
+      pos base uni1EAC.ss01
+          <anchor 180 890> mark @top;
+      pos base uni1EAE.ss01
+          <anchor 180 700> mark @top;
+      pos base uni1EB0.ss01
+          <anchor 180 700> mark @top;
+      pos base uni1EB2.ss01
+          <anchor 180 700> mark @top;
+      pos base uni1EB4.ss01
+          <anchor 180 700> mark @top;
+      pos base uni1EB6.ss01
+          <anchor 180 700> mark @top;
+      pos base uni0410.ss01
+          <anchor 180 700> mark @top;
+      pos base uni04D0.ss01
+          <anchor 180 700> mark @top;
+      pos base uni04D2.ss01
+          <anchor 180 850> mark @top;
+      pos base uni04D4.ss01
+          <anchor 202 700> mark @top;
       pos base Cacute.ss02
           <anchor 180 700> mark @top;
       pos base Ccircumflex.ss02
@@ -4195,6 +4224,8 @@ feature mark {
       pos base uni0218.ss02
           <anchor 180 700> mark @top;
       pos base uni0421.ss02
+          <anchor 180 700> mark @top;
+      pos base uni04AA.ss02
           <anchor 180 700> mark @top;
       pos base uni0405.ss02
           <anchor 180 700> mark @top;
@@ -4238,6 +4269,8 @@ feature mark {
           <anchor 180 700> mark @top;
       pos base uni0421.ss03
           <anchor 180 700> mark @top;
+      pos base uni04AA.ss03
+          <anchor 180 700> mark @top;
       pos base uni0405.ss03
           <anchor 180 700> mark @top;
       pos base uni1E3E.ss04
@@ -4266,26 +4299,22 @@ feature mark {
           <anchor 445 700> mark @top;
       pos base uni01C8.ss05
           <anchor 365 710> mark @top;
-      pos base uni0410.ss01
-          <anchor 180 700> mark @top;
-      pos base uni04D0.ss01
-          <anchor 180 700> mark @top;
-      pos base uni04D2.ss01
-          <anchor 180 850> mark @top;
-      pos base uni04D4.ss01
-          <anchor 202 700> mark @top;
-      pos base uni04AA.ss02
-          <anchor 180 700> mark @top;
-      pos base uni04AA.ss03
-          <anchor 180 700> mark @top;
+      pos base eta.ss06
+          <anchor 175 560> mark @top;
+      pos base etatonos.ss06
+          <anchor 175 560> mark @top;
+      pos base chi.ss06
+          <anchor 160 560> mark @top;
   } markLTR3;
 
   lookup markLTR1;
   lookup markLTR2;
   lookup markLTR3;
+#< feature
 } mark;
 
 feature mkmk {
+#> feature
 # GPOS feature : Mark to Mark Positioning
 #    markClass gravecomb <anchor 0 560> @top;
 #    markClass acutecomb <anchor 0 560> @top;
@@ -4344,4 +4373,5 @@ feature mkmk {
   } mkmkLTR;
 
   lookup mkmkLTR;
+#< feature
 } mkmk;

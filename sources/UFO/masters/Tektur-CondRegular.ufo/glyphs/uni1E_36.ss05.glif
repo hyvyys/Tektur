@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E36.ss05" format="2">
   <advance width="280"/>
-  <anchor x="165" y="0" name="bottom"/>
+  <anchor x="145" y="0" name="bottom"/>
   <anchor x="130" y="700" name="top"/>
   <outline>
     <component base="L.ss05"/>
-    <component base="dotbelowcomb" xOffset="165"/>
+    <component base="dotbelowcomb" xOffset="145"/>
   </outline>
   <lib>
   <dict>

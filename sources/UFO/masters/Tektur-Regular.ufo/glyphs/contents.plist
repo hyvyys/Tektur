@@ -536,6 +536,8 @@
   <string>cent.glif</string>
   <key>chi</key>
   <string>chi.glif</string>
+  <key>chi.ss06</key>
+  <string>chi.ss06.glif</string>
   <key>circumflex</key>
   <string>circumflex.glif</string>
   <key>colon</key>
@@ -614,8 +616,12 @@
   <string>equal.glif</string>
   <key>eta</key>
   <string>eta.glif</string>
+  <key>eta.ss06</key>
+  <string>eta.ss06.glif</string>
   <key>etatonos</key>
   <string>etatonos.glif</string>
+  <key>etatonos.ss06</key>
+  <string>etatonos.ss06.glif</string>
   <key>eth</key>
   <string>eth.glif</string>
   <key>exclam</key>
@@ -866,6 +872,8 @@
   <string>perthousand.glif</string>
   <key>phi</key>
   <string>phi.glif</string>
+  <key>phi1</key>
+  <string>phi1.glif</string>
   <key>pi</key>
   <string>pi.glif</string>
   <key>plus</key>
@@ -1142,8 +1150,8 @@
   <string>uni01D_C_.glif</string>
   <key>uni01DE</key>
   <string>uni01D_E_.glif</string>
-  <key>uni01DE.1</key>
-  <string>uni01D_E_.1.glif</string>
+  <key>uni01DE.ss01</key>
+  <string>uni01D_E_.ss01.glif</string>
   <key>uni01DF</key>
   <string>uni01D_F_.glif</string>
   <key>uni01E4</key>

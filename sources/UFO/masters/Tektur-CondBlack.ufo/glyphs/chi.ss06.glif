@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="chi.ss06" format="2">
+  <advance width="560"/>
+  <anchor x="280" y="0" name="bottom"/>
+  <anchor x="280" y="560" name="top"/>
+  <outline>
+    <contour>
+      <point x="5" y="-140" type="line"/>
+      <point x="243" y="-140" type="line"/>
+      <point x="264" y="121" type="line"/>
+      <point x="296" y="121" type="line"/>
+      <point x="317" y="-140" type="line"/>
+      <point x="555" y="-140" type="line"/>
+      <point x="465" y="221" type="line"/>
+      <point x="549" y="560" type="line"/>
+      <point x="314" y="560" type="line"/>
+      <point x="291" y="301" type="line"/>
+      <point x="269" y="301" type="line"/>
+      <point x="246" y="560" type="line"/>
+      <point x="11" y="560" type="line"/>
+      <point x="95" y="221" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>x%</string>
+  </dict>
+  </lib>
+</glyph>

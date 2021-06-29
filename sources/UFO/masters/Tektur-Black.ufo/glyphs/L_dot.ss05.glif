@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ldot.ss05" format="2">
   <advance width="545"/>
-  <anchor x="295" y="0" name="bottom"/>
+  <anchor x="280" y="0" name="bottom"/>
   <anchor x="170" y="700" name="top"/>
   <outline>
     <component base="L.ss05"/>

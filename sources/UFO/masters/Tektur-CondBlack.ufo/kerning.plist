@@ -32,6 +32,11 @@
     <key>public.kern2.period</key>
     <integer>-50</integer>
   </dict>
+  <key>chi.ss06</key>
+  <dict>
+    <key>public.kern2.c</key>
+    <integer>-20</integer>
+  </dict>
   <key>gamma</key>
   <dict>
     <key>lambda</key>
@@ -41,6 +46,13 @@
   <dict>
     <key>gamma</key>
     <integer>-30</integer>
+  </dict>
+  <key>o</key>
+  <dict>
+    <key>chi.ss06</key>
+    <integer>-20</integer>
+    <key>public.kern2.x</key>
+    <integer>-20</integer>
   </dict>
   <key>question</key>
   <dict>
@@ -127,6 +139,8 @@
     <integer>-15</integer>
     <key>public.kern2.Elcy</key>
     <integer>-8</integer>
+    <key>public.kern2.X</key>
+    <integer>-20</integer>
     <key>public.kern2.Y</key>
     <integer>-20</integer>
   </dict>
@@ -140,6 +154,11 @@
     <integer>-30</integer>
     <key>public.kern2.c</key>
     <integer>-30</integer>
+  </dict>
+  <key>public.kern1.K</key>
+  <dict>
+    <key>public.kern2.C</key>
+    <integer>-20</integer>
   </dict>
   <key>public.kern1.L</key>
   <dict>
@@ -210,6 +229,11 @@
     <key>public.kern2.period</key>
     <integer>-20</integer>
   </dict>
+  <key>public.kern1.X</key>
+  <dict>
+    <key>public.kern2.C</key>
+    <integer>-20</integer>
+  </dict>
   <key>public.kern1.Y</key>
   <dict>
     <key>Lambda</key>
@@ -217,6 +241,11 @@
     <key>public.kern2.A1</key>
     <integer>-50</integer>
     <key>public.kern2.C</key>
+    <integer>-20</integer>
+  </dict>
+  <key>public.kern1.k</key>
+  <dict>
+    <key>public.kern2.c</key>
     <integer>-20</integer>
   </dict>
   <key>public.kern1.period</key>
@@ -248,6 +277,11 @@
     <integer>-100</integer>
     <key>public.kern2.A1</key>
     <integer>-40</integer>
+  </dict>
+  <key>public.kern1.x</key>
+  <dict>
+    <key>public.kern2.c</key>
+    <integer>-20</integer>
   </dict>
 </dict>
 </plist>

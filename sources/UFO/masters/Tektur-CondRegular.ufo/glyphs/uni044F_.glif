@@ -27,8 +27,6 @@
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.metricsLeft</key>
-  <string>|R</string>
   <key>com.fontlab.metricsRight</key>
   <string>|R</string>
   <key>com.fontlab.recipe</key>

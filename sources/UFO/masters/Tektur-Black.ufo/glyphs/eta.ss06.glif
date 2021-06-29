@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eta.ss06" format="2">
+  <advance width="620"/>
+  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="310" y="560" name="top"/>
+  <outline>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="260" y="0" type="line"/>
+      <point x="260" y="370" type="line"/>
+      <point x="360" y="370" type="line"/>
+      <point x="360" y="-140" type="line"/>
+      <point x="580" y="-140" type="line"/>
+      <point x="580" y="420" type="line"/>
+      <point x="440" y="560" type="line"/>
+      <point x="40" y="560" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>n%</string>
+  </dict>
+  </lib>
+</glyph>

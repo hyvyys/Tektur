@@ -3,14 +3,14 @@
   <advance width="800"/>
   <unicode hex="0444"/>
   <outline>
-    <component base="phi"/>
+    <component base="phi1"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.recipe</key>
-  <string>phi</string>
+  <string>phi1</string>
   </dict>
   </lib>
 </glyph>

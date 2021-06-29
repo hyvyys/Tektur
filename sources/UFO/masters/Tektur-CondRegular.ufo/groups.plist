@@ -228,6 +228,15 @@
     <string>uni0490</string>
     <string>uni04F6</string>
   </array>
+  <key>public.kern1.K</key>
+  <array>
+    <string>K</string>
+    <string>Kappa</string>
+    <string>uni0136</string>
+    <string>uni01E8</string>
+    <string>uni03CF</string>
+    <string>uni041A</string>
+  </array>
   <key>public.kern1.L</key>
   <array>
     <string>L</string>
@@ -280,6 +289,12 @@
     <string>uni04F0</string>
     <string>uni04F2</string>
   </array>
+  <key>public.kern1.X</key>
+  <array>
+    <string>Chi</string>
+    <string>X</string>
+    <string>uni0425</string>
+  </array>
   <key>public.kern1.Y</key>
   <array>
     <string>Upsilon</string>
@@ -304,6 +319,19 @@
     <string>uni0491</string>
     <string>uni04F7</string>
   </array>
+  <key>public.kern1.k</key>
+  <array>
+    <string>k</string>
+    <string>kappa</string>
+    <string>uni0137</string>
+    <string>uni0199</string>
+    <string>uni01E9</string>
+    <string>uni043A</string>
+    <string>uni043A.loclBGR</string>
+    <string>uni045C</string>
+    <string>uni049D</string>
+    <string>uni04A1</string>
+  </array>
   <key>public.kern1.period</key>
   <array>
     <string>comma</string>
@@ -325,6 +353,12 @@
   <array>
     <string>quotedblright</string>
     <string>quoteright</string>
+  </array>
+  <key>public.kern1.x</key>
+  <array>
+    <string>chi</string>
+    <string>uni0445</string>
+    <string>x</string>
   </array>
   <key>public.kern2.A1</key>
   <array>
@@ -424,6 +458,12 @@
     <string>Wcircumflex</string>
     <string>Wdieresis</string>
     <string>Wgrave</string>
+  </array>
+  <key>public.kern2.X</key>
+  <array>
+    <string>Chi</string>
+    <string>X</string>
+    <string>uni0425</string>
   </array>
   <key>public.kern2.Y</key>
   <array>
@@ -611,6 +651,12 @@
     <string>upsilondieresis</string>
     <string>upsilondieresistonos</string>
     <string>upsilontonos</string>
+  </array>
+  <key>public.kern2.x</key>
+  <array>
+    <string>chi</string>
+    <string>uni0445</string>
+    <string>x</string>
   </array>
 </dict>
 </plist>

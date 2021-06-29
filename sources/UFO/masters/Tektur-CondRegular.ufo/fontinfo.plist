@@ -42,7 +42,7 @@
 		</dict>
 	</array>
 	<key>openTypeHeadCreated</key>
-	<string>2020/10/08 00:33:00</string>
+	<string>2020/10/08 01:33:00</string>
 	<key>openTypeHeadFlags</key>
 	<array/>
 	<key>openTypeHheaAscender</key>
@@ -71,131 +71,8 @@
 	<string>Tektur</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Condensed</string>
-	<key>openTypeNameRecords</key>
-	<array>
-		<dict>
-			<key>encodingID</key>
-			<integer>0</integer>
-			<key>languageID</key>
-			<integer>0</integer>
-			<key>nameID</key>
-			<integer>256</integer>
-			<key>platformID</key>
-			<integer>1</integer>
-			<key>string</key>
-			<string>Round A</string>
-		</dict>
-		<dict>
-			<key>encodingID</key>
-			<integer>1</integer>
-			<key>languageID</key>
-			<integer>1033</integer>
-			<key>nameID</key>
-			<integer>256</integer>
-			<key>platformID</key>
-			<integer>3</integer>
-			<key>string</key>
-			<string>Round A</string>
-		</dict>
-		<dict>
-			<key>encodingID</key>
-			<integer>0</integer>
-			<key>languageID</key>
-			<integer>0</integer>
-			<key>nameID</key>
-			<integer>257</integer>
-			<key>platformID</key>
-			<integer>1</integer>
-			<key>string</key>
-			<string>Seriffed C, G, S</string>
-		</dict>
-		<dict>
-			<key>encodingID</key>
-			<integer>1</integer>
-			<key>languageID</key>
-			<integer>1033</integer>
-			<key>nameID</key>
-			<integer>257</integer>
-			<key>platformID</key>
-			<integer>3</integer>
-			<key>string</key>
-			<string>Seriffed C, G, S</string>
-		</dict>
-		<dict>
-			<key>encodingID</key>
-			<integer>0</integer>
-			<key>languageID</key>
-			<integer>0</integer>
-			<key>nameID</key>
-			<integer>258</integer>
-			<key>platformID</key>
-			<integer>1</integer>
-			<key>string</key>
-			<string>Round C, G, S</string>
-		</dict>
-		<dict>
-			<key>encodingID</key>
-			<integer>1</integer>
-			<key>languageID</key>
-			<integer>1033</integer>
-			<key>nameID</key>
-			<integer>258</integer>
-			<key>platformID</key>
-			<integer>3</integer>
-			<key>string</key>
-			<string>Round C, G, S</string>
-		</dict>
-		<dict>
-			<key>encodingID</key>
-			<integer>0</integer>
-			<key>languageID</key>
-			<integer>0</integer>
-			<key>nameID</key>
-			<integer>259</integer>
-			<key>platformID</key>
-			<integer>1</integer>
-			<key>string</key>
-			<string>Wide M</string>
-		</dict>
-		<dict>
-			<key>encodingID</key>
-			<integer>1</integer>
-			<key>languageID</key>
-			<integer>1033</integer>
-			<key>nameID</key>
-			<integer>259</integer>
-			<key>platformID</key>
-			<integer>3</integer>
-			<key>string</key>
-			<string>Wide M</string>
-		</dict>
-		<dict>
-			<key>encodingID</key>
-			<integer>0</integer>
-			<key>languageID</key>
-			<integer>0</integer>
-			<key>nameID</key>
-			<integer>260</integer>
-			<key>platformID</key>
-			<integer>1</integer>
-			<key>string</key>
-			<string>Simple L</string>
-		</dict>
-		<dict>
-			<key>encodingID</key>
-			<integer>1</integer>
-			<key>languageID</key>
-			<integer>1033</integer>
-			<key>nameID</key>
-			<integer>260</integer>
-			<key>platformID</key>
-			<integer>3</integer>
-			<key>string</key>
-			<string>Simple L</string>
-		</dict>
-	</array>
 	<key>openTypeNameVersion</key>
-	<string>Version 1.002</string>
+	<string>Version 1.003</string>
 	<key>openTypeOS2Panose</key>
 	<array>
 		<integer>0</integer>
@@ -304,7 +181,7 @@
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>2</integer>
+	<integer>3</integer>
 	<key>xHeight</key>
 	<integer>560</integer>
 </dict>

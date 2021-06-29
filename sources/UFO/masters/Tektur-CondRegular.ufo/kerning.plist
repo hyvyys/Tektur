@@ -118,6 +118,11 @@
     <key>public.kern2.c</key>
     <integer>-30</integer>
   </dict>
+  <key>public.kern1.K</key>
+  <dict>
+    <key>public.kern2.C</key>
+    <integer>-5</integer>
+  </dict>
   <key>public.kern1.L</key>
   <dict>
     <key>V</key>
