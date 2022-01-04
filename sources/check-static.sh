@@ -15,3 +15,4 @@
     -x "com.google.fonts/check/gdef_mark_chars"                # uni0315 in this font is spacing and contains no anchors
   )
   fontbakery check-googlefonts -l FAIL ${PARAMS[@]} "../fonts/ttf/*.ttf"
+

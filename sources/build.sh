@@ -73,3 +73,4 @@ if [[ $fontbakery == 1 ]]; then
   fontbakery check-googlefonts --succinct -l WARN ${PARAMS[@]} ../fonts/ttf/
 
 fi
+
