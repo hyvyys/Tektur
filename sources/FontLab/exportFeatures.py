@@ -2,7 +2,8 @@
 
 import os
 import fontlab
-from typerig.proxy import pFont
+from typerig.proxy.fl.objects.font import pFont
+
 font = pFont()
 prefix = font.getFeaPrefix()
 features = '\n'.join(font.getFeatures())
