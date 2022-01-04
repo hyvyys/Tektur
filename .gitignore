@@ -4,4 +4,6 @@ env/
 /sources/FontLab/*.otf
 /sources/FontLab/*.ttf
 /sources/UFO/instances/
+build/
+ignore/
 *.backup/

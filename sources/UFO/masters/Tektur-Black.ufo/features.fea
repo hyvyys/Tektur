@@ -460,7 +460,6 @@ featureNames {
 } ss06;
 
 feature mark {
-#> feature
 # GPOS feature : Mark Positioning
     markClass gravecomb <anchor 0 560> @top;
     markClass acutecomb <anchor 0 560> @top;
@@ -4310,11 +4309,9 @@ feature mark {
   lookup markLTR1;
   lookup markLTR2;
   lookup markLTR3;
-#< feature
 } mark;
 
 feature mkmk {
-#> feature
 # GPOS feature : Mark to Mark Positioning
 #    markClass gravecomb <anchor 0 560> @top;
 #    markClass acutecomb <anchor 0 560> @top;
@@ -4373,5 +4370,4 @@ feature mkmk {
   } mkmkLTR;
 
   lookup mkmkLTR;
-#< feature
 } mkmk;

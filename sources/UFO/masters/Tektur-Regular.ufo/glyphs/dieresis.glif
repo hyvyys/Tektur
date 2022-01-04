@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dieresis" format="2">
-  <advance width="390"/>
+  <advance width="300"/>
   <unicode hex="00A8"/>
-  <anchor x="195" y="710" name="top"/>
+  <anchor x="170" y="710" name="top"/>
   <outline>
-    <component base="uni0308" xOffset="195"/>
+    <component base="uni0308" xOffset="170"/>
   </outline>
   <lib>
   <dict>

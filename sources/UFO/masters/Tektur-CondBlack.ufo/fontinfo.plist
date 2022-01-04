@@ -42,7 +42,7 @@
 		</dict>
 	</array>
 	<key>openTypeHeadCreated</key>
-	<string>2020/10/08 01:33:00</string>
+	<string>2020/10/08 02:33:00</string>
 	<key>openTypeHeadFlags</key>
 	<array/>
 	<key>openTypeHheaAscender</key>
@@ -72,7 +72,7 @@
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Black</string>
 	<key>openTypeNameVersion</key>
-	<string>Version 1.003</string>
+	<string>Version 1.004</string>
 	<key>openTypeOS2Panose</key>
 	<array>
 		<integer>0</integer>
@@ -181,7 +181,7 @@
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>3</integer>
+	<integer>4</integer>
 	<key>xHeight</key>
 	<integer>560</integer>
 </dict>

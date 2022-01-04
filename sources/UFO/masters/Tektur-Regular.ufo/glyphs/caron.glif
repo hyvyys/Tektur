@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caron" format="2">
-  <advance width="460"/>
+  <advance width="300"/>
   <unicode hex="02C7"/>
   <outline>
-    <component base="uni030C" xOffset="230"/>
+    <component base="uni030C" xOffset="170"/>
   </outline>
   <lib>
   <dict>

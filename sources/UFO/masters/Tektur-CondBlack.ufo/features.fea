@@ -460,7 +460,6 @@ featureNames {
 } ss06;
 
 feature mark {
-#> feature
 # GPOS feature : Mark Positioning
     markClass gravecomb <anchor 0 560> @top;
     markClass acutecomb <anchor 0 560> @top;
@@ -946,7 +945,7 @@ feature mark {
       pos base uni1E40
           <anchor 320 0> mark @bottom;
       pos base uni1E41
-          <anchor 408 0> mark @bottom;
+          <anchor 407 0> mark @bottom;
       pos base Nacute
           <anchor 280 0> mark @bottom;
       pos base nacute
@@ -1270,9 +1269,9 @@ feature mark {
       pos base zcaron
           <anchor 217 0> mark @bottom;
       pos base Zdotaccent
-          <anchor 243 0> mark @bottom;
+          <anchor 242 0> mark @bottom;
       pos base zdotaccent
-          <anchor 218 0> mark @bottom;
+          <anchor 217 0> mark @bottom;
       pos base uni1E92
           <anchor 242 0> mark @bottom;
       pos base uni1E93
@@ -1472,7 +1471,7 @@ feature mark {
       pos base uni01C9
           <anchor 420 -140> mark @bottom;
       pos base uni01CA
-          <anchor 850 0> mark @bottom;
+          <anchor 825 0> mark @bottom;
       pos base uni01CB
           <anchor 700 -140> mark @bottom;
       pos base uni01CC
@@ -3594,17 +3593,17 @@ feature mark {
       pos base uni058F
           <anchor 270 700> mark @top;
       pos base circumflex
-          <anchor 190 750> mark @top;
+          <anchor 360 750> mark @top;
       pos base tilde
-          <anchor 200 730> mark @top;
+          <anchor 360 730> mark @top;
       pos base dieresis
-          <anchor 205 730> mark @top;
+          <anchor 360 730> mark @top;
       pos base dotaccent
-          <anchor 150 730> mark @top;
+          <anchor 360 730> mark @top;
       pos base ring
-          <anchor 173 800> mark @top;
+          <anchor 360 800> mark @top;
       pos base macron
-          <anchor 190 730> mark @top;
+          <anchor 360 730> mark @top;
       pos base fi
           <anchor 530 730> mark @top;
       pos base fl
@@ -3736,7 +3735,7 @@ feature mark {
       pos base uni03D7
           <anchor 278 560> mark @top;
       pos base dieresistonos
-          <anchor 205 730> mark @top;
+          <anchor 120 730> mark @top;
       pos base uni0410
           <anchor 290 700> mark @top;
       pos base uni0412
@@ -4310,11 +4309,9 @@ feature mark {
   lookup markLTR1;
   lookup markLTR2;
   lookup markLTR3;
-#< feature
 } mark;
 
 feature mkmk {
-#> feature
 # GPOS feature : Mark to Mark Positioning
 #    markClass gravecomb <anchor 0 560> @top;
 #    markClass acutecomb <anchor 0 560> @top;
@@ -4373,5 +4370,4 @@ feature mkmk {
   } mkmkLTR;
 
   lookup mkmkLTR;
-#< feature
 } mkmk;
