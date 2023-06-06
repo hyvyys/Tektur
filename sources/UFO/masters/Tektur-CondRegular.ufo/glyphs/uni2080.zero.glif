@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2080.zero" format="2">
   <advance width="350"/>
-  <anchor x="175" y="-400" name="bottom"/>
   <anchor x="175" y="300" name="top"/>
+  <anchor x="175" y="-400" name="bottom"/>
   <outline>
     <component base="uni2070.zero" yOffset="-400"/>
   </outline>

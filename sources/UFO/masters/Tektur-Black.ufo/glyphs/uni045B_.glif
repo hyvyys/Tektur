@@ -2,8 +2,8 @@
 <glyph name="uni045B" format="2">
   <advance width="620"/>
   <unicode hex="045B"/>
-  <anchor x="310" y="0" name="bottom"/>
   <anchor x="260" y="700" name="top"/>
+  <anchor x="310" y="0" name="bottom"/>
   <outline>
     <component base="hbar"/>
   </outline>

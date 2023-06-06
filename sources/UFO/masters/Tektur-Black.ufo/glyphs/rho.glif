@@ -2,8 +2,8 @@
 <glyph name="rho" format="2">
   <advance width="620"/>
   <unicode hex="03C1"/>
-  <anchor x="260" y="-140" name="bottom"/>
   <anchor x="320" y="560" name="top"/>
+  <anchor x="260" y="-140" name="bottom"/>
   <outline>
     <contour>
       <point x="40" y="-140" type="line"/>

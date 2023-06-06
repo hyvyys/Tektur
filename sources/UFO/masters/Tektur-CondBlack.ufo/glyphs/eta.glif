@@ -2,8 +2,8 @@
 <glyph name="eta" format="2">
   <advance width="560"/>
   <unicode hex="03B7"/>
-  <anchor x="280" y="0" name="bottom"/>
   <anchor x="280" y="560" name="top"/>
+  <anchor x="280" y="0" name="bottom"/>
   <outline>
     <component base="n"/>
   </outline>

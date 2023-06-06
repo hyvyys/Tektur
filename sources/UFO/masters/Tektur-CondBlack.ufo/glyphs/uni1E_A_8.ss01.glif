@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EA8.ss01" format="2">
   <advance width="560"/>
-  <anchor x="280" y="0" name="bottom"/>
   <anchor x="420" y="0" name="ogonek"/>
   <anchor x="280" y="700" name="top"/>
+  <anchor x="280" y="0" name="bottom"/>
   <outline>
     <component base="A.ss01"/>
     <component base="uni0302_hookabovecomb" xOffset="280" yOffset="140"/>

@@ -4,7 +4,6 @@
   <unicode hex="04D1"/>
   <anchor x="280" y="0" name="bottom"/>
   <anchor x="450" y="0" name="ogonek"/>
-  <anchor x="280" y="560" name="top"/>
   <outline>
     <component base="uni0430"/>
     <component base="uni0306.cy" xOffset="280"/>

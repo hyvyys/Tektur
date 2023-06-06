@@ -2,9 +2,9 @@
 <glyph name="uni1EAA" format="2">
   <advance width="340"/>
   <unicode hex="1EAA"/>
-  <anchor x="170" y="0" name="bottom"/>
   <anchor x="278" y="0" name="ogonek"/>
   <anchor x="170" y="700" name="top"/>
+  <anchor x="170" y="0" name="bottom"/>
   <outline>
     <component base="A"/>
     <component base="uni0302_tildecomb" xOffset="170" yOffset="140"/>

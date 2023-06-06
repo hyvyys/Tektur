@@ -2,7 +2,6 @@
 <glyph name="Cacute.ss02" format="2">
   <advance width="340"/>
   <anchor x="180" y="0" name="bottom"/>
-  <anchor x="180" y="700" name="top"/>
   <outline>
     <component base="C.ss02"/>
     <component base="acutecomb" xOffset="180" yOffset="140"/>

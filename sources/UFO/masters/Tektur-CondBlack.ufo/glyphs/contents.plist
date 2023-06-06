@@ -1292,6 +1292,8 @@
   <string>uni0263.glif</string>
   <key>uni0268</key>
   <string>uni0268.glif</string>
+  <key>uni0268.dotless</key>
+  <string>uni0268.dotless.glif</string>
   <key>uni0272</key>
   <string>uni0272.glif</string>
   <key>uni0289</key>
@@ -2034,6 +2036,8 @@
   <string>uni1E_C_A_.glif</string>
   <key>uni1ECB</key>
   <string>uni1E_C_B_.glif</string>
+  <key>uni1ECB.dotless</key>
+  <string>uni1E_C_B_.dotless.glif</string>
   <key>uni1ECC</key>
   <string>uni1E_C_C_.glif</string>
   <key>uni1ECD</key>

@@ -2,9 +2,9 @@
 <glyph name="dieresis" format="2">
   <advance width="540"/>
   <unicode hex="00A8"/>
-  <anchor x="270" y="730" name="top"/>
+  <anchor x="410" y="730" name="top"/>
   <outline>
-    <component base="uni0308" xOffset="270"/>
+    <component base="uni0308" xOffset="410"/>
   </outline>
   <lib>
   <dict>

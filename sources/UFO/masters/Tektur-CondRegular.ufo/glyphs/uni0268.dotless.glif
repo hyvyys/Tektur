@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0268.dotless" format="2">
+  <advance width="170"/>
+  <outline>
+    <component base="dotlessi"/>
+    <contour>
+      <point x="5" y="274" type="line"/>
+      <point x="165" y="274" type="line"/>
+      <point x="165" y="350" type="line"/>
+      <point x="5" y="350" type="line"/>
+    </contour>
+  </outline>
+</glyph>

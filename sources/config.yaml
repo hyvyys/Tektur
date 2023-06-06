@@ -1,7 +1,69 @@
 # config.yaml
 sources:
-    - UFO/Tektur.designspace
+  - UFO/Tektur.designspace
 axisOrder:
-    - wdth
-    - wght
+  - wdth
+  - wght
 familyName: "Tektur"
+instances:
+  Tektur[wdth,wght].designspace:
+    - familyName: "Tektur Narrow"
+      styleName: "Regular"
+      coordinates:
+        wdth: 87.5
+        wght: 400
+    - familyName: "Tektur Narrow"
+      styleName: "Medium"
+      coordinates:
+        wdth: 87.5
+        wght: 500
+    - familyName: "Tektur Narrow"
+      styleName: "SemiBold"
+      coordinates:
+        wdth: 87.5
+        wght: 600
+    - familyName: "Tektur Narrow"
+      styleName: "Bold"
+      coordinates:
+        wdth: 87.5
+        wght: 700
+    - familyName: "Tektur Narrow"
+      styleName: "ExtraBold"
+      coordinates:
+        wdth: 87.5
+        wght: 800
+    - familyName: "Tektur Narrow"
+      styleName: "Black"
+      coordinates:
+        wdth: 87.5
+        wght: 900
+    - familyName: "Tektur Tight"
+      styleName: "Regular"
+      coordinates:
+        wdth: 75
+        wght: 400
+    - familyName: "Tektur Tight"
+      styleName: "Medium"
+      coordinates:
+        wdth: 75
+        wght: 500
+    - familyName: "Tektur Tight"
+      styleName: "SemiBold"
+      coordinates:
+        wdth: 75
+        wght: 600
+    - familyName: "Tektur Tight"
+      styleName: "Bold"
+      coordinates:
+        wdth: 75
+        wght: 700
+    - familyName: "Tektur Tight"
+      styleName: "ExtraBold"
+      coordinates:
+        wdth: 75
+        wght: 800
+    - familyName: "Tektur Tight"
+      styleName: "Black"
+      coordinates:
+        wdth: 75
+        wght: 900

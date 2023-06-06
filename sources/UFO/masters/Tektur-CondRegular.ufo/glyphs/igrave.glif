@@ -3,7 +3,6 @@
   <advance width="170"/>
   <unicode hex="00EC"/>
   <anchor x="85" y="0" name="bottom"/>
-  <anchor x="85" y="560" name="top"/>
   <outline>
     <component base="dotlessi"/>
     <component base="gravecomb.i" xOffset="85"/>

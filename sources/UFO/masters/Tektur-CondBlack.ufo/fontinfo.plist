@@ -7,7 +7,7 @@
 	<key>capHeight</key>
 	<integer>700</integer>
 	<key>copyright</key>
-	<string>Copyright 2020 The Tektur Project Authors (https://www.github.com/hyvyys/Tektur)</string>
+	<string>Copyright 2023 The Tektur Project Authors (https://www.github.com/hyvyys/Tektur)</string>
 	<key>descender</key>
 	<integer>-250</integer>
 	<key>familyName</key>
@@ -54,7 +54,7 @@
 	<key>openTypeHheaLineGap</key>
 	<integer>0</integer>
 	<key>openTypeNameDescription</key>
-	<string>Tektur is a constructed sans-serif font featuring octagonal outlines and rectangular counters. This rudimentary principle is applied where rounds are typically found, but most of the diagonals are left intact which helps preserve good readability and a familiar stance. The x-height is set high and ascenders are aligned with the cap height allowing for compact typesetting.</string>
+	<string>Tektur is a constructed sans-serif display font featuring octagonal outlines and rectangular counters where rounds are typically found, a tall x-height, and ascenders aligned with the cap height.</string>
 	<key>openTypeNameDesigner</key>
 	<string>Adam Jagosz</string>
 	<key>openTypeNameDesignerURL</key>

@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01CD.ss01" format="2">
   <advance width="360"/>
-  <anchor x="180" y="0" name="bottom"/>
   <anchor x="280" y="0" name="ogonek"/>
-  <anchor x="180" y="700" name="top"/>
+  <anchor x="180" y="0" name="bottom"/>
   <outline>
     <component base="A.ss01"/>
     <component base="uni030C" xOffset="180" yOffset="140"/>

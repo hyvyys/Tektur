@@ -3,7 +3,6 @@
   <advance width="925"/>
   <unicode hex="01FD"/>
   <anchor x="462.5" y="0" name="bottom"/>
-  <anchor x="462.5" y="560" name="top"/>
   <outline>
     <component base="ae"/>
     <component base="acutecomb" xOffset="463"/>

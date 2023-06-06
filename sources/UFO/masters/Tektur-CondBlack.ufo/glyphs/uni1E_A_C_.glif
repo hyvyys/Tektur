@@ -2,7 +2,6 @@
 <glyph name="uni1EAC" format="2">
   <advance width="580"/>
   <unicode hex="1EAC"/>
-  <anchor x="290" y="0" name="bottom"/>
   <anchor x="465" y="0" name="ogonek"/>
   <anchor x="290" y="890" name="top"/>
   <outline>

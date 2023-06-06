@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gamma_gamma" format="2">
   <advance width="620"/>
-  <anchor x="310" y="-140" name="bottom"/>
   <anchor x="310" y="560" name="top"/>
+  <anchor x="310" y="-140" name="bottom"/>
   <outline>
     <contour>
       <point x="123" y="-20" type="line"/>

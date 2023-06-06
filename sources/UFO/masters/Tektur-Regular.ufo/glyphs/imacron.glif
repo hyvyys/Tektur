@@ -2,8 +2,8 @@
 <glyph name="imacron" format="2">
   <advance width="210"/>
   <unicode hex="012B"/>
-  <anchor x="105" y="0" name="bottom"/>
   <anchor x="105" y="730" name="top"/>
+  <anchor x="105" y="0" name="bottom"/>
   <outline>
     <component base="dotlessi"/>
     <contour>

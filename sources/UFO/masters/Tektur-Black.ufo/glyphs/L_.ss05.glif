@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="L.ss05" format="2">
   <advance width="545"/>
-  <anchor x="280" y="0" name="bottom"/>
   <anchor x="170" y="700" name="top"/>
+  <anchor x="280" y="0" name="bottom"/>
   <outline>
     <contour>
       <point x="40" y="0" type="line"/>

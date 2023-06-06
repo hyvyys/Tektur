@@ -2,9 +2,9 @@
 <glyph name="uni1EC5" format="2">
   <advance width="330"/>
   <unicode hex="1EC5"/>
-  <anchor x="180" y="0" name="bottom"/>
-  <anchor x="215" y="0" name="ogonek"/>
   <anchor x="180" y="560" name="top"/>
+  <anchor x="215" y="0" name="ogonek"/>
+  <anchor x="180" y="0" name="bottom"/>
   <outline>
     <component base="e"/>
     <component base="uni0302_tildecomb" xOffset="180"/>

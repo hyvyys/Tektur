@@ -3,7 +3,6 @@
   <advance width="560"/>
   <anchor x="280" y="0" name="bottom"/>
   <anchor x="440" y="0" name="ogonek"/>
-  <anchor x="280" y="560" name="top"/>
   <outline>
     <component base="uni0438.loclBGR"/>
     <component base="uni0306.cy" xOffset="280"/>

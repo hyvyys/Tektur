@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lslash.ss05" format="2">
   <advance width="545"/>
-  <anchor x="325" y="0" name="bottom"/>
   <anchor x="163" y="700" name="top"/>
+  <anchor x="325" y="0" name="bottom"/>
   <outline>
     <component base="L.ss05"/>
     <contour>

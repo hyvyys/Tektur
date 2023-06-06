@@ -2,8 +2,8 @@
 <glyph name="Ldot" format="2">
   <advance width="600"/>
   <unicode hex="013F"/>
-  <anchor x="315" y="0" name="bottom"/>
   <anchor x="190" y="700" name="top"/>
+  <anchor x="315" y="0" name="bottom"/>
   <outline>
     <component base="L"/>
     <component base="periodcentered.loclCAT.cap" xOffset="600"/>

@@ -2,9 +2,9 @@
 <glyph name="Epsilontonos" format="2">
   <advance width="820"/>
   <unicode hex="0388"/>
+  <anchor x="535" y="700" name="top"/>
   <anchor x="535" y="0" name="bottom"/>
   <anchor x="660" y="0" name="ogonek"/>
-  <anchor x="535" y="700" name="top"/>
   <outline>
     <component base="tonos"/>
     <component base="Epsilon" xOffset="240"/>

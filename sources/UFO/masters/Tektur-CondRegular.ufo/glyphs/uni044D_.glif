@@ -2,9 +2,9 @@
 <glyph name="uni044D" format="2">
   <advance width="290"/>
   <unicode hex="044D"/>
-  <anchor x="110" y="0" name="bottom"/>
-  <anchor x="57" y="0" name="ogonek"/>
   <anchor x="110" y="560" name="top"/>
+  <anchor x="57" y="0" name="ogonek"/>
+  <anchor x="110" y="0" name="bottom"/>
   <outline>
     <component base="uni0454" xScale="-1" xOffset="290"/>
   </outline>

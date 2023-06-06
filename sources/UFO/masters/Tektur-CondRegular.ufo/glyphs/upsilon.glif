@@ -2,8 +2,8 @@
 <glyph name="upsilon" format="2">
   <advance width="350"/>
   <unicode hex="03C5"/>
-  <anchor x="175" y="0" name="bottom"/>
   <anchor x="175" y="560" name="top"/>
+  <anchor x="175" y="0" name="bottom"/>
   <outline>
     <contour>
       <point x="310" y="560" type="line"/>

@@ -2,9 +2,8 @@
 <glyph name="uni0200" format="2">
   <advance width="650"/>
   <unicode hex="0200"/>
-  <anchor x="325" y="0" name="bottom"/>
   <anchor x="580" y="0" name="ogonek"/>
-  <anchor x="325" y="700" name="top"/>
+  <anchor x="325" y="0" name="bottom"/>
   <outline>
     <component base="A"/>
     <component base="uni030F" xOffset="325" yOffset="140"/>
@@ -13,6 +12,8 @@
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
+  <key>com.fontlab.recipe</key>
+  <string>A+uni030F</string>
   </dict>
   </lib>
 </glyph>

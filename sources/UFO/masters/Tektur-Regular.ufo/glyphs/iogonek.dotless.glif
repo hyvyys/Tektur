@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iogonek.dotless" format="2">
   <advance width="210"/>
-  <anchor x="105" y="0" name="bottom"/>
   <anchor x="105" y="560" name="top"/>
+  <anchor x="105" y="0" name="bottom"/>
   <outline>
     <component base="dotlessi"/>
     <component base="uni0328" xOffset="105"/>

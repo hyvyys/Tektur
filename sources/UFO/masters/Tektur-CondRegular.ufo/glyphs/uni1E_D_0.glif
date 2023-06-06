@@ -2,8 +2,8 @@
 <glyph name="uni1ED0" format="2">
   <advance width="360"/>
   <unicode hex="1ED0"/>
-  <anchor x="180" y="0" name="bottom"/>
   <anchor x="180" y="700" name="top"/>
+  <anchor x="180" y="0" name="bottom"/>
   <outline>
     <component base="O"/>
     <component base="uni0302_acutecomb" xOffset="180" yOffset="140"/>

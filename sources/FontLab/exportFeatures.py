@@ -18,4 +18,4 @@ f = open(path, "w")
 f.write(text)
 f.close()
 
-print 'written features to: ' + path
+print ('written features to: ' + path)

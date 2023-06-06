@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni044E.loclBGR" format="2">
   <advance width="900"/>
-  <anchor x="450" y="0" name="bottom"/>
   <anchor x="450" y="560" name="top"/>
+  <anchor x="450" y="0" name="bottom"/>
   <outline>
     <contour>
       <point x="40" y="0" type="line"/>

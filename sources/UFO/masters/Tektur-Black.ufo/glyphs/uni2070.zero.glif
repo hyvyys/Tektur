@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2070.zero" format="2">
   <advance width="480"/>
-  <anchor x="240" y="0" name="bottom"/>
   <anchor x="240" y="700" name="top"/>
+  <anchor x="240" y="0" name="bottom"/>
   <outline>
     <contour>
       <point x="30" y="386" type="line"/>

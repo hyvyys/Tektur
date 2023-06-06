@@ -2,7 +2,6 @@
 <glyph name="uni1ECD" format="2">
   <advance width="600"/>
   <unicode hex="1ECD"/>
-  <anchor x="300" y="0" name="bottom"/>
   <anchor x="300" y="560" name="top"/>
   <outline>
     <component base="o"/>

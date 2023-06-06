@@ -2,8 +2,8 @@
 <glyph name="uni04AF" format="2">
   <advance width="330"/>
   <unicode hex="04AF"/>
-  <anchor x="165" y="-140" name="bottom"/>
   <anchor x="165" y="560" name="top"/>
+  <anchor x="165" y="-140" name="bottom"/>
   <outline>
     <component base="gamma"/>
   </outline>

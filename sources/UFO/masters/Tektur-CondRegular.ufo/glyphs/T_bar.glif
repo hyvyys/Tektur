@@ -2,8 +2,8 @@
 <glyph name="Tbar" format="2">
   <advance width="280"/>
   <unicode hex="0166"/>
-  <anchor x="140" y="0" name="bottom"/>
   <anchor x="140" y="700" name="top"/>
+  <anchor x="140" y="0" name="bottom"/>
   <outline>
     <component base="T"/>
     <contour>

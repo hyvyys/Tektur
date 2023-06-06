@@ -2,8 +2,8 @@
 <glyph name="uni043A" format="2">
   <advance width="620"/>
   <unicode hex="043A"/>
-  <anchor x="330" y="0" name="bottom"/>
   <anchor x="280" y="560" name="top"/>
+  <anchor x="330" y="0" name="bottom"/>
   <outline>
     <component base="kgreenlandic"/>
   </outline>

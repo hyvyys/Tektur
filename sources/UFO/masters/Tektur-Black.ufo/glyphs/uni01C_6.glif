@@ -2,8 +2,8 @@
 <glyph name="uni01C6" format="2">
   <advance width="1150"/>
   <unicode hex="01C6"/>
+  <anchor x="360" y="700" name="top"/>
   <anchor x="885" y="0" name="bottom"/>
-  <anchor x="885" y="560" name="top"/>
   <outline>
     <component base="d"/>
     <component base="zcaron" xOffset="620"/>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0446.loclBGR" format="2">
   <advance width="632"/>
+  <anchor x="316" y="560" name="top"/>
   <anchor x="316" y="0" name="bottom"/>
   <anchor x="485" y="0" name="ogonek"/>
-  <anchor x="316" y="560" name="top"/>
   <outline>
     <contour>
       <point x="560" y="560" type="line"/>

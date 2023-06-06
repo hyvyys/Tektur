@@ -2,8 +2,8 @@
 <glyph name="uni2080" format="2">
   <advance width="450"/>
   <unicode hex="2080"/>
-  <anchor x="225" y="-400" name="bottom"/>
   <anchor x="225" y="300" name="top"/>
+  <anchor x="225" y="-400" name="bottom"/>
   <outline>
     <component base="uni2070" yOffset="-400"/>
   </outline>

@@ -2,8 +2,8 @@
 <glyph name="uni0422" format="2">
   <advance width="450"/>
   <unicode hex="0422"/>
-  <anchor x="225" y="0" name="bottom"/>
   <anchor x="225" y="700" name="top"/>
+  <anchor x="225" y="0" name="bottom"/>
   <outline>
     <component base="T"/>
   </outline>

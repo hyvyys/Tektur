@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EAA.ss01" format="2">
   <advance width="660"/>
-  <anchor x="330" y="0" name="bottom"/>
   <anchor x="560" y="0" name="ogonek"/>
   <anchor x="330" y="700" name="top"/>
+  <anchor x="330" y="0" name="bottom"/>
   <outline>
     <component base="A.ss01"/>
     <component base="uni0302_tildecomb" xOffset="330" yOffset="140"/>

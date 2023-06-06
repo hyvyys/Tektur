@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acute" format="2">
-  <advance width="280"/>
+  <advance width="450"/>
   <unicode hex="00B4"/>
   <outline>
-    <component base="acutecomb" xOffset="130"/>
+    <component base="acutecomb" xOffset="375"/>
   </outline>
   <lib>
   <dict>

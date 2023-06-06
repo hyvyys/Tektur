@@ -2,8 +2,8 @@
 <glyph name="product" format="2">
   <advance width="580"/>
   <unicode hex="220F"/>
-  <anchor x="290" y="0" name="bottom"/>
   <anchor x="290" y="700" name="top"/>
+  <anchor x="290" y="0" name="bottom"/>
   <outline>
     <contour>
       <point x="30" y="-140" type="line"/>

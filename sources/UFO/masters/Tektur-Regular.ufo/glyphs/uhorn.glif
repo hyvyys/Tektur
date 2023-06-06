@@ -2,9 +2,9 @@
 <glyph name="uhorn" format="2">
   <advance width="620"/>
   <unicode hex="01B0"/>
+  <anchor x="310" y="560" name="top"/>
   <anchor x="310" y="0" name="bottom"/>
   <anchor x="470" y="0" name="ogonek"/>
-  <anchor x="310" y="560" name="top"/>
   <outline>
     <contour>
       <point x="60" y="90" type="line"/>

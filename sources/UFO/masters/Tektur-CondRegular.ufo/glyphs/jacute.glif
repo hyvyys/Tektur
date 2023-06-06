@@ -2,7 +2,6 @@
 <glyph name="jacute" format="2">
   <advance width="170"/>
   <anchor x="85" y="-140" name="bottom"/>
-  <anchor x="85" y="560" name="top"/>
   <outline>
     <component base="uni0237"/>
     <component base="acutecomb.i" xOffset="85"/>

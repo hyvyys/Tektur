@@ -2,9 +2,9 @@
 <glyph name="uni1EB2" format="2">
   <advance width="580"/>
   <unicode hex="1EB2"/>
-  <anchor x="290" y="0" name="bottom"/>
   <anchor x="465" y="0" name="ogonek"/>
   <anchor x="290" y="700" name="top"/>
+  <anchor x="290" y="0" name="bottom"/>
   <outline>
     <component base="A"/>
     <component base="uni0306_hookabovecomb" xOffset="290" yOffset="140"/>

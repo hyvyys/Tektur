@@ -2,8 +2,8 @@
 <glyph name="Iota" format="2">
   <advance width="350"/>
   <unicode hex="0399"/>
-  <anchor x="175" y="0" name="bottom"/>
   <anchor x="175" y="700" name="top"/>
+  <anchor x="175" y="0" name="bottom"/>
   <outline>
     <component base="I"/>
   </outline>

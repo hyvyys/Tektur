@@ -2,8 +2,8 @@
 <glyph name="Nu" format="2">
   <advance width="380"/>
   <unicode hex="039D"/>
-  <anchor x="190" y="0" name="bottom"/>
   <anchor x="190" y="700" name="top"/>
+  <anchor x="190" y="0" name="bottom"/>
   <outline>
     <component base="N"/>
   </outline>

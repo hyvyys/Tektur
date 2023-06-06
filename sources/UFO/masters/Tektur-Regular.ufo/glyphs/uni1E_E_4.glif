@@ -2,9 +2,8 @@
 <glyph name="uni1EE4" format="2">
   <advance width="650"/>
   <unicode hex="1EE4"/>
-  <anchor x="325" y="0" name="bottom"/>
-  <anchor x="370" y="0" name="ogonek"/>
   <anchor x="325" y="700" name="top"/>
+  <anchor x="370" y="0" name="ogonek"/>
   <outline>
     <component base="U"/>
     <component base="dotbelowcomb" xOffset="325"/>

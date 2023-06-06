@@ -3,7 +3,6 @@
   <advance width="340"/>
   <unicode hex="0390"/>
   <anchor x="170" y="0" name="bottom"/>
-  <anchor x="150" y="730" name="top"/>
   <outline>
     <component base="iotadieresis"/>
     <component base="tonoscomb" xOffset="150" yOffset="170"/>

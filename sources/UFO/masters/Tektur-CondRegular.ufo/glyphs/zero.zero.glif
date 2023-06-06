@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zero.zero" format="2">
   <advance width="360"/>
-  <anchor x="180" y="0" name="bottom"/>
   <anchor x="180" y="700" name="top"/>
+  <anchor x="180" y="0" name="bottom"/>
   <outline>
     <contour>
       <point x="40" y="80" type="line"/>
