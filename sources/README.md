@@ -13,29 +13,36 @@ The `UFO/*.designspace` files are not as exported from FontLab and should not be
 
 ## Setting up a build environment
 
-A Linux system is recommended. Under Windows, you can use a Linux Subsystem for Windows.
-Make sure you have Python 3 installed.
+A macOS/ Linux system is recommended. Under Windows, you can use a Linux Subsystem for Windows.
+Make sure you have Python 3 installed and create a `virtualenv`.
 
-Create a `virtualenv` if you like:
+### Set up Python and venv on Linux/WSL:
 
 ```bash
 sudo apt-get update
 sudo apt install python3-virtualenv
+virtualenv --python=/usr/bin/python3 ./build
+python3 -m venv ./build
 ```
 
-Get your python location: `which python3`, then use it in the project’s directory to create a `virtualenv`:
+or
+
+### Set up Python and venv on macOS:
+
+Install [brew](https://brew.sh/index_pl), then:
 
 ```bash
-virtualenv --python=/usr/bin/python3 ./build
+brew install python3
+python3 -m venv ./build
 ```
 
-Activate the `virtualenv`:
+### Activate the `virtualenv`:
 
 ```bash
 source ./build/bin/activate
 ```
 
-Install prerequisites from `/requirements.txt`:
+### Install prerequisites from `/requirements.txt`:
 
 ```bash
 pip install -r ./requirements.txt
@@ -43,4 +50,9 @@ pip install -r ./requirements.txt
 
 ## Building the fonts
 
-Open terminal in `/sources`. Run `./build.sh`.
+Open terminal in `/sources`. Run `./build.sh`. If needed, set execution permissions for the build and test scripts first:
+
+```bash
+sudo chmod 777 ./build.sh
+sudo chmod 777 ./test.sh
+```

@@ -1,0 +1,7 @@
+# config.yaml
+sources:
+    - UFO/Tektur.designspace
+axisOrder:
+    - wdth
+    - wght
+familyName: "Tektur"
