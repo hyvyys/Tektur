@@ -1,8 +1,8 @@
 fontbakery check-googlefonts ./fonts/**/*.ttf
 variableFont="../fonts/variable/Tektur[wdth,wght].ttf"
 staticFonts1="../fonts/ttf/Tektur-*"
-staticFonts2="../fonts/ttf/TekturSemiCondensed-*"
-staticFonts3="../fonts/ttf/TekturCondensed-*"
+staticFonts2="../fonts/ttf/TekturSemiCond-*"
+staticFonts3="../fonts/ttf/TekturCond-*"
 
 PARAMS=(
 -x "com.google.fonts/check/family/tnum_horizontal_metrics" # https://github.com/googlefonts/fontbakery/issues/2278#issuecomment-739417643
@@ -18,6 +18,9 @@ PARAMS=(
 -x "com.google.fonts/check/outline_alignment_miss"         # fails because of accents like tilde
 -x "com.google.fonts/check/gdef_mark_chars"                # uni0315 in this font is spacing and contains no anchors
 )
+
+PARAMS=()
+
 fontbakery check-googlefonts --succinct -l WARN --json report-Tektur-variable.json $variableFont
 fontbakery check-googlefonts --succinct -l WARN --json report-Tektur.json ${PARAMS[@]} $staticFonts1
 fontbakery check-googlefonts --succinct -l WARN --json report-Tektur-SemiCondensed.json ${PARAMS[@]} $staticFonts2
