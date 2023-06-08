@@ -9,7 +9,7 @@
 	<key>copyright</key>
 	<string>Copyright 2023 The Tektur Project Authors (https://www.github.com/hyvyys/Tektur)</string>
 	<key>descender</key>
-	<integer>-250</integer>
+	<integer>-300</integer>
 	<key>familyName</key>
 	<string>Tektur</string>
 	<key>guidelines</key>
@@ -115,7 +115,7 @@
 	<key>openTypeOS2TypoAscender</key>
 	<integer>1000</integer>
 	<key>openTypeOS2TypoDescender</key>
-	<integer>-250</integer>
+	<integer>-300</integer>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>0</integer>
 	<key>openTypeOS2VendorID</key>
@@ -127,7 +127,7 @@
 	<key>openTypeOS2WinAscent</key>
 	<integer>1000</integer>
 	<key>openTypeOS2WinDescent</key>
-	<integer>250</integer>
+	<integer>300</integer>
 	<key>postscriptBlueFuzz</key>
 	<integer>1</integer>
 	<key>postscriptBlueScale</key>

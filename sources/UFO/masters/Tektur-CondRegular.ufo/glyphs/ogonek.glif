@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ogonek" format="2">
-  <advance width="450"/>
+  <advance width="490"/>
   <unicode hex="02DB"/>
   <outline>
-    <component base="uni0328" xOffset="397"/>
+    <component base="uni0328" xOffset="437"/>
   </outline>
   <lib>
   <dict>

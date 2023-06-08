@@ -3115,17 +3115,17 @@ feature mark {
       pos base uni058F
           <anchor 310 700> mark @top;
       pos base circumflex
-          <anchor 410 750> mark @top;
+          <anchor 450 750> mark @top;
       pos base tilde
-          <anchor 410 730> mark @top;
+          <anchor 450 730> mark @top;
       pos base dieresis
-          <anchor 410 730> mark @top;
+          <anchor 450 730> mark @top;
       pos base dotaccent
-          <anchor 410 730> mark @top;
+          <anchor 450 730> mark @top;
       pos base ring
-          <anchor 410 800> mark @top;
+          <anchor 450 800> mark @top;
       pos base macron
-          <anchor 410 730> mark @top;
+          <anchor 450 730> mark @top;
       pos base fi
           <anchor 600 730> mark @top;
       pos base fl
