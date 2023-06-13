@@ -4,22 +4,7 @@
   <anchor x="0" y="560" name="_top"/>
   <anchor x="0" y="800" name="top"/>
   <outline>
-    <contour>
-      <point x="-133" y="641" type="line"/>
-      <point x="-57" y="580" type="line"/>
-      <point x="57" y="580" type="line"/>
-      <point x="133" y="641" type="line"/>
-      <point x="133" y="739" type="line"/>
-      <point x="57" y="800" type="line"/>
-      <point x="-57" y="800" type="line"/>
-      <point x="-133" y="739" type="line"/>
-    </contour>
-    <contour>
-      <point x="-39" y="660" type="line"/>
-      <point x="-39" y="720" type="line"/>
-      <point x="39" y="720" type="line"/>
-      <point x="39" y="660" type="line"/>
-    </contour>
+    <component base="ring" xOffset="-173"/>
   </outline>
   <lib>
   <dict>

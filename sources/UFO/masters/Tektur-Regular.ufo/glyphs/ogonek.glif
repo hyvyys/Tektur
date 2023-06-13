@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ogonek" format="2">
-  <advance width="2340"/>
+  <advance width="217"/>
   <unicode hex="02DB"/>
   <outline>
-    <component base="uni0328" xOffset="2229"/>
+    <contour>
+      <point x="177" y="-60" type="line"/>
+      <point x="104" y="-60" type="line"/>
+      <point x="40" y="-200" type="line"/>
+      <point x="137" y="-200" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.metricsLeft</key>
   <string>=40</string>
   <key>com.fontlab.metricsRight</key>

@@ -3,17 +3,6 @@
   <unicode hex="030B"/>
   <anchor x="0" y="560" name="_top"/>
   <outline>
-    <contour>
-      <point x="-155" y="590" type="line"/>
-      <point x="-35" y="590" type="line"/>
-      <point x="45" y="730" type="line"/>
-      <point x="-115" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="10" y="590" type="line"/>
-      <point x="130" y="590" type="line"/>
-      <point x="230" y="730" type="line"/>
-      <point x="70" y="730" type="line"/>
-    </contour>
+    <component base="hungarumlaut" xOffset="-195"/>
   </outline>
 </glyph>

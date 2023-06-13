@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotaccent" format="2">
-  <advance width="2340"/>
+  <advance width="170"/>
   <unicode hex="02D9"/>
-  <anchor x="2210" y="710" name="top"/>
   <outline>
-    <component base="uni0307" xOffset="2210"/>
+    <contour>
+      <point x="40" y="630" type="line"/>
+      <point x="130" y="630" type="line"/>
+      <point x="130" y="710" type="line"/>
+      <point x="40" y="710" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.metricsLeft</key>
   <string>=40</string>
   <key>com.fontlab.metricsRight</key>

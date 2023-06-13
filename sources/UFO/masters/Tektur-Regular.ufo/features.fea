@@ -1,12 +1,14 @@
-@grek_UC = [Alpha Beta Gamma uni0394 Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi uni03A9 Alphatonos Epsilontonos Etatonos Iotatonos Iotadieresis Omicrontonos Upsilontonos Upsilondieresis Omegatonos Omicron_Upsilon];
-@grek_UC_tonos = [Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos];
-@grek_UC_tonosless = [Alpha Epsilon Eta Iota Omicron Upsilon uni03A9];
-@grek_lc = [alpha beta gamma delta epsilon zeta eta theta iota kappa lambda uni03BC nu xi omicron pi rho uni03C2 sigma tau upsilon phi chi psi omega alphatonos epsilontonos etatonos iotatonos iotadieresis iotadieresistonos omicrontonos upsilontonos upsilondieresis upsilondieresistonos omegatonos gamma_gamma lambda_lambda];
-@loclBGR_0 = [uni0414 uni041B uni0424 uni0432 uni0433 uni0434 uni0436 uni0437 uni0438 uni0439 uni045D uni043A uni043F uni0442 uni0446 uni0448 uni0449 uni044A uni044C uni044E];
-@loclBGR_1 = [uni0414.loclBGR uni041B.loclBGR uni0424.loclBGR uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni0438.loclBGR uni0439.loclBGR uni045D.loclBGR uni043A.loclBGR uni043F.loclBGR uni0442.loclBGR uni0446.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044C.loclBGR uni044E.loclBGR];
 #> classes
 #/> otclasses
-@CombiningTopAccents = [gravecomb acutecomb uni0302 uni030C uni0311 uni0306 tildecomb uni0308 uni0307 uni030A uni030B uni030F uni0304 uni0312 hookabovecomb gravecomb.i acutecomb.i];
+@CombiningTopAccents = [gravecomb acutecomb uni0302 uni030C uni0311 uni0306 tildecomb uni0308 uni0307 uni030A uni030B uni030F uni0304 uni0312 uni0312 hookabovecomb gravecomb.i acutecomb.i];
+@loclBGR_0 = [uni0414 uni041B uni0424 uni0432 uni0433 uni0434 uni0436 uni0437 uni0438 uni0439 uni045D uni043A uni043B uni043F uni0442 uni0446 uni0448 uni0449 uni044A uni044C uni044E];
+@loclBGR_1 = [uni0414.loclBGR uni041B.loclBGR uni0424.loclBGR uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni0438.loclBGR uni0439.loclBGR uni045D.loclBGR uni043A.loclBGR uni043B.loclBGR uni043F.loclBGR uni0442.loclBGR uni0446.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044C.loclBGR uni044E.loclBGR];
+@grek_UC = [Alpha Beta Gamma uni0394 Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi uni03A9 Alphatonos Epsilontonos Etatonos Iotatonos Iotadieresis Omicrontonos Upsilontonos Upsilondieresis Omegatonos Omicron_Upsilon];
+@grek_lc = [alpha beta gamma delta epsilon zeta eta theta iota kappa lambda uni03BC nu xi omicron pi rho uni03C2 sigma tau upsilon phi chi psi omega alphatonos epsilontonos etatonos iotatonos iotadieresis iotadieresistonos omicrontonos upsilontonos upsilondieresis upsilondieresistonos omegatonos gamma_gamma lambda_lambda];
+@grek_UC_tonos = [Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos];
+@grek_UC_tonosless = [Alpha Epsilon Eta Iota Omicron Upsilon uni03A9];
+@loclSRB_0 = [uni0431];
+@loclSRB_1 = [uni0431.loclSRB];
 #/< otclasses
 #< classes
 
@@ -17,6 +19,7 @@ languagesystem latn NLD;
 
 languagesystem cyrl dflt;
 languagesystem cyrl BGR;
+languagesystem cyrl SRB;
 
 languagesystem grek dflt;
 
@@ -24,8 +27,8 @@ languagesystem grek dflt;
 
 
 feature ccmp {
-  sub [i j iogonek uni0268 uni0456 uni1ECB]' [uni031B uni0326 uni0327 uni0328 dotbelowcomb uni0329 uni0331] @CombiningTopAccents by [dotlessi uni0237 iogonek.dotless uni0268.dotless dotlessi uni1ECB.dotless];
-  sub [i j iogonek uni0268 uni0456 uni1ECB]' @CombiningTopAccents by [dotlessi uni0237 iogonek.dotless uni0268.dotless dotlessi uni1ECB.dotless];
+  sub [i j iogonek uni0268 uni0456 uni0458 uni1ECB]' [uni031B uni0326 uni0327 uni0328 dotbelowcomb uni0329 uni0331] @CombiningTopAccents by [dotlessi uni0237 iogonek.dotless uni0268.dotless dotlessi uni0237 uni1ECB.dotless];
+  sub [i j iogonek uni0268 uni0456 uni0458 uni1ECB]' @CombiningTopAccents by [dotlessi uni0237 iogonek.dotless uni0268.dotless dotlessi uni0237 uni1ECB.dotless];
   sub [dotlessi uni0237 iogonek.dotless uni0268.dotless dotlessi] [ acutecomb gravecomb ]' by [ acutecomb.i gravecomb.i ];
 } ccmp;
 
@@ -57,6 +60,8 @@ sub Iacute J' by Jacute;
 script cyrl;
 language BGR;
 sub @loclBGR_0 by @loclBGR_1;
+language SRB;
+sub @loclSRB_0 by @loclSRB_1;
 
 } locl;
 
@@ -1427,11 +1432,11 @@ feature mark {
       pos base Etatonos
           <anchor 535 0> mark @bottom;
       pos base Iotatonos
-          <anchor 315 0> mark @bottom;
+          <anchor 415 0> mark @bottom;
       pos base Iotadieresis
           <anchor 215 0> mark @bottom;
       pos base Omicrontonos
-          <anchor 440 0> mark @bottom;
+          <anchor 510 0> mark @bottom;
       pos base Upsilontonos
           <anchor 520 0> mark @bottom;
       pos base Upsilondieresis
@@ -1582,8 +1587,6 @@ feature mark {
           <anchor 330 0> mark @bottom;
       pos base uni043B
           <anchor 310 0> mark @bottom;
-      pos base uni043B.loclBGR
-          <anchor 290 560> mark @bottom;
       pos base uni043C
           <anchor 360 0> mark @bottom;
       pos base uni043D
@@ -1872,6 +1875,8 @@ feature mark {
           <anchor 310 0> mark @bottom;
       pos base uni043A.loclBGR
           <anchor 300 0> mark @bottom;
+      pos base uni043B.loclBGR
+          <anchor 290 560> mark @bottom;
       pos base uni043F.loclBGR
           <anchor 310 0> mark @bottom;
       pos base uni0442.loclBGR
@@ -3114,18 +3119,6 @@ feature mark {
           <anchor 280 700> mark @top;
       pos base uni058F
           <anchor 310 700> mark @top;
-      pos base circumflex
-          <anchor 2210 750> mark @top;
-      pos base tilde
-          <anchor 170 730> mark @top;
-      pos base dieresis
-          <anchor 2210 710> mark @top;
-      pos base dotaccent
-          <anchor 2210 710> mark @top;
-      pos base ring
-          <anchor 2210 790> mark @top;
-      pos base macron
-          <anchor 2210 730> mark @top;
       pos base fi
           <anchor 515 710> mark @top;
       pos base fl
@@ -3179,11 +3172,11 @@ feature mark {
       pos base Etatonos
           <anchor 535 700> mark @top;
       pos base Iotatonos
-          <anchor 315 700> mark @top;
+          <anchor 415 700> mark @top;
       pos base Iotadieresis
           <anchor 215 850> mark @top;
       pos base Omicrontonos
-          <anchor 440 700> mark @top;
+          <anchor 510 700> mark @top;
       pos base Upsilontonos
           <anchor 520 700> mark @top;
       pos base Upsilondieresis
@@ -3312,8 +3305,6 @@ feature mark {
           <anchor 280 560> mark @top;
       pos base uni043B
           <anchor 310 560> mark @top;
-      pos base uni043B.loclBGR
-          <anchor 290 0> mark @top;
       pos base uni043C
           <anchor 360 560> mark @top;
       pos base uni043D
@@ -3562,6 +3553,8 @@ feature mark {
           <anchor 310 560> mark @top;
       pos base uni043A.loclBGR
           <anchor 280 700> mark @top;
+      pos base uni043B.loclBGR
+          <anchor 290 0> mark @top;
       pos base uni043F.loclBGR
           <anchor 310 560> mark @top;
       pos base uni0442.loclBGR

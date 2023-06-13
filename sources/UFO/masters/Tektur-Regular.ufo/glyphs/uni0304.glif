@@ -4,11 +4,6 @@
   <anchor x="0" y="560" name="_top"/>
   <anchor x="0" y="730" name="top"/>
   <outline>
-    <contour>
-      <point x="-170" y="654" type="line"/>
-      <point x="170" y="654" type="line"/>
-      <point x="170" y="730" type="line"/>
-      <point x="-170" y="730" type="line"/>
-    </contour>
+    <component base="macron" xOffset="-210"/>
   </outline>
 </glyph>

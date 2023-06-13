@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acute" format="2">
-  <advance width="580"/>
+  <advance width="400"/>
   <unicode hex="00B4"/>
   <outline>
-    <component base="acutecomb" xOffset="420"/>
+    <component base="acutecomb" xOffset="170"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.metricsLeft</key>
   <string>=40</string>
   <key>com.fontlab.metricsRight</key>

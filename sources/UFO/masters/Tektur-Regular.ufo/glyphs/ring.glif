@@ -1,15 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ring" format="2">
-  <advance width="2340"/>
+  <advance width="356"/>
   <unicode hex="02DA"/>
-  <anchor x="2210" y="790" name="top"/>
   <outline>
-    <component base="uni030A" xOffset="2210"/>
+    <contour>
+      <point x="40" y="641" type="line"/>
+      <point x="101" y="590" type="line"/>
+      <point x="255" y="590" type="line"/>
+      <point x="316" y="641" type="line"/>
+      <point x="316" y="739" type="line"/>
+      <point x="255" y="790" type="line"/>
+      <point x="101" y="790" type="line"/>
+      <point x="40" y="739" type="line"/>
+    </contour>
+    <contour>
+      <point x="108" y="654" type="line"/>
+      <point x="108" y="726" type="line"/>
+      <point x="248" y="726" type="line"/>
+      <point x="248" y="654" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.metricsLeft</key>
   <string>=40</string>
   <key>com.fontlab.metricsRight</key>

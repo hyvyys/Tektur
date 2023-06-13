@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hungarumlaut" format="2">
-  <advance width="580"/>
+  <advance width="465"/>
   <unicode hex="02DD"/>
   <outline>
-    <component base="uni030B" xOffset="413"/>
+    <contour>
+      <point x="40" y="590" type="line"/>
+      <point x="160" y="590" type="line"/>
+      <point x="240" y="730" type="line"/>
+      <point x="80" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="205" y="590" type="line"/>
+      <point x="325" y="590" type="line"/>
+      <point x="425" y="730" type="line"/>
+      <point x="265" y="730" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.metricsLeft</key>
   <string>=40</string>
   <key>com.fontlab.metricsRight</key>

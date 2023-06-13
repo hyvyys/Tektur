@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="macron" format="2">
-  <advance width="2340"/>
+  <advance width="420"/>
   <unicode hex="00AF"/>
-  <anchor x="2210" y="730" name="top"/>
   <outline>
-    <component base="uni0304" xOffset="2210"/>
+    <contour>
+      <point x="40" y="654" type="line"/>
+      <point x="380" y="654" type="line"/>
+      <point x="380" y="730" type="line"/>
+      <point x="40" y="730" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.metricsLeft</key>
   <string>=40</string>
   <key>com.fontlab.metricsRight</key>

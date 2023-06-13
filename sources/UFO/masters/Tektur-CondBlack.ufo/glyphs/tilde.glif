@@ -1,21 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tilde" format="2">
-  <advance width="2240"/>
+  <advance width="400"/>
   <unicode hex="02DC"/>
-  <anchor x="2160" y="730" name="top"/>
   <outline>
-    <component base="tildecomb" xOffset="2160"/>
+    <contour>
+      <point x="60" y="570" type="line"/>
+      <point x="156" y="615" type="line"/>
+      <point x="260" y="575" type="line"/>
+      <point x="360" y="635" type="line"/>
+      <point x="340" y="750" type="line"/>
+      <point x="244" y="705" type="line"/>
+      <point x="140" y="745" type="line"/>
+      <point x="40" y="685" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.metricsLeft</key>
   <string>=40</string>
   <key>com.fontlab.metricsRight</key>
   <string>|</string>
-  <key>com.fontlab.recipe</key>
-  <string>space+tildecomb</string>
   </dict>
   </lib>
 </glyph>

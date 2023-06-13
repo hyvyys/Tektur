@@ -70,8 +70,6 @@
   <string>C_.ss02.glif</string>
   <key>C.ss03</key>
   <string>C_.ss03.glif</string>
-  <key>CR</key>
-  <string>C_R_.glif</string>
   <key>Cacute</key>
   <string>C_acute.glif</string>
   <key>Cacute.ss02</key>
@@ -260,8 +258,6 @@
   <string>M_u.ss04.glif</string>
   <key>N</key>
   <string>N_.glif</string>
-  <key>NULL</key>
-  <string>N_U_L_L_.glif</string>
   <key>Nacute</key>
   <string>N_acute.glif</string>
   <key>Ncaron</key>

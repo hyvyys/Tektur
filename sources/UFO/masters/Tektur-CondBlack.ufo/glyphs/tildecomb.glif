@@ -4,15 +4,6 @@
   <anchor x="0" y="560" name="_top"/>
   <anchor x="0" y="730" name="top"/>
   <outline>
-    <contour>
-      <point x="-140" y="570" type="line"/>
-      <point x="-44" y="615" type="line"/>
-      <point x="60" y="575" type="line"/>
-      <point x="160" y="635" type="line"/>
-      <point x="140" y="750" type="line"/>
-      <point x="44" y="705" type="line"/>
-      <point x="-60" y="745" type="line"/>
-      <point x="-160" y="685" type="line"/>
-    </contour>
+    <component base="tilde" xOffset="-200"/>
   </outline>
 </glyph>

@@ -4,17 +4,6 @@
   <anchor x="0" y="560" name="_top"/>
   <anchor x="0" y="710" name="top"/>
   <outline>
-    <contour>
-      <point x="-105" y="630" type="line"/>
-      <point x="-25" y="630" type="line"/>
-      <point x="-25" y="710" type="line"/>
-      <point x="-105" y="710" type="line"/>
-    </contour>
-    <contour>
-      <point x="25" y="630" type="line"/>
-      <point x="105" y="630" type="line"/>
-      <point x="105" y="710" type="line"/>
-      <point x="25" y="710" type="line"/>
-    </contour>
+    <component base="dieresis" xOffset="-145"/>
   </outline>
 </glyph>

@@ -14,8 +14,6 @@
 	<key>public.glyphOrder</key>
 	<array>
 		<string>.notdef</string>
-		<string>NULL</string>
-		<string>CR</string>
 		<string>space</string>
 		<string>A</string>
 		<string>A.ss01</string>
@@ -888,7 +886,6 @@
 		<string>uni0439</string>
 		<string>uni043A</string>
 		<string>uni043B</string>
-		<string>uni043B.loclBGR</string>
 		<string>uni043C</string>
 		<string>uni043D</string>
 		<string>uni043E</string>
@@ -1040,6 +1037,7 @@
 		<string>uni0439.loclBGR</string>
 		<string>uni045D.loclBGR</string>
 		<string>uni043A.loclBGR</string>
+		<string>uni043B.loclBGR</string>
 		<string>uni043F.loclBGR</string>
 		<string>uni0442.loclBGR</string>
 		<string>uni0446.loclBGR</string>

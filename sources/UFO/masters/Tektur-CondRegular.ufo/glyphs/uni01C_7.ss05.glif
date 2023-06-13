@@ -2,7 +2,7 @@
 <glyph name="uni01C7.ss05" format="2">
   <advance width="610"/>
   <anchor x="445" y="700" name="top"/>
-  <anchor x="445" y="0" name="bottom"/>
+  <anchor x="445" y="-0" name="bottom"/>
   <outline>
     <component base="L.ss05"/>
     <component base="J" xOffset="280"/>

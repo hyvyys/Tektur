@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="circumflex" format="2">
-  <advance width="2240"/>
+  <advance width="380"/>
   <unicode hex="02C6"/>
-  <anchor x="2160" y="750" name="top"/>
   <outline>
-    <component base="uni0302" xOffset="2160"/>
+    <component base="uni0302" xOffset="190"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.metricsLeft</key>
   <string>=40</string>
   <key>com.fontlab.metricsRight</key>

@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cedilla" format="2">
-  <advance width="2340"/>
+  <advance width="222"/>
   <unicode hex="00B8"/>
   <outline>
-    <component base="uni0327" xOffset="2221"/>
+    <contour>
+      <point x="40" y="-200" type="line"/>
+      <point x="113" y="-200" type="line"/>
+      <point x="182" y="-60" type="line"/>
+      <point x="85" y="-60" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.autolayer</key>
-  <true/>
   <key>com.fontlab.metricsLeft</key>
   <string>=40</string>
   <key>com.fontlab.metricsRight</key>
