@@ -25,11 +25,13 @@ languagesystem grek dflt;
 
 
 
+
 feature ccmp {
   sub [i j iogonek uni0268 uni0456 uni0458 uni1ECB]' [uni031B uni0326 uni0327 uni0328 dotbelowcomb uni0329 uni0331] @CombiningTopAccents by [dotlessi uni0237 iogonek.dotless uni0268.dotless dotlessi uni0237 uni1ECB.dotless];
   sub [i j iogonek uni0268 uni0456 uni0458 uni1ECB]' @CombiningTopAccents by [dotlessi uni0237 iogonek.dotless uni0268.dotless dotlessi uni0237 uni1ECB.dotless];
   sub [dotlessi uni0237 iogonek.dotless uni0268.dotless dotlessi] [ acutecomb gravecomb ]' by [ acutecomb.i gravecomb.i ];
 } ccmp;
+
 
 
 
@@ -62,6 +64,7 @@ language SRB;
 sub @loclSRB_0 by @loclSRB_1;
 
 } locl;
+
 
 
 
@@ -118,6 +121,7 @@ lookup anoteleia {
 
 
 
+
 feature liga {
 
 sub gamma gamma by gamma_gamma;
@@ -139,11 +143,13 @@ sub I acutecomb J by Iacute_J.loclNLD;
 
 
 
+
 feature dlig {
 
   sub Omicron Upsilon by Omicron_Upsilon;
 
 } dlig;
+
 
 
 
@@ -166,6 +172,7 @@ feature sups {
   sub zero by uni2070;
 #< feature
 } sups;
+
 
 
 
@@ -204,6 +211,7 @@ feature subs {
 
 
 
+
 feature tnum {
 # Tabular Figures
 
@@ -220,6 +228,7 @@ feature tnum {
   sub zero by zero.tnum;
 #< feature
 } tnum;
+
 
 
 
@@ -258,12 +267,14 @@ feature pnum {
 
 
 
+
 feature zero {
   sub uni2070 by uni2070.zero;
   sub uni2080 by uni2080.zero;
   sub zero by zero.zero;
   sub zero.tnum by zero.tnum.zero;
 } zero;
+
 
 
 
@@ -326,6 +337,7 @@ featureNames {
 
 
 
+
 feature ss02 {
 featureNames {
 	name "Seriffed C, G, S";
@@ -360,6 +372,7 @@ featureNames {
   sub uni1E62 by uni1E62.ss02;
 #< feature
 } ss02;
+
 
 
 
@@ -400,6 +413,7 @@ featureNames {
 
 
 
+
 feature ss04 {
 featureNames {
 	name "Wide M";
@@ -413,6 +427,7 @@ featureNames {
   sub uni1E40 by uni1E40.ss04;
 #< feature
 } ss04;
+
 
 
 
@@ -436,6 +451,7 @@ featureNames {
 } ss05;
 
 
+
 feature ss06 {
 featureNames {
 	name "Descending eta chi";
@@ -448,6 +464,7 @@ featureNames {
   sub etatonos by etatonos.ss06;
 #< feature
 } ss06;
+
 feature mark {
 #> feature
 # GPOS feature : Mark Positioning
@@ -3693,6 +3710,7 @@ feature mark {
   lookup markLTR3;
 #< feature
 } mark;
+
 feature mkmk {
 #> feature
 # GPOS feature : Mark to Mark Positioning
