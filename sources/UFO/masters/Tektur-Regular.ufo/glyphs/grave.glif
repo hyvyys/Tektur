@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grave" format="2">
-  <advance width="2420"/>
+  <advance width="2460"/>
   <unicode hex="0060"/>
   <outline>
-    <component base="gravecomb" xOffset="2320"/>
+    <component base="gravecomb" xOffset="2360"/>
   </outline>
   <lib>
   <dict>
