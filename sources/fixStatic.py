@@ -58,7 +58,8 @@ def fixName(ttf):
     if l > 27:
         print("FAIL  [ " + comb + " ] is " + str(l) + " characters long and exceeds 27 characters")
 
-    getNameRecord(1).text = short_family
+    if family != short_family:
+        getNameRecord(1).text = short_family
     tree.write(ttx, encoding = "UTF-8", xml_declaration = True)
     subprocess.run(['ttx', '-f', '-m', ttf, ttx])
     subprocess.run(['rm', ttx])
