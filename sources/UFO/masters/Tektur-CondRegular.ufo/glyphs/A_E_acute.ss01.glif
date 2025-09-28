@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="AEacute.ss01" format="2">
   <advance width="405"/>
-  <anchor x="202.5" y="0" name="bottom"/>
+  <anchor x="203" y="0" name="bottom"/>
   <outline>
     <component base="AE.ss01"/>
     <component base="acutecomb" xOffset="203" yOffset="140"/>

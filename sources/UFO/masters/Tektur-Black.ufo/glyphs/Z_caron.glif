@@ -2,7 +2,7 @@
 <glyph name="Zcaron" format="2">
   <advance width="565"/>
   <unicode hex="017D"/>
-  <anchor x="282.5" y="0" name="bottom"/>
+  <anchor x="283" y="0" name="bottom"/>
   <outline>
     <component base="Z"/>
     <component base="uni030C" xOffset="283" yOffset="140"/>

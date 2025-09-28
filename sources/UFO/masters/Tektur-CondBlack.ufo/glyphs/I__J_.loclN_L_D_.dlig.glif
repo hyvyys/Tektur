@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I_J.loclNLD.dlig" format="2">
+  <advance width="565"/>
+  <outline>
+    <contour>
+      <point x="30" y="350" type="line"/>
+      <point x="250" y="350" type="line"/>
+      <point x="250" y="700" type="line"/>
+      <point x="30" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="120" type="line"/>
+      <point x="150" y="0" type="line"/>
+      <point x="400" y="0" type="line"/>
+      <point x="540" y="140" type="line"/>
+      <point x="540" y="700" type="line"/>
+      <point x="320" y="700" type="line"/>
+      <point x="320" y="190" type="line"/>
+      <point x="250" y="190" type="line"/>
+      <point x="250" y="290" type="line"/>
+      <point x="30" y="290" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>H</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>J</string>
+  </dict>
+  </lib>
+</glyph>

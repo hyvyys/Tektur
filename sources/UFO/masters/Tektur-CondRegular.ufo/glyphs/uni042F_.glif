@@ -3,7 +3,7 @@
   <advance width="360"/>
   <unicode hex="042F"/>
   <anchor x="195" y="700" name="top"/>
-  <anchor x="175" y="0" name="bottom"/>
+  <anchor x="175" y="-0" name="bottom"/>
   <outline>
     <component base="R" xScale="-1" xOffset="360"/>
   </outline>

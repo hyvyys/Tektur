@@ -23,25 +23,11 @@ languagesystem cyrl SRB;
 
 languagesystem grek dflt;
 
-
-
-
 feature ccmp {
   sub [i j iogonek uni0268 uni0456 uni0458 uni1ECB]' [uni031B uni0326 uni0327 uni0328 dotbelowcomb uni0329 uni0331] @CombiningTopAccents by [dotlessi uni0237 iogonek.dotless uni0268.dotless dotlessi uni0237 uni1ECB.dotless];
   sub [i j iogonek uni0268 uni0456 uni0458 uni1ECB]' @CombiningTopAccents by [dotlessi uni0237 iogonek.dotless uni0268.dotless dotlessi uni0237 uni1ECB.dotless];
   sub [dotlessi uni0237 iogonek.dotless uni0268.dotless dotlessi] [ acutecomb gravecomb ]' by [ acutecomb.i gravecomb.i ];
 } ccmp;
-
-
-
-
-
-
-
-
-
-
-
 
 feature locl {
 script latn;
@@ -64,17 +50,6 @@ language SRB;
 sub @loclSRB_0 by @loclSRB_1;
 
 } locl;
-
-
-
-
-
-
-
-
-
-
-
 
 feature calt {
 
@@ -119,9 +94,6 @@ lookup anoteleia {
 
 } calt;
 
-
-
-
 feature liga {
 
 sub gamma gamma by gamma_gamma;
@@ -138,23 +110,17 @@ sub I acutecomb J by Iacute_J.loclNLD;
 
 } liga;
 
-
-
-
-
-
-
 feature dlig {
+sub IJ by I_J.loclNLD.dlig;
 
-  sub Omicron Upsilon by Omicron_Upsilon;
+script latn;
+language NLD;
+sub I J by I_J.loclNLD.dlig;
+sub I_J.loclNLD by I_J.loclNLD.dlig;
 
+script grek;
+sub Omicron Upsilon by Omicron_Upsilon;
 } dlig;
-
-
-
-
-
-
 
 feature sups {
 # Superscript
@@ -173,17 +139,6 @@ feature sups {
 #< feature
 } sups;
 
-
-
-
-
-
-
-
-
-
-
-
 feature subs {
 # Subscript
 
@@ -200,17 +155,6 @@ feature subs {
   sub zero by uni2080;
 #< feature
 } subs;
-
-
-
-
-
-
-
-
-
-
-
 
 feature tnum {
 # Tabular Figures
@@ -229,17 +173,6 @@ feature tnum {
 #< feature
 } tnum;
 
-
-
-
-
-
-
-
-
-
-
-
 feature pnum {
 # Proportional Figures
 
@@ -257,33 +190,12 @@ feature pnum {
 #< feature
 } pnum;
 
-
-
-
-
-
-
-
-
-
-
-
 feature zero {
   sub uni2070 by uni2070.zero;
   sub uni2080 by uni2080.zero;
   sub zero by zero.zero;
   sub zero.tnum by zero.tnum.zero;
 } zero;
-
-
-
-
-
-
-
-
-
-
 
 feature ss01 {
 featureNames {
@@ -328,16 +240,6 @@ featureNames {
 #< feature
 } ss01;
 
-
-
-
-
-
-
-
-
-
-
 feature ss02 {
 featureNames {
 	name "Seriffed C, G, S";
@@ -372,9 +274,6 @@ featureNames {
   sub uni1E62 by uni1E62.ss02;
 #< feature
 } ss02;
-
-
-
 
 feature ss03 {
 featureNames {
@@ -411,9 +310,6 @@ featureNames {
 #< feature
 } ss03;
 
-
-
-
 feature ss04 {
 featureNames {
 	name "Wide M";
@@ -427,9 +323,6 @@ featureNames {
   sub uni1E40 by uni1E40.ss04;
 #< feature
 } ss04;
-
-
-
 
 feature ss05 {
 featureNames {
@@ -449,8 +342,6 @@ featureNames {
   sub uni1E3A by uni1E3A.ss05;
 #< feature
 } ss05;
-
-
 
 feature ss06 {
 featureNames {
@@ -690,11 +581,11 @@ feature mark {
       pos base AE
           <anchor 470 0> mark @bottom;
       pos base ae
-          <anchor 462 0> mark @bottom;
+          <anchor 463 0> mark @bottom;
       pos base AEacute
           <anchor 470 0> mark @bottom;
       pos base aeacute
-          <anchor 462 0> mark @bottom;
+          <anchor 463 0> mark @bottom;
       pos base uni1E02
           <anchor 300 0> mark @bottom;
       pos base uni1E03
@@ -1472,7 +1363,7 @@ feature mark {
       pos base uni03C2
           <anchor 340 -100> mark @bottom;
       pos base sigma
-          <anchor 312 0> mark @bottom;
+          <anchor 313 0> mark @bottom;
       pos base tau
           <anchor 340 0> mark @bottom;
       pos base upsilon
@@ -1606,7 +1497,7 @@ feature mark {
       pos base uni0445
           <anchor 315 0> mark @bottom;
       pos base uni0446
-          <anchor 318 560> mark @bottom;
+          <anchor 319 560> mark @bottom;
       pos base uni0447
           <anchor 375 0> mark @bottom;
       pos base uni044A
@@ -1636,7 +1527,7 @@ feature mark {
       pos base uni04D4
           <anchor 470 0> mark @bottom;
       pos base uni04D5
-          <anchor 462 0> mark @bottom;
+          <anchor 463 0> mark @bottom;
       pos base uni0403
           <anchor 255 0> mark @bottom;
       pos base uni0453
@@ -1648,9 +1539,9 @@ feature mark {
       pos base uni0492
           <anchor 255 0> mark @bottom;
       pos base uni0494
-          <anchor 322 0> mark @bottom;
+          <anchor 323 0> mark @bottom;
       pos base uni0495
-          <anchor 307 -140> mark @bottom;
+          <anchor 308 -140> mark @bottom;
       pos base uni04F6
           <anchor 255 0> mark @bottom;
       pos base uni04F7
@@ -1770,7 +1661,7 @@ feature mark {
       pos base uni04AB
           <anchor 335 0> mark @bottom;
       pos base uni040B
-          <anchor 397 0> mark @bottom;
+          <anchor 398 0> mark @bottom;
       pos base uni045B
           <anchor 310 0> mark @bottom;
       pos base uni040E
@@ -2584,7 +2475,7 @@ feature mark {
       pos base AE
           <anchor 580 700> mark @top;
       pos base ae
-          <anchor 462 560> mark @top;
+          <anchor 463 560> mark @top;
       pos base uni1E02
           <anchor 300 850> mark @top;
       pos base uni1E03
@@ -3212,7 +3103,7 @@ feature mark {
       pos base uni03C2
           <anchor 340 560> mark @top;
       pos base sigma
-          <anchor 312 560> mark @top;
+          <anchor 313 560> mark @top;
       pos base tau
           <anchor 280 560> mark @top;
       pos base upsilon
@@ -3324,7 +3215,7 @@ feature mark {
       pos base uni0445
           <anchor 315 560> mark @top;
       pos base uni0446
-          <anchor 318 0> mark @top;
+          <anchor 319 0> mark @top;
       pos base uni0447
           <anchor 305 560> mark @top;
       pos base uni044A
@@ -3350,7 +3241,7 @@ feature mark {
       pos base uni04D4
           <anchor 580 700> mark @top;
       pos base uni04D5
-          <anchor 462 560> mark @top;
+          <anchor 463 560> mark @top;
       pos base uni0490
           <anchor 255 780> mark @top;
       pos base uni0491
@@ -3358,9 +3249,9 @@ feature mark {
       pos base uni0492
           <anchor 255 700> mark @top;
       pos base uni0494
-          <anchor 322 700> mark @top;
+          <anchor 323 700> mark @top;
       pos base uni0495
-          <anchor 307 560> mark @top;
+          <anchor 308 560> mark @top;
       pos base uni04F6
           <anchor 255 700> mark @top;
       pos base uni04F7
@@ -3460,7 +3351,7 @@ feature mark {
       pos base uni04AB
           <anchor 335 560> mark @top;
       pos base uni040B
-          <anchor 397 700> mark @top;
+          <anchor 398 700> mark @top;
       pos base uni045B
           <anchor 240 700> mark @top;
       pos base uni04F0
